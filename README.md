@@ -15,6 +15,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://opbeat.com/ - release, deploy, monitor.  Free for 3 users
 
+## Monitoring
+
+  * https://www.datadoghq.com/ - Free for up to 5 nodes
+  * http://www.stackdriver.com/ - Free for up to 10 nodes/services
+  * http://newrelic.com/ - Free with 24 hour data retention
+
 ## Search
 
   * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
