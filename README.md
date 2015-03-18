@@ -2,8 +2,12 @@
 A list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs
 
 # Management Systems
-  
+
   * https://opbeat.com/ - release, deploy, monitor.  Free for 3 users
+
+# Search
+
+  * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents.
 
 # PaaS
 
