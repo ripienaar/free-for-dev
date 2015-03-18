@@ -19,7 +19,7 @@ A list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs
 
 # Issue tracking etc
 
-   * https://www.atlassian.com/opensource/overview ![](https://img.shields.io/badge/%E2%9D%A4-oss-green.svg) - Free Jira etc for Open Source projects
+   * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
 
 # Docker Related
 ## Alternate container hosting
