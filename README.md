@@ -1,7 +1,7 @@
 # free-for-dev
 A list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs
 
-# Monitoring
+# Management Systems
   
   * https://opbeat.com/ - release, deploy, monitor.  Free for 3 users
 
@@ -9,6 +9,8 @@ A list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs
 
   * http://aws.amazon.com/free/ - AWS Free Tier - free for 12 months
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
+  * https://bluemix.net/ - IBM PaaS with a monthly free allowance
+  * https://www.openshift.com/ - RedHat OpenShift offers 3 free hosted apps
 
 # SSO and other Authentication Systems
 
