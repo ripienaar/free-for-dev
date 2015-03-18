@@ -22,6 +22,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## PaaS
 
   * http://aws.amazon.com/free/ - AWS Free Tier - free for 12 months
+  * https://cloud.google.com/compute/ - Google Cloud Platform gives $300 over 60 days
+  * https://www.engineyard.com - Engine Yard provides 500 free hours
+  * http://azure.microsoft.com/ - MS Azure gives $200 worth of free usage for a trial
+  * https://appharbor.com/ - A .Net PaaS that provides 1 free worker
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
   * https://www.openshift.com/ - RedHat OpenShift offers 3 free hosted apps
@@ -29,6 +33,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## IaaS
 
   * https://exoscale.ch/ - Free resources for Open Source projects
+  * https://mongolab.com/ - Free 500MB MongoDB 
+  * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
 
 ## SSO and other Authentication Systems
 
