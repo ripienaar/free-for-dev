@@ -12,6 +12,10 @@ A list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
   * https://www.openshift.com/ - RedHat OpenShift offers 3 free hosted apps
 
+# IaaS
+
+  * https://exoscale.ch/ - Free resources for Open Source projects
+
 # SSO and other Authentication Systems
 
   * https://auth0.com/ - hosted free for development SSO
