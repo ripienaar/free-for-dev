@@ -1,5 +1,11 @@
 # free-for-dev
-A list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs
+Developers and Open Source authors now have a massive amount of services offering free tiers but it can be hard to find them all in order to make informed decisions.
+
+This then is a list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs.  
+
+You can help by sending Pull Requests to add more services. Once I have a good set of link in this README file I'll look into a better layout for the information and links, help with that appreciated too.
+
+If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Source Code Repos
 
