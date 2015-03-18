@@ -17,11 +17,6 @@ A list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs
   * https://auth0.com/ - hosted free for development SSO
   * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
 
-# Issue tracking etc
+# Source Control
 
-   * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
-
-# Docker Related
-## Alternate container hosting
-
-  * https://quay.io/ - unlimited free public containers
+  * https://bitbucket.org/ - unlimited private repos. Free for 5 users
