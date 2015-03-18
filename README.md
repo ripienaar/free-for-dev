@@ -25,6 +25,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
 
+## Email
+  * http://www.mailgun.com/ - First 10 000 emails are free
+
+## CDN and Protection
+  * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
+  * 
 ## PaaS
 
   * http://aws.amazon.com/free/ - AWS Free Tier - free for 12 months
@@ -35,6 +41,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
   * https://www.openshift.com/ - RedHat OpenShift offers 3 free hosted apps
+  * https://bitnami.com/ - One free small app
 
 ## IaaS
 
