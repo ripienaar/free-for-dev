@@ -26,7 +26,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
 
 ## Email
+
   * http://www.mailgun.com/ - First 10 000 emails are free
+  * http://mailchimp.com/ - Send 12,000 emails to 2,000 subscribers for free
 
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
@@ -48,6 +50,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://exoscale.ch/ - Free resources for Open Source projects
   * https://mongolab.com/ - Free 500MB MongoDB 
   * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
+  * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
 
 ## SSO and other Authentication Systems
 
