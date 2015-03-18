@@ -32,6 +32,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
+  * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
 
 ## PaaS
 
