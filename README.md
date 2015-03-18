@@ -9,3 +9,8 @@ A list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs
 
   * http://aws.amazon.com/free/ - AWS Free Tier - free for 12 months
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
+
+# SSO and other Authentication Systems
+
+  * https://auth0.com/ - hosted free for development SSO
+  * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
