@@ -11,6 +11,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
 
+## CI / CD
+ 
+  * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
+
 ## Management Systems
 
   * https://opbeat.com/ - release, deploy, monitor.  Free for 3 users
