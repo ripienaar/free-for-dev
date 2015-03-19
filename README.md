@@ -12,6 +12,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
   * https://github.com – Free for an unlimited number of public repositories
 
+## Tools for teams
+
+  * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
+
 ## CI / CD
  
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
@@ -22,6 +26,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://opbeat.com/ - release, deploy, monitor.  Free for 3 users
 
+## Log Management
+ 
+  * https://papertrailapp.com/ - 48 hours search, 7 day archive, 100MB/month
+  * https://logentries.com/ - Free up to 5GB/month with 7 day retention
+  * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
+
 ## Monitoring
 
   * https://www.datadoghq.com/ - Free for up to 5 nodes
@@ -30,6 +40,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://nodequery.com/ - Free basic server monitor up to 10 servers
   * https://www.pingdom.com/free/ - 1 site free
   * https://www.opsgenie.com/ - Alert management with mobile push. 600 free alerts for 2 users a month
+  * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
+  * https://www.runscope.com/ - Monitor and log API usage.  Single user 10 000 request/month free
+  * http://www.circonus.com/ - Free for 20 metrics
+  * https://uptimerobot.com/ - Website monitoring, 50 monitors free
+  * https://www.statuscake.com/ - Website monitoring, unlimited tests free with limitations
+  * http://www.boundary.com/ - Free 1 second resolution for up to 10 servers
 
 ## Search
 
