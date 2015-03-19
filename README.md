@@ -17,12 +17,23 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
 
+
+## Code Quality
+
+  * https://landscape.io/ - Code Quality for Python projects, free for Open Source
+  * https://codeclimate.com/ - Automated code review, free for Open Source
+  
 ## CI / CD
  
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
   * https://circleci.com – free for one concurrent build
   * https://travis-ci.org – free for public Github repositories.
+  * https://drone.io/ - CI platform that includes browser testing, free for Open Source
 
+## Security and PKI
+
+  * https://www.globalsign.com/en/ssl/ssl-open-source/ - Free SSL certs for Open Source projects
+  
 ## Management Systems
 
   * https://opbeat.com/ - release, deploy, monitor.  Free for 3 users
@@ -41,13 +52,17 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://nodequery.com/ - Free basic server monitor up to 10 servers
   * https://www.pingdom.com/free/ - 1 site free
   * https://www.opsgenie.com/ - Alert management with mobile push. 600 free alerts for 2 users a month
-  * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
+
   * https://www.runscope.com/ - Monitor and log API usage.  Single user 10 000 request/month free
   * http://www.circonus.com/ - Free for 20 metrics
   * https://uptimerobot.com/ - Website monitoring, 50 monitors free
   * https://www.statuscake.com/ - Website monitoring, unlimited tests free with limitations
   * http://www.boundary.com/ - Free 1 second resolution for up to 10 servers
 
+## Crash / Exception handling
+  * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
+  * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
+  
 ## Search
 
   * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
