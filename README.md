@@ -22,7 +22,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://landscape.io/ - Code Quality for Python projects, free for Open Source
   * https://codeclimate.com/ - Automated code review, free for Open Source
-  
+  * http://www.sonarqube.org/ - Static code analysis, code coverage, technical debt management
+
 ## CI / CD
  
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
@@ -74,6 +75,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://sendgrid.com/ - 400 emails per day for free
   * http://mandrill.com/ - First 12,000 emails are free
   * https://www.phplist.com/ - Hosted version allow 300 mails per months for free
+  * https://www.mailjet.com/ - 6000 mails per months for free
 
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
