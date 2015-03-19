@@ -11,6 +11,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
   * https://github.com – Free for an unlimited number of public repositories
+  * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
 
 ## Tools for teams
 
