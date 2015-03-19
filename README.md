@@ -73,6 +73,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://mailchimp.com/ - Send 12,000 emails to 2,000 subscribers for free
   * http://sendgrid.com/ - 400 emails per day for free
   * http://mandrill.com/ - First 12,000 emails are free
+  * https://www.phplist.com/ - Hosted version allow 300 mails per months for free
 
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
