@@ -10,10 +10,13 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Source Code Repos
 
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
+  * https://github.com – Free for an unlimited number of public repositories
 
 ## CI / CD
  
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
+  * https://circleci.com – free for one concurrent build
+  * https://travis-ci.org – free for public Github repositories.
 
 ## Management Systems
 
