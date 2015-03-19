@@ -29,6 +29,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://newrelic.com/ - Free with 24 hour data retention
   * https://nodequery.com/ - Free basic server monitor up to 10 servers
   * https://www.pingdom.com/free/ - 1 site free
+  * https://www.opsgenie.com/ - Alert management with mobile push. 600 free alerts for 2 users a month
 
 ## Search
 
