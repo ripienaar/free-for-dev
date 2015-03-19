@@ -16,7 +16,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Tools for teams
 
   * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
-
+  * https://slack.com - Free for unlimited users with some feature limitations
 
 ## Code Quality
 
