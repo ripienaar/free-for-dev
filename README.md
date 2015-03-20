@@ -13,10 +13,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://github.com – Free for an unlimited number of public repositories
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
 
-## Tools for teams
+## Tools for teams & Collaboration
 
   * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
   * https://slack.com - Free for unlimited users with some feature limitations
+  * https://hipchat.com - Free for unlimited users with some feature limitations
+  * https://gitter.im - "Chat, for GitHub". Free for public rooms.
 
 ## Code Quality
 
