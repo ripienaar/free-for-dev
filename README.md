@@ -115,6 +115,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   
    * https://www.aerofs.com/ - behind-the-firewall dropbox, free for 30 users
 
+## Media services / Image processing 
+
+   * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
+
 ## Docker Related
 ### Alternate container hosting
 
