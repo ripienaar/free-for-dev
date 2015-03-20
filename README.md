@@ -56,11 +56,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.pingdom.com/free/ - 1 site free
   * https://www.opsgenie.com/ - Alert management with mobile push. 600 free alerts for 2 users a month
 
-  * https://www.runscope.com/ - Monitor and log API usage.  Single user 10 000 request/month free
+  * https://www.runscope.com/ - Monitor and log API usage.  Single user 10,000 request/month free
   * http://www.circonus.com/ - Free for 20 metrics
   * https://uptimerobot.com/ - Website monitoring, 50 monitors free
   * https://www.statuscake.com/ - Website monitoring, unlimited tests free with limitations
   * http://www.boundary.com/ - Free 1 second resolution for up to 10 servers
+  * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
 
 ## Crash / Exception handling
   * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
