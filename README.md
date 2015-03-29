@@ -34,7 +34,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
   * https://circleci.com – free for one concurrent build
   * https://travis-ci.org – free for public Github repositories.
-  * https://wercker.com/ - free for public and private repositories
+  * http://wercker.com/ - free for public and private repositories
   * https://drone.io/ - CI platform that includes browser testing, free for Open Source
 
 ## Security and PKI
