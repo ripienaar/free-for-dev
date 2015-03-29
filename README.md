@@ -89,6 +89,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## PaaS
 
+  * https://run.pivotal.io/ - Hosted Pivotal Cloud Foundry - 60 day free trial
   * http://aws.amazon.com/free/ - AWS Free Tier - free for 12 months
   * https://cloud.google.com/compute/ - Google Cloud Platform gives $300 over 60 days
   * https://www.engineyard.com - Engine Yard provides 500 free hours
