@@ -27,6 +27,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.sonarqube.org/ - Static code analysis, code coverage, technical debt management
   * https://houndci.com/ - Comments on github commits about code quality - free for open source
   * https://coveralls.io/ - Display test coverage reports - free for open source
+  * https://scrutinizer-ci.com/ -  Continuous inspection platform - free for open source
 
 ## CI / CD
  
