@@ -112,6 +112,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://auth0.com/ - hosted free for development SSO
   * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
+  * https://ringcaptcha.com/ - tools to use phone number as id, available for free
 
 ## Issue tracking etc
 
