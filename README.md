@@ -19,7 +19,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://slack.com - Free for unlimited users with some feature limitations
   * https://hipchat.com - Free for unlimited users with some feature limitations
   * https://gitter.im - "Chat, for GitHub". Free for public rooms.
-
+  
 ## Code Quality
 
   * https://landscape.io/ - Code Quality for Python projects, free for Open Source
@@ -27,7 +27,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.sonarqube.org/ - Static code analysis, code coverage, technical debt management
   * https://houndci.com/ - Comments on github commits about code quality - free for open source
   * https://coveralls.io/ - Display test coverage reports - free for open source
-  * https://scrutinizer-ci.com/ -  Continuous inspection platform - free for open source
+  * https://scrutinizer-ci.com/ - Continuous inspection platform - free for open source
 
 ## CI / CD
  
@@ -117,9 +117,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
   * https://ringcaptcha.com/ - tools to use phone number as id, available for free
 
-## Issue tracking etc
+## Issue tracking / Project management 
 
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
+   * https://waffle.io - Board based project management solution from your existing GitHub Issues. Free for open-source.
+   * http://taiga.io - Project management platform for startups and agile developers. Free for open-source.
+
 
 ## Storage
   
