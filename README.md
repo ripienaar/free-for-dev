@@ -111,6 +111,11 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
 
+## DBaaS
+* https://mongolab.com/ - MongoDB as a service (500mb free)
+* https://orchestrate.io/ - 1 application free
+* https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
+
 ## SSO and other Authentication Systems
 
   * https://auth0.com/ - hosted free for development SSO
