@@ -97,7 +97,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## PaaS
 
   * http://aws.amazon.com/free/ - AWS Free Tier - free for 12 months
-  * https://cloud.google.com/compute/ - Google Cloud Platform gives $300 over 60 days
+  * https://cloud.google.com/appengine/ - Google App Engine gives 28 instance hours free, 1Gb NoSQL Database and more.
   * https://www.engineyard.com - Engine Yard provides 500 free hours
   * http://azure.microsoft.com/ - MS Azure gives $200 worth of free usage for a trial
   * https://appharbor.com/ - A .Net PaaS that provides 1 free worker
@@ -113,6 +113,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://mongolab.com/ - Free 500MB MongoDB
   * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
+  * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
+  * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
 
 ## DBaaS
 * https://mongolab.com/ - MongoDB as a service (500mb free)
