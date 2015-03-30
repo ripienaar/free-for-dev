@@ -146,6 +146,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
    * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
 
+## Analytics, Events and  Statistics
+ * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
+ * https://www.librato.com/. Event/Data collection service with analysis and graphs. Limited plan for free.
+
 ## Other Packs
  * https://education.github.com/pack - As long as you're a student at an recognized university
 
