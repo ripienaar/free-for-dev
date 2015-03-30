@@ -36,6 +36,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://travis-ci.org – free for public Github repositories.
   * http://wercker.com/ - free for public and private repositories
   * https://drone.io/ - CI platform that includes browser testing, free for Open Source
+  * https://semaphoreci.com/ - 100 private builds / month. Unlimited for Open Source.
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
 
 ## Security and PKI
