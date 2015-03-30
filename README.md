@@ -56,6 +56,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://www.datadoghq.com/ - Free for up to 5 nodes
   * http://www.stackdriver.com/ - Free for up to 10 nodes/services
+  * https://keymetrics.io/ - Free for 2 servers with 7 days data retention
   * http://newrelic.com/ - Free with 24 hour data retention
   * https://nodequery.com/ - Free basic server monitor up to 10 servers
   * https://www.pingdom.com/free/ - 1 site free
