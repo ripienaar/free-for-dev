@@ -70,6 +70,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.boundary.com/ - Free 1 second resolution for up to 10 servers
   * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
+  * http://getsentry.com/ - Sentry tracks app exceptions in realtime. has a small free plan  
 
 ## Crash / Exception handling
   * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
