@@ -28,6 +28,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://houndci.com/ - Comments on github commits about code quality - free for open source
   * https://coveralls.io/ - Display test coverage reports - free for open source
   * https://scrutinizer-ci.com/ - Continuous inspection platform - free for open source
+  * https://codecov.io/ - Code coverage tool (SaaS) free for 1 private project and no restructions for publics repos
 
 ## CI / CD
  
@@ -36,6 +37,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://travis-ci.org – free for public Github repositories.
   * http://wercker.com/ - free for public and private repositories
   * https://drone.io/ - CI platform that includes browser testing, free for Open Source
+  * https://jenkins-ci.org/ - CI software
+  * http://hudson-ci.org/ - CI software
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
 
 ## Security and PKI
