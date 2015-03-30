@@ -42,6 +42,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Security and PKI
 
   * https://www.globalsign.com/en/ssl/ssl-open-source/ - Free SSL certs for Open Source projects
+  * https://www.startssl.com/ - Free SSL certs
 
 ## Management Systems
 
