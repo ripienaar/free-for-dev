@@ -142,6 +142,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
 
+## Other Services
+
+   * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
+
 ## Other Packs
  * https://education.github.com/pack - As long as you're a student at an recognized university
 
