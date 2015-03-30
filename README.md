@@ -85,6 +85,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://mandrill.com/ - First 12,000 emails are free
   * https://www.phplist.com/ - Hosted version allow 300 mails per months for free
   * https://www.mailjet.com/ - 6000 mails per months for free
+  * https://www.sendinblue.com/ - 9000 mails per months for free
 
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
