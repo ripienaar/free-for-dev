@@ -125,8 +125,11 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Issue tracking / Project management 
 
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
-   * https://waffle.io - Board based project management solution from your existing GitHub Issues. Free for open-source.
-   * http://taiga.io - Project management platform for startups and agile developers. Free for open-source.
+   * https://kanbanflow.com/ - Board based project management. Free (premium version with more options).
+   * https://trello.com/ - Board based project management. Free
+   * https://waffle.io/ - Board based project management solution from your existing GitHub Issues. Free for open-source.
+   * https://huboard.com/ - Instant project management for your GitHub issues. Free for open-source.
+   * https://taiga.io/ - Project management platform for startups and agile developers. Free for open-source.
    * https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp - Free hosted YouTrack (InCloud) for FOSS projects (private projects free for 10 users: https://www.jetbrains.com/youtrack/buy/)
 
 ## Storage
