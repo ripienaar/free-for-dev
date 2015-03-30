@@ -55,22 +55,24 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Monitoring
 
-  * https://www.datadoghq.com/ - Free for up to 5 nodes
-  * http://www.stackdriver.com/ - Free for up to 10 nodes/services
-  * https://keymetrics.io/ - Free for 2 servers with 7 days data retention
-  * http://newrelic.com/ - Free with 24 hour data retention
-  * https://nodequery.com/ - Free basic server monitor up to 10 servers
-  * https://www.pingdom.com/free/ - 1 site free
-  * https://www.opsgenie.com/ - Alert management with mobile push. 600 free alerts for 2 users a month
-  * https://www.runscope.com/ - Monitor and log API usage.  Single user 10,000 request/month free
-  * http://www.circonus.com/ - Free for 20 metrics
-  * https://uptimerobot.com/ - Website monitoring, 50 monitors free
-  * https://www.statuscake.com/ - Website monitoring, unlimited tests free with limitations
   * http://www.boundary.com/ - Free 1 second resolution for up to 10 servers
+  * http://www.circonus.com/ - Free for 20 metrics
+  * https://www.datadoghq.com/ - Free for up to 5 nodes
   * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
-
+  * https://keymetrics.io/ - Free for 2 servers with 7 days data retention
+  * https://www.librato.com/ - Free up to 100 metrics at 60s resolution
+  * http://newrelic.com/ - Free with 24 hour data retention
+  * https://nodequery.com/ - Free basic server monitor up to 10 servers
+  * https://www.opsgenie.com/ - Alert management with mobile push. 600 free alerts for 2 users a month
+  * https://www.pingdom.com/free/ - 1 site free
+  * https://www.runscope.com/ - Monitor and log API usage.  Single user 10,000 request/month free
+  * http://www.stackdriver.com/ - Free for up to 10 nodes/services
+  * https://www.statuscake.com/ - Website monitoring, unlimited tests free with limitations  
+  * https://uptimerobot.com/ - Website monitoring, 50 monitors free
+  
 ## Crash / Exception handling
+
   * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
