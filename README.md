@@ -127,7 +127,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
    * https://waffle.io - Board based project management solution from your existing GitHub Issues. Free for open-source.
    * http://taiga.io - Project management platform for startups and agile developers. Free for open-source.
-
+   * https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp - Free hosted YouTrack (InCloud) for FOSS projects (private projects free for 10 users: https://www.jetbrains.com/youtrack/buy/)
 
 ## Storage
   
