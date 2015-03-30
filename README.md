@@ -1,7 +1,7 @@
 # free-for-dev
 Developers and Open Source authors now have a massive amount of services offering free tiers but it can be hard to find them all in order to make informed decisions.
 
-This then is a list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs.  
+This then is a list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs.
 
 You can help by sending Pull Requests to add more services. Once I have a good set of link in this README file I'll look into a better layout for the information and links, help with that appreciated too.
 
@@ -19,7 +19,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://slack.com - Free for unlimited users with some feature limitations
   * https://hipchat.com - Free for unlimited users with some feature limitations
   * https://gitter.im - "Chat, for GitHub". Free for public rooms.
-  
+
 ## Code Quality
 
   * https://landscape.io/ - Code Quality for Python projects, free for Open Source
@@ -30,7 +30,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://codecov.io/ - Code coverage tool (SaaS) free for 1 private project and no restrictions for publics repos
 
 ## CI / CD
- 
+
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
   * https://circleci.com – free for one concurrent build
   * https://travis-ci.org – free for public Github repositories.
@@ -42,13 +42,13 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Security and PKI
 
   * https://www.globalsign.com/en/ssl/ssl-open-source/ - Free SSL certs for Open Source projects
-  
+
 ## Management Systems
 
   * https://opbeat.com/ - release, deploy, monitor.  Free for 3 users
 
 ## Log Management
- 
+
   * https://papertrailapp.com/ - 48 hours search, 7 day archive, 100MB/month
   * https://logentries.com/ - Free up to 5GB/month with 7 day retention
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
@@ -74,7 +74,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
-  
+
 ## Search
 
   * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
@@ -109,14 +109,18 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## IaaS
 
   * https://exoscale.ch/ - Free resources for Open Source projects
-  * https://mongolab.com/ - Free 500MB MongoDB 
+  * https://mongolab.com/ - Free 500MB MongoDB
   * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
-  
+
 ## DBaaS
 * https://mongolab.com/ - MongoDB as a service (500mb free)
 * https://orchestrate.io/ - 1 application free
 * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
+
+## Stun servers (for WebRTC)
+* Google: stun:stun.l.google.com:19302
+* Twilio: stun:global.stun.twilio.com:3478?transport=udp
 
 ## SSO and other Authentication Systems
 
@@ -124,7 +128,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
   * https://ringcaptcha.com/ - tools to use phone number as id, available for free
 
-## Issue tracking / Project management 
+## Issue tracking / Project management
 
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
    * https://kanbanflow.com/ - Board based project management. Free (premium version with more options).
@@ -135,10 +139,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp - Free hosted YouTrack (InCloud) for FOSS projects (private projects free for 10 users: https://www.jetbrains.com/youtrack/buy/)
 
 ## Storage
-  
+
    * https://www.aerofs.com/ - behind-the-firewall dropbox, free for 30 users
 
-## Media services / Image processing 
+## Media services / Image processing
 
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
 
