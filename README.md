@@ -137,6 +137,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 * https://mongolab.com/ - MongoDB as a service (500mb free)
 * https://orchestrate.io/ - 1 application free
 * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
+* https://www.backand.com/ - Back-end as a service (for AngularJS)
 
 ## Stun servers (for WebRTC)
 * Google: stun:stun.l.google.com:19302
