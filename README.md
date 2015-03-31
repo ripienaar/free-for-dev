@@ -44,6 +44,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://drone.io/ - CI platform that includes browser testing, free for Open Source
   * https://semaphoreci.com/ - 100 private builds / month. Unlimited for Open Source.
   * http://www.shippable.com/ - free for 1 build container, private and public repos, unlimited builds.
+  * https://snap-ci.com - free for public repositories, 1 build at the time
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
 
 ## Security and PKI
