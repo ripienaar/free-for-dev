@@ -160,6 +160,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Other Services
 
    * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
+   * https://c9.io - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with github and bitbucket, but also adds SFTP and generic Git access.
 
 ## Analytics, Events and  Statistics
  * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
