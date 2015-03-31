@@ -161,6 +161,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp - Free hosted YouTrack (InCloud) for FOSS projects (private projects free for 10 users: https://www.jetbrains.com/youtrack/buy/)
    * https://github.com - In addition to it's git storage facility, github offers basic issue tracking
    * https://asana.com - Free for private project with collaborators.
+   * http://www.acunote.com/ - Free project management and SCRUM software for up to 5 team members.
 
 ## Storage and Media Processing
 
