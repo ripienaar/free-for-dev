@@ -23,8 +23,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://slack.com - Free for unlimited users with some feature limitations
   * https://hipchat.com - Free for unlimited users with some feature limitations
   * https://gitter.im - "Chat, for GitHub". Free for public rooms.
-  * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
-  * https://www.nitrous.io - Private Linux instance(s) with interactive collaboration {[More Details](http://goo.gl/J1Zbsg)}
   * https://kato.im - Team Chat & Collaboration, free for unlimited users with some feature limitations
 
 ## Code Quality
@@ -144,6 +142,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://orchestrate.io/ - 1 application free
    * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
    * https://www.backand.com/ - Back-end as a service (for AngularJS)
+   * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
    * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
@@ -171,6 +170,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## IDE and Code Editing
    * https://c9.io - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with github and bitbucket, but also adds SFTP and generic Git access.
    * https://koding.com - IDE in a browser. Features: Full sudo access - VMs hosted on Amazon EC2 - SSH Access - Real EC2 VM, no LXCs/hypervising - Custom sub-domains - Publicly accessible IP - Ubuntu 14.04 - IDE/Terminal/Collaboration
+  * https://www.nitrous.io - Private Linux instance(s) with interactive collaboration {[More Details](http://goo.gl/J1Zbsg)}
 
 ## Analytics, Events and  Statistics
  * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
