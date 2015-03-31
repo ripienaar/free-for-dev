@@ -79,13 +79,13 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.boundary.com/ - Free 1 second resolution for up to 10 servers
   * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
-  * http://getsentry.com/ - Sentry tracks app exceptions in realtime. has a small free plan  
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
 
 ## Crash / Exception handling
   * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
+  * http://getsentry.com/ - Sentry tracks app exceptions in realtime. has a small free plan
 
 ## Search
 
