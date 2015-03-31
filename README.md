@@ -1,7 +1,7 @@
 # free-for-dev
 Developers and Open Source authors now have a massive amount of services offering free tiers but it can be hard to find them all in order to make informed decisions.
 
-This then is a list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs. 
+This then is a list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs.
 
 The scope of this particular list is limited to things infrastructure developers - System Administrator, DevOps Practitioners etc -  are likely to find useful. We love all the free services out there but it would be good to keep it on topic.  It's a bit of a grey line at times so this is a bit oppinionate, do not be offended if I do not accept your contribution.
 
@@ -89,6 +89,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
   * http://getsentry.com/ - Sentry tracks app exceptions in realtime. has a small free plan
+  * https://try.crashlytics.com/. Crash reports and mobile analytics for free.
 
 ## Search
 
@@ -159,7 +160,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://taiga.io/ - Project management platform for startups and agile developers. Free for open-source.
    * https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp - Free hosted YouTrack (InCloud) for FOSS projects (private projects free for 10 users: https://www.jetbrains.com/youtrack/buy/)
    * https://github.com - In addition to it's git storage facility, github offers basic issue tracking
-   * https://asana.com - Free for private project with collaborators. 
+   * https://asana.com - Free for private project with collaborators.
 
 ## Storage
 
@@ -194,6 +195,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://atlas.hashicorp.com/boxes/search - HashiCorp's index of boxes
   * http://vagrantbox.es - an alternative public box index
-  
+
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
