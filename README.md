@@ -124,6 +124,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://scalingo.com - Free Tier, up to 3 apps, 1 container each, combined with data store addons free tier
   * https://algorithmia.com - Host algorithms for free - includes 10,000 credits (seconds of on-demand execution time) free
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
+  * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20GB
 
 ## IaaS
 
