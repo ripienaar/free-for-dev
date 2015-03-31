@@ -41,6 +41,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://wercker.com/ - free for public and private repositories
   * https://drone.io/ - CI platform that includes browser testing, free for Open Source
   * https://semaphoreci.com/ - 100 private builds / month. Unlimited for Open Source.
+  * http://www.shippable.com/ - free for 1 build container, private and public repos, unlimited builds.
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
 
 ## Security and PKI
@@ -154,6 +155,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://taiga.io/ - Project management platform for startups and agile developers. Free for open-source.
    * https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp - Free hosted YouTrack (InCloud) for FOSS projects (private projects free for 10 users: https://www.jetbrains.com/youtrack/buy/)
    * https://github.com - In addition to it's git storage facility, github offers basic issue tracking
+   * https://asana.com - Free for private project with collaborators. 
 
 ## Storage
 
@@ -188,3 +190,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://atlas.hashicorp.com/boxes/search - HashiCorp's index of boxes
   * http://vagrantbox.es - an alternative public box index
+  
+## Data mining
+  * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
