@@ -119,7 +119,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## IaaS
 
   * https://exoscale.ch/ - Free resources for Open Source projects
-  * https://mongolab.com/ - Free 500MB MongoDB
   * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
