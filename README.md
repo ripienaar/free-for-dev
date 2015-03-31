@@ -18,7 +18,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Tools for teams & Collaboration
 
-	* http://www.hall.com/ - Free for unlimited users with some feature limitations
+  * http://www.hall.com/ - Free for unlimited users with some feature limitations
   * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
   * https://slack.com - Free for unlimited users with some feature limitations
   * https://hipchat.com - Free for unlimited users with some feature limitations
