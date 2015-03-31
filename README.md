@@ -53,6 +53,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://papertrailapp.com/ - 48 hours search, 7 day archive, 100MB/month
   * https://logentries.com/ - Free up to 5GB/month with 7 day retention
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
+  * http://sematext.com/logsene - Free for 1M logs, unlimited retention
 
 ## Monitoring
 
@@ -71,6 +72,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
   * http://getsentry.com/ - Sentry tracks app exceptions in realtime. has a small free plan  
+  * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
 
 ## Crash / Exception handling
   * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
@@ -157,6 +159,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Analytics, Events and  Statistics
  * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
  * https://www.librato.com/. Event/Data collection service with analysis and graphs. Limited plan for free.
+
+## Site Search Analytics
+ * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
 
 ## Other Packs
  * https://education.github.com/pack - As long as you're a student at an recognized university
