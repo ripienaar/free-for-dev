@@ -106,6 +106,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://cloud.google.com/appengine/ - Google App Engine gives 28 instance hours free, 1Gb NoSQL Database and more.
   * https://www.engineyard.com - Engine Yard provides 500 free hours
   * http://azure.microsoft.com/ - MS Azure gives $200 worth of free usage for a trial
+  * http://hpcloud.com/ - $300 credit over 90 days.
   * https://appharbor.com/ - A .Net PaaS that provides 1 free worker
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
