@@ -63,6 +63,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://logentries.com/ - Free up to 5GB/month with 7 day retention
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
+  * https://rollbar.com/ - Unlimited users/projects/teams, free for 5000 events/month with 30 day retention.
 
 ## Analytics
   * http://www.splunk.com/en_us/products/splunk-cloud.html - upload 5GB of data per day up to 28GB of total data stored
