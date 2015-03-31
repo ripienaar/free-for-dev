@@ -177,3 +177,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ### Alternate container hosting
 
   * https://quay.io/ - unlimited free public containers
+
+## Vagrant Related
+### Vagrant box indexes
+
+  * https://atlas.hashicorp.com/boxes/search - HashiCorp's index of boxes
+  * http://vagrantbox.es - an alternative public box index
