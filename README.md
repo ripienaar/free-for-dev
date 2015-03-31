@@ -55,6 +55,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
 
+## Analytics
+  * http://www.splunk.com/en_us/products/splunk-cloud.html - upload 5GB of data per day up to 28GB of total data stored
+
 ## Monitoring
 
   * https://www.datadoghq.com/ - Free for up to 5 nodes
