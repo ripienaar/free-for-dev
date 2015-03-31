@@ -174,6 +174,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
    * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
    * https://c9.io - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with github and bitbucket, but also adds SFTP and generic Git access.
+   * https://koding.com - IDE in a browser. Features: Full sudo access - VMs hosted on Amazon EC2 - SSH Access - Real EC2 VM, no LXCs/hypervising - Custom sub-domains - Publicly accessible IP - Ubuntu 14.04 - IDE/Terminal/Collaboration
 
 ## Analytics, Events and  Statistics
  * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
