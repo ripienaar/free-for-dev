@@ -1,7 +1,7 @@
 # free-for-dev
 Developers and Open Source authors now have a massive amount of services offering free tiers but it can be hard to find them all in order to make informed decisions.
 
-This then is a list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs. 
+This then is a list of software, SaaS, PaaS, IaaS etc offerings that have free tiers for devs.
 
 The scope of this particular list is limited to things infrastructure developers - System Administrator, DevOps Practitioners etc -  are likely to find useful. We love all the free services out there but it would be good to keep it on topic.  It's a bit of a grey line at times so this is a bit oppinionate, do not be offended if I do not accept your contribution.
 
@@ -52,6 +52,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://www.globalsign.com/en/ssl/ssl-open-source/ - Free SSL certs for Open Source projects
   * https://www.startssl.com/ - Free SSL certs
+  * https://auth0.com/ - hosted free for development SSO
+  * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
+  * https://ringcaptcha.com/ - tools to use phone number as id, available for free
+
 
 ## Management Systems
 
@@ -136,20 +140,16 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
 
 ## DBaaS
-* https://mongolab.com/ - MongoDB as a service (500mb free)
-* https://orchestrate.io/ - 1 application free
-* https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
-* https://www.backand.com/ - Back-end as a service (for AngularJS)
+   * https://mongolab.com/ - MongoDB as a service (500mb free)
+   * https://orchestrate.io/ - 1 application free
+   * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
+   * https://www.backand.com/ - Back-end as a service (for AngularJS)
 
-## Stun servers (for WebRTC)
-* Google: stun:stun.l.google.com:19302
-* Twilio: stun:global.stun.twilio.com:3478?transport=udp
-
-## SSO and other Authentication Systems
-
-  * https://auth0.com/ - hosted free for development SSO
-  * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
-  * https://ringcaptcha.com/ - tools to use phone number as id, available for free
+## STUN, WebRTC, Web Socket Servers and other Routers
+   * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
+   * stun:stun.l.google.com:19302 - Google STUN
+   * stun:global.stun.twilio.com:3478?transport=udp - Twilio STUN
+   * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
 
 ## Issue tracking / Project management
 
@@ -161,27 +161,20 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://taiga.io/ - Project management platform for startups and agile developers. Free for open-source.
    * https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp - Free hosted YouTrack (InCloud) for FOSS projects (private projects free for 10 users: https://www.jetbrains.com/youtrack/buy/)
    * https://github.com - In addition to it's git storage facility, github offers basic issue tracking
-   * https://asana.com - Free for private project with collaborators. 
+   * https://asana.com - Free for private project with collaborators.
 
-## Storage
+## Storage and Media Processing
 
    * https://www.aerofs.com/ - behind-the-firewall dropbox, free for 30 users
-
-## Media services / Image processing
-
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
 
-## Other Services
-
-   * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
+## IDE and Code Editing
    * https://c9.io - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with github and bitbucket, but also adds SFTP and generic Git access.
    * https://koding.com - IDE in a browser. Features: Full sudo access - VMs hosted on Amazon EC2 - SSH Access - Real EC2 VM, no LXCs/hypervising - Custom sub-domains - Publicly accessible IP - Ubuntu 14.04 - IDE/Terminal/Collaboration
 
 ## Analytics, Events and  Statistics
- * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
- * https://www.librato.com/. Event/Data collection service with analysis and graphs. Limited plan for free.
-
-## Site Search Analytics
+ * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
+ * https://google.com/analytics/ - Google Analytics
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
 
 ## Other Packs
@@ -197,6 +190,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://atlas.hashicorp.com/boxes/search - HashiCorp's index of boxes
   * http://vagrantbox.es - an alternative public box index
-  
+
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
