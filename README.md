@@ -19,6 +19,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://slack.com - Free for unlimited users with some feature limitations
   * https://hipchat.com - Free for unlimited users with some feature limitations
   * https://gitter.im - "Chat, for GitHub". Free for public rooms.
+  * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
 
 ## Code Quality
 
