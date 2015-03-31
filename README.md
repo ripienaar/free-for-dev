@@ -152,6 +152,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Storage
 
    * https://www.aerofs.com/ - behind-the-firewall dropbox, free for 30 users
+   * http://owncloud.org - behind-the-firewall sync service (like Dropbox) with local storage, and a large selection of cloud storage options (for encrypt-and-store scenarios)
 
 ## Media services / Image processing
 
