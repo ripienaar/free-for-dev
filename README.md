@@ -24,6 +24,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://hipchat.com - Free for unlimited users with some feature limitations
   * https://gitter.im - "Chat, for GitHub". Free for public rooms.
   * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
+  * https://www.nitrous.io - Private Linux instance(s) with interactive collaboration {[More Details](http://goo.gl/J1Zbsg)}
 
 ## Code Quality
 
