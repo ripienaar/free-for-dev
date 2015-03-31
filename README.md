@@ -72,7 +72,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.splunk.com/en_us/products/splunk-cloud.html - upload 5GB of data per day up to 28GB of total data stored
 
 ## Monitoring
-
+  * https://www.thousandeyes.com  - network & user experience monitoring. 3 locations plus 20 data feeds of major web services free.
   * https://www.datadoghq.com/ - Free for up to 5 nodes
   * http://www.stackdriver.com/ - Free for up to 10 nodes/services
   * https://keymetrics.io/ - Free for 2 servers with 7 days data retention
