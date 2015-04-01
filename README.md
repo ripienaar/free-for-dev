@@ -90,8 +90,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
+  * https://www.alienvault.com/open-threat-exchange/threatfinder - Reputation Monitor and Uncovers Compromised Systems in Your Network
 
-## Crash / Exception handling
+## Crash / Exception Handling
 
   * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
