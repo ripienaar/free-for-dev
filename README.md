@@ -101,6 +101,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Search
 
   * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
+  * https://bonsai.io - Free 1GB memory and 1GB storage.
+  * http://www.searchly.com - Free 2 Indices and 5MB storage.
 
 ## Email
 
