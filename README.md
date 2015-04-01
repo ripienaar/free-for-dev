@@ -46,6 +46,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.shippable.com/ - free for 1 build container, private and public repos, unlimited builds.
   * https://snap-ci.com - free for public repositories, 1 build at the time
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
+  * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
 
 ## Security and PKI
 
@@ -54,6 +55,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://auth0.com/ - hosted free for development SSO
   * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
   * https://ringcaptcha.com/ - tools to use phone number as id, available for free
+  * https://www.ssllabs.com/ssltest/ - very deep analysis of the configuration of any SSL web server
+  * https://qualys.com/forms/freescan/owasp/ - find web app vulnerabilities, do an audit for OWASP Risks
 
 
 ## Management Systems
@@ -90,7 +93,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
-  * https://www.alienvault.com/open-threat-exchange/threatfinder - Reputation Monitor and Uncovers Compromised Systems in Your Network
+  * [https://www.alienvault.com/](https://www.alienvault.com/open-threat-exchange/threatfinder) - Reputation Monitor and Uncovers Compromised Systems in Your Network
 
 ## Crash / Exception Handling
 
@@ -120,7 +123,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://surge.sh/ - Zero-bullshit, single–command, bring your own source control web publishing CDN
   * http://www.jsdelivr.com/ - CDN for libraries, plugins, fonts, CSS... can submit if one is missing
   * https://tech.yandex.ru/jslibs/ - CDN for JavaScript in Russia
-  * http://www.asp.net/ajax/cdn - MS Ajax CDN, jQuery, ASP.net, JSHint, Globalize, Knockout, Bootstrap
 
 ## PaaS
 
