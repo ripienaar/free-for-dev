@@ -45,6 +45,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.shippable.com/ - free for 1 build container, private and public repos, unlimited builds.
   * https://snap-ci.com - free for public repositories, 1 build at the time
   * http://www.appveyor.com/ - CD service for Windows. Free for open-source projects.
+  * https://saucelabs.com - cross-platform and cross-browser Selenium and JavaScript unit testing, free for Open Source
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
   * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
   * http://ftploy.com/ - 1 project w/ unlimited deployments
