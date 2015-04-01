@@ -119,6 +119,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.phplist.com/ - Hosted version allow 300 mails per month for free
   * https://www.mailjet.com/ - 6000 mails per month for free
   * https://www.sendinblue.com/ - 9000 mails per month for free
+  * https://www.campaignmonitor.com/ - 2500 mails to 500 subscribers per month for 9$
 
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
@@ -187,9 +188,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://github.com - In addition to it's git storage facility, github offers basic issue tracking
    * https://asana.com - Free for private project with collaborators.
    * http://www.acunote.com/ - Free project management and SCRUM software for up to 5 team members.
-   * http://gliffy.com/ - Online diagrams: flowchart, UML, wireframe... Also Plugins for Jira & Confluence. 5 diagrams and 2 MB free.
-   * https://cacoo.com/ - Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets.
-
 
 ## Storage and Media Processing
 
@@ -214,7 +212,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
  * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
  * https://google.com/analytics/ - Google Analytics
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
- * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
 
 ## Other Packs
  * https://education.github.com/pack - As long as you're a student at an recognized university
