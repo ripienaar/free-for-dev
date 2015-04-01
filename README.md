@@ -168,6 +168,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
    * https://www.backand.com/ - Back-end as a service (for AngularJS)
    * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
+   * https://parsehub.com/ — Extract data from dynamic sites, turn dynamic websites into APIs.
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
    * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
