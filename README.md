@@ -46,6 +46,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://snap-ci.com - free for public repositories, 1 build at the time
   * http://www.appveyor.com/ - CD service for Windows. Free for open-source projects.
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
+  * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
 
 ## Security and PKI
 
@@ -55,6 +56,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://auth0.com/ - hosted free for development SSO
   * https://getclef.com/ - new take on auth unlimited free tier for anyone not using premium features
   * https://ringcaptcha.com/ - tools to use phone number as id, available for free
+  * https://www.ssllabs.com/ssltest/ - very deep analysis of the configuration of any SSL web server
+  * https://qualys.com/forms/freescan/owasp/ - find web app vulnerabilities, audit for OWASP Risks
+  * [alienvault.com ThreatFinder](https://www.alienvault.com/open-threat-exchange/threatfinder) - Uncovers Compromised Systems in Your Network
 
 
 ## Management Systems
@@ -137,7 +141,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://algorithmia.com - Host algorithms for free - includes 10,000 credits (seconds of on-demand execution time) free
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
   * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20GB
-  * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
 
 ## BaaS
   * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
@@ -154,6 +157,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
+  * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries
 
 ## DBaaS
    * https://mongolab.com/ - MongoDB as a service (500mb free)
