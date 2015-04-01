@@ -120,12 +120,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://surge.sh/ - Zero-bullshit, single–command, bring your own source control web publishing CDN
   * http://www.jsdelivr.com/ - CDN for libraries, plugins, fonts, CSS... can submit if one is missing
   * https://tech.yandex.ru/jslibs/ - CDN for JavaScript in Russia
-  * http://www.asp.net/ajax/cdn - M$ Ajax CDN, jQuery, ASP.net, JSHint, Globalize, Knockout, Bootstrap
-  * http://www.cdnperf.com/ - Find the fastest CDN for your actual site
-
-## DNS
-
-  * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries 
+  * http://www.asp.net/ajax/cdn - MS Ajax CDN, jQuery, ASP.net, JSHint, Globalize, Knockout, Bootstrap
 
 ## PaaS
 
@@ -151,6 +146,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
+  * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries
 
 ## DBaaS
 
