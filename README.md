@@ -183,6 +183,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://www.aerofs.com/ - behind-the-firewall dropbox, free for 30 users
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
 
+## Package Build Systems
+
+   * https://build.opensuse.org/ - package build service for multiple distros (SUSE, EL, Fedora, Debian etc.)
+   * https://copr.fedoraproject.org/ - mock-based RPM build service for Fedora and EL
+   * https://help.launchpad.net/Packaging - Ubuntu and Debian build service
+
 ## IDE and Code Editing
    * https://c9.io - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with github and bitbucket, but also adds SFTP and generic Git access.
    * https://koding.com - IDE in a browser. Features: Full sudo access - VMs hosted on Amazon EC2 - SSH Access - Real EC2 VM, no LXCs/hypervising - Custom sub-domains - Publicly accessible IP - Ubuntu 14.04 - IDE/Terminal/Collaboration
