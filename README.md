@@ -100,7 +100,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Email
 
-  * http://www.mailgun.com/ - First 10 000 emails are free
+  * http://www.mailgun.com/ - First 10,000 emails per month are free
   * http://mailchimp.com/ - Send 12,000 emails to 2,000 subscribers for free
   * http://sendgrid.com/ - 400 emails per day for free
   * http://mandrill.com/ - First 12,000 emails are free
