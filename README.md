@@ -90,6 +90,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
   * https://sealion.com/ - Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
+  * StatHat - Get started with ten stats for free, no expiration.
 
 ## Crash / Exception handling
   * https://rollbar.com/ - Exception and error monitoring, free plan - 5000 errors/month, unlimited users, 30 days retention.
