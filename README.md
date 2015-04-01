@@ -44,6 +44,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://semaphoreci.com/ - 100 private builds / month. Unlimited for Open Source.
   * http://www.shippable.com/ - free for 1 build container, private and public repos, unlimited builds.
   * https://snap-ci.com - free for public repositories, 1 build at the time
+  * http://www.appveyor.com/ - CD service for Windows. Free for open-source projects.
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
 
 ## Security and PKI
