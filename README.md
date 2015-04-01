@@ -90,6 +90,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
   * https://sealion.com/ - Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
+  * https://www.stathat.com - Get started with ten stats for free, no expiration.
 
 ## Crash / Exception handling
   * https://rollbar.com/ - Exception and error monitoring, free plan - 5000 errors/month, unlimited users, 30 days retention.
@@ -100,6 +101,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Search
 
   * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
+  * https://bonsai.io - Free 1GB memory and 1GB storage.
+  * http://www.searchly.com - Free 2 Indices and 5MB storage.
 
 ## Email
 
