@@ -15,6 +15,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
   * https://github.com – Free for an unlimited number of public repositories
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
+  * http://gogs.io/ - Self-Hosted Gitlab system [rewritten in Golang and open source](https://github.com/gogits/gogs/)
 
 ## Tools for teams & Collaboration
 
