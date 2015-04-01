@@ -130,6 +130,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
   * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20GB
 
+## Web Hosting
+
+  * https://www.simplybuilt.com - SimplyBuilt offers free website building and hosting for open source projects (http://www.simplybuilt.com/explore/free-websites-for-open-source-projects). Simple alternative to GitHub Pages.
+
 ## IaaS
 
   * https://exoscale.ch/ - Free resources for Open Source projects
