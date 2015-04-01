@@ -88,6 +88,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
+  * https://sealion.com/ - Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
 
 ## Crash / Exception handling
   * https://rollbar.com/ - Exception and error monitoring, free plan - 5000 errors/month, unlimited users, 30 days retention.
@@ -182,6 +183,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://www.nitrous.io - Private Linux instance(s) with interactive collaboration {[More Details](http://goo.gl/J1Zbsg)}
    * http://visualstudio.com/free - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).
    * https://wakatime.com - quantified self metrics about your coding activity, using text editor plugins - Limited plan for free.
+   * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
 
 ## Analytics, Events and  Statistics
  * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
