@@ -24,6 +24,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://hipchat.com - Free for unlimited users with some feature limitations
   * https://gitter.im - "Chat, for GitHub". Free for public rooms.
   * https://kato.im - Team Chat & Collaboration, free for unlimited users with some feature limitations
+  * http://www.teamviewer.com/ - Remote Access, Meetings... free for non-commercial
 
 ## Code Quality
 
@@ -59,6 +60,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Management Systems
 
   * https://opbeat.com/ - release, deploy, monitor.  Free for 3 users
+  * http://www.wakanda.org/ - Code in JavaScript or build visually, datastore, cloud, deploy. Free and Open Source
 
 ## Log Management
 
@@ -68,10 +70,12 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
 
 ## Analytics
+
   * http://www.splunk.com/en_us/products/splunk-cloud.html - upload 5GB of data per day up to 28GB of total data stored
 
 ## Monitoring
-  * https://www.thousandeyes.com  - network & user experience monitoring. 3 locations plus 20 data feeds of major web services free.
+
+  * https://www.thousandeyes.com/  - network & user experience monitoring. 3 locations plus 20 data feeds of major web services free.
   * https://www.datadoghq.com/ - Free for up to 5 nodes
   * http://www.stackdriver.com/ - Free for up to 10 nodes/services
   * https://keymetrics.io/ - Free for 2 servers with 7 days data retention
@@ -87,8 +91,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://ghostinspector.com/ - Free website and web application monitoring. Single user, 100 test runs per month
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
+  * https://www.alienvault.com/open-threat-exchange/threatfinder - Reputation Monitor and Uncovers Compromised Systems in Your Network
 
-## Crash / Exception handling
+## Crash / Exception Handling
+
   * https://rollbar.com/ - Exception and error monitoring, free for prototypes and personal projects
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
@@ -109,9 +115,18 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.sendinblue.com/ - 9000 mails per months for free
 
 ## CDN and Protection
+
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
   * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
-  * https://surge.sh - Zero-bullshit, single–command, bring your own source control web publishing CDN.
+  * https://surge.sh/ - Zero-bullshit, single–command, bring your own source control web publishing CDN
+  * http://www.jsdelivr.com/ - CDN for libraries, plugins, fonts, CSS... can submit if one is missing
+  * https://tech.yandex.ru/jslibs/ - CDN for JavaScript in Russia
+  * http://www.asp.net/ajax/cdn - M$ Ajax CDN, jQuery, ASP.net, JSHint, Globalize, Knockout, Bootstrap
+  * http://www.cdnperf.com/ - Find the fastest CDN for your actual site
+
+## DNS
+
+  * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries 
 
 ## PaaS
 
@@ -143,6 +158,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
 
 ## DBaaS
+
    * https://mongolab.com/ - MongoDB as a service (500mb free)
    * https://orchestrate.io/ - 1 application free
    * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
@@ -150,6 +166,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
+
    * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
    * stun:stun.l.google.com:19302 - Google STUN
    * stun:global.stun.twilio.com:3478?transport=udp - Twilio STUN
@@ -174,17 +191,20 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
 
 ## IDE and Code Editing
+
    * https://c9.io - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with github and bitbucket, but also adds SFTP and generic Git access.
    * https://koding.com - IDE in a browser. Features: Full sudo access - VMs hosted on Amazon EC2 - SSH Access - Real EC2 VM, no LXCs/hypervising - Custom sub-domains - Publicly accessible IP - Ubuntu 14.04 - IDE/Terminal/Collaboration
    * https://www.nitrous.io - Private Linux instance(s) with interactive collaboration {[More Details](http://goo.gl/J1Zbsg)}
    * http://visualstudio.com/free - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).
 
-## Analytics, Events and  Statistics
+## Analytics, Events and Statistics
+
  * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
  * https://google.com/analytics/ - Google Analytics
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
 
 ## Other Packs
+
  * https://education.github.com/pack - As long as you're a student at an recognized university
 
 ## Docker Related
