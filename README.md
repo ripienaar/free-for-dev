@@ -69,7 +69,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Analytics
   * http://www.splunk.com/en_us/products/splunk-cloud.html - upload 5GB of data per day up to 28GB of total data stored
-  * * https://parse.com - Unlimited free analytics
+  * https://parse.com - Unlimited free analytics
 
 ## Monitoring
   * https://www.thousandeyes.com  - network & user experience monitoring. 3 locations plus 20 data feeds of major web services free.
