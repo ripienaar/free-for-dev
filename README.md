@@ -29,8 +29,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://scrutinizer-ci.com/ - Continuous inspection platform - free for open source
   * https://codecov.io/ - Code coverage tool (SaaS) free for 1 private project and no restrictions for publics repos
   
-## Architecture
+## IDEs
   * https://structure101.com/ - Agile architecture development environment (ADE) - free for Open Source
+  * https://www.jetbrains.com/idea/ - A free and open-source IDE for Java, Groovy, Scala and Android development - Ultimate edition free for qualifying Open Source
 
 ## CI / CD
 
