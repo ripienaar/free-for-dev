@@ -214,6 +214,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://wakatime.com - quantified self metrics about your coding activity, using text editor plugins - Limited plan for free.
    * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
+   * http://brackets.io/ - Text Editor built on Node JS, from Adobe. 100% free.
+   * https://atom.io/ - Text Editor made by Github, built on Node JS as well. 100% free.
+   * http://www.sublimetext.com/ - Text Editor with lost of free extensions, themes and great functionality. Free unlimited, never-ending trial.
 
 ## Analytics, Events and  Statistics
  * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
