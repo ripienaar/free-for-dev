@@ -35,6 +35,11 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://codecov.io/ - Code coverage tool (SaaS) free for 1 private project and no restrictions for publics repos
   * https://insight.sensiolabs.com/ _ Code Quality for PHP/Symfony projects, free for Open Source
 
+## Conversations (Call)
+
+  * http://appear.in/ - One click video conversations, for free
+  * http://www.google.com/hangouts/ - One place for all your Conversations, for free (Need Google Account)
+
 ## CI / CD
 
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
