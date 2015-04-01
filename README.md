@@ -206,6 +206,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * http://visualstudio.com/free - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).
    * https://wakatime.com - quantified self metrics about your coding activity, using text editor plugins - Limited plan for free.
    * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
+   * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation 
 
 ## Analytics, Events and  Statistics
  * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
