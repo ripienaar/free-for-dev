@@ -122,6 +122,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://hpcloud.com/ - $300 credit over 90 days.
   * https://appharbor.com/ - A .Net PaaS that provides 1 free worker
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
+  * https://www.firebase.com/ - Build realtime apps, free plan has 50 Max Connections, 5 GB Data Transfer, 100 MB Data Storage.
+1 GB Hosting Storage and 100 GB Hosting Transfer.
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
   * https://www.openshift.com/ - RedHat OpenShift offers 3 free hosted apps
   * https://bitnami.com/ - One free small app
