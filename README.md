@@ -69,6 +69,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Analytics
   * http://www.splunk.com/en_us/products/splunk-cloud.html - upload 5GB of data per day up to 28GB of total data stored
+  * * https://parse.com - Unlimited free analytics
 
 ## Monitoring
   * https://www.thousandeyes.com  - network & user experience monitoring. 3 locations plus 20 data feeds of major web services free.
@@ -132,6 +133,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
   * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20GB
 
+## BaaS
+  * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
+
+
 ## Web Hosting
 
   * https://www.simplybuilt.com - SimplyBuilt offers free website building and hosting for open source projects (http://www.simplybuilt.com/explore/free-websites-for-open-source-projects). Simple alternative to GitHub Pages.
@@ -146,6 +151,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## DBaaS
    * https://mongolab.com/ - MongoDB as a service (500mb free)
+   * https://realm.io - Free to use even for commercial projects, under Apache 2.0 License
    * https://orchestrate.io/ - 1 application free
    * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
    * https://www.backand.com/ - Back-end as a service (for AngularJS)
