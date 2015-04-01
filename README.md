@@ -47,6 +47,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.appveyor.com/ - CD service for Windows. Free for open-source projects.
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
   * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
+  * http://ftploy.com/ - 1 project w/ unlimited deployments
+  * https://deployhq.com/ - 1 project w/ 10 daily deployments
 
 ## Security and PKI
 
