@@ -119,6 +119,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.phplist.com/ - Hosted version allow 300 mails per month for free
   * https://www.mailjet.com/ - 6000 mails per month for free
   * https://www.sendinblue.com/ - 9000 mails per month for free
+  * https://www.campaignmonitor.com/ - 2500 mails to 500 subscribers per month for 9$
 
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
