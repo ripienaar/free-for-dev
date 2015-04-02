@@ -230,6 +230,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * https://www.jetbrains.com/ruby/ - RubyMine IDE primarily used for Ruby/RoR Projects. Free license for students, teachers, open source projects, and user groups.
+   * https://www.jetbrains.com/pycharm/ - Python IDE. Free license for students, teachers, open source projects, and user groups.
 
 ## Analytics, Events and  Statistics
 
