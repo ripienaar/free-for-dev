@@ -69,7 +69,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://ringcaptcha.com/ - Tools to use phone number as id, available for free
   * https://www.ssllabs.com/ssltest/ - Very deep analysis of the configuration of any SSL web server
   * https://qualys.com/forms/freescan/owasp/ - Find web app vulnerabilities, audit for OWASP Risks
-  * [alienvault.com ThreatFinder](https://www.alienvault.com/open-threat-exchange/threatfinder) - Uncovers compromised systems in your metwork
+  * [alienvault.com ThreatFinder](https://www.alienvault.com/open-threat-exchange/threatfinder) - Uncovers compromised systems in your network
 
 ## Management Systems
 
