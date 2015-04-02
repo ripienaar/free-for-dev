@@ -37,6 +37,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://codecov.io/ - Code coverage tool (SaaS), free for 1 private project and no restrictions for publics repos
   * https://insight.sensiolabs.com/ _ Code Quality for PHP/Symfony projects, free for Open Source
 
+## Code Search and Browsing
+  * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
+  * https://searchcode.com/ - comprehensive text-based code search - free for open source
+
 ## CI / CD
 
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
