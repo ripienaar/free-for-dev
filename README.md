@@ -129,7 +129,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
-  * https://cloud.google.com/container-engine/ - Google Container Engine run Docker containers(Alpha). Pricing: same of Google Compute Engine.
+  * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
 
 ## DBaaS
 * https://mongolab.com/ - MongoDB as a service (500mb free)
