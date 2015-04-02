@@ -100,7 +100,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.phplist.com/ - Hosted version allow 300 mails per months for free
   * https://www.mailjet.com/ - 6000 mails per months for free
   * https://www.sendinblue.com/ - 9000 mails per months for free
-
+  * https://mailtrap.io - fake SMTP server for development 
+  
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
   * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
