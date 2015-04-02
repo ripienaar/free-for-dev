@@ -26,6 +26,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://gitter.im - "Chat, for GitHub". Unlimited public & private rooms, free for teams of up to 25
   * http://www.google.com/hangouts/ - One place for all your Conversations, for free (Need Google Account)
   * https://kato.im - Team Chat & Collaboration, free for unlimited users with some feature limitations
+  * http://seafile.com/ - Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB.
 
 ## Code Quality
 
@@ -180,7 +181,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://www.backand.com/ - Back-end as a service (for AngularJS)
    * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
    * https://parsehub.com/ — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.
-   * https://import.io/ — Easily turn websites into APIs, completely free for life.
+   * https://import.io/ - Easily turn websites into APIs, completely free for life.
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
    * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
