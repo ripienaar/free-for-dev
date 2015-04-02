@@ -100,7 +100,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.phplist.com/ - Hosted version allow 300 mails per months for free
   * https://www.mailjet.com/ - 6000 mails per months for free
   * https://www.sendinblue.com/ - 9000 mails per months for free
-  * https://mailtrap.io - fake SMTP server for development 
+  * https://mailtrap.io - fake SMTP server for development, free plan with 1 inbox, 50 messages, no team members, 2 emails/sec, no forward rules
   
 ## CDN and Protection
   * http://www.cloudflare.com/ - Basic service is free, good for a blog etc
@@ -129,7 +129,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
-  * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
+  * https://cloud.google.com/container-engine/ - Google Container Engine run Docker containers(Alpha). Pricing: same of Google Compute Engine.
 
 ## DBaaS
 * https://mongolab.com/ - MongoDB as a service (500mb free)
