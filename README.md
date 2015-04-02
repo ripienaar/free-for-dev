@@ -164,6 +164,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://www.simplybuilt.com - SimplyBuilt offers free website building and hosting for open source projects (http://www.simplybuilt.com/explore/free-websites-for-open-source-projects). Simple alternative to GitHub Pages.
   * http://www.devport.co - Turn GitHub projects, Apps, and websites into a personal developer portfolio.
+  * https://kloud51.com - Free & Premium Linux Web Hosting (Use `free-for-dev` Coupon for 3 Months free Premium plan)
 
 ## IaaS
 
