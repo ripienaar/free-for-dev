@@ -75,6 +75,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Management Systems
 
   * https://opbeat.com/ - Release, deploy, monitor.  Free for 3 users
+  * https://www.rightscale.com - Manage cloud infrastructure. Free for 60 days, 1 Account, 5 Users, First 2000 RCUs free per month (http://www.rightscale.com/products-and-services/products/pricing)
 
 ## Log Management
 
