@@ -59,6 +59,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
   * http://ftploy.com/ - 1 project w/ unlimited deployments
   * https://deployhq.com/ - 1 project w/ 10 daily deployments
+  * https://toranproxy.com - Proxy for Packagist and GitHub. never fail CD. Free for personal use, 1 developer, no support. 
 
 ## Security and PKI
 
@@ -138,10 +139,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.cloudflare.com/ - Basic service is free, good for a blog
   * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
   * https://surge.sh - Zero-bullshit, single–command, bring your own source control web publishing CDN.
-  * https://cdnjs.com/ - CDN for JavaScript libraries, CSS libraries, SWF, images, etc!
-  * http://www.jsdelivr.com/ - A free super-fast CDN for developers and webmasters
-  * https://developers.google.com/speed/libraries/ - The Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
-  * https://www.asp.net/ajax/cdn - The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
 
 ## PaaS
 
