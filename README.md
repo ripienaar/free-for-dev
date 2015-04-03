@@ -198,11 +198,11 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
 
 ## Issue tracking / Project management
-
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
    * https://kanbanflow.com/ - Board based project management. Free (premium version with more options).
    * https://kanbanpad.com/ - Board based project management. Free (premium version with more options).
    * https://kanbanery.com/ - Board based project management. Free for 2 users (premium tiers with more options).
+   * https://zenhub.io/ - The only project management solution inside GitHub. Free for public repos, OSS, and non-profits.
    * https://trello.com/ - Board based project management. Free
    * https://waffle.io/ - Board based project management solution from your existing GitHub Issues. Free for open-source.
    * https://huboard.com/ - Instant project management for your GitHub issues. Free for open-source.
