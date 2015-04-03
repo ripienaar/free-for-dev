@@ -13,7 +13,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Source Code Repos
 
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
-  * https://github.com – Free for an unlimited number of public repositories
+  * https://github.com – Free for an unlimited number of public repositories. GitHub Pages also allows hosting a static website.
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
 
 ## Tools for teams & Collaboration
@@ -171,7 +171,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://www.simplybuilt.com - SimplyBuilt offers free website building and hosting for open source projects (http://www.simplybuilt.com/explore/free-websites-for-open-source-projects). Simple alternative to GitHub Pages.
   * http://www.devport.co - Turn GitHub projects, Apps, and websites into a personal developer portfolio.
-  * https://pages.github.com - Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
   * https://divshot.com - Hosting for 1 static website or client-side web app with 100 MB storage and 1 GB bandwidth in their free tier. Similar to GitHub Pages.
 
 ## IaaS
