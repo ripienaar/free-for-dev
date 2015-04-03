@@ -27,6 +27,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.google.com/hangouts/ - One place for all your Conversations, for free (Need Google Account)
   * https://kato.im - Team Chat & Collaboration, free for unlimited users with some feature limitations
   * http://seafile.com/ - Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB.
+  * https://sameroom.io - Free for unlimited users with some feature limitations
 
 ## Code Quality
 
