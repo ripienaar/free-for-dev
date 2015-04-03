@@ -137,7 +137,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.cloudflare.com/ - Basic service is free, good for a blog
   * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
   * https://surge.sh - Zero-bullshit, single–command, bring your own source control web publishing CDN.
-  * https://cdnjs.com/ - JavaScript, CSS, SWF, images, etc!
+  * https://cdnjs.com/ - CDN for JavaScript libraries, CSS libraries, SWF, images, etc!
 
 ## PaaS
 
