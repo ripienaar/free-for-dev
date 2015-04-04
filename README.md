@@ -13,7 +13,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Source Code Repos
 
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
-  * https://github.com – Free for an unlimited number of public repositories
+  * https://github.com - Free for an unlimited number of public repositories
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
 
 ## Tools for teams & Collaboration
@@ -38,7 +38,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://coveralls.io/ - Display test coverage reports - free for open source
   * https://scrutinizer-ci.com/ - Continuous inspection platform - free for Open Source
   * https://codecov.io/ - Code coverage tool (SaaS), free for 1 private project and no restrictions for publics repos
-  * https://insight.sensiolabs.com/ _ Code Quality for PHP/Symfony projects, free for Open Source
+  * https://insight.sensiolabs.com/ - Code Quality for PHP/Symfony projects, free for Open Source
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
@@ -47,8 +47,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## CI / CD
 
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
-  * https://circleci.com – Free for one concurrent build
-  * https://travis-ci.org – Free for public Github repositories.
+  * https://circleci.com - Free for one concurrent build
+  * https://travis-ci.org - Free for public Github repositories.
   * http://wercker.com/ - Free for public and private repositories
   * https://drone.io/ - CI platform that includes browser testing, free for Open Source
   * https://semaphoreci.com/ - 100 private builds / month. Unlimited for Open Source.
@@ -119,7 +119,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Search
 
-  * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
+  * https://swiftype.com - hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premium level for open-source projects.
   * https://bonsai.io - Free 1GB memory and 1GB storage.
   * http://www.searchly.com - Free 2 Indices and 5MB storage.
 
