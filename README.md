@@ -28,6 +28,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://kato.im - Team Chat & Collaboration, free for unlimited users with some feature limitations
   * http://seafile.com/ - Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB.
   * https://sameroom.io - Free for unlimited users with some feature limitations
+  * https://yammer.com/ - Private social network standalone or for M$ Office 365. Free, just a bit less admin tools and users management features.
 
 ## Code Quality
 
