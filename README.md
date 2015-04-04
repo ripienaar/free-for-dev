@@ -127,6 +127,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * http://www.mailgun.com/ - First 10,000 emails per month are free
   * http://mailchimp.com/ - Send 12,000 emails to 2,000 subscribers for free
+  * https://sendloop.com/ - 2,000 subscribers and 10,000 email delivery every month is free
   * http://sendgrid.com/ - 400 emails per day for free
   * http://mandrill.com/ - First 12,000 emails are free
   * https://www.phplist.com/ - Hosted version allow 300 mails per month for free
