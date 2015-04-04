@@ -162,6 +162,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://algorithmia.com - Host algorithms for free - includes 10,000 credits (seconds of on-demand execution time) free
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
   * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20GB
+  * https://www.mashape.com/ - Free API Management Platform & Marketplace
 
 ## BaaS
   * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
@@ -263,6 +264,3 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
-
-## API
-  * https://www.mashape.com/ - Free API Management Platform & Marketplace
