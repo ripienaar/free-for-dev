@@ -263,3 +263,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
+
+## API
+  * https://www.mashape.com/ - Free API Management Platform & Marketplace
