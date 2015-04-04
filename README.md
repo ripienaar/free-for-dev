@@ -55,7 +55,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.shippable.com/ - Free for 1 build container, private and public repos, unlimited builds.
   * https://snap-ci.com - Free for public repositories, 1 build at the time
   * http://www.appveyor.com/ - CD service for Windows. Free for open-source projects.
-  * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
+  * [GitHub - Comparison of CI services](https://github.com/ligurio/Continuous-Integration-services)
   * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
   * http://ftploy.com/ - 1 project w/ unlimited deployments
   * https://deployhq.com/ - 1 project w/ 10 daily deployments
@@ -214,6 +214,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * http://www.acunote.com/ - Free project management and SCRUM software for up to 5 team members.
    * http://gliffy.com/ - Online diagrams: flowchart, UML, wireframe... Also Plugins for Jira & Confluence. 5 diagrams and 2 MB free.
    * https://cacoo.com/ - Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets.
+   * http://backlogtool.com/ - Project Management with integrated net tools. Free 1 project, 10 users, no Gantt.
 
 
 ## Storage and Media Processing
