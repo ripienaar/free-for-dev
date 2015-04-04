@@ -83,6 +83,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://logentries.com/ - Free up to 5GB/month with 7 day retention
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
+  * https://getsentry.com/ - 7 day history, 250 events per day, no team members
 
 ## Analytics
 
