@@ -78,6 +78,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Management Systems
 
   * https://opbeat.com/ - Release, deploy, monitor.  Free for 3 users
+  * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
 
 ## Log Management
 
