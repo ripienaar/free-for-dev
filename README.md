@@ -201,6 +201,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
 
 ## Issue tracking / Project management
+   * https://www.pivotaltracker.com/community/public-projects - Pivotal Tracker. Free for public projects.
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
    * https://kanbanflow.com/ - Board based project management. Free (premium version with more options).
    * https://kanbanpad.com/ - Board based project management. Free (premium version with more options).
