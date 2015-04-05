@@ -125,6 +125,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Email
 
+  * http://www.sparkpost.com/ - First 10,000 emails per month are free
   * http://www.mailgun.com/ - First 10,000 emails per month are free
   * http://mailchimp.com/ - Send 12,000 emails to 2,000 subscribers for free
   * https://sendloop.com/ - 2,000 subscribers and 10,000 email delivery every month is free
