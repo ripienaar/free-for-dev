@@ -78,7 +78,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Management Systems
 
   * https://opbeat.com/ - Release, deploy, monitor.  Free for 3 users
-  * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
 
 ## Log Management
 
@@ -170,6 +169,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
   * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20GB
   * http://www.outsystems.com/ - Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1GB database.
+  * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
 
 ## BaaS
   * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
