@@ -134,7 +134,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.phplist.com/ - Hosted version allow 300 mails per month for free
   * https://www.mailjet.com/ - 6000 mails per month for free
   * https://www.sendinblue.com/ - 9000 mails per month for free
-
+  * https://mailtrap.io - fake SMTP server for development, free plan with 1 inbox, 50 messages, no team members, 2 emails/sec, no forward rules
+  
 ## CDN and Protection
 
   * http://www.cloudflare.com/ - Basic service is free, good for a blog
