@@ -111,6 +111,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
   * https://sealion.com/ - Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
   * https://www.stathat.com - Get started with ten stats for free, no expiration.
+  * https://www.skylight.io - Free for first 100k requests
 
 ## Crash / Exception handling
 
