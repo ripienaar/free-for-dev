@@ -63,7 +63,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://ftploy.com/ - 1 project w/ unlimited deployments
   * https://deployhq.com/ - 1 project w/ 10 daily deployments
   * https://hub.jazz.net/ - 60 minutes of free build time / month.
-  
+
 ## Security and PKI
 
   * http://vaddy.net - Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scan history for free
@@ -142,8 +142,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.mailjet.com/ - 6000 mails per month for free
   * https://www.sendinblue.com/ - 9000 mails per month for free
   * https://mailtrap.io - fake SMTP server for development, free plan with 1 inbox, 50 messages, no team members, 2 emails/sec, no forward rules
-  * https://mailstache.io - 4 Mailboxes @ 1GB each for up to 2 custom domains. 
-  
+  * https://mailstache.io - 4 Mailboxes @ 1GB each for up to 2 custom domains.
+
 ## CDN and Protection
 
   * http://www.cloudflare.com/ - Basic service is free, good for a blog
@@ -232,6 +232,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * http://gliffy.com/ - Online diagrams: flowchart, UML, wireframe... Also Plugins for Jira & Confluence. 5 diagrams and 2 MB free.
    * https://cacoo.com/ - Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets.
    * https://hub.jazz.net/ - IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects.
+   * http://leankit.com/ - Kanban board, that visualizes your workflow. Free up to 10 users.
 
 ## Storage and Media Processing
 
