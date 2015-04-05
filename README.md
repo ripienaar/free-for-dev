@@ -176,6 +176,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
   * http://appacitive.com/ - Mobile backend, free for the first 3 months with 100k API calls,Push notifications.
   * https://www.contentful.com - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
+  * http://konacloud.io Web and Mobile Backend as a Service, with 5 GB free account.
 
 ## Web Hosting
 
