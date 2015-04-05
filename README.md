@@ -77,6 +77,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Management Systems
 
+  * https://userify.com - Server/Instance User (sudo, ssh) Management. Unlimited servers free.
   * https://opbeat.com/ - Release, deploy, monitor.  Free for 3 users
 
 ## Log Management
