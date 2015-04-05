@@ -138,6 +138,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.mailjet.com/ - 6000 mails per month for free
   * https://www.sendinblue.com/ - 9000 mails per month for free
   * https://mailtrap.io - fake SMTP server for development, free plan with 1 inbox, 50 messages, no team members, 2 emails/sec, no forward rules
+  * https://mailstache.io - 4 Mailboxes @ 1GB each for up to 2 custom domains. 
   
 ## CDN and Protection
 
