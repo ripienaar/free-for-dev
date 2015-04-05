@@ -228,6 +228,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
    * https://plot.ly - graph and share your data. Free tier includes unlimited public files and 10 private files.
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
+   * https://cartodb.com - create maps and geospatial APIs from your data and public data
 
 ## Package Build Systems
 
