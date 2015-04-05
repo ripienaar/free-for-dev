@@ -248,6 +248,11 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
  * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
 
+
+## International Mobile number verification API and SDK
+ * https://www.cognalys.com - Freemium mobile number verification through an innovative and relaible  method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day .  {[Signup](https://www.cognalys.com/signup/1)}
+
+
 ## Other Packs
 
  * https://education.github.com/pack - As long as you're a student at a recognized university
