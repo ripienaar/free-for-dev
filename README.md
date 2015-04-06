@@ -42,6 +42,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://scrutinizer-ci.com/ - Continuous inspection platform - free for Open Source
   * https://codecov.io/ - Code coverage tool (SaaS), free for 1 private project and no restrictions for publics repos
   * https://insight.sensiolabs.com/ - Code Quality for PHP/Symfony projects, free for Open Source
+  * https://www.codacy.com/ - Automated code reviews for PHP, Python, Javascript, Scala and CSS - free for open source
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
@@ -258,6 +259,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
+   * https://readme.io/ - Beautiful documentations made easy - free for Open Source
 
 ## Analytics, Events and  Statistics
 
