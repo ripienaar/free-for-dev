@@ -87,6 +87,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://logentries.com/ - Free up to 5GB/month with 7 day retention
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
+  * http://logstash.net/ - Free and open sourced. Apache 2.0 License
 
 ## Analytics
 
