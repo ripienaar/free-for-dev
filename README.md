@@ -270,6 +270,9 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com - Freemium mobile number verification through an innovative and relaible  method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day .  {[Signup](https://www.cognalys.com/signup/1)}
 
+## Payment / Billing Integration
+
+ * https://www.braintreepayments.com - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $ 50.000 are free of charge.
 
 ## Other Packs
 
