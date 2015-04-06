@@ -121,7 +121,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://rollbar.com/ - Exception and error monitoring, free plan - 5000 errors/month, unlimited users, 30 days retention.
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
-  * http://getsentry.com/ - Sentry tracks app exceptions in realtime, has a small free plan
+  * http://getsentry.com/ - Sentry tracks app exceptions in realtime, has a small free plan. Free, unrestricted use if self-hosted.
 
 ## Search
 
@@ -136,7 +136,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://www.mailgun.com/ - First 10,000 emails per month are free
   * http://mailchimp.com/ - Send 12,000 emails to 2,000 subscribers for free
   * https://sendloop.com/ - 2,000 subscribers and 10,000 email delivery every month is free
-  * http://sendgrid.com/ - 400 emails per day for free
+  * http://sendgrid.com/ - 400 emails per day for free/25,000 free transactional emails per month for emails sent from a Google compute instance
   * http://mandrill.com/ - First 12,000 emails are free
   * https://www.phplist.com/ - Hosted version allow 300 mails per month for free
   * https://www.mailjet.com/ - 6000 mails per month for free
