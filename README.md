@@ -35,13 +35,14 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Code Quality
 
   * http://tachikoma.io - Dependency Update for Ruby, Node.js, Perl projects - free for Open Source
-  * https://landscape.io/ - Code Quality for Python projects, free for Open Source
+  * https://landscape.io/ - Code Quality for Python projects - free for Open Source
   * https://codeclimate.com/ - Automated code review, free for Open Source
   * https://houndci.com/ - Comments on github commits about code quality - free for Open Source
   * https://coveralls.io/ - Display test coverage reports - free for open source
   * https://scrutinizer-ci.com/ - Continuous inspection platform - free for Open Source
   * https://codecov.io/ - Code coverage tool (SaaS), free for 1 private project and no restrictions for publics repos
-  * https://insight.sensiolabs.com/ - Code Quality for PHP/Symfony projects, free for Open Source
+  * https://insight.sensiolabs.com/ - Code Quality for PHP/Symfony projects - free for Open Source
+  * https://styleci.io/ - The PHP Coding Style Continuous Integration Service - free for Open Source
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
