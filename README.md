@@ -63,6 +63,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://ftploy.com/ - 1 project w/ unlimited deployments
   * https://deployhq.com/ - 1 project w/ 10 daily deployments
   * https://hub.jazz.net/ - 60 minutes of free build time / month.
+  * https://styleci.io/ - The PHP Coding Style Continuous Integration Service - Analyse all your public repos for free.
   
 ## Security and PKI
 
