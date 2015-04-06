@@ -177,6 +177,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
 
 ## BaaS
+  * https://www.firebase.com/ - Done-for-you database, API, and authentication.
   * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
   * http://appacitive.com/ - Mobile backend, free for the first 3 months with 100k API calls,Push notifications.
   * https://www.contentful.com - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
