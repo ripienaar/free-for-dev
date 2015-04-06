@@ -15,6 +15,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
   * https://github.com - Free for an unlimited number of public repositories
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
+  * https://hub.jazz.net/ - Unlimited public repos, private repos free for up to 3 accounts.
 
 ## Tools for teams & Collaboration
 
@@ -60,7 +61,8 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
   * http://ftploy.com/ - 1 project w/ unlimited deployments
   * https://deployhq.com/ - 1 project w/ 10 daily deployments
-
+  * https://hub.jazz.net/ - 60 minutes of free build time / month.
+  
 ## Security and PKI
 
   * http://vaddy.net - Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scan history for free
@@ -186,7 +188,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## IaaS
 
   * https://exoscale.ch/ - Free resources for Open Source projects
-  * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
@@ -194,6 +195,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## DBaaS
    * https://mongolab.com/ - MongoDB as a service (500mb free)
+   * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
    * https://realm.io - Free to use even for commercial projects, under Apache 2.0 License
    * https://orchestrate.io/ - 1 application free
    * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
@@ -226,7 +228,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * http://www.acunote.com/ - Free project management and SCRUM software for up to 5 team members.
    * http://gliffy.com/ - Online diagrams: flowchart, UML, wireframe... Also Plugins for Jira & Confluence. 5 diagrams and 2 MB free.
    * https://cacoo.com/ - Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets.
-
+   * https://hub.jazz.net/ - IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects.
 
 ## Storage and Media Processing
 
@@ -253,6 +255,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
+   * 
 
 ## Analytics, Events and  Statistics
 
