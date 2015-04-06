@@ -125,6 +125,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Search
 
+  * https://www.algolia.com - Hosted search-as-you-type (instant). Free hacker plan up to 1,000 documents and 50,000 operations. Bigger free plans available for community/open source projects.
   * https://swiftype.com - hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premium level for open-source projects.
   * https://bonsai.io - Free 1GB memory and 1GB storage.
   * http://www.searchly.com - Free 2 Indices and 5MB storage.
