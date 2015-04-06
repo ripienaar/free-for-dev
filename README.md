@@ -29,6 +29,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://seafile.com/ - Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB.
   * https://sameroom.io - Free for unlimited users with some feature limitations
   * https://yammer.com/ - Private social network standalone or for M$ Office 365. Free, just a bit less admin tools and users management features.
+  * https://www.blockspring.com/ - Share scripts with anyone on your team: cross language and with spreadsheet users. Free for 5 million runs a month.
 
 ## Code Quality
 
@@ -177,6 +178,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://appacitive.com/ - Mobile backend, free for the first 3 months with 100k API calls,Push notifications.
   * https://www.contentful.com - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
   * http://konacloud.io Web and Mobile Backend as a Service, with 5 GB free account.
+  * https://www.blockspring.com/ - Cloud functions. Free for 5 million runs a month.
 
 ## Web Hosting
 
