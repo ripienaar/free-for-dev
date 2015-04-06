@@ -13,6 +13,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Source Code Repos
 
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
+  * http://chiselapp.com/ - Unlimited public and private Fossil repositories
   * https://github.com - Free for an unlimited number of public repositories
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
   * https://hub.jazz.net/ - Unlimited public repos, private repos free for up to 3 accounts.
