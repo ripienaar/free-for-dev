@@ -99,6 +99,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
 ## Monitoring
 
+  * http://www.appneta.com - Free with 1 hour data retention
   * https://www.thousandeyes.com  - Network & user experience monitoring. 3 locations, plus 20 data feeds of major web services free.
   * https://www.datadoghq.com/ - Free for up to 5 nodes
   * http://www.stackdriver.com/ - Free for up to 10 nodes/services
