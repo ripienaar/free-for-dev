@@ -35,7 +35,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Code Quality
 
   * http://tachikoma.io - Dependency Update for Ruby, Node.js, Perl projects - free for Open Source
-  * https://landscape.io/ - Code Quality for Python projects - free for Open Source Source
+  * https://landscape.io/ - Code Quality for Python projects - free for Open Source
   * https://codeclimate.com/ - Automated code review, free for Open Source
   * https://houndci.com/ - Comments on github commits about code quality - free for Open Source
   * https://coveralls.io/ - Display test coverage reports - free for open source
