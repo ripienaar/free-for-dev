@@ -241,6 +241,10 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
    * https://cartodb.com - create maps and geospatial APIs from your data and public data
 
+## Embedded Development
+
+   * http://platformio.org - cross-platform code builder and the missing library manager
+
 ## Package Build Systems
 
    * https://build.opensuse.org/ - package build service for multiple distros (SUSE, EL, Fedora, Debian etc.)
