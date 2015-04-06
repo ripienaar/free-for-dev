@@ -241,10 +241,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
    * https://cartodb.com - create maps and geospatial APIs from your data and public data
 
-## Embedded Development
-
-   * http://platformio.org - cross-platform code builder and the missing library manager
-
 ## Package Build Systems
 
    * https://build.opensuse.org/ - package build service for multiple distros (SUSE, EL, Fedora, Debian etc.)
@@ -262,6 +258,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
+   * http://platformio.org - cross-platform code builder and the missing library manager.
 
 ## Analytics, Events and  Statistics
 
