@@ -260,6 +260,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
  * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
  * https://google.com/analytics/ - Google Analytics
+ * https://heapanalytics.com/ - Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits per month.
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
  * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
 
