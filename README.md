@@ -9,6 +9,42 @@ You can help by sending Pull Requests to add more services. Once I have a good s
 
 If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
+Table of Contents
+=================
+
+   * [Source Code Repos](#source-code-repos)
+   * [Tools for teams &amp; Collaboration](#tools-for-teams--collaboration)
+   * [Code Quality](#code-quality)
+   * [Code Search and Browsing](#code-search-and-browsing)
+   * [CI / CD](#ci--cd)
+   * [Security and PKI](#security-and-pki)
+   * [Management Systems](#management-systems)
+   * [Log Management](#log-management)
+   * [Analytics](#analytics)
+   * [Monitoring](#monitoring)
+   * [Crash / Exception handling](#crash--exception-handling)
+   * [Search](#search)
+   * [Email](#email)
+   * [CDN and Protection](#cdn-and-protection)
+   * [PaaS](#paas)
+   * [BaaS](#baas)
+   * [Web Hosting](#web-hosting)
+   * [IaaS](#iaas)
+   * [DBaaS](#dbaas)
+   * [STUN, WebRTC, Web Socket Servers and other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
+   * [Issue tracking / Project management](#issue-tracking--project-management)
+   * [Storage and Media Processing](#storage-and-media-processing)
+   * [Package Build Systems](#package-build-systems)
+   * [IDE and Code Editing](#ide-and-code-editing)
+   * [Analytics, Events and  Statistics](#analytics-events-and--statistics)
+   * [International Mobile number verification API and SDK](#international-mobile-number-verification-api-and-sdk)
+   * [Payment / Billing Integration](#payment--billing-integration)
+   * [Other Packs](#other-packs)
+   * [Docker Related](#docker-related)
+     * [Alternate container hosting](#alternate-container-hosting)
+   * [Vagrant Related](#vagrant-related)
+     * [Vagrant box indexes](#vagrant-box-indexes)
+   * [Data mining](#data-mining)
 
 ## Source Code Repos
 
