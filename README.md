@@ -54,6 +54,7 @@ Table of Contents
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
   * https://hub.jazz.net/ - Unlimited public repos, private repos free for up to 3 accounts.
   * https://visualstudio.com - Free unlimited private repos (Git and TFS) for up to 5 users per team
+  * https://git.geekli.st - Free unlimited public and private git repositories with unlimited collaborators
 
 ## Tools for teams & Collaboration
 
