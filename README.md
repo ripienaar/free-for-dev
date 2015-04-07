@@ -197,6 +197,7 @@ Table of Contents
   * https://developers.google.com/speed/libraries/ - The Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
   * https://www.asp.net/ajax/cdn - The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * https://toranproxy.com/ - Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support.
+  * https://tech.yandex.ru/jslibs/ - free CDN for popular JavaScript libraries and Frameworks
 
 ## PaaS
 
@@ -312,6 +313,7 @@ Table of Contents
  * https://heapanalytics.com/ - Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits per month.
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
  * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
+ * https://metrica.yandex.com/ - Yandex.Metrica is a free tool that helps you increase the conversion rate of your site.
 
 
 ## International Mobile number verification API and SDK
@@ -326,6 +328,8 @@ Table of Contents
  * https://education.github.com/pack - As long as you're a student at a recognized university
 
 ## Docker Related
+### Official docker repository
+  * http://hub.docker.com/ - 1 private and unlimited public containers
 ### Alternate container hosting
 
   * https://quay.io/ - Unlimited free public containers
