@@ -131,6 +131,7 @@ Table of Contents
   * https://logentries.com/ - Free up to 5GB/month with 7 day retention
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
+  * https://sumologic.com - Free up to 500MB/day, 7 day retention
 
 ## Analytics
 
@@ -159,6 +160,7 @@ Table of Contents
   * https://sealion.com/ - Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
   * https://www.stathat.com - Get started with ten stats for free, no expiration.
   * https://www.skylight.io - Free for first 100k requests
+  * https://www.appdynamics.com - Free for 24h metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
 
 ## Crash / Exception handling
 
