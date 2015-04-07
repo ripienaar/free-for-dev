@@ -275,6 +275,7 @@ Table of Contents
    * http://www.acunote.com/ - Free project management and SCRUM software for up to 5 team members.
    * http://gliffy.com/ - Online diagrams: flowchart, UML, wireframe... Also Plugins for Jira & Confluence. 5 diagrams and 2 MB free.
    * https://cacoo.com/ - Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets.
+   * https://www.draw.io/ - Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels.
    * https://hub.jazz.net/ - IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects.
    * http://leankit.com/ - Kanban board, that visualizes your workflow. Free up to 10 users.
    * https://www.visualstudio.com/products/what-is-visual-studio-online-vs - Unlimited free private code repositories; Tracks bugs, work items, feedback and more.
