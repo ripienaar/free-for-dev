@@ -312,6 +312,7 @@ Table of Contents
  * https://heapanalytics.com/ - Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits per month.
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
  * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
+ * https://gosquared.com - Track up to 1,000 data points for free.
 
 
 ## International Mobile number verification API and SDK
