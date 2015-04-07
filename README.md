@@ -190,6 +190,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
   * https://www.simplybuilt.com - SimplyBuilt offers free website building and hosting for open source projects (http://www.simplybuilt.com/explore/free-websites-for-open-source-projects). Simple alternative to GitHub Pages.
   * http://www.devport.co - Turn GitHub projects, Apps, and websites into a personal developer portfolio.
+  * http://hostinger.com - PHP hosting, MySql and Site Builder, for free and no banner or ads.
 
 ## IaaS
 
@@ -263,6 +264,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
    * https://readme.io/ - Beautiful documentations made easy - free for Open Source
+   * http://runnable.com/ - IDE and terminal in a browser, good place to share your code, for free.
 
 ## Analytics, Events and  Statistics
 
