@@ -277,6 +277,7 @@ Table of Contents
    * https://cacoo.com/ - Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets.
    * https://hub.jazz.net/ - IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects.
    * http://leankit.com/ - Kanban board, that visualizes your workflow. Free up to 10 users.
+   * https://www.visualstudio.com/products/what-is-visual-studio-online-vs - Unlimited free private code repositories; Tracks bugs, work items, feedback and more.
 
 ## Storage and Media Processing
 
@@ -304,6 +305,7 @@ Table of Contents
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
    * https://readme.io/ - Beautiful documentations made easy - free for Open Source
+   * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
 
 ## Analytics, Events and  Statistics
 
