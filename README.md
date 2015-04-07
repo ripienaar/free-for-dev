@@ -70,6 +70,7 @@ Table of Contents
   * https://yammer.com/ - Private social network standalone or for M$ Office 365. Free, just a bit less admin tools and users management features.
   * https://www.blockspring.com/ - Share scripts with anyone on your team: cross language and with spreadsheet users. Free for 5 million runs a month.
   * https://helpmonks.com/ - Shared inbox for teams - Free for open source projects and non-profit organizations.
+  * http://typetalk.in/ - Share and discuss ideas with your team through instant messaging on the web or on your mobile.
 
 ## Code Quality
 
