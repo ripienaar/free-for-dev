@@ -186,6 +186,7 @@ Table of Contents
   * https://www.sendinblue.com/ - 9000 mails per month for free
   * https://mailtrap.io - fake SMTP server for development, free plan with 1 inbox, 50 messages, no team members, 2 emails/sec, no forward rules
   * https://mailstache.io - 4 Mailboxes @ 1GB each for up to 2 custom domains.
+  * https://postmarkapp.com - First 25,000 emails are free
 
 ## CDN and Protection
 
