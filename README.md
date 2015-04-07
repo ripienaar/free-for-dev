@@ -200,7 +200,6 @@ Table of Contents
 
 ## PaaS
 
-  * http://aws.amazon.com/free/ - AWS Free Tier - Free for 12 months
   * https://cloud.google.com/appengine/ - Google App Engine gives 28 instance hours free, 1Gb NoSQL Database and more.
   * https://www.engineyard.com - Engine Yard provides 500 free hours
   * http://azure.microsoft.com/ - MS Azure gives $200 worth of free usage for a trial
@@ -234,6 +233,7 @@ Table of Contents
 
 ## IaaS
 
+  * http://aws.amazon.com/free/ - AWS Free Tier - Free for 12 months
   * https://exoscale.ch/ - Free resources for Open Source projects
   * https://developer.rackspace.com/ - Rackspace Cloud gives $50/month for 12 months
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
