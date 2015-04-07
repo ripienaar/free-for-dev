@@ -123,6 +123,7 @@ Table of Contents
 ## Management Systems
 
   * https://opbeat.com/ - Release, deploy, monitor.  Free for 3 users
+  * https://bitnami.com/ - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
 
 ## Log Management
 
@@ -211,7 +212,6 @@ Table of Contents
 1 GB Hosting Storage and 100 GB Hosting Transfer.
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
   * https://www.openshift.com/ - RedHat OpenShift offers 3 free hosted apps
-  * https://bitnami.com/ - One free small app
   * https://scalingo.com - Free Tier, up to 3 apps, 1 container each, combined with data store addons free tier
   * https://algorithmia.com - Host algorithms for free - includes 10,000 credits (seconds of on-demand execution time) free
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
