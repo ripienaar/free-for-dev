@@ -191,6 +191,7 @@ Table of Contents
   * https://mailstache.io - 4 Mailboxes @ 1GB each for up to 2 custom domains.
   * https://postmarkapp.com - First 25,000 emails are free
   * https://www.zoho.com/mail/ - Free Email management and collaboration for upto 10 users.
+  * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
 
 ## CDN and Protection
 
