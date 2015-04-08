@@ -293,6 +293,7 @@ Table of Contents
    * https://plot.ly - graph and share your data. Free tier includes unlimited public files and 10 private files.
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
    * https://cartodb.com - create maps and geospatial APIs from your data and public data
+   * https://shrinkray.io - free image optimization of Github repos
 
 ## Package Build Systems
 
