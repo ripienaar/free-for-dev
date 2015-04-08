@@ -229,7 +229,6 @@ Table of Contents
   * http://konacloud.io Web and Mobile Backend as a Service, with 5 GB free account.
   * https://www.blockspring.com/ - Cloud functions. Free for 5 million runs a month.
   * https://layer.com/ - The full-stack building block for communications.
-  * https://www.firebase.com/ - A backend service to store and sync data in realtime.
   * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
 
 ## Web Hosting
