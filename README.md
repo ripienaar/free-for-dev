@@ -191,6 +191,7 @@ Table of Contents
   * https://mailstache.io - 4 Mailboxes @ 1GB each for up to 2 custom domains.
   * https://postmarkapp.com - First 25,000 emails are free
   * https://www.zoho.com/mail/ - Free Email management and collaboration for upto 10 users.
+  * http://moosend.com/ - Manage, create and send your email campaigns.
 
 ## CDN and Protection
 
@@ -228,6 +229,9 @@ Table of Contents
   * https://www.contentful.com - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
   * http://konacloud.io Web and Mobile Backend as a Service, with 5 GB free account.
   * https://www.blockspring.com/ - Cloud functions. Free for 5 million runs a month.
+  * https://layer.com/ - The full-stack building block for communications.
+  * https://www.firebase.com/ - A backend service to store and sync data in realtime.
+  * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
 
 ## Web Hosting
 
@@ -293,6 +297,7 @@ Table of Contents
    * https://plot.ly - graph and share your data. Free tier includes unlimited public files and 10 private files.
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
    * https://cartodb.com - create maps and geospatial APIs from your data and public data
+   * https://shrinkray.io - free image optimization of Github repos
 
 ## Package Build Systems
 
