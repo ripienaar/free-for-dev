@@ -320,6 +320,8 @@ Table of Contents
    * https://readme.io/ - Beautiful documentations made easy - free for Open Source
    * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
    * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals.
+   * http://ideone.com/ - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
+   * https://jsfiddle.net/ - Test and share JavaScript, CSS, HTML or CoffeeScript online.
 
 ## Analytics, Events and  Statistics
 
