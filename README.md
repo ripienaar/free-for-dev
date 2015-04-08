@@ -71,6 +71,7 @@ Table of Contents
   * https://www.blockspring.com/ - Share scripts with anyone on your team: cross language and with spreadsheet users. Free for 5 million runs a month.
   * https://helpmonks.com/ - Shared inbox for teams - Free for open source projects and non-profit organizations.
   * http://typetalk.in/ - Share and discuss ideas with your team through instant messaging on the web or on your mobile.
+  * https://podio.com/ - Organize, manage and connect everything you work with. Free for 5 users with basic plan.
 
 ## Code Quality
 
@@ -191,6 +192,7 @@ Table of Contents
   * https://mailstache.io - 4 Mailboxes @ 1GB each for up to 2 custom domains.
   * https://postmarkapp.com - First 25,000 emails are free
   * https://www.zoho.com/mail/ - Free Email management and collaboration for upto 10 users.
+  * https://campaignmonitor.com - All features in the free plan limited to 5 subscribers, start to pay for more.
 
 ## CDN and Protection
 
@@ -292,7 +294,8 @@ Table of Contents
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
    * https://plot.ly - graph and share your data. Free tier includes unlimited public files and 10 private files.
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
-   * https://cartodb.com - create maps and geospatial APIs from your data and public data
+   * https://cartodb.com - Create maps and geospatial APIs from your data and public data
+   * https://zapier.com - Connect web apps to move data between them. Free 5 zap, each 15 min, 100 tasks/month.
 
 ## Package Build Systems
 
