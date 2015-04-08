@@ -20,6 +20,7 @@ Table of Contents
    * [Security and PKI](#security-and-pki)
    * [Management Systems](#management-systems)
    * [Log Management](#log-management)
+   * [Translation Management](#translation-management)
    * [Analytics](#analytics)
    * [Monitoring](#monitoring)
    * [Crash / Exception handling](#crash--exception-handling)
@@ -132,6 +133,14 @@ Table of Contents
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
   * https://sumologic.com - Free up to 500MB/day, 7 day retention
+
+## Translation Management
+
+ * https://lingohub.com - free up to 3 users, Open Source projects are always free
+ * https://www.getlocalization.com/ - free for public projects
+ * http://webtranslateit.com - free up to 500 strings
+ * http://transifex.com - free for Open Source projects
+ * http://www.oneskyapp.com/ - limited free edition for up to 5 users, free for Open Source projects
 
 ## Analytics
 
