@@ -242,6 +242,8 @@ Table of Contents
   * https://www.contentful.com - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
   * http://konacloud.io Web and Mobile Backend as a Service, with 5 GB free account.
   * https://www.blockspring.com/ - Cloud functions. Free for 5 million runs a month.
+  * https://layer.com/ - The full-stack building block for communications.
+  * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
 
 ## Web Hosting
 
