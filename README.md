@@ -137,6 +137,7 @@ Table of Contents
 
   * http://www.splunk.com/en_us/products/splunk-cloud.html - Upload 5GB of data per day up to 28GB of total data stored
   * https://parse.com - Unlimited free analytics
+  * https://keen.io - Up to 50,000 events/month free
 
 ## Monitoring
 
