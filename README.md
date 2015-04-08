@@ -192,6 +192,7 @@ Table of Contents
   * https://mailstache.io - 4 Mailboxes @ 1GB each for up to 2 custom domains.
   * https://postmarkapp.com - First 25,000 emails are free
   * https://www.zoho.com/mail/ - Free Email management and collaboration for upto 10 users.
+  * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
 
 ## CDN and Protection
 
@@ -295,6 +296,7 @@ Table of Contents
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
    * https://cartodb.com - create maps and geospatial APIs from your data and public data
    * https://podio.com/ - You can use Podio with a team of up to five people and try out the features of the Basic Plan - except User Management.
+   * https://shrinkray.io - free image optimization of Github repos
 
 ## Package Build Systems
 
@@ -315,6 +317,7 @@ Table of Contents
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
    * https://readme.io/ - Beautiful documentations made easy - free for Open Source
    * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
+   * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals.
 
 ## Analytics, Events and  Statistics
 
