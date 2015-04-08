@@ -226,6 +226,7 @@ Table of Contents
   * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
 
 ## BaaS
+  * http://www.kinvey.com - Mobile backend, starter plan has unlimited requests per second, with 2 GB of data storage, as well as push notifications for up 5,000,000 unique recepients. Enterprise application support.
   * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
   * http://appacitive.com/ - Mobile backend, free for the first 3 months with 100k API calls,Push notifications.
   * https://www.contentful.com - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
