@@ -259,7 +259,7 @@ Table of Contents
    * http://graphstory.com/ - GraphStory offers Neo4j (a Graph Database) as a service
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
-   * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
+   * https://pusher.com - Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
    * stun:stun.l.google.com:19302 - Google STUN
    * stun:global.stun.twilio.com:3478?transport=udp - Twilio STUN
    * https://www.segment.com. Hub to translate and route events to other third party services. 100k events a month free.
@@ -333,6 +333,7 @@ Table of Contents
 ## Payment / Billing Integration
 
  * https://www.braintreepayments.com - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $ 50.000 are free of charge.
+ * https://stripe.com - Web and mobile single click payments, 100+ currencies and bitcoint. Free until first real payment.
 
 ## Other Packs
 
