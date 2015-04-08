@@ -289,6 +289,7 @@ Table of Contents
    * https://hub.jazz.net/ - IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects.
    * http://leankit.com/ - Kanban board, that visualizes your workflow. Free up to 10 users.
    * https://www.visualstudio.com/products/what-is-visual-studio-online-vs - Unlimited free private code repositories; Tracks bugs, work items, feedback and more.
+   * https://testlio.com - Issue tracking, test management and beta testing platform. Free for private use.
 
 ## Storage and Media Processing
 
