@@ -244,7 +244,8 @@ Table of Contents
   * https://www.blockspring.com/ - Cloud functions. Free for 5 million runs a month.
   * https://layer.com/ - The full-stack building block for communications.
   * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
-
+  * http://apigee.com/docs/api-baas (product docs), http://apigee.com/docs/developer-vs-edge (registration) - Unlimited trial includes NoSQL data store with 25GB of storage, user and permission managemant, geolocation, 10,000,000 push notifications per month, remote configuration, beta and A/B split testing, APM, fully API driven.  Accessible and manageable via UI, SDK, and API.
+  
 ## Web Hosting
 
   * https://www.simplybuilt.com - SimplyBuilt offers free website building and hosting for open source projects (http://www.simplybuilt.com/explore/free-websites-for-open-source-projects). Simple alternative to GitHub Pages.
