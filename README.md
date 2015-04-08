@@ -34,6 +34,7 @@ Table of Contents
    * [STUN, WebRTC, Web Socket Servers and other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
    * [Issue tracking / Project management](#issue-tracking--project-management)
    * [Storage and Media Processing](#storage-and-media-processing)
+   * [Data Visualization on Maps](#data-visualization-on-maps)
    * [Package Build Systems](#package-build-systems)
    * [IDE and Code Editing](#ide-and-code-editing)
    * [Analytics, Events and  Statistics](#analytics-events-and--statistics)
@@ -297,9 +298,14 @@ Table of Contents
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
    * https://plot.ly - graph and share your data. Free tier includes unlimited public files and 10 private files.
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
-   * https://cartodb.com - create maps and geospatial APIs from your data and public data
    * https://podio.com/ - You can use Podio with a team of up to five people and try out the features of the Basic Plan - except User Management.
    * https://shrinkray.io - free image optimization of Github repos
+
+## Data Visualization on Maps
+   
+   * http://gogeo.io/ - Maps and geospatial services with an easy to use API and support for big data
+   * https://cartodb.com - Create maps and geospatial APIs from your data and public data.
+   * http://www.giscloud.com - Visualize, analyze and share geo data online.
 
 ## Package Build Systems
 
