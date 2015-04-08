@@ -54,6 +54,7 @@ Table of Contents
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
   * https://hub.jazz.net/ - Unlimited public repos, private repos free for up to 3 accounts.
   * https://visualstudio.com - Free unlimited private repos (Git and TFS) for up to 5 users per team
+  * https://assembla.com - Free repo hosting in a free plan.
 
 ## Tools for teams & Collaboration
 
@@ -294,6 +295,7 @@ Table of Contents
    * https://plot.ly - graph and share your data. Free tier includes unlimited public files and 10 private files.
    * https://transloadit.com - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for testdriving.
    * https://cartodb.com - create maps and geospatial APIs from your data and public data
+   * https://podio.com/ - You can use Podio with a team of up to five people and try out the features of the Basic Plan - except User Management.
    * https://shrinkray.io - free image optimization of Github repos
 
 ## Package Build Systems
