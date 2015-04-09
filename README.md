@@ -47,6 +47,7 @@ Table of Contents
    * [Vagrant Related](#vagrant-related)
      * [Vagrant box indexes](#vagrant-box-indexes)
    * [Data mining](#data-mining)
+   * [For Students](#for-students)
 
 ## Source Code Repos
 
@@ -379,3 +380,12 @@ Table of Contents
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
+
+## For Students
+  * https://education.github.com/pack - Github Student Developer's Pack.
+  * https://www.dreamspark.com/Student/Default.aspx - Microsoft's DreamSpark.
+  * https://www.jetbrains.com/student/ - Productivity tools, IDEs and deploy tools.
+  * http://onthehub.com/download/free-software/ - A Variety of free softwares, including some Microsoft products.
+  * https://software.intel.com/en-us/qualify-for-free-software/student - Intel's Parallel Studio XE.
+  * http://xamarin.com/student - Xamarin IDE for using C# for iOS, Android, Mac & Windows platforms.
+  * https://msdn.microsoft.com/en-us/student-developer-program.aspx - Microsoft's Student Developer Program.
