@@ -176,6 +176,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
  * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
  * https://google.com/analytics/ - Google Analytics
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
+ * https://www.initialstate.com/ - Securely stream from unlimited number of devices, stream up to 25,000 events per month, 7-Day Data Retention
 
 ## Other Packs
  * https://education.github.com/pack - As long as you're a student at an recognized university
