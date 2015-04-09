@@ -143,6 +143,7 @@ Table of Contents
  * http://webtranslateit.com - free up to 500 strings
  * http://transifex.com - free for Open Source projects
  * http://www.oneskyapp.com/ - limited free edition for up to 5 users, free for Open Source projects
+ * https://crowdin.com - Unlimited projects, unlimited strings and collaborators for Open Source projects
 
 ## Analytics
 
