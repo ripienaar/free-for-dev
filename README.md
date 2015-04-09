@@ -339,6 +339,7 @@ Table of Contents
    * https://readme.io/ - Beautiful documentations made easy - free for Open Source
    * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
    * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals.
+   * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
 
 ## Analytics, Events and  Statistics
 
