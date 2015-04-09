@@ -236,15 +236,17 @@ Table of Contents
   * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
 
 ## BaaS
-  * http://www.kinvey.com - Mobile backend, starter plan has unlimited requests per second, with 2 GB of data storage, as well as push notifications for up 5,000,000 unique recepients. Enterprise application support.
-  * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
-  * http://appacitive.com/ - Mobile backend, free for the first 3 months with 100k API calls,Push notifications.
-  * https://www.contentful.com - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
-  * http://konacloud.io Web and Mobile Backend as a Service, with 5 GB free account.
-  * https://www.blockspring.com/ - Cloud functions. Free for 5 million runs a month.
-  * https://layer.com/ - The full-stack building block for communications.
-  * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
+
   * http://apigee.com/docs/api-baas (product docs), http://apigee.com/docs/developer-vs-edge (registration) - Unlimited trial includes NoSQL data store with 25GB of storage, user and permission managemant, geolocation, 10,000,000 push notifications per month, remote configuration, beta and A/B split testing, APM, fully API driven.  Accessible and manageable via UI, SDK, and API.
+  * http://appacitive.com/ - Mobile backend, free for the first 3 months with 100k API calls,Push notifications.
+  * https://bip.io/ - A web-automation platform for easily connecting web services. Fully open GPLv3 to power the backend of your open-source project.  Commerical OEM License available.
+  * https://www.blockspring.com/ - Cloud functions. Free for 5 million runs a month.
+  * https://www.contentful.com - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
+  * http://www.kinvey.com - Mobile backend, starter plan has unlimited requests per second, with 2 GB of data storage, as well as push notifications for up 5,000,000 unique recepients. Enterprise application support.
+  * http://konacloud.io Web and Mobile Backend as a Service, with 5 GB free account.
+  * https://layer.com/ - The full-stack building block for communications.
+  * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
+  * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
   
 ## Web Hosting
 
