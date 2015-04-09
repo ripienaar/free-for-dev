@@ -273,6 +273,7 @@ Table of Contents
    * https://import.io/ - Easily turn websites into APIs, completely free for life.
    * https://redsmin.com/ - Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * http://graphstory.com/ - GraphStory offers Neo4j (a Graph Database) as a service
+   * https://www.heroku.com/postgres - Heroku Postgres offers a postgresql database with 10k rows for free.
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
    * https://pusher.com. Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
