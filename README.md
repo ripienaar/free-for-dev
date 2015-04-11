@@ -256,6 +256,7 @@ Table of Contents
   * https://www.simplybuilt.com - SimplyBuilt offers free website building and hosting for open source projects (http://www.simplybuilt.com/explore/free-websites-for-open-source-projects). Simple alternative to GitHub Pages.
   * http://www.devport.co - Turn GitHub projects, Apps, and websites into a personal developer portfolio.
   * https://www.netlify.com - Builds, deploy and hosts static site or app, free for 100 MB data and 1 GB bandwith.
+  * https://neocities.org - Provides free hosting and tools that allow anyone to make a web site.
 
 ## IaaS
 
