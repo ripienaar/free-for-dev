@@ -342,6 +342,7 @@ Table of Contents
    * https://wakatime.com - quantified self metrics about your coding activity, using text editor plugins - Limited plan for free.
    * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
+   * https://www.mockable.io/ - Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.   
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
    * https://readme.io/ - Beautiful documentations made easy - free for Open Source
    * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
