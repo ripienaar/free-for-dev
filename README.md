@@ -365,6 +365,7 @@ Table of Contents
 ## Payment / Billing Integration
 
  * https://www.braintreepayments.com - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $ 50.000 are free of charge.
+ * https://stripe.com - Stripe is a suite of APIs that powers commerce for businesses of all sizes. To accept and manage online payments. Charges 2.9% + 30¢ per successful charge, or less based on volume.
 
 ## Other Packs
 
