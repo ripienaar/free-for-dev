@@ -257,6 +257,8 @@ Table of Contents
   * http://www.devport.co - Turn GitHub projects, Apps, and websites into a personal developer portfolio.
   * https://www.netlify.com - Builds, deploy and hosts static site or app, free for 100 MB data and 1 GB bandwidth.
   * https://divshot.com/ - Static Web Hosting for Developers, free basic apps, 1 GB bandwidth, 100 MB storage, custom domains, subdomain SSL.
+  * http://www.freehostia.com - 250 MB Disk Space, 6 GB Bandwidth, 5 Domains Hosted. Good for php hosting, only caveat is you cannot open sockets in php. Overall very good for php as well as static html hosting.
+
 
 ## IaaS
 
