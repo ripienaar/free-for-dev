@@ -70,7 +70,7 @@ Table of Contents
   * https://kato.im - Team Chat & Collaboration, free for unlimited users with some feature limitations
   * http://seafile.com/ - Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB.
   * https://sameroom.io - Free for unlimited users with some feature limitations
-  * https://yammer.com/ - Private social network standalone or for M$ Office 365. Free, just a bit less admin tools and users management features.
+  * https://yammer.com/ - Private social network standalone or for MS Office 365. Free, just a bit less admin tools and users management features.
   * https://www.blockspring.com/ - Share scripts with anyone on your team: cross language and with spreadsheet users. Free for 5 million runs a month.
   * https://helpmonks.com/ - Shared inbox for teams - Free for open source projects and non-profit organizations.
   * http://typetalk.in/ - Share and discuss ideas with your team through instant messaging on the web or on your mobile.
