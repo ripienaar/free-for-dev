@@ -119,6 +119,7 @@ Table of Contents
   * https://getclef.com/ - New take on auth unlimited free tier for anyone not using premium features
   * https://ringcaptcha.com/ - Tools to use phone number as id, available for free
   * https://www.ssllabs.com/ssltest/ - Very deep analysis of the configuration of any SSL web server
+  * https://sslcheck.globalsign.com/ - Another SSL configuration analysis service
   * https://qualys.com/forms/freescan/owasp/ - Find web app vulnerabilities, audit for OWASP Risks
   * [alienvault.com ThreatFinder](https://www.alienvault.com/open-threat-exchange/threatfinder) - Uncovers compromised systems in your network
   * https://duosecurity.com - Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens.
