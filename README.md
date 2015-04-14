@@ -134,7 +134,7 @@ Table of Contents
   * https://logentries.com/ - Free up to 5GB/month with 7 day retention
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
-  * https://sumologic.com - Free up to 500MB/day, 7 day retention
+  * https://www.sumologic.com - Free up to 500MB/day, 7 day retention
 
 ## Translation Management
 
