@@ -57,6 +57,7 @@ Table of Contents
   * https://hub.jazz.net/ - Unlimited public repos, private repos free for up to 3 accounts.
   * https://visualstudio.com - Free unlimited private repos (Git and TFS) for up to 5 users per team
   * https://assembla.com - Free repo hosting in a free plan.
+  * http://beanstalkapp.com/ - Multi user Git and SVN hosting (Free 1 user 1 repository account)
 
 ## Tools for teams & Collaboration
 
@@ -356,6 +357,7 @@ Table of Contents
    * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
    * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals.
    * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
+   * http://www.sublimetext.com/3 - Sublime Text is a sophisticated text editor for code, markup and prose.
 
 ## Analytics, Events and  Statistics
 
