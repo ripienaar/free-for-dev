@@ -356,6 +356,7 @@ Table of Contents
    * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
    * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals.
    * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
+   * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
 
 ## Analytics, Events and  Statistics
 
