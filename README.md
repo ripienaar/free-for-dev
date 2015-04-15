@@ -295,6 +295,7 @@ Table of Contents
 
 ## Issue tracking / Project management
 
+   * https://github.com/TWtablero/tablero - Tablero. Open Source project. Displays github issues as a Kanban board.
    * https://www.pivotaltracker.com/community/public-projects - Pivotal Tracker. Free for public projects.
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
    * https://kanbanflow.com/ - Board based project management. Free (premium version with more options).
