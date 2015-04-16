@@ -214,7 +214,7 @@ Table of Contents
   * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
   * https://surge.sh - Zero-bullshit, single–command, bring your own source control web publishing CDN.
   * https://cdnjs.com/ - CDN for JavaScript libraries, CSS libraries, SWF, images, etc!
-  * http://www.jsdelivr.com/ - A free super-fast CDN for developers and webmasters
+  * http://www.jsdelivr.com/ - super-fast CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
   * https://developers.google.com/speed/libraries/ - The Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
   * https://www.asp.net/ajax/cdn - The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * https://toranproxy.com/ - Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support.
