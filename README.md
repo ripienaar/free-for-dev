@@ -329,7 +329,7 @@ Table of Contents
 
 ## Data Visualization on Maps
 
-   * http://geocod.io - Geocoding via API or CSV Upload
+   * http://geocod.io - Geocoding via API or CSV Upload. 2.500 free queries per day.
    * http://gogeo.io/ - Maps and geospatial services with an easy to use API and support for big data
    * https://cartodb.com - Create maps and geospatial APIs from your data and public data.
    * http://www.giscloud.com - Visualize, analyze and share geo data online.
