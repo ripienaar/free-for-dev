@@ -86,6 +86,7 @@ Table of Contents
   * https://codecov.io/ - Code coverage tool (SaaS), free for 1 private project and no restrictions for publics repos
   * https://insight.sensiolabs.com/ - Code Quality for PHP/Symfony projects, free for Open Source
   * https://www.codacy.com/ - Automated code reviews for PHP, Python, Javascript, Scala and CSS - free for open source
+  * https://www.pullreview.com - Automated Code Review for Ruby in GitHub, Bitbucket and Gitlab - free for Open Source
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
