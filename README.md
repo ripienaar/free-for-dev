@@ -218,6 +218,7 @@ Table of Contents
   * https://developers.google.com/speed/libraries/ - The Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
   * https://www.asp.net/ajax/cdn - The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * https://toranproxy.com/ - Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support.
+  * http://rawgit.com - free limited traffic, serves raw files directly from GitHub with proper Content-Type headers.
 
 ## PaaS
 
