@@ -367,6 +367,7 @@ Table of Contents
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
  * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
  * https://gosquared.com - Track up to 1,000 data points for free.
+ * https://mixpanel.com - Free 25000 points or 200000 with their badge on your site.
 
 
 ## International Mobile number verification API and SDK
