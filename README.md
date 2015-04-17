@@ -281,6 +281,7 @@ Table of Contents
    * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
    * https://parsehub.com/ — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.
    * https://import.io/ - Easily turn websites into APIs, completely free for life.
+   * https://kimonolabs.com - "Turn websites into structured APIs from your browser in seconds", free for public APIs, up to 20 million pages fetch / month. Supports scheduling, JSON, CSV, post-auth, ...
    * https://redsmin.com/ - Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * http://graphstory.com/ - GraphStory offers Neo4j (a Graph Database) as a service
    * http://www.elephantsql.com/ - PostgreSQL as a service (20mb free)
