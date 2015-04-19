@@ -50,7 +50,7 @@ Table of Contents
 
 ## Source Code Repos
 
-  * https://bitbucket.org/ - Unlimited public and private git repos for small teams
+  * https://bitbucket.org/ - Free unlimited public and private repos (git and mecurial) for up to 5 users
   * http://chiselapp.com/ - Unlimited public and private Fossil repositories
   * https://github.com - Free for an unlimited number of public repositories
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
