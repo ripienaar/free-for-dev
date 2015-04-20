@@ -122,6 +122,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
   * http://getsentry.com/ - Sentry tracks app exceptions in realtime, has a small free plan
+  * http://crashlytics.com - Free for most, enterprise features on demand
 
 ## Search
 
