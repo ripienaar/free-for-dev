@@ -362,6 +362,7 @@ Table of Contents
    * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals.
    * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
+   * https://www.codeivate.com - Code statistics plugin for Sublime Text 2/3 and Jetbrains products.
 
 ## Analytics, Events and  Statistics
 
@@ -372,6 +373,7 @@ Table of Contents
  * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
  * https://gosquared.com - Track up to 1,000 data points for free.
  * https://mixpanel.com - Free 25000 points or 200000 with their badge on your site.
+
 
 
 ## International Mobile number verification API and SDK
