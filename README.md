@@ -359,7 +359,6 @@ Table of Contents
    * https://www.mockable.io/ - Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
    * https://readme.io/ - Beautiful documentations made easy - free for Open Source
-   * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
    * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals.
    * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
