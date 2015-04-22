@@ -94,6 +94,7 @@ Table of Contents
 
 ## CI / CD
 
+  * https://www.bitrise.io - CI & CD service for iOS projects. Free for typical personal use.
   * https://codeship.com/ - 100 private builds / month, 5 private projects.  Unlimited for Open Source
   * https://circleci.com - Free for one concurrent build
   * https://travis-ci.org - Free for public Github repositories.
