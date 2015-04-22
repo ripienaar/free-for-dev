@@ -379,7 +379,7 @@ Table of Contents
 
 ## Payment / Billing Integration
 
- * https://www.braintreepayments.com - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $50 are free of charge.
+ * https://www.braintreepayments.com - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $50.000 are free of charge.
 
 ## Other Packs
 
