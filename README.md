@@ -276,7 +276,6 @@ Table of Contents
 
 ## DBaaS
 
-   * https://mongolab.com/ - MongoDB as a service (500mb free)
    * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
    * https://realm.io - Free to use even for commercial projects, under Apache 2.0 License
    * https://orchestrate.io/ - 1 application free
