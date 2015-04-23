@@ -372,6 +372,7 @@ Table of Contents
  * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
  * https://gosquared.com - Track up to 1,000 data points for free.
  * https://mixpanel.com - Free 25000 points or 200000 with their badge on your site.
+ * http://ptengine.com - Free 20000 page views/month, one domain and one heath map.
 
 
 ## International Mobile number verification API and SDK
