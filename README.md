@@ -277,7 +277,6 @@ Table of Contents
 ## DBaaS
 
    * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
-   * https://realm.io - Free to use even for commercial projects, under Apache 2.0 License
    * https://orchestrate.io/ - 1 application free
    * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
    * https://www.backand.com/ - Back-end as a service (for AngularJS)
