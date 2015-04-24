@@ -346,7 +346,7 @@ Table of Contents
    
 ## Binary repositories
 
-   * https://bintray.com/ - binary repository system (maven, .deb and .rpm). Repo can be registered for each system, making updates easier.
+   * https://bintray.com/ - binary repository system (maven, .deb and .rpm ... and even docker). Repo can be registered for each system, making updates easier.
    
 
 ## IDE and Code Editing
