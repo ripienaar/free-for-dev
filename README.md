@@ -88,6 +88,7 @@ Table of Contents
   * https://insight.sensiolabs.com/ - Code Quality for PHP/Symfony projects, free for Open Source
   * https://www.codacy.com/ - Automated code reviews for PHP, Python, Javascript, Scala and CSS - free for open source
   * https://www.pullreview.com - Automated Code Review for Ruby in GitHub, Bitbucket and Gitlab - free for Open Source
+  * http://gocover.io/ - Code coverage for any [Go](http://golang.org/) package
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
