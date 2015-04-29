@@ -366,6 +366,7 @@ Table of Contents
    * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
    * https://www.sourcelair.com - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project.
+   * https://www.visualstudio.com/products/code-vs - Code editing redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform—Linux, Mac OSX, and Windows.
 
 ## Analytics, Events and  Statistics
 
