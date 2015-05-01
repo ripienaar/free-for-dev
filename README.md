@@ -260,6 +260,7 @@ Table of Contents
   * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
   * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
   * https://pushbots.com - Push notification service. Free for up to 1,500,000 push/month.
+  * http://baas.io - Mobile backends, from kt(Korean Telecom), FREE, no limit, open beta since Nov 1st 2012, using usergrid.
 
 ## Web Hosting
 
