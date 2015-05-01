@@ -385,6 +385,7 @@ Table of Contents
 ## Payment / Billing Integration
 
  * https://www.braintreepayments.com - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $50 are free of charge.
+ * https://stripe.com/ - Web and mobile payments built for developers. Accepts major credit cards, PayPal, Bitcoin, and Apple Pay. Has libraries for popular programming languages. Charges 2.9% + 30¢ per successful charge.
 
 ## Other Packs
 
