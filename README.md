@@ -276,7 +276,6 @@ Table of Contents
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
   * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries
-  * https://developer.rackspace.com/signup/ - Get $50/month for 12 months to use toward cloud services.
 
 ## DBaaS
 
