@@ -75,6 +75,7 @@ Table of Contents
   * https://helpmonks.com/ - Shared inbox for teams - Free for open source projects and non-profit organizations.
   * http://typetalk.in/ - Share and discuss ideas with your team through instant messaging on the web or on your mobile.
   * https://talky.io/ - Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required.
+  * http://sourcetalk.net/ - Code discussion tool, free for open code talks.
 
 ## Code Quality
 
