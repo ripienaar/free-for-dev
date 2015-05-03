@@ -410,3 +410,6 @@ Table of Contents
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
+  * https://wit.ai/ - NLP for developers
+  * http://azure.microsoft.com/en-us/services/machine-learning/ - Predictive Analytics in the cloud
+  * https://www.wolfram.com/language/ - Built-in knowledge based algorithms in the cloud
