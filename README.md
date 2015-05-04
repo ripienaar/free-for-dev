@@ -85,7 +85,7 @@ Table of Contents
   * https://houndci.com/ - Comments on github commits about code quality - free for Open Source
   * https://coveralls.io/ - Display test coverage reports - free for open source
   * https://scrutinizer-ci.com/ - Continuous inspection platform - free for Open Source
-  * https://codecov.io/ - Code coverage tool (SaaS), no restrictions for publics repos and $5 a month for unlimited private repos. Featuring browser extensions for code coverage overlays in Github.
+  * https://codecov.io/ - Code coverage tool (SaaS), no restrictions for publics repos and $5 a month for unlimited private repos.
   * https://insight.sensiolabs.com/ - Code Quality for PHP/Symfony projects, free for Open Source
   * https://www.codacy.com/ - Automated code reviews for PHP, Python, Javascript, Scala and CSS - free for open source
   * https://www.pullreview.com - Automated Code Review for Ruby in GitHub, Bitbucket and Gitlab - free for Open Source
