@@ -396,7 +396,7 @@ Table of Contents
 
 ## Other Packs
 
- * https://education.github.com/pack - As long as you're a student at a recognized university
+ * https://education.github.com/pack - As long as you're a student at a recognized university or US high school
 
 ## Docker Related
 ### Alternate container hosting
