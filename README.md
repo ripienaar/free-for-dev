@@ -332,6 +332,7 @@ Table of Contents
    * https://www.visualstudio.com/products/what-is-visual-studio-online-vs - Unlimited free private code repositories; Tracks bugs, work items, feedback and more.
    * https://testlio.com - Issue tracking, test management and beta testing platform. Free for private use.
    * https://www.vivifyscrum.com/ Free tool for Agile project management. Scrum Compatible.
+   * http://www.targetprocess.com/ - Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1000 data entities (more details at http://www.targetprocess.com/pricing/).
 
 ## Storage and Media Processing
 
