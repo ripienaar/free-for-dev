@@ -161,6 +161,7 @@ Table of Contents
 
 ## Monitoring
 
+  * https://checkmy.ws/en/solutions/free-forever-for-foss/ - Free 15 days full demo and 3 websites forever free for Open Source projects.
   * http://www.appneta.com - Free with 1 hour data retention
   * https://www.thousandeyes.com  - Network & user experience monitoring. 3 locations, plus 20 data feeds of major web services free.
   * https://www.datadoghq.com/ - Free for up to 5 nodes
