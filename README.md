@@ -61,7 +61,6 @@ Table of Contents
 ## Tools for teams & Collaboration
 
   * http://appear.in/ - One click video conversations, for free
-  * http://www.hall.com/ - Free for unlimited users with some feature limitations
   * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
   * https://slack.com - Free for unlimited users with some feature limitations
   * https://hipchat.com - Free for unlimited users with some feature limitations
