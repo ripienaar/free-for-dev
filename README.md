@@ -128,6 +128,10 @@ Table of Contents
   * https://www.tinfoilsecurity.com/ - Automated vulnerability scanning. Free plan = weekly XSS scans.
   * http://www.acunetix.com/free-network-security-scanner/ - Free vulnerability & network scanning for 3 targets
 
+## User Management (Manage user authentication, SSO, and more)
+ 
+  * http://www.soclall.com/ - Free up to 1,000 users login, post, share through top 20+ social networks
+
 ## Management Systems
 
   * https://opbeat.com/ - Release, deploy, monitor.  Free for 3 users
