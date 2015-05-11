@@ -382,8 +382,7 @@ Table of Contents
    * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
    * https://www.sourcelair.com/ - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project.
    * https://codepen.io/ - CodePen is a playground for the front end side of the web.
-   * https://jsfiddle.net/ - In-browser editor for JavaScript, HTML, and CSS.
-   
+
 ## Analytics, Events and  Statistics
 
    * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
