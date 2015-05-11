@@ -221,7 +221,7 @@ Table of Contents
 
 ## CDN and Protection
 
-  * http://www.cloudflare.com/ - Basic service is free, good for a blog
+  * http://www.cloudflare.com/ - Basic service is free, good for a blog, Cloudflare also offers a free SSL certificate service
   * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
   * https://surge.sh/ - Zero-bullshit, single–command, bring your own source control web publishing CDN.
   * https://cdnjs.com/ - CDN for JavaScript libraries, CSS libraries, SWF, images, etc!
