@@ -163,7 +163,7 @@ Table of Contents
 
   * https://checkmy.ws/en/solutions/free-forever-for-foss/ - Free 15 days full demo and 3 websites forever free for Open Source projects.
   * http://www.appneta.com/ - Free with 1 hour data retention
-  * https://www.thousandeyes.com/  - Network & user experience monitoring. 3 locations, plus 20 data feeds of major web services free.
+  * https://www.thousandeyes.com/ - Network & user experience monitoring. 3 locations, plus 20 data feeds of major web services free.
   * https://www.datadoghq.com/ - Free for up to 5 nodes
   * http://www.stackdriver.com/ - Free for up to 10 nodes/services
   * https://keymetrics.io/ - Free for 2 servers with 7 days data retention
@@ -262,7 +262,7 @@ Table of Contents
   * https://www.blockspring.com/ - Cloud functions. Free for 5 million runs a month.
   * https://www.contentful.com/ - Content as a Service. Content Management & Delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1,000,000 API requests per month for free.
   * http://www.kinvey.com/ - Mobile backend, starter plan has unlimited requests per second, with 2 GB of data storage, as well as push notifications for up 5,000,000 unique recipients. Enterprise application support.
-  * http://konacloud.io/ Web and Mobile Backend as a Service, with 5 GB free account.
+  * http://konacloud.io/ - Web and Mobile Backend as a Service, with 5 GB free account.
   * https://layer.com/ - The full-stack building block for communications.
   * https://www.parse.com/ - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
   * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
@@ -306,10 +306,10 @@ Table of Contents
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
-   * https://pusher.com/ Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
+   * https://pusher.com/ - Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
    * stun:stun.l.google.com:19302 - Google STUN
    * stun:global.stun.twilio.com:3478?transport=udp - Twilio STUN
-   * https://www.segment.com/ Hub to translate and route events to other third party services. 100k events a month free.
+   * https://www.segment.com/ - Hub to translate and route events to other third party services. 100k events a month free.
    * https://ngrok.com/ - expose locally running servers over a tunnel to a public URL
 
 ## Issue tracking / Project management
@@ -335,7 +335,7 @@ Table of Contents
    * http://leankit.com/ - Kanban board, that visualizes your workflow. Free up to 10 users.
    * https://www.visualstudio.com/products/what-is-visual-studio-online-vs - Unlimited free private code repositories; Tracks bugs, work items, feedback and more.
    * https://testlio.com/ - Issue tracking, test management and beta testing platform. Free for private use.
-   * https://www.vivifyscrum.com/ Free tool for Agile project management. Scrum Compatible.
+   * https://www.vivifyscrum.com/ - Free tool for Agile project management. Scrum Compatible.
    * http://www.targetprocess.com/ - Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1000 data entities (more details at http://www.targetprocess.com/pricing/).
 
 ## Storage and Media Processing
