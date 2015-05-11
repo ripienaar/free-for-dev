@@ -381,18 +381,18 @@ Table of Contents
    * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
    * https://www.sourcelair.com/ - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project.
+   * https://codepen.io/ - CodePen is a playground for the front end side of the web.
 
 ## Analytics, Events and  Statistics
 
- * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
- * https://google.com/analytics/ - Google Analytics
- * https://heapanalytics.com/ - Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits per month.
- * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
- * https://usabilityhub.com/ - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
- * https://gosquared.com/ - Track up to 1,000 data points for free.
- * https://mixpanel.com/ - Free 25000 points or 200000 with their badge on your site.
- * https://keen.io/ - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
-
+   * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
+   * https://google.com/analytics/ - Google Analytics
+   * https://heapanalytics.com/ - Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits per month.
+   * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
+   * https://usabilityhub.com/ - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
+   * https://gosquared.com/ - Track up to 1,000 data points for free.
+   * https://mixpanel.com/ - Free 25000 points or 200000 with their badge on your site.
+   * https://keen.io/ - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
