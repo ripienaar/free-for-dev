@@ -187,7 +187,6 @@ Table of Contents
   * https://deadmanssnitch.com/ - Monitoring for cron jobs. 1 free snitch (monitor) - more available if you refer others to sign up
   * http://caliper.io/ - Monitoring for Single Page Apps
   * https://www.librato.com/ - Free up to 100 metrics at 60s resolution
-  * https://www.cronasaservice.com/ - Hosted cron service (send regular HTTP requests). Unlimited free cron jobs.
 
 ## Crash / Exception handling
 
@@ -288,6 +287,7 @@ Table of Contents
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
   * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries
+  * https://www.cronasaservice.com/ - Hosted cron service (send regular HTTP requests). Unlimited free cron jobs.
 
 ## DBaaS
 
