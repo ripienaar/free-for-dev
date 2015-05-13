@@ -187,6 +187,7 @@ Table of Contents
   * https://deadmanssnitch.com/ - Monitoring for cron jobs. 1 free snitch (monitor) - more available if you refer others to sign up
   * http://caliper.io/ - Monitoring for Single Page Apps
   * https://www.librato.com/ - Free up to 100 metrics at 60s resolution
+  * https://www.cronasaservice.com/ - Hosted cron service (send regular HTTP requests). Unlimited free cron jobs.
 
 ## Crash / Exception handling
 
