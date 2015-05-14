@@ -76,6 +76,7 @@ Table of Contents
   * https://talky.io/ - Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required.
   * http://sourcetalk.net/ - Code discussion tool, free for open code talks.
   * http://vipaar.com/ - Help over video with augmented reality. Free without analytics, encryption, support.
+  * https://evernote.com/ - Tool for organizing information. Share your notes and work together with others. 
 
 ## Code Quality
 
