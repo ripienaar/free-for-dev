@@ -421,7 +421,3 @@ Table of Contents
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ripienaar/free-for-dev/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
