@@ -160,7 +160,6 @@ Table of Contents
   * https://www.mousestats.com/ - 100 sessions/month free for 1 website
   * https://bitdeli.com/ - Unlimited free analytics
 
-**P.S. - GitHub also has its own analytic service. [Read Here](https://github.com/blog/1672-introducing-github-traffic-analytics)**
 
 ## Monitoring
 
