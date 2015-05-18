@@ -427,3 +427,4 @@ Table of Contents
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
+  * http://www.bosonnlp.com/ - NLP for Chinese.
