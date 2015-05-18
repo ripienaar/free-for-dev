@@ -117,6 +117,7 @@ Table of Contents
   * http://vaddy.net - Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scan history for free
   * https://www.globalsign.com/en/ssl/ssl-open-source/ - Free SSL certs for Open Source projects
   * https://www.startssl.com/ - Free SSL certs
+  * http://www.soclall.com/ - Free up to 1,000 users login, post, share through top 20+ social networks
   * https://stormpath.com/ - Free user management, authentication, social login, and SSO.
   * https://auth0.com/ - Hosted free for development SSO
   * https://getclef.com/ - New take on auth unlimited free tier for anyone not using premium features
@@ -127,11 +128,7 @@ Table of Contents
   * https://duosecurity.com - Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens.
   * https://www.tinfoilsecurity.com/ - Automated vulnerability scanning. Free plan = weekly XSS scans.
   * http://www.acunetix.com/free-network-security-scanner/ - Free vulnerability & network scanning for 3 targets
-
-## User Management (Manage user authentication, SSO, and more)
- 
-  * http://www.soclall.com/ - Free up to 1,000 users login, post, share through top 20+ social networks
-
+  
 ## Management Systems
 
   * https://opbeat.com/ - Release, deploy, monitor.  Free for 3 users
