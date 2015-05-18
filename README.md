@@ -189,6 +189,7 @@ Table of Contents
   * https://deadmanssnitch.com/ - Monitoring for cron jobs. 1 free snitch (monitor) - more available if you refer others to sign up
   * http://caliper.io/ - Monitoring for Single Page Apps
   * https://www.librato.com/ - Free up to 100 metrics at 60s resolution
+  * http://visualping.io/ - Notifies when a site visual captured area changes, 50 free notifications.
 
 ## Crash / Exception handling
 
