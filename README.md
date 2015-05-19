@@ -187,7 +187,6 @@ Table of Contents
   * https://www.skylight.io/ - Free for first 100k requests
   * https://www.appdynamics.com/ - Free for 24h metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
   * https://deadmanssnitch.com/ - Monitoring for cron jobs. 1 free snitch (monitor) - more available if you refer others to sign up
-  * http://caliper.io/ - Monitoring for Single Page Apps
   * https://www.librato.com/ - Free up to 100 metrics at 60s resolution
 
 ## Crash / Exception handling
