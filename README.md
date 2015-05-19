@@ -279,6 +279,7 @@ Table of Contents
   * https://divshot.com/ - Static Web Hosting for Developers, free basic apps, 1 GB bandwidth, 100 MB storage, custom domains, subdomain SSL.
   * https://pantheon.io/ - Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies.
   * https://www.acquia.com/free - Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available.
+  * https://www.bitballoon.com - BitBalloon offers hosting for static sites and apps. Free on a subdomain.
 
 ## IaaS
 
