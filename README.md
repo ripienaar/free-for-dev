@@ -414,9 +414,9 @@ Table of Contents
  * https://education.github.com/pack - As long as you're a student at a recognized university or US high school
 
 ## Docker Related
-### Alternate container hosting
+### Alternate hosting
 
-  * https://quay.io/ - Unlimited free public containers
+  * https://quay.io/ - Unlimited free public repositories
 
 ### PaaS
 
