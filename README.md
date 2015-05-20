@@ -132,6 +132,7 @@ Table of Contents
   * https://duosecurity.com/ - Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens.
   * https://www.tinfoilsecurity.com/ - Automated vulnerability scanning. Free plan = weekly XSS scans.
   * http://www.acunetix.com/free-network-security-scanner/ - Free vulnerability & network scanning for 3 targets
+  * https://www.ponycheckup.com/ - An automated security checkup tool for Django websites.
   
 ## Management Systems
 
