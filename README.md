@@ -9,6 +9,9 @@ You can help by sending Pull Requests to add more services. Once I have a good s
 
 If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
+#Brothers
+[FOSS-for-Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) - A hub of Free and open-source software for developers
+
 Table of Contents
 =================
 
