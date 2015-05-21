@@ -9,9 +9,6 @@ You can help by sending Pull Requests to add more services. Once I have a good s
 
 If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 
-#Brothers
-[FOSS-for-Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) - A hub of Free and open-source software for developers
-
 Table of Contents
 =================
 
@@ -50,6 +47,7 @@ Table of Contents
    * [Vagrant Related](#vagrant-related)
    * [Vagrant box indexes](#vagrant-box-indexes)
    * [Data mining](#data-mining)
+   * [Other lists](#other-lists)
 
 ## Source Code Repos
 
@@ -436,3 +434,6 @@ Table of Contents
   * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
   * https://wit.ai/ - NLP for developers
   * https://www.wolfram.com/language/ - Built-in knowledge based algorithms in the cloud
+
+## Other lists
+  * https://github.com/httpsGithubParty/FOSS-for-Dev - A hub of Free and open-source software for developers
