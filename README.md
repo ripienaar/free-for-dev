@@ -315,6 +315,7 @@ Table of Contents
 
    * https://www.pivotaltracker.com/community/public-projects - Pivotal Tracker. Free for public projects.
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
+   * http://kanbantool.com/ - Kanban board based project management. Free (paid plans with more options).
    * https://kanbanflow.com/ - Board based project management. Free (premium version with more options).
    * https://kanbanpad.com/ - Board based project management. Free (premium version with more options).
    * https://kanbanery.com/ - Board based project management. Free for 2 users (premium tiers with more options).
