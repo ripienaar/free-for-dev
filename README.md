@@ -21,7 +21,6 @@ Table of Contents
    * [Management Systems](#management-systems)
    * [Log Management](#log-management)
    * [Translation Management](#translation-management)
-   * [Analytics](#analytics)
    * [Monitoring](#monitoring)
    * [Crash / Exception handling](#crash--exception-handling)
    * [Search](#search)
@@ -157,14 +156,6 @@ Table of Contents
  * http://transifex.com/ - free for Open Source projects
  * http://www.oneskyapp.com/ - limited free edition for up to 5 users, free for Open Source projects
  * https://crowdin.com/ - Unlimited projects, unlimited strings and collaborators for Open Source projects
-
-## Analytics
-
-  * http://www.splunk.com/en_us/products/splunk-cloud.html - Upload 5GB of data per day up to 28GB of total data stored
-  * https://parse.com/ - Unlimited free analytics
-  * https://keen.io/ - Up to 50,000 events/month free
-  * http://www.inspectlet.com/ - 100 sessions/month free for 1 website
-  * https://www.mousestats.com/ - 100 sessions/month free for 1 website
 
 ## Monitoring
 
@@ -402,6 +393,11 @@ Table of Contents
    * https://gosquared.com/ - Track up to 1,000 data points for free.
    * https://mixpanel.com/ - Free 25000 points or 200000 with their badge on your site.
    * https://keen.io/ - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
+  * http://www.splunk.com/en_us/products/splunk-cloud.html - Upload 5GB of data per day up to 28GB of total data stored
+  * https://parse.com/ - Unlimited free analytics
+  * https://keen.io/ - Up to 50,000 events/month free
+  * http://www.inspectlet.com/ - 100 sessions/month free for 1 website
+  * https://www.mousestats.com/ - 100 sessions/month free for 1 website
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
