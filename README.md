@@ -291,7 +291,7 @@ Table of Contents
 
    * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
    * https://orchestrate.io/ - 1 application free
-   * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
+   * https://redislabs.com/redis-cloud - Redis as a Service (30 mb & 30 concurrent connections free)
    * https://www.backand.com/ - Back-end as a service (for AngularJS)
    * http://www.zenginehq.com/ - Build business workflow apps in minutes - free for single users
    * https://parsehub.com/ — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.
