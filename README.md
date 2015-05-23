@@ -348,7 +348,9 @@ Table of Contents
    * https://shrinkray.io/ - free image optimization of Github repos
    * https://www.cine.io/ - Scalable video broadcasting and p2p real-time video chat for iOS, Android, and web. Free tiers available for developers.
    * http://imagefly.io/ - Responsive images on-demand.  CDN-fronted image resizing, transcoding, and optimizing.  100 MB/month for free.
-   * https://kraken.io/pro - Image optimization for website performance as a service - free plan up to 1MB filesize 
+   * https://kraken.io/pro - Image optimization for website performance as a service - free plan up to 1MB filesize
+   * https://placehold.it/ - A quick and simple image placeholder service.
+   * https://placekitten.com/ - A quick and simple service for getting pictures of kittens for use as placeholders.
 
 ## Data Visualization on Maps
 
