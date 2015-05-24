@@ -57,6 +57,7 @@ Table of Contents
   * https://hub.jazz.net/ - Unlimited public repos, private repos free for up to 3 accounts.
   * https://visualstudio.com/ - Free unlimited private repos (Git and TFS) for up to 5 users per team
   * https://assembla.com/ - Free repo hosting in a free plan.
+  * http://www.fogcreek.com/kiln/ -  Free unlimited public and private repos (hybrid of git and mecurial) for 2 users.
 
 ## Tools for teams & Collaboration
 
