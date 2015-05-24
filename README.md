@@ -395,6 +395,7 @@ Table of Contents
    * https://usabilityhub.com/ - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
    * https://gosquared.com/ - Track up to 1,000 data points for free.
    * https://mixpanel.com/ - Free 25000 points or 200000 with their badge on your site.
+   * https://amplitude.com/ - 1 million monthly events, up to 2 apps.
    * https://keen.io/ - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
    * http://www.splunk.com/en_us/products/splunk-cloud.html - Upload 5GB of data per day up to 28GB of total data stored
    * https://parse.com/ - Unlimited free analytics
