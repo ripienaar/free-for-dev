@@ -438,3 +438,4 @@ Table of Contents
 
 ## Other lists
   * https://github.com/httpsGithubParty/FOSS-for-Dev - A hub of Free and open-source software for developers
+  * https://github.com/pborreli/free-for-nonprofit - List of free services for non-profit organisations
