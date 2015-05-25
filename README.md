@@ -400,7 +400,6 @@ Table of Contents
    * https://keen.io/ - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
    * http://www.splunk.com/en_us/products/splunk-cloud.html - Upload 5GB of data per day up to 28GB of total data stored
    * https://parse.com/ - Unlimited free analytics
-   * https://keen.io/ - Up to 50,000 events/month free
    * http://www.inspectlet.com/ - 100 sessions/month free for 1 website
    * https://www.mousestats.com/ - 100 sessions/month free for 1 website
 
