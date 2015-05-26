@@ -215,8 +215,7 @@ Table of Contents
   * https://mailstache.io/ - 4 Mailboxes @ 1GB each for up to 2 custom domains.
   * https://postmarkapp.com/ - First 25,000 emails are free
   * https://www.zoho.com/mail/ - Free Email management and collaboration for up to 10 users.
-  * https://pdd.yandex.ru - Free email&dns hosting for up to 1000 users.
-  * https://biz.mail.ru/ - Free email hosting.
+  * https://domain.yandex.com/domains_add/ - Free email&dns hosting for up to 1000 users.
   * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
 
 ## CDN and Protection
@@ -406,7 +405,7 @@ Table of Contents
    * https://parse.com/ - Unlimited free analytics
    * http://www.inspectlet.com/ - 100 sessions/month free for 1 website
    * https://www.mousestats.com/ - 100 sessions/month free for 1 website
-   * https://metrika.yandex.ru/ - Unlimited free analytics
+   * https://metrika.yandex.com/ - Unlimited free analytics
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
