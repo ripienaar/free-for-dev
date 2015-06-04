@@ -279,6 +279,7 @@ Table of Contents
   * https://www.acquia.com/free - Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available.
   * https://www.bitballoon.com - BitBalloon offers hosting for static sites and apps. Free on a subdomain.
   * https://freedns.afraid.org/ - Free DNS hosting 
+  *	https://dns.he.net/ - Free DNS hosting service with Dynamic DNS Support
 
 ## IaaS
 
