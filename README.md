@@ -314,7 +314,7 @@ Table of Contents
    * stun:global.stun.twilio.com:3478?transport=udp - Twilio STUN
    * https://www.segment.com/ - Hub to translate and route events to other third party services. 100k events a month free.
    * https://ngrok.com/ - expose locally running servers over a tunnel to a public URL
-   * https://tunnelbroker.net/ Hurricane Electric IPv6 Tunnel Broker, enables you to access IPv6 internet over IPv4.
+   * https://tunnelbroker.net/ - Hurricane Electric IPv6 Tunnel Broker, enables you to access IPv6 internet over IPv4.
 
 ## Issue tracking / Project management
 
@@ -358,7 +358,7 @@ Table of Contents
    * https://kraken.io/pro - Image optimization for website performance as a service - free plan up to 1MB filesize
    * https://placehold.it/ - A quick and simple image placeholder service.
    * https://placekitten.com/ - A quick and simple service for getting pictures of kittens for use as placeholders.
-   * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per month at 15 requests/second
+   * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
 
 ## Data Visualization on Maps
 
