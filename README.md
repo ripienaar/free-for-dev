@@ -358,7 +358,7 @@ Table of Contents
    * https://kraken.io/pro - Image optimization for website performance as a service - free plan up to 1MB filesize
    * https://placehold.it/ - A quick and simple image placeholder service.
    * https://placekitten.com/ - A quick and simple service for getting pictures of kittens for use as placeholders.
-   * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
+   * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per month at 15 requests/second
 
 ## Data Visualization on Maps
 
