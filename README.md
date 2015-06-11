@@ -314,6 +314,7 @@ Table of Contents
 ## Issue tracking / Project management
 
    * https://www.pivotaltracker.com/community/public-projects - Pivotal Tracker. Free for public projects.
+   * https://www.bitrix24.com/ - Free intranet & project management tool
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
    * https://kanbanflow.com/ - Board based project management. Free (premium version with more options).
    * https://kanbanpad.com/ - Board based project management. Free (premium version with more options).
