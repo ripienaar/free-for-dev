@@ -360,6 +360,7 @@ Table of Contents
    * https://placehold.it/ - A quick and simple image placeholder service.
    * https://placekitten.com/ - A quick and simple service for getting pictures of kittens for use as placeholders.
    * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
+   * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos.
 
 ## Data Visualization on Maps
 
