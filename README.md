@@ -280,6 +280,7 @@ Table of Contents
   * https://www.bitballoon.com - BitBalloon offers hosting for static sites and apps. Free on a subdomain.
   * https://freedns.afraid.org/ - Free DNS hosting 
   * https://dns.he.net/ - Free DNS hosting service with Dynamic DNS Support
+  * https://readthedocs.org/ - Free documentation hosting with versioning, PDF generation and more.
 
 ## IaaS
 
