@@ -345,6 +345,7 @@ Table of Contents
    * https://www.vivifyscrum.com/ - Free tool for Agile project management. Scrum Compatible.
    * http://www.targetprocess.com/ - Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1000 data entities (more details at http://www.targetprocess.com/pricing/).
    * https://overv.io/ - Agile project management for teams who love GitHub.
+   * https://taskulu.com/ - Role based project management. Free up to 5 users. Integration with Github/ Trello/ Dropbox/ Google Drive.
 
 ## Storage and Media Processing
 
