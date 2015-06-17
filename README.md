@@ -193,6 +193,7 @@ Table of Contents
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
   * http://getsentry.com/ - Sentry tracks app exceptions in realtime, has a small free plan. Free, unrestricted use if self-hosted.
+  * http://acra.ch/ - Free, Open source, In-app crash report. Requires mail or self-hosted service to send logs. 
 
 ## Search
 
