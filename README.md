@@ -348,7 +348,12 @@ Table of Contents
    * https://shrinkray.io - free image optimization of Github repos
    * https://www.cine.io - Scalable video broadcasting and p2p real-time video chat for iOS, Android, and web. Free tiers available for developers.
    * http://imagefly.io - Responsive images on-demand.  CDN-fronted image resizing, transcoding, and optimizing.  100 MB/month for free.
-
+     
+## Design & Graphics  
+  
+* http://www.adobe.com/creativecloud/catalog/desktop.html?promoid=KSPAJ - free 30 day Trial on Adobe creative cloud (Illustrator, Photoshop...)  
+* pixlr.com online browser editor  
+  
 ## Data Visualization on Maps
 
    * http://geocod.io - Geocoding via API or CSV Upload. 2.500 free queries per day.
