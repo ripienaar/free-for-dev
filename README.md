@@ -352,7 +352,7 @@ Table of Contents
 ## Design & Graphics  
   
 * http://www.adobe.com/creativecloud/catalog/desktop.html?promoid=KSPAJ - free 30 day Trial on Adobe creative cloud (Illustrator, Photoshop...)  
-* pixlr.com online browser editor  
+* http://pixlr.com online browser editor  
   
 ## Data Visualization on Maps
 
