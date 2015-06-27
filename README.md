@@ -149,6 +149,7 @@ Table of Contents
   * https://www.loggly.com/ - Free for a single user, see the ```lite``` option
   * http://sematext.com/logsene - Free for 1M logs, unlimited retention
   * https://www.sumologic.com/ - Free up to 500MB/day, 7 day retention
+  * https://www.elastic.co/products/logstash - Logstash is a flexible, open source data collection, enrichment, and transportation pipeline tool.
 
 ## Translation Management
 
