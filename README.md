@@ -349,10 +349,15 @@ Table of Contents
    * https://www.cine.io - Scalable video broadcasting and p2p real-time video chat for iOS, Android, and web. Free tiers available for developers.
    * http://imagefly.io - Responsive images on-demand.  CDN-fronted image resizing, transcoding, and optimizing.  100 MB/month for free.
      
-## Design & Graphics  
+## Design & UI  
   
-* http://www.adobe.com/creativecloud/catalog/desktop.html?promoid=KSPAJ - free 30 day Trial on Adobe creative cloud (Illustrator, Photoshop...)  
-* http://pixlr.com online browser editor  
+* [Codepen - Snippets](http://materialdesignblog.com/top-25-material-design-html-css-code-snippets-from-codepen/) - Top 25 Codepen Snippets for Material Design
+* [UI8](https://ui8.net/category/freebies) - Freebies at UI8 (mockups, icons, themes)
+* [Sketch](http://www.sketchappsources.com/all-free-sources.html) - Free design resources for SKETCH (but sometimes plain SVG too)
+* [Graphs Collection](https://www.materialup.com/collections/graphs-87b50f17-370d-4826-b9c1-cb072badd468) - Material Design graphs collection
+* [Materializer](https://gitlab.datatrends.es/opensource/materializer) - The most complete Material Design Framework
+* [Pixlr](http://pixlr.com) - Free online browser editor  
+* [CreativeCloudTrial](http://www.adobe.com/creativecloud/catalog/desktop.html?promoid=KSPAJ) - Free 30 day Trial on Adobe creative cloud (Illustrator, Photoshop, After Effects ...) You get 30 days of a program being installed, if you uninstall the program after having used it the countdown pauses.  
   
 ## Data Visualization on Maps
 
