@@ -201,6 +201,8 @@ Table of Contents
   * https://swiftype.com/ - hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premium level for open-source projects.
   * https://bonsai.io/ - Free 1GB memory and 1GB storage.
   * http://www.searchly.com/ - Free 2 Indices and 5MB storage.
+  * https://facetflow.com/ - Hosted Elasticsearch for Microsoft Azure. Free 5000 docs / 500 MB
+  * http://indexisto.com/ - Site search reinvented. Free 10,000,000 document index limit with advertisement block.
 
 ## Email
 
