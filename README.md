@@ -318,6 +318,7 @@ Table of Contents
    * stun:global.stun.twilio.com:3478?transport=udp - Twilio STUN
    * https://www.segment.com/ - Hub to translate and route events to other third party services. 100k events a month free.
    * https://ngrok.com/ - expose locally running servers over a tunnel to a public URL
+   * https://www.cloudamqp.com/ - RabbitMQ as a Service. Little Lemur plan: max 1M message per month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in differen AZ's.
   
 
 ## Issue tracking / Project management
