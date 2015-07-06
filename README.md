@@ -234,6 +234,7 @@ Table of Contents
   * https://toranproxy.com/ - Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support.
   * http://rawgit.com/ - free limited traffic, serves raw files directly from GitHub with proper Content-Type headers.
   * https://www.incapsula.com/ - free CDN and DDoS protection
+  * https://www.fastly.com/ - Free CDN, all features until 50$/m is reached, enough for most, then pay or suspended.
 
 ## PaaS
   * http://restlet.com/products/apispark/ - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
