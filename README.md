@@ -140,7 +140,6 @@ Table of Contents
   
 ## Management Systems
 
-  * https://opbeat.com/ - Release, deploy, monitor.  Free for 3 users
   * https://bitnami.com/ - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
 
 ## Log Management
@@ -162,6 +161,7 @@ Table of Contents
 
 ## Monitoring
 
+  * https://opbeat.com/ - Application performance, errors & releases. Free with 24 hour data retention.
   * https://checkmy.ws/en/solutions/free-forever-for-foss/ - Free 15 days full demo and 3 websites forever free for Open Source projects.
   * http://www.appneta.com/ - Free with 1 hour data retention
   * https://www.thousandeyes.com/ - Network & user experience monitoring. 3 locations, plus 20 data feeds of major web services free.
