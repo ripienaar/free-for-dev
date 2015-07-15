@@ -35,7 +35,7 @@ Table of Contents
    * [STUN, WebRTC, Web Socket Servers and other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
    * [Issue tracking / Project management](#issue-tracking--project-management)
    * [Storage and Media Processing](#storage-and-media-processing)
-   * [Design & UI](https://github.com/mthjn/free-for-dev/blob/master/README.md#design--ui)
+   * [Design & UI](#design--ui)
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [Package Build Systems](#package-build-systems)
    * [IDE and Code Editing](#ide-and-code-editing)
