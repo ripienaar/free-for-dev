@@ -352,13 +352,9 @@ Table of Contents
      
 ## Design & UI  
   
-* [Codepen - Snippets](http://materialdesignblog.com/top-25-material-design-html-css-code-snippets-from-codepen/) - Top 25 Codepen Snippets for Material Design
-* [UI8](https://ui8.net/category/freebies) - Freebies at UI8 (mockups, icons, themes)
-* [Sketch](http://www.sketchappsources.com/all-free-sources.html) - Free design resources for SKETCH (but sometimes plain SVG too)
-* [Graphs Collection](https://www.materialup.com/collections/graphs-87b50f17-370d-4826-b9c1-cb072badd468) - Material Design graphs collection
-* [Materializer](https://gitlab.datatrends.es/opensource/materializer) - The most complete Material Design Framework
-* [Pixlr](http://pixlr.com) - Free online browser editor  
-* [CreativeCloudTrial](http://www.adobe.com/creativecloud/catalog/desktop.html?promoid=KSPAJ) - Free 30 day Trial on Adobe creative cloud (Illustrator, Photoshop, After Effects ...) You get 30 days of a program being installed, if you uninstall the program after having used it the countdown pauses.  
+* [Pixlr](http://pixlr.com) - Free online browser editor on the level of commercial ones  
+* [Imagebin](http://imagebin.ca/) - Pastebin for images
+* [Cloudconvert](https://cloudconvert.com/) - Convert anything to anything. 208 supported formats including videos to gif.
   
 ## Data Visualization on Maps
 
