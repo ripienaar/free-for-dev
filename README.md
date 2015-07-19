@@ -143,6 +143,7 @@ Table of Contents
 ## Management Systems
 
   * https://bitnami.com/ - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
+  * http://www.visualops.io/ - 3,600 instance hours per month free
 
 ## Log Management
 
@@ -261,7 +262,6 @@ Table of Contents
   * https://www.pythonanywhere.com/ - cloud Python app hosting. Beginner account is free - one Python web applications at your-username.pythonanywhere.com domain, 512MB private file storage, one MuSQL database.
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
-  * http://www.visualops.io/ - Personal workplace gets 3,600 instance hours per month
   
 ## BaaS
 
