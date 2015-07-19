@@ -260,6 +260,7 @@ Table of Contents
   * https://www.mendix.com/ - Rapid Application Development for Enterprises - Unlimited number of free sandbox environments supporting 10 users, 100MB of files and 100MB database storage each.
   * https://www.pythonanywhere.com/ - cloud Python app hosting. Beginner account is free - one Python web applications at your-username.pythonanywhere.com domain, 512MB private file storage, one MuSQL database.
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
+  * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no rescource limits
 ## BaaS
 
   * http://apigee.com/docs/api-baas (product docs), http://apigee.com/docs/developer-vs-edge (registration) - Unlimited trial includes NoSQL data store with 25GB of storage, user and permission management, geolocation, 10,000,000 push notifications per month, remote configuration, beta and A/B split testing, APM, fully API driven.  Accessible and manageable via UI, SDK, and API.
