@@ -98,6 +98,7 @@ Table of Contents
   * https://www.pullreview.com/ - Automated Code Review for Ruby in GitHub, Bitbucket and Gitlab - free for Open Source
   * http://gocover.io/ - Code coverage for any [Go](http://golang.org/) package
   * http://inch-ci.org/ - Documentation badges for Ruby, JS & Elixir
+  * http://nullege.com/ - Search engine for Python source code
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
