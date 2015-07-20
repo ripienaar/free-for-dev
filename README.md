@@ -143,6 +143,7 @@ Table of Contents
 ## Management Systems
 
   * https://bitnami.com/ - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
+  * http://www.visualops.io/ - 3,600 instance hours per month free
 
 ## Log Management
 
@@ -261,6 +262,7 @@ Table of Contents
   * https://www.pythonanywhere.com/ - cloud Python app hosting. Beginner account is free - one Python web applications at your-username.pythonanywhere.com domain, 512MB private file storage, one MuSQL database.
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
+  
 ## BaaS
 
   * http://apigee.com/docs/api-baas (product docs), http://apigee.com/docs/developer-vs-edge (registration) - Unlimited trial includes NoSQL data store with 25GB of storage, user and permission management, geolocation, 10,000,000 push notifications per month, remote configuration, beta and A/B split testing, APM, fully API driven.  Accessible and manageable via UI, SDK, and API.
@@ -315,6 +317,7 @@ Table of Contents
    * http://www.elephantsql.com/ - PostgreSQL as a service (20mb free)
    * http://www.graphenedb.com/ - Neo4j as a service (up to 1,000 nodes and 10,000 relations free)
    * https://mongolab.com/ - MongoDB as a service (500mb free)
+   * https://scalingo.com/ - Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL, or MongoDB
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
