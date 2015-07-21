@@ -121,6 +121,7 @@ Table of Contents
   * https://hub.jazz.net/ - 60 minutes of free build time / month.
   * https://styleci.io/ - Public GitHub repositories only.
   * http://dploy.io/ - Free for 1 repository, private or public. Supports any service you can throw at it.
+  * https://www.bitrise.io/ - iOS CI/CD with 200 free builds per month
 
 ## Security and PKI
 
@@ -262,6 +263,7 @@ Table of Contents
   * https://www.pythonanywhere.com/ - cloud Python app hosting. Beginner account is free - one Python web applications at your-username.pythonanywhere.com domain, 512MB private file storage, one MuSQL database.
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
+  * https://stamplay.com/ - 50k API calls, 100 GB data transfer, and 1 GB storage for free
   
 ## BaaS
 
