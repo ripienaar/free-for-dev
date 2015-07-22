@@ -280,6 +280,7 @@ Table of Contents
   * https://pushbots.com/ - Push notification service. Free for up to 1,500,000 push/month.
   * http://www.dreamfactory.com/ - DreamFactory is an open source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
   * https://www.mashape.com/ - API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
+  * https://onesignal.com/ - Unlimited free push notifications
 
 ## Web Hosting
 
