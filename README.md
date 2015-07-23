@@ -264,6 +264,7 @@ Table of Contents
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
   * https://stamplay.com/ - 50k API calls, 100 GB data transfer, and 1 GB storage for free
+  * http://qtcloudservices.com/products/managed-runtime/ - Managed platform with micro runtime instance and database for free
   
 ## BaaS
 
@@ -280,6 +281,7 @@ Table of Contents
   * https://pushbots.com/ - Push notification service. Free for up to 1,500,000 push/month.
   * http://www.dreamfactory.com/ - DreamFactory is an open source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
   * https://www.mashape.com/ - API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
+  * https://onesignal.com/ - Unlimited free push notifications
 
 ## Web Hosting
 
