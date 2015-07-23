@@ -264,6 +264,7 @@ Table of Contents
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
   * https://stamplay.com/ - 50k API calls, 100 GB data transfer, and 1 GB storage for free
+  * http://qtcloudservices.com/products/managed-runtime/ - Managed platform with micro runtime instance and database for free
   
 ## BaaS
 
