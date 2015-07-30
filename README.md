@@ -81,7 +81,8 @@ Table of Contents
   * https://evernote.com/ - Tool for organizing information. Share your notes and work together with others.
   * https://www.wunderlist.com/ - Share your lists and work collaboratively on projects with your colleagues - Available for free to download and use on iPhone,iPad,Mac,Android,Windows and the Web. 
   * http://doodle.com/ - The scheduling tool you'll actually use. Find a date for a meeting 2x faster!
-  * https://sendtoinc.com - Share links, notes, files and have discussions. Free for 3, 100 MB.
+  * https://sendtoinc.com/ - Share links, notes, files and have discussions. Free for 3, 100 MB.
+  * https://www.zoom.us/ - Secure Video and Web conferencing, add-ons available. Free limited to 40 min.
 
 
 ## Code Quality
