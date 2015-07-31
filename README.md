@@ -377,6 +377,7 @@ Table of Contents
    * https://kraken.io/pro - Image optimization for website performance as a service - free plan up to 1MB filesize
    * https://placehold.it/ - A quick and simple image placeholder service.
    * https://placekitten.com/ - A quick and simple service for getting pictures of kittens for use as placeholders.
+   * http://placepenguin.com/ - A quick and simple service for placeholder images of penguins.
    * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
    * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos.
   
@@ -385,6 +386,7 @@ Table of Contents
 * [Pixlr](http://pixlr.com) - Free online browser editor on the level of commercial ones
 * [Imagebin](http://imagebin.ca/) - Pastebin for images
 * [Cloudconvert](https://cloudconvert.com/) - Convert anything to anything. 208 supported formats including videos to gif.
+* [App Icon Resizer](https://resizeappicon.com/) - A simple service to resize and manage your app icons.
   
 ## Data Visualization on Maps
 
