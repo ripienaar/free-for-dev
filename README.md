@@ -386,6 +386,7 @@ Table of Contents
 * [Pixlr](http://pixlr.com) - Free online browser editor on the level of commercial ones
 * [Imagebin](http://imagebin.ca/) - Pastebin for images
 * [Cloudconvert](https://cloudconvert.com/) - Convert anything to anything. 208 supported formats including videos to gif.
+* [App Icon Resizer](https://resizeappicon.com/) - A simple service to resize and manage your app icons.
   
 ## Data Visualization on Maps
 
