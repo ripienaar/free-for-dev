@@ -217,7 +217,7 @@ Table of Contents
   * http://mailchimp.com/ - 2,000 subscribers and 12,000 emails per month are free
   * https://sendloop.com/ - 2,000 subscribers and 10,000 email delivery every month is free
   * http://sendgrid.com/ - 400 emails per day for free/25,000 free transactional emails per month for emails sent from a Google compute instance or Microsoft Azure App Service
-  * http://mandrill.com/ - First 12,000 emails per month are free
+  * http://mandrill.com/ - First 2,000 emails are free
   * https://www.phplist.com/ - Hosted version allow 300 mails per month for free
   * https://www.mailjet.com/ - 6000 mails per month for free
   * https://www.sendinblue.com/ - 9000 mails per month for free
