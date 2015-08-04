@@ -146,6 +146,7 @@ Table of Contents
 
   * https://bitnami.com/ - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
   * http://www.visualops.io/ - 3,600 instance hours per month free
+  * http://devopsboard.com/ - Manage software and hardware issues aggregated from monitoring tools on single Kanban board
 
 ## Log Management
 
@@ -364,6 +365,7 @@ Table of Contents
    * http://www.targetprocess.com/ - Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1000 data entities (more details at http://www.targetprocess.com/pricing/).
    * https://overv.io/ - Agile project management for teams who love GitHub.
    * https://taskulu.com/ - Role based project management. Free up to 5 users. Integration with Github/ Trello/ Dropbox/ Google Drive.
+   * http://devopsboard.com/ - Manage software and hardware issues aggregated from monitoring tools on single Kanban board
 
 ## Storage and Media Processing
 
