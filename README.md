@@ -54,7 +54,7 @@ Table of Contents
   * https://bitbucket.org/ - Free unlimited public and private repos (git and mecurial) for up to 5 users
   * http://chiselapp.com/ - Unlimited public and private Fossil repositories
   * https://github.com/ - Free for an unlimited number of public repositories
-  * https://gitcafe.com/ - Free for an unlimited number of public repositories
+  * https://gitcafe.com/ - Free public repositories for developers
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
   * https://hub.jazz.net/ - Unlimited public repos, private repos free for up to 3 accounts.
   * https://visualstudio.com/ - Free unlimited private repos (Git and TFS) for up to 5 users per team
