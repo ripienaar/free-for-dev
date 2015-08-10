@@ -241,6 +241,7 @@ Table of Contents
   * http://rawgit.com/ - free limited traffic, serves raw files directly from GitHub with proper Content-Type headers.
   * https://www.incapsula.com/ - free CDN and DDoS protection
   * https://www.fastly.com/ - Free CDN, all features until 50$/m is reached, enough for most, then pay or suspended.
+  * http://ddos-protection.io/ - Free DDoS protection with unlimited websites.
 
 ## PaaS
   * http://restlet.com/products/apispark/ - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
