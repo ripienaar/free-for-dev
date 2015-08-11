@@ -193,6 +193,7 @@ Table of Contents
   * https://deadmanssnitch.com/ - Monitoring for cron jobs. 1 free snitch (monitor) - more available if you refer others to sign up
   * https://www.librato.com/ - Free up to 100 metrics at 60s resolution
   * https://freeboard.io/ - Free for public projects.  Dashboards for your Internet of Things projects.
+  * https://loader.io/ - Free load testing tools with limitations.
 
 ## Crash / Exception handling
 
