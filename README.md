@@ -194,6 +194,7 @@ Table of Contents
   * https://www.librato.com/ - Free up to 100 metrics at 60s resolution
   * https://freeboard.io/ - Free for public projects.  Dashboards for your Internet of Things projects.
   * https://loader.io/ - Free load testing tools with limitations.
+  * http://www.observium.org/ - Auto-discovering network monitoring, full features for charity and Open Source.
 
 ## Crash / Exception handling
 
