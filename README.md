@@ -7,6 +7,8 @@ The scope of this particular list is limited to things infrastructure developers
 
 You can help by sending Pull Requests to add more services. Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
 
+*NOTE:* This list is only for as-a-Service offerings, not for self hosted software.
+
 Table of Contents
 =================
 
