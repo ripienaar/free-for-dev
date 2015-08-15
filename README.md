@@ -75,7 +75,7 @@ Table of Contents
   * https://www.blockspring.com/ - Share scripts with anyone on your team: cross language and with spreadsheet users. Free for 5 million runs a month.
   * https://helpmonks.com/ - Shared inbox for teams - Free for open source projects and non-profit organizations.
   * http://typetalk.in/ - Share and discuss ideas with your team through instant messaging on the web or on your mobile.
-  * https://talky.io/ - Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required.
+  * https://talky.io/ - Free group video chat. Anonymous. Peer-to-peer. No plugins, signup, or payment required.
   * http://sourcetalk.net/ - Code discussion tool, free for open code talks.
   * http://vipaar.com/ - Help over video with augmented reality. Free without analytics, encryption, support.
   * https://evernote.com/ - Tool for organizing information. Share your notes and work together with others.
@@ -243,6 +243,7 @@ Table of Contents
   * https://www.incapsula.com/ - free CDN and DDoS protection
   * https://www.fastly.com/ - Free CDN, all features until 50$/m is reached, enough for most, then pay or suspended.
   * http://ddos-protection.io/ - Free DDoS protection with unlimited websites.
+  * https://www.netdepot.com/cdn/ - First 100 GB free per month.
 
 ## PaaS
   * http://restlet.com/products/apispark/ - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
@@ -268,6 +269,7 @@ Table of Contents
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
   * https://stamplay.com/ - 50k API calls, 100 GB data transfer, and 1 GB storage for free
   * http://qtcloudservices.com/products/managed-runtime/ - Managed platform with micro runtime instance and database for free
+  * http://elastx.com/ - "easy:PaaS" has a free tier with up to 4 "cloudlets". Must be renewed every year.
   
 ## BaaS
 
@@ -285,6 +287,9 @@ Table of Contents
   * http://www.dreamfactory.com/ - DreamFactory is an open source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
   * https://www.mashape.com/ - API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
   * https://onesignal.com/ - Unlimited free push notifications
+  * https://tyk.io/ - API management with authentication, quotas, monitoring, and analytics. Free cloud offering.
+  * http://www.iron.io/ - Async task processing (like AWS Lambda) with free tier and 1 month free trial.
+  * http://stackhut.com/ - Async task processing (like AWS Lambda). Free while in beta.
 
 ## Web Hosting
 
@@ -308,6 +313,7 @@ Table of Contents
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
   * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries
   * https://www.cronasaservice.com/ - Hosted cron service (send regular HTTP requests). Unlimited free cron jobs.
+  * http://www.virtzone.net/ - Free VPS. You must meet certain minor qualifications.
 
 ## DBaaS
 
@@ -325,6 +331,7 @@ Table of Contents
    * http://www.graphenedb.com/ - Neo4j as a service (up to 1,000 nodes and 10,000 relations free)
    * https://mongolab.com/ - MongoDB as a service (500mb free)
    * https://scalingo.com/ - Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL, or MongoDB
+   * https://skyvia.com/ - "Cloud data platform". Offers a free tier and all plans are completely free while in beta.
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
