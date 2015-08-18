@@ -84,6 +84,7 @@ Table of Contents
   * https://sendtoinc.com/ - Share links, notes, files and have discussions. Free for 3, 100 MB.
   * https://www.zoom.us/ - Secure Video and Web conferencing, add-ons available. Free limited to 40 min.
   * https://ideascale.com/ - Allow clients to submit ideas and vote, free for 25 members in 1 community.
+  * https://filehero.io/ - Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads.
 
 
 ## Code Quality
