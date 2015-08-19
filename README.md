@@ -79,7 +79,7 @@ Table of Contents
   * http://sourcetalk.net/ - Code discussion tool, free for open code talks.
   * http://vipaar.com/ - Help over video with augmented reality. Free without analytics, encryption, support.
   * https://evernote.com/ - Tool for organizing information. Share your notes and work together with others.
-  * https://www.wunderlist.com/ - Share your lists and work collaboratively on projects with your colleagues - Available for free to download and use on iPhone,iPad,Mac,Android,Windows and the Web. 
+  * https://www.wunderlist.com/ - Share your lists and work collaboratively on projects with your colleagues - Available for free to download and use on iPhone,iPad,Mac,Android,Windows and the Web.
   * http://doodle.com/ - The scheduling tool you'll actually use. Find a date for a meeting 2x faster!
   * https://sendtoinc.com/ - Share links, notes, files and have discussions. Free for 3, 100 MB.
   * https://www.zoom.us/ - Secure Video and Web conferencing, add-ons available. Free limited to 40 min.
@@ -143,7 +143,7 @@ Table of Contents
   * https://www.tinfoilsecurity.com/ - Automated vulnerability scanning. Free plan = weekly XSS scans.
   * http://www.acunetix.com/free-network-security-scanner/ - Free vulnerability & network scanning for 3 targets
   * https://www.ponycheckup.com/ - An automated security checkup tool for Django websites.
-  
+
 ## Management Systems
 
   * https://bitnami.com/ - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
@@ -270,7 +270,8 @@ Table of Contents
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
   * https://stamplay.com/ - 50k API calls, 100 GB data transfer, and 1 GB storage for free
   * http://qtcloudservices.com/products/managed-runtime/ - Managed platform with micro runtime instance and database for free
-  
+  * https://getstream.io/ - Build scalable newsfeeds & activity streams in a few hours instead of weeks, free for 3 million feed updates / month.
+
 ## BaaS
 
   * http://apigee.com/docs/api-baas (product docs), http://apigee.com/docs/developer-vs-edge (registration) - Unlimited trial includes NoSQL data store with 25GB of storage, user and permission management, geolocation, 10,000,000 push notifications per month, remote configuration, beta and A/B split testing, APM, fully API driven.  Accessible and manageable via UI, SDK, and API.
@@ -297,7 +298,7 @@ Table of Contents
   * https://pantheon.io/ - Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies.
   * https://www.acquia.com/free - Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available.
   * https://www.bitballoon.com - BitBalloon offers hosting for static sites and apps. Free on a subdomain.
-  * https://freedns.afraid.org/ - Free DNS hosting 
+  * https://freedns.afraid.org/ - Free DNS hosting
   * https://dns.he.net/ - Free DNS hosting service with Dynamic DNS Support
   * https://readthedocs.org/ - Free documentation hosting with versioning, PDF generation and more.
 
@@ -336,7 +337,7 @@ Table of Contents
    * https://www.segment.com/ - Hub to translate and route events to other third party services. 100k events a month free.
    * https://ngrok.com/ - expose locally running servers over a tunnel to a public URL
    * https://www.cloudamqp.com/ - RabbitMQ as a Service. Little Lemur plan: max 1M message per month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in differen AZ's.
-  
+
 
 ## Issue tracking / Project management
 
@@ -384,14 +385,14 @@ Table of Contents
    * http://placepenguin.com/ - A quick and simple service for placeholder images of penguins.
    * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
    * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos.
-  
+
 ## Design & UI
 
 * [Pixlr](http://pixlr.com) - Free online browser editor on the level of commercial ones
 * [Imagebin](http://imagebin.ca/) - Pastebin for images
 * [Cloudconvert](https://cloudconvert.com/) - Convert anything to anything. 208 supported formats including videos to gif.
 * [App Icon Resizer](https://resizeappicon.com/) - A simple service to resize and manage your app icons.
-  
+
 ## Data Visualization on Maps
 
    * http://geocod.io/ - Geocoding via API or CSV Upload. 2.500 free queries per day.
@@ -464,7 +465,7 @@ Table of Contents
 ### PaaS
 
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
-  
+
 ## Vagrant Related
 ### Vagrant box indexes
 
