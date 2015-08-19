@@ -479,3 +479,4 @@ Table of Contents
 ## Other lists
   * https://github.com/httpsGithubParty/FOSS-for-Dev - A hub of Free and open-source software for developers
   * https://github.com/pborreli/free-for-nonprofit - List of free services for non-profit organisations
+  * https://www.fullcontact.com/developer/pricing/ - Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches per month.
