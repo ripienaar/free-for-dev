@@ -245,6 +245,7 @@ Table of Contents
   * https://www.incapsula.com/ - free CDN and DDoS protection
   * https://www.fastly.com/ - Free CDN, all features until 50$/m is reached, enough for most, then pay or suspended.
   * http://ddos-protection.io/ - Free DDoS protection with unlimited websites.
+  * https://www.section.io/ - A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site.
 
 ## PaaS
   * http://restlet.com/products/apispark/ - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
