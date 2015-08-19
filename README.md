@@ -7,7 +7,7 @@ The scope of this particular list is limited to things infrastructure developers
 
 You can help by sending Pull Requests to add more services. Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
 
-If you're not inclined to make PRs you can tweet me at ```@ripienaar```
+*NOTE:* This list is only for as-a-Service offerings, not for self hosted software.
 
 Table of Contents
 =================
@@ -34,6 +34,7 @@ Table of Contents
    * [STUN, WebRTC, Web Socket Servers and other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
    * [Issue tracking / Project management](#issue-tracking--project-management)
    * [Storage and Media Processing](#storage-and-media-processing)
+   * [Design & UI](#design--ui)
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [Package Build Systems](#package-build-systems)
    * [IDE and Code Editing](#ide-and-code-editing)
@@ -80,6 +81,10 @@ Table of Contents
   * https://evernote.com/ - Tool for organizing information. Share your notes and work together with others.
   * https://www.wunderlist.com/ - Share your lists and work collaboratively on projects with your colleagues - Available for free to download and use on iPhone,iPad,Mac,Android,Windows and the Web. 
   * http://doodle.com/ - The scheduling tool you'll actually use. Find a date for a meeting 2x faster!
+  * https://sendtoinc.com/ - Share links, notes, files and have discussions. Free for 3, 100 MB.
+  * https://www.zoom.us/ - Secure Video and Web conferencing, add-ons available. Free limited to 40 min.
+  * https://ideascale.com/ - Allow clients to submit ideas and vote, free for 25 members in 1 community.
+  * https://filehero.io/ - Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads.
 
 
 ## Code Quality
@@ -119,6 +124,7 @@ Table of Contents
   * https://hub.jazz.net/ - 60 minutes of free build time / month.
   * https://styleci.io/ - Public GitHub repositories only.
   * http://dploy.io/ - Free for 1 repository, private or public. Supports any service you can throw at it.
+  * https://www.bitrise.io/ - iOS CI/CD with 200 free builds per month
 
 ## Security and PKI
 
@@ -141,6 +147,7 @@ Table of Contents
 ## Management Systems
 
   * https://bitnami.com/ - Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
+  * http://www.visualops.io/ - 3,600 instance hours per month free
 
 ## Log Management
 
@@ -188,6 +195,7 @@ Table of Contents
   * https://deadmanssnitch.com/ - Monitoring for cron jobs. 1 free snitch (monitor) - more available if you refer others to sign up
   * https://www.librato.com/ - Free up to 100 metrics at 60s resolution
   * https://freeboard.io/ - Free for public projects.  Dashboards for your Internet of Things projects.
+  * https://loader.io/ - Free load testing tools with limitations.
 
 ## Crash / Exception handling
 
@@ -212,7 +220,7 @@ Table of Contents
   * http://mailchimp.com/ - 2,000 subscribers and 12,000 emails per month are free
   * https://sendloop.com/ - 2,000 subscribers and 10,000 email delivery every month is free
   * http://sendgrid.com/ - 400 emails per day for free/25,000 free transactional emails per month for emails sent from a Google compute instance or Microsoft Azure App Service
-  * http://mandrill.com/ - First 12,000 emails per month are free
+  * http://mandrill.com/ - First 2,000 emails are free
   * https://www.phplist.com/ - Hosted version allow 300 mails per month for free
   * https://www.mailjet.com/ - 6000 mails per month for free
   * https://www.sendinblue.com/ - 9000 mails per month for free
@@ -236,6 +244,7 @@ Table of Contents
   * http://rawgit.com/ - free limited traffic, serves raw files directly from GitHub with proper Content-Type headers.
   * https://www.incapsula.com/ - free CDN and DDoS protection
   * https://www.fastly.com/ - Free CDN, all features until 50$/m is reached, enough for most, then pay or suspended.
+  * http://ddos-protection.io/ - Free DDoS protection with unlimited websites.
 
 ## PaaS
   * http://restlet.com/products/apispark/ - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
@@ -258,6 +267,10 @@ Table of Contents
   * https://www.mendix.com/ - Rapid Application Development for Enterprises - Unlimited number of free sandbox environments supporting 10 users, 100MB of files and 100MB database storage each.
   * https://www.pythonanywhere.com/ - cloud Python app hosting. Beginner account is free - one Python web applications at your-username.pythonanywhere.com domain, 512MB private file storage, one MuSQL database.
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
+  * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
+  * https://stamplay.com/ - 50k API calls, 100 GB data transfer, and 1 GB storage for free
+  * http://qtcloudservices.com/products/managed-runtime/ - Managed platform with micro runtime instance and database for free
+  
 ## BaaS
 
   * http://apigee.com/docs/api-baas (product docs), http://apigee.com/docs/developer-vs-edge (registration) - Unlimited trial includes NoSQL data store with 25GB of storage, user and permission management, geolocation, 10,000,000 push notifications per month, remote configuration, beta and A/B split testing, APM, fully API driven.  Accessible and manageable via UI, SDK, and API.
@@ -273,6 +286,7 @@ Table of Contents
   * https://pushbots.com/ - Push notification service. Free for up to 1,500,000 push/month.
   * http://www.dreamfactory.com/ - DreamFactory is an open source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
   * https://www.mashape.com/ - API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
+  * https://onesignal.com/ - Unlimited free push notifications
 
 ## Web Hosting
 
@@ -312,6 +326,7 @@ Table of Contents
    * http://www.elephantsql.com/ - PostgreSQL as a service (20mb free)
    * http://www.graphenedb.com/ - Neo4j as a service (up to 1,000 nodes and 10,000 relations free)
    * https://mongolab.com/ - MongoDB as a service (500mb free)
+   * https://scalingo.com/ - Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL, or MongoDB
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
@@ -325,6 +340,7 @@ Table of Contents
 
 ## Issue tracking / Project management
 
+   * https://www.bitrix24.com/ - Free intranet & project management tool
    * https://www.pivotaltracker.com/community/public-projects - Pivotal Tracker. Free for public projects.
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
    * http://kanbantool.com/ - Kanban board based project management. Free (paid plans with more options).
@@ -361,14 +377,21 @@ Table of Contents
    * https://transloadit.com/ - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for test driving.
    * https://podio.com/ - You can use Podio with a team of up to five people and try out the features of the Basic Plan - except User Management.
    * https://shrinkray.io/ - free image optimization of Github repos
-   * https://www.cine.io/ - Scalable video broadcasting and p2p real-time video chat for iOS, Android, and web. Free tiers available for developers.
    * http://imagefly.io/ - Responsive images on-demand.  CDN-fronted image resizing, transcoding, and optimizing.  100 MB/month for free.
    * https://kraken.io/pro - Image optimization for website performance as a service - free plan up to 1MB filesize
    * https://placehold.it/ - A quick and simple image placeholder service.
    * https://placekitten.com/ - A quick and simple service for getting pictures of kittens for use as placeholders.
+   * http://placepenguin.com/ - A quick and simple service for placeholder images of penguins.
    * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
    * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos.
+  
+## Design & UI
 
+* [Pixlr](http://pixlr.com) - Free online browser editor on the level of commercial ones
+* [Imagebin](http://imagebin.ca/) - Pastebin for images
+* [Cloudconvert](https://cloudconvert.com/) - Convert anything to anything. 208 supported formats including videos to gif.
+* [App Icon Resizer](https://resizeappicon.com/) - A simple service to resize and manage your app icons.
+  
 ## Data Visualization on Maps
 
    * http://geocod.io/ - Geocoding via API or CSV Upload. 2.500 free queries per day.
@@ -419,6 +442,7 @@ Table of Contents
    * http://www.inspectlet.com/ - 100 sessions/month free for 1 website
    * https://www.mousestats.com/ - 100 sessions/month free for 1 website
    * https://metrika.yandex.com/ - Unlimited free analytics
+   * https://www.hotjar.com/ - Per site: 2000 page views/day, 3 heatmaps, data stored for 3 months...
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
