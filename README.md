@@ -123,7 +123,7 @@ Table of Contents
   * https://deployhq.com/ - 1 project w/ 10 daily deployments
   * https://hub.jazz.net/ - 60 minutes of free build time / month.
   * https://styleci.io/ - Public GitHub repositories only.
-  * http://dploy.io/ - Free for 1 repository, private or public. Supports any service you can throw at it.
+  * http://deploybot.com - Free for 1 repository, private or public. Supports any service you can throw at it.
   * https://www.bitrise.io/ - iOS CI/CD with 200 free builds per month
 
 ## Security and PKI
