@@ -143,6 +143,7 @@ Table of Contents
   * https://www.tinfoilsecurity.com/ - Automated vulnerability scanning. Free plan = weekly XSS scans.
   * http://www.acunetix.com/free-network-security-scanner/ - Free vulnerability & network scanning for 3 targets
   * https://www.ponycheckup.com/ - An automated security checkup tool for Django websites.
+  * https://www.foxpass.com/ - Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users.
 
 ## Management Systems
 
