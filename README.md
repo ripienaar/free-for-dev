@@ -388,7 +388,8 @@ Table of Contents
    * http://placepenguin.com/ - A quick and simple service for placeholder images of penguins.
    * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
    * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos.
-
+   * http://www.otixo.com/ - Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max file size limit and allows 5 encrypted files.
+  
 ## Design & UI
 
 * [Pixlr](http://pixlr.com) - Free online browser editor on the level of commercial ones
