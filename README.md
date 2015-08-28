@@ -60,7 +60,7 @@ Table of Contents
   * https://assembla.com/ - Free repo hosting in a free plan.
   * http://www.fogcreek.com/kiln/ -  Free unlimited public and private repos (hybrid of git and mecurial) for 2 users.
 
-## Tools for teams & Collaboration
+## Tools for Teams & Collaboration
 
   * http://appear.in/ - One click video conversations, for free
   * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
@@ -85,6 +85,7 @@ Table of Contents
   * https://www.zoom.us/ - Secure Video and Web conferencing, add-ons available. Free limited to 40 min.
   * https://ideascale.com/ - Allow clients to submit ideas and vote, free for 25 members in 1 community.
   * https://filehero.io/ - Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads.
+  * https://codenvy.com/ - Share developer environments for your project. Includes configuration for the browser IDE, build, debug and run environments.  Free tier with 4GB environments and support for >90 languages.
 
 
 ## Code Quality
