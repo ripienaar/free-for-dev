@@ -234,6 +234,11 @@ Table of Contents
   * https://www.zoho.com/mail/ - Free Email management and collaboration for up to 10 users.
   * https://domain.yandex.com/domains_add/ - Free email&dns hosting for up to 1000 users.
   * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
+  * https://sendsay.ru/ — 200 subscribers and 1,000 emails per month for free
+  * http://smartresponder.ru/l_en/ — 1,000 subscribers and 50,000 emails per month for free
+  * http://pechkin-mail.ru/ — 100 subscribers and 500 emails per month for free
+  * http://www.mailigen.ru/ — free first month
+  * http://www.unisender.com/en/ — 100 subscribers and 1,500 emails per month for free
 
 ## CDN and Protection
 
