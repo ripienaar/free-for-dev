@@ -146,6 +146,7 @@ Table of Contents
   * http://www.acunetix.com/free-network-security-scanner/ - Free vulnerability & network scanning for 3 targets
   * https://www.ponycheckup.com/ - An automated security checkup tool for Django websites.
   * https://www.foxpass.com/ - Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users.
+  * https://www.opswatgears.com/ - Security Monitoring of computers, devices, applications, configurations... Free 25 users and 30 days history.
 
 ## Management Systems
 
