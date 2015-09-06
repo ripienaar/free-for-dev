@@ -251,6 +251,7 @@ Table of Contents
   * https://www.fastly.com/ - Free CDN, all features until 50$/m is reached, enough for most, then pay or suspended.
   * http://ddos-protection.io/ - Free DDoS protection with unlimited websites.
   * https://www.section.io/ - A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site.
+  * https://www.netdepot.com/cdn/ - First 100 GB free per month.
 
 ## PaaS
   * http://restlet.com/products/apispark/ - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
@@ -276,6 +277,10 @@ Table of Contents
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
   * https://stamplay.com/ - 50k API calls, 100 GB data transfer, and 1 GB storage for free
   * http://qtcloudservices.com/products/managed-runtime/ - Managed platform with micro runtime instance and database for free
+  * http://elastx.com/start/easypaas/ - Free tier with up to 4 "cloudlets". Must be renewed every year.
+  * https://viaduct.io/ - 350 MB of RAM and a 1 GB database for free
+  * http://pagodabox.io/ - Small worker, web server, cache, and database for free
+  * https://www.cloudandheat.com/en/paas.html - 128 MB of RAM for free, includes support for custom domains for free
 
 ## BaaS
 
@@ -294,6 +299,9 @@ Table of Contents
   * https://www.mashape.com/ - API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
   * https://onesignal.com/ - Unlimited free push notifications
   * https://getstream.io/ - Build scalable newsfeeds & activity streams in a few hours instead of weeks, free for 3 million feed updates / month.
+  * https://tyk.io/ - API management with authentication, quotas, monitoring, and analytics. Free cloud offering.
+  * http://www.iron.io/ - Async task processing (like AWS Lambda) with free tier and 1 month free trial.
+  * http://stackhut.com/ - Async task processing (like AWS Lambda). 10 free private services and unlimited free public services.
 
 ## Web Hosting
 
@@ -317,6 +325,7 @@ Table of Contents
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
   * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries
   * https://www.cronasaservice.com/ - Hosted cron service (send regular HTTP requests). Unlimited free cron jobs.
+  * http://www.virtzone.net/ - Free VPS. You must meet certain minor qualifications.
 
 ## DBaaS
 
@@ -334,6 +343,7 @@ Table of Contents
    * http://www.graphenedb.com/ - Neo4j as a service (up to 1,000 nodes and 10,000 relations free)
    * https://mongolab.com/ - MongoDB as a service (500mb free)
    * https://scalingo.com/ - Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL, or MongoDB
+   * https://skyvia.com/ - "Cloud data platform". Offers a free tier and all plans are completely free while in beta.
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
