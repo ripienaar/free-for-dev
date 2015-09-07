@@ -235,6 +235,7 @@ Table of Contents
   * https://www.zoho.com/mail/ - Free Email management and collaboration for up to 10 users.
   * https://domain.yandex.com/domains_add/ - Free email&dns hosting for up to 1000 users.
   * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
+  * https://debugmail.io/ - Easy to use testing mail server for developers.
 
 ## CDN and Protection
 
