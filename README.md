@@ -445,7 +445,7 @@ Table of Contents
    * https://www.sourcelair.com/ - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project.
    * https://codepen.io/ - CodePen is a playground for the front end side of the web.
 
-## Analytics, Events and  Statistics
+## Analytics, Events and Statistics
 
    * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
    * https://www.google.com/analytics/ - Google Analytics
@@ -456,7 +456,6 @@ Table of Contents
    * https://mixpanel.com/ - Free 25000 points or 200000 with their badge on your site.
    * https://amplitude.com/ - 1 million monthly events, up to 2 apps.
    * https://keen.io/ - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
-   * http://www.splunk.com/en_us/products/splunk-cloud.html - Upload 5GB of data per day up to 28GB of total data stored
    * https://parse.com/ - Unlimited free analytics
    * http://www.inspectlet.com/ - 100 sessions/month free for 1 website
    * https://www.mousestats.com/ - 100 sessions/month free for 1 website
