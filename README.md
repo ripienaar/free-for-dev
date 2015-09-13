@@ -147,6 +147,7 @@ Table of Contents
   * https://www.ponycheckup.com/ - An automated security checkup tool for Django websites.
   * https://www.foxpass.com/ - Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users.
   * https://www.opswatgears.com/ - Security Monitoring of computers, devices, applications, configurations... Free 25 users and 30 days history.
+  * https://bitninja.io/ - Botnet protection through a blacklist, free plan only reports limited information on each attack
 
 ## Management Systems
 
@@ -461,6 +462,7 @@ Table of Contents
    * https://www.mousestats.com/ - 100 sessions/month free for 1 website
    * https://metrika.yandex.com/ - Unlimited free analytics
    * https://www.hotjar.com/ - Per site: 2000 page views/day, 3 heatmaps, data stored for 3 months...
+   * http://imprace.com/ - Landing page analysis with suggestions to improve bounce rates. Free for 5 landing pages per domain.
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
