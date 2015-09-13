@@ -206,7 +206,7 @@ Table of Contents
 
   * https://rollbar.com/ - Exception and error monitoring, free plan - 5000 errors/month, unlimited users, 30 days retention.
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
-  * https://airbrake.io/ - Free for 1 project, 1 user, 2 errors per minute, 2 day retention
+  * https://airbrake.io/ - Automatically groups, organizes and notifies you about your application errors. Free plan - 7200 errors/day, 1 user, 1 project, 2 day retention.
   * http://getsentry.com/ - Sentry tracks app exceptions in realtime, has a small free plan. Free, unrestricted use if self-hosted.
 
 ## Search
@@ -235,6 +235,7 @@ Table of Contents
   * https://www.zoho.com/mail/ - Free Email management and collaboration for up to 10 users.
   * https://domain.yandex.com/domains_add/ - Free email&dns hosting for up to 1000 users.
   * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
+  * https://debugmail.io/ - Easy to use testing mail server for developers.
 
 ## CDN and Protection
 
@@ -444,7 +445,7 @@ Table of Contents
    * https://www.sourcelair.com/ - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project.
    * https://codepen.io/ - CodePen is a playground for the front end side of the web.
 
-## Analytics, Events and  Statistics
+## Analytics, Events and Statistics
 
    * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
    * https://www.google.com/analytics/ - Google Analytics
@@ -455,7 +456,6 @@ Table of Contents
    * https://mixpanel.com/ - Free 25000 points or 200000 with their badge on your site.
    * https://amplitude.com/ - 1 million monthly events, up to 2 apps.
    * https://keen.io/ - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
-   * http://www.splunk.com/en_us/products/splunk-cloud.html - Upload 5GB of data per day up to 28GB of total data stored
    * https://parse.com/ - Unlimited free analytics
    * http://www.inspectlet.com/ - 100 sessions/month free for 1 website
    * https://www.mousestats.com/ - 100 sessions/month free for 1 website
