@@ -492,7 +492,7 @@ Table of Contents
   * http://vagrantbox.es/ - An alternative public box index
 
 ## Data mining
-  * http://www.monkeylearn.com/ - Text mining in the cloud, 1,000 queries for free per month.
+  * http://www.monkeylearn.com/ - Text analysis with Machine Learning, 100,000 queries for free per month.
   * https://wit.ai/ - NLP for developers
   * https://www.wolfram.com/language/ - Built-in knowledge based algorithms in the cloud
 
