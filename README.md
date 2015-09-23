@@ -392,6 +392,7 @@ Table of Contents
 ## Storage and Media Processing
 
    * https://www.aerofs.com/ - P2P file syncing, free for up to 30 users
+   * https://bintray.com/ - Binary File storage, free for Open Source. Includes SSL, CDN and a limited number of REST calls.
    * http://cloudinary.com/ - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
    * https://plot.ly/ - graph and share your data. Free tier includes unlimited public files and 10 private files.
    * https://transloadit.com/ - Handles file uploads & encoding of video, audio, images, documents. Free for open source & other do-gooders. Commercial applications get the first GB free for test driving.
