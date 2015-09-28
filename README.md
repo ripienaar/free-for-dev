@@ -318,6 +318,7 @@ Table of Contents
   * https://freedns.afraid.org/ - Free DNS hosting
   * https://dns.he.net/ - Free DNS hosting service with Dynamic DNS Support
   * https://readthedocs.org/ - Free documentation hosting with versioning, PDF generation and more.
+  * http://www.luadns.com/ - Free DNS hosting, 3 domains, all features with reasonable limits.
 
 ## IaaS
 
