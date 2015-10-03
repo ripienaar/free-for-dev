@@ -209,6 +209,7 @@ Table of Contents
   * https://bugsnag.com/ - Free for up to 2000 errors a month after the initial trial
   * https://airbrake.io/ - Automatically groups, organizes and notifies you about your application errors. Free plan - 7200 errors/day, 1 user, 1 project, 2 day retention.
   * http://getsentry.com/ - Sentry tracks app exceptions in realtime, has a small free plan. Free, unrestricted use if self-hosted.
+  * https://appenlight.com/ - Automatic error reporting, performance monitoring, in-app logging with team collaboration.
 
 ## Search
 
