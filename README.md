@@ -424,7 +424,6 @@ Table of Contents
 * [Cloudconvert](https://cloudconvert.com/) - Convert anything to anything. 208 supported formats including videos to gif.
 * [App Icon Resizer](https://resizeappicon.com/) - A simple service to resize and manage your app icons.
 * [Vectr](https://vectr.com/) - Free Design App For Web + Desktop.
-* [Pixate](http://www.pixate.com/) - Free design app for creating powerful interactive prototypes.
 
 ## Data Visualization on Maps
 
@@ -459,9 +458,6 @@ Table of Contents
    * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
    * https://www.sourcelair.com/ - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project.
    * https://codepen.io/ - CodePen is a playground for the front end side of the web.
-   * [Atom](https://atom.io/) - A hackable cross-platform text editor developed by [GitHub](https://github.com/)
-   * [WebStorm](https://www.jetbrains.com/webstorm/) - A lightweight, powerful cross-platform IDE for front-end development and back-end Node.js development. Made by [JetBrains](https://www.jetbrains.com/)
-   * [Brackets](http://brackets.io/index.html) - Free, open source cross-platfrom text-editor for front-end development. Developed by Adobe.
 
 ## Analytics, Events and Statistics
 
