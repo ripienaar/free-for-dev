@@ -103,6 +103,10 @@ Table of Contents
   * http://gocover.io/ - Code coverage for any [Go](http://golang.org/) package
   * http://inch-ci.org/ - Documentation badges for Ruby, JS & Elixir
   * https://scan.coverity.com/ - Static code analysis for Java, C/C++, C# and JavaScript - free for Open Source
+  * http://www.webceo.com/ - SEO tools but with also code verifications and different type of advices
+  * https://zoompf.com/ - Fix the performance of your web sites, detailed  analysis
+  * http://www.websitetest.com/ - Yotta's tool to optimize web sites, free limited version online
+  * https://gtmetrix.com/ - Reports and thorough recommendations to optimize websites
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
