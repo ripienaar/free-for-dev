@@ -59,6 +59,7 @@ Table of Contents
   * https://visualstudio.com/ - Free unlimited private repos (Git and TFS) for up to 5 users per team
   * https://assembla.com/ - Free repo hosting in a free plan.
   * http://www.fogcreek.com/kiln/ -  Free unlimited public and private repos (hybrid of git and mecurial) for 2 users.
+  * [Cloud Source Repositories](https://cloud.google.com/tools/cloud-repositories/) - Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub & Bitbucket repos. Free Beta for up to 500MB of storage.
 
 ## Tools for Teams & Collaboration
 
@@ -309,6 +310,7 @@ Table of Contents
   * https://tyk.io/ - API management with authentication, quotas, monitoring, and analytics. Free cloud offering.
   * http://www.iron.io/ - Async task processing (like AWS Lambda) with free tier and 1 month free trial.
   * http://stackhut.com/ - Async task processing (like AWS Lambda). 10 free private services and unlimited free public services.
+  * https://www.pubnub.com/ - Free push notifications for up to 1,000,000 messages a month and 100 active daily devices.
 
 ## Web Hosting
 
@@ -413,13 +415,15 @@ Table of Contents
    * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
    * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos.
    * http://www.otixo.com/ - Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max file size limit and allows 5 encrypted files.
-  
+
 ## Design & UI
 
 * [Pixlr](http://pixlr.com) - Free online browser editor on the level of commercial ones
 * [Imagebin](http://imagebin.ca/) - Pastebin for images
 * [Cloudconvert](https://cloudconvert.com/) - Convert anything to anything. 208 supported formats including videos to gif.
 * [App Icon Resizer](https://resizeappicon.com/) - A simple service to resize and manage your app icons.
+* [Vectr](https://vectr.com/) - Free Design App For Web + Desktop.
+* [Pixate](http://www.pixate.com/) - Free design app for creating powerful interactive prototypes.
 
 ## Data Visualization on Maps
 
@@ -454,6 +458,9 @@ Table of Contents
    * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
    * https://www.sourcelair.com/ - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project.
    * https://codepen.io/ - CodePen is a playground for the front end side of the web.
+   * [Atom](https://atom.io/) - A hackable cross-platform text editor developed by [GitHub](https://github.com/)
+   * [WebStorm](https://www.jetbrains.com/webstorm/) - A lightweight, powerful cross-platform IDE for front-end development and back-end Node.js development. Made by [JetBrains](https://www.jetbrains.com/)
+   * [Brackets](http://brackets.io/index.html) - Free, open source cross-platfrom text-editor for front-end development. Developed by Adobe.
 
 ## Analytics, Events and Statistics
 
