@@ -243,6 +243,7 @@ Table of Contents
   * https://domain.yandex.com/domains_add/ - Free email&dns hosting for up to 1000 users.
   * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
   * https://debugmail.io/ - Easy to use testing mail server for developers.
+  * https://mailboxlayer.com/ - Email Validation & Verification JSON API for Developers. 1000 free api request per month.
 
 ## CDN and Protection
 
