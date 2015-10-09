@@ -487,6 +487,7 @@ Table of Contents
  * https://www.braintreepayments.com/ - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $50 are free of charge.
  * http://taxratesapi.avalara.com/ - Get the right sales tax rates to charge for the close to 10,000 sales tax jurisdictions in the USA. Free REST API. Registration required.
  * https://currencylayer.com/ - Reliable Exchange Rates & Currency Conversion for your Business. 1000 api request per month free.
+ * https://vatlayer.com/ - Instant VAT Number Validation & EU VAT Rates API. free 100 api request per month
 
 ## Other Packs
 
