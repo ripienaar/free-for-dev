@@ -312,7 +312,8 @@ Table of Contents
   * http://www.iron.io/ - Async task processing (like AWS Lambda) with free tier and 1 month free trial.
   * http://stackhut.com/ - Async task processing (like AWS Lambda). 10 free private services and unlimited free public services.
   * https://www.pubnub.com/ - Free push notifications for up to 1,000,000 messages a month and 100 active daily devices.
-  * [webtask](https://webtask.io/) - Run code with an HTTP call. No provisioning. No deployment. Developed by [Auth0](https://auth0.com/)
+  * https://webtask.io/ - Run code with an HTTP call. No provisioning. No deployment. Developed by [Auth0](https://auth0.com/)
+  * https://zapier.com/ - Connect the apps you use, to automate tasks. 5 zaps, every 15 min. and 100 tasks/month.
 
 ## Web Hosting
 
