@@ -493,6 +493,7 @@ Table of Contents
 ## Other Packs
 
  * https://education.github.com/pack - As long as you're a student at a recognized university or US high school
+ * https://screenshotlayer.com/ - Capture highly customizable snapshots of any website. Free 100 snapshots per month.
 
 ## Docker Related
 ### Alternate hosting
