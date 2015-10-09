@@ -243,6 +243,7 @@ Table of Contents
   * https://domain.yandex.com/domains_add/ - Free email&dns hosting for up to 1000 users.
   * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
   * https://debugmail.io/ - Easy to use testing mail server for developers.
+  * https://mailboxlayer.com/ - Email Validation & Verification JSON API for Developers. 1000 free api request per month.
 
 ## CDN and Protection
 
@@ -480,15 +481,19 @@ Table of Contents
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
+ * https://numverify.com/ - Global Phone Number Validation & Lookup JSON API. 250 api request per month.
 
 ## Payment / Billing Integration
 
  * https://www.braintreepayments.com/ - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $50 are free of charge.
  * http://taxratesapi.avalara.com/ - Get the right sales tax rates to charge for the close to 10,000 sales tax jurisdictions in the USA. Free REST API. Registration required.
+ * https://currencylayer.com/ - Reliable Exchange Rates & Currency Conversion for your Business. 1000 api request per month free.
+ * https://vatlayer.com/ - Instant VAT Number Validation & EU VAT Rates API. free 100 api request per month
 
 ## Other Packs
 
  * https://education.github.com/pack - As long as you're a student at a recognized university or US high school
+ * https://screenshotlayer.com/ - Capture highly customizable snapshots of any website. Free 100 snapshots per month.
 
 ## Docker Related
 ### Alternate hosting
