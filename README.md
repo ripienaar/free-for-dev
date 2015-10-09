@@ -154,6 +154,7 @@ Table of Contents
   * https://www.foxpass.com/ - Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users.
   * https://www.opswatgears.com/ - Security Monitoring of computers, devices, applications, configurations... Free 25 users and 30 days history.
   * https://bitninja.io/ - Botnet protection through a blacklist, free plan only reports limited information on each attack
+  * https://www.onelogin.com/ - Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users.
 
 ## Management Systems
 
