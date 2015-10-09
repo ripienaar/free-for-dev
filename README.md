@@ -480,6 +480,7 @@ Table of Contents
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
+ * https://numverify.com/ - Global Phone Number Validation & Lookup JSON API. 250 api request per month.
 
 ## Payment / Billing Integration
 
