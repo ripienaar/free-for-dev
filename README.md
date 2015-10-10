@@ -209,6 +209,10 @@ Table of Contents
   * https://freeboard.io/ - Free for public projects.  Dashboards for your Internet of Things projects.
   * https://loader.io/ - Free load testing tools with limitations.
   * http://www.probeapi.com/ - Performance Monitoring API, checks ping, dns etc
+  * http://newrelic.com/browser-monitoring/ - Browser and User monitoring, limited 24 h data retention.
+  * http://newrelic.com/mobile-monitoring/ - Mobile monitoring, limited 24 h data retention and summary only.
+  * http://newrelic.com/synthetics/ - Application monitoring from around the world, limited 24 h data retention and 50 ping.
+  * http://newrelic.com/server-monitoring/ - Server health, CPU, RAM and I/O monitoring and alerts. (no info)
 
 ## Crash / Exception handling
 
