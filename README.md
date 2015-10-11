@@ -38,7 +38,7 @@ Table of Contents
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [Package Build Systems](#package-build-systems)
    * [IDE and Code Editing](#ide-and-code-editing)
-   * [Analytics, Events and  Statistics](#analytics-events-and--statistics)
+   * [Analytics, Events and  Statistics](#analytics-events-and-statistics)
    * [International Mobile number verification API and SDK](#international-mobile-number-verification-api-and-sdk)
    * [Payment / Billing Integration](#payment--billing-integration)
    * [Other Packs](#other-packs)
