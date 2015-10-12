@@ -209,6 +209,7 @@ Table of Contents
   * https://freeboard.io/ - Free for public projects.  Dashboards for your Internet of Things projects.
   * https://loader.io/ - Free load testing tools with limitations.
   * http://www.probeapi.com/ - Performance Monitoring API, checks ping, dns etc
+  *  https://blackfire.io - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan.
 
 ## Crash / Exception handling
 
