@@ -47,7 +47,6 @@ Table of Contents
    * [Vagrant Related](#vagrant-related)
    * [Vagrant box indexes](#vagrant-box-indexes)
    * [Data mining](#data-mining)
-   * [Profiler](#profiler)
    * [Other lists](#other-lists)
 
 ## Source Code Repos
@@ -210,6 +209,7 @@ Table of Contents
   * https://freeboard.io/ - Free for public projects.  Dashboards for your Internet of Things projects.
   * https://loader.io/ - Free load testing tools with limitations.
   * http://www.probeapi.com/ - Performance Monitoring API, checks ping, dns etc
+  *  https://blackfire.io - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan.
 
 ## Crash / Exception handling
 
@@ -517,9 +517,6 @@ Table of Contents
   * http://www.monkeylearn.com/ - Text analysis with Machine Learning, 100,000 queries for free per month.
   * https://wit.ai/ - NLP for developers
   * https://www.wolfram.com/language/ - Built-in knowledge based algorithms in the cloud
-
-## Profiler
- *  https://blackfire.io - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan.
 
 ## Other lists
   * https://github.com/httpsGithubParty/FOSS-for-Dev - A hub of Free and open-source software for developers
