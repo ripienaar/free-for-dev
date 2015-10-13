@@ -210,6 +210,7 @@ Table of Contents
   * https://loader.io/ - Free load testing tools with limitations.
   * http://www.probeapi.com/ - Performance Monitoring API, checks ping, dns etc
   *  https://blackfire.io - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan.
+  * https://www.opsdash.com/ - a self-hosted server monitoring, dashboarding and alerting solution. It is cluster-aware and can monitor services too. Free Up to 5 servers + 5 services. 
 
 ## Crash / Exception handling
 
