@@ -210,6 +210,7 @@ Table of Contents
   * https://loader.io/ - Free load testing tools with limitations.
   * http://www.probeapi.com/ - Performance Monitoring API, checks ping, dns etc
   *  https://blackfire.io - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan.
+  * http://apimetrics.io/ - Automated API Performance Monitoring, Testing and Analytics. Free Plan- Manually make API calls and Run from their West Coast servers.
 
 ## Crash / Exception handling
 
