@@ -249,6 +249,7 @@ Table of Contents
   * https://debugmail.io/ - Easy to use testing mail server for developers.
   * https://mailboxlayer.com/ - Email Validation & Verification JSON API for Developers. 1000 free api request per month.
   * http://mailcatcher.me/ - Catches mail and serves it through a web interface.
+  * http://www.yopmail.fr/en/ - Disposable email address
 
 ## CDN and Protection
 
