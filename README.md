@@ -192,7 +192,7 @@ Table of Contents
   * https://www.pingdom.com/free/ - 1 site free
   * http://www.watchsumo.com/ - Free website monitoring, 50 Http(s), Ping or Keywords, every 5+ minutes
   * https://www.opsgenie.com/ - Alert management with mobile push. 600 free alerts for 2 users a month
-  * https://www.runscope.com/ - Monitor and log API usage.  Single user 10,000 request/month free
+  * https://www.runscope.com/ - Monitor and log API usage.  Single user 25,000 request/month free
   * http://www.circonus.com/ - Free for 20 metrics
   * https://uptimerobot.com/ - Website monitoring, 50 monitors free
   * https://www.statuscake.com/ - Website monitoring, unlimited tests free with limitations
