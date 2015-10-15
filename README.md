@@ -247,6 +247,7 @@ Table of Contents
   * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
   * https://debugmail.io/ - Easy to use testing mail server for developers.
   * https://mailboxlayer.com/ - Email Validation & Verification JSON API for Developers. 1000 free api request per month.
+  * http://mailcatcher.me/ - Catches mail and serves it through a web interface.
 
 ## CDN and Protection
 
