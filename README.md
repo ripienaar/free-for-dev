@@ -46,6 +46,7 @@ Table of Contents
    * [Alternate container hosting](#alternate-container-hosting)
    * [Vagrant Related](#vagrant-related)
    * [Vagrant box indexes](#vagrant-box-indexes)
+   * [Technology watch](#technology-watch)
    * [Data mining](#data-mining)
    * [Other lists](#other-lists)
 
@@ -514,6 +515,9 @@ Table of Contents
 
   * https://atlas.hashicorp.com/boxes/search - HashiCorp's index of boxes
   * http://vagrantbox.es/ - An alternative public box index
+
+## Technology watch
+  * https://www.apichangelog.com/ - Subscribe to be notified each time API Documentation is updated (facebook, twitter, google, ....)
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text analysis with Machine Learning, 100,000 queries for free per month.
