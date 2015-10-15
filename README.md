@@ -60,7 +60,7 @@ Table of Contents
   * https://assembla.com/ - Free repo hosting in a free plan.
   * http://www.fogcreek.com/kiln/ -  Free unlimited public and private repos (hybrid of git and mecurial) for 2 users.
 
-## Tools for teams & Collaboration
+## Tools for Teams & Collaboration
 
   * http://appear.in/ - One click video conversations, for free
   * https://www.flowdock.com/ - Chat and inbox, free for teams of 5 or less
@@ -85,6 +85,7 @@ Table of Contents
   * https://www.zoom.us/ - Secure Video and Web conferencing, add-ons available. Free limited to 40 min.
   * https://ideascale.com/ - Allow clients to submit ideas and vote, free for 25 members in 1 community.
   * https://filehero.io/ - Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads.
+  * https://codenvy.com/ - Share developer environments for your project. Includes configuration for the browser IDE, build, debug and run environments.  Free tier with 4GB environments and support for >90 languages.
 
 
 ## Code Quality
@@ -101,6 +102,7 @@ Table of Contents
   * https://www.pullreview.com/ - Automated Code Review for Ruby in GitHub, Bitbucket and Gitlab - free for Open Source
   * http://gocover.io/ - Code coverage for any [Go](http://golang.org/) package
   * http://inch-ci.org/ - Documentation badges for Ruby, JS & Elixir
+  * https://scan.coverity.com/ - Static code analysis for Java, C/C++, C# and JavaScript - free for Open Source
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
@@ -123,7 +125,7 @@ Table of Contents
   * https://deployhq.com/ - 1 project w/ 10 daily deployments
   * https://hub.jazz.net/ - 60 minutes of free build time / month.
   * https://styleci.io/ - Public GitHub repositories only.
-  * http://dploy.io/ - Free for 1 repository, private or public. Supports any service you can throw at it.
+  * http://deploybot.com - Free for 1 repository, private or public. Supports any service you can throw at it.
   * https://www.bitrise.io/ - iOS CI/CD with 200 free builds per month
 
 ## Security and PKI
@@ -143,6 +145,7 @@ Table of Contents
   * https://www.tinfoilsecurity.com/ - Automated vulnerability scanning. Free plan = weekly XSS scans.
   * http://www.acunetix.com/free-network-security-scanner/ - Free vulnerability & network scanning for 3 targets
   * https://www.ponycheckup.com/ - An automated security checkup tool for Django websites.
+  * https://www.foxpass.com/ - Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users.
 
 ## Management Systems
 
@@ -387,7 +390,8 @@ Table of Contents
    * http://placepenguin.com/ - A quick and simple service for placeholder images of penguins.
    * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image Scaling, Extracting elements from a webpage. Free for up to 5,000 URLs per Month at 15 Requests per Second
    * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos.
-
+   * http://www.otixo.com/ - Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max file size limit and allows 5 encrypted files.
+  
 ## Design & UI
 
 * [Pixlr](http://pixlr.com) - Free online browser editor on the level of commercial ones
