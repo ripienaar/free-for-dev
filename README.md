@@ -280,7 +280,7 @@ Table of Contents
   * https://www.firebase.com/ - Build realtime apps, free plan has 100 Max Connections, 10 GB Data Transfer, 1 GB Data Storage. 1 GB Hosting Storage and 100 GB Hosting Transfer.
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
   * https://www.openshift.com/ - Red Hat PaaS, free tier provides three small gears (each with 512MB memory, 1GB storage). {[Browse one-click deployments](https://hub.openshift.com/)}.
-  * https://algorithmia.com/ - Host algorithms for free - includes 10,000 credits (seconds of on-demand execution time) free
+  * https://algorithmia.com/ - Host and Use algorithms for free - includes 10,000 credits (seconds of on-demand execution time) free. Now with CLI support.
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
   * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20GB
   * http://www.outsystems.com/ - Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1GB database.
