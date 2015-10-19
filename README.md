@@ -93,6 +93,7 @@ Table of Contents
 ## Code Quality
 
   * http://tachikoma.io/ - Dependency Update for Ruby, Node.js, Perl projects - free for Open Source
+  * https://gemnasium.com/ - Dependency Update for Ruby, Node.js projects - free for Open Source
   * https://landscape.io/ - Code Quality for Python projects, free for Open Source
   * https://codeclimate.com/ - Automated code review, free for Open Source
   * https://houndci.com/ - Comments on github commits about code quality - free for Open Source
@@ -365,6 +366,7 @@ Table of Contents
    * https://scalingo.com/ - Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL, or MongoDB
    * https://skyvia.com/ - "Cloud data platform". Offers a free tier and all plans are completely free while in beta.
    * https://airtable.com/ - looks like a spreadsheet, but it's a relational database, unlimited bases, 1200/base, 1000 API request/month.
+   * https://www.iriscouch.com/ - CouchDB as a service. Free for developing, prototyping, etc...
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
