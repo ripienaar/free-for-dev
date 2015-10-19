@@ -366,6 +366,7 @@ Table of Contents
    * https://scalingo.com/ - Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL, or MongoDB
    * https://skyvia.com/ - "Cloud data platform". Offers a free tier and all plans are completely free while in beta.
    * https://airtable.com/ - looks like a spreadsheet, but it's a relational database, unlimited bases, 1200/base, 1000 API request/month.
+   * https://www.iriscouch.com/ - CouchDB as a service. Free for developing, prototyping, etc...
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
