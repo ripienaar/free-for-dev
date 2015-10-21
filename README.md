@@ -157,6 +157,7 @@ Table of Contents
   * https://www.opswatgears.com/ - Security Monitoring of computers, devices, applications, configurations... Free 25 users and 30 days history.
   * https://bitninja.io/ - Botnet protection through a blacklist, free plan only reports limited information on each attack
   * https://www.onelogin.com/ - Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users.
+  * https://www.logintc.com/ - 2FA by push notifications, free for 10 users, VPN, Websites and SSH.
 
 ## Management Systems
 
