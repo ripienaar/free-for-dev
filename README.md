@@ -298,6 +298,7 @@ Table of Contents
   * https://viaduct.io/ - 350 MB of RAM and a 1 GB database for free
   * http://pagodabox.io/ - Small worker, web server, cache, and database for free
   * https://www.cloudandheat.com/en/paas.html - 128 MB of RAM for free, includes support for custom domains for free
+  * https://apps.sandstorm.io/ - An open source platform for servers
 
 ## BaaS
 
