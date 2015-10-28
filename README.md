@@ -60,6 +60,7 @@ Table of Contents
   * https://visualstudio.com/ - Free unlimited private repos (Git and TFS) for up to 5 users per team
   * https://assembla.com/ - Free repo hosting in a free plan.
   * http://www.fogcreek.com/kiln/ -  Free unlimited public and private repos (hybrid of git and mecurial) for 2 users.
+  * https://www.plasticscm.com/pricing.html#free-and-community -  Free for individuals, OSS and non-profits.
   * [Cloud Source Repositories](https://cloud.google.com/tools/cloud-repositories/) - Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub & Bitbucket repos. Free Beta for up to 500MB of storage.
 
 ## Tools for Teams & Collaboration
