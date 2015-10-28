@@ -46,6 +46,7 @@ Table of Contents
    * [Alternate container hosting](#alternate-container-hosting)
    * [Vagrant Related](#vagrant-related)
    * [Vagrant box indexes](#vagrant-box-indexes)
+   * [Technology watch](#technology-watch)
    * [Data mining](#data-mining)
    * [Other lists](#other-lists)
 
@@ -92,6 +93,7 @@ Table of Contents
 ## Code Quality
 
   * http://tachikoma.io/ - Dependency Update for Ruby, Node.js, Perl projects - free for Open Source
+  * https://gemnasium.com/ - Dependency Update for Ruby, Node.js projects - free for Open Source
   * https://landscape.io/ - Code Quality for Python projects, free for Open Source
   * https://codeclimate.com/ - Automated code review, free for Open Source
   * https://houndci.com/ - Comments on github commits about code quality - free for Open Source
@@ -155,6 +157,7 @@ Table of Contents
   * https://www.opswatgears.com/ - Security Monitoring of computers, devices, applications, configurations... Free 25 users and 30 days history.
   * https://bitninja.io/ - Botnet protection through a blacklist, free plan only reports limited information on each attack
   * https://www.onelogin.com/ - Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users.
+  * https://www.logintc.com/ - 2FA by push notifications, free for 10 users, VPN, Websites and SSH.
 
 ## Management Systems
 
@@ -247,6 +250,8 @@ Table of Contents
   * http://moosend.com/ — Mailing list management service. Free account for 6 months for startups.
   * https://debugmail.io/ - Easy to use testing mail server for developers.
   * https://mailboxlayer.com/ - Email Validation & Verification JSON API for Developers. 1000 free api request per month.
+  * http://mailcatcher.me/ - Catches mail and serves it through a web interface.
+  * http://www.yopmail.fr/en/ - Disposable email address
 
 ## CDN and Protection
 
@@ -277,7 +282,7 @@ Table of Contents
   * https://www.firebase.com/ - Build realtime apps, free plan has 100 Max Connections, 10 GB Data Transfer, 1 GB Data Storage. 1 GB Hosting Storage and 100 GB Hosting Transfer.
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
   * https://www.openshift.com/ - Red Hat PaaS, free tier provides three small gears (each with 512MB memory, 1GB storage). {[Browse one-click deployments](https://hub.openshift.com/)}.
-  * https://algorithmia.com/ - Host algorithms for free - includes 10,000 credits (seconds of on-demand execution time) free
+  * https://algorithmia.com/ - Host and Use algorithms for free - includes 10,000 credits (seconds of on-demand execution time) free. Now with CLI support.
   * https://bigml.com/ - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16MB data per task
   * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20GB
   * http://www.outsystems.com/ - Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1GB database.
@@ -362,6 +367,7 @@ Table of Contents
    * https://scalingo.com/ - Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL, or MongoDB
    * https://skyvia.com/ - "Cloud data platform". Offers a free tier and all plans are completely free while in beta.
    * https://airtable.com/ - looks like a spreadsheet, but it's a relational database, unlimited bases, 1200/base, 1000 API request/month.
+   * https://www.iriscouch.com/ - CouchDB as a service. Free for developing, prototyping, etc...
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
@@ -403,6 +409,7 @@ Table of Contents
    * http://www.targetprocess.com/ - Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1000 data entities (more details at http://www.targetprocess.com/pricing/).
    * https://overv.io/ - Agile project management for teams who love GitHub.
    * https://taskulu.com/ - Role based project management. Free up to 5 users. Integration with Github/ Trello/ Dropbox/ Google Drive.
+   * https://www.contriber.com/ - Customizable project management platform - Free starter plan - 5 workspaces.
 
 ## Storage and Media Processing
 
@@ -429,6 +436,7 @@ Table of Contents
 * [Cloudconvert](https://cloudconvert.com/) - Convert anything to anything. 208 supported formats including videos to gif.
 * [App Icon Resizer](https://resizeappicon.com/) - A simple service to resize and manage your app icons.
 * [Vectr](https://vectr.com/) - Free Design App For Web + Desktop.
+* http://www.walkme.com/ - Enterprise Class Guidance and Engagement Platform - Free plan (3 walk-thrus upto 5 steps per walk).
 
 ## Data Visualization on Maps
 
@@ -482,6 +490,8 @@ Table of Contents
    * https://www.hotjar.com/ - Per site: 2000 page views/day, 3 heatmaps, data stored for 3 months...
    * http://imprace.com/ - Landing page analysis with suggestions to improve bounce rates. Free for 5 landing pages per domain.
    * https://baremetrics.com/ - Analytics & Insights for stripe
+   * https://www.optimizely.com - A/B Testing solution. - Free starter plan - 1 website, 1 iOS and 1 android app.
+   * https://www.expensify.com/ - Expense reporting - Free personal reporting approval workflow.
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
@@ -513,6 +523,9 @@ Table of Contents
 
   * https://atlas.hashicorp.com/boxes/search - HashiCorp's index of boxes
   * http://vagrantbox.es/ - An alternative public box index
+
+## Technology watch
+  * https://www.apichangelog.com/ - Subscribe to be notified each time API Documentation is updated (facebook, twitter, google, ....)
 
 ## Data mining
   * http://www.monkeylearn.com/ - Text analysis with Machine Learning, 100,000 queries for free per month.
