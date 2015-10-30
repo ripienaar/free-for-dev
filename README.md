@@ -480,7 +480,7 @@ Table of Contents
    * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
    * https://usabilityhub.com/ - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
    * https://gosquared.com/ - Track up to 1,000 data points for free.
-   * https://mixpanel.com/ - Free 25000 points or 200000 with their badge on your site.
+   * https://mixpanel.com/ - Free 25000 points or 200000 with their badge on your site
    * https://amplitude.com/ - 1 million monthly events, up to 2 apps.
    * https://keen.io/ - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
    * https://parse.com/ - Unlimited free analytics
@@ -488,14 +488,15 @@ Table of Contents
    * https://www.mousestats.com/ - 100 sessions/month free for 1 website
    * https://metrika.yandex.com/ - Unlimited free analytics
    * https://www.hotjar.com/ - Per site: 2000 page views/day, 3 heatmaps, data stored for 3 months...
-   * http://imprace.com/ - Landing page analysis with suggestions to improve bounce rates. Free for 5 landing pages per domain.
+   * http://imprace.com/ - Landing page analysis with suggestions to improve bounce rates. Free for 5 landing pages per domain
    * https://baremetrics.com/ - Analytics & Insights for stripe
-   * https://www.optimizely.com - A/B Testing solution. - Free starter plan - 1 website, 1 iOS and 1 android app.
-   * https://www.expensify.com/ - Expense reporting - Free personal reporting approval workflow.
+   * https://www.optimizely.com - A/B Testing solution - Free starter plan - 1 website, 1 iOS and 1 android app
+   * https://www.expensify.com/ - Expense reporting - Free personal reporting approval workflow
 
 ## International Mobile number verification API and SDK
  * https://www.cognalys.com/ - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day. {[Signup](https://www.cognalys.com/signup/1)}
- * https://numverify.com/ - Global Phone Number Validation & Lookup JSON API. 250 api request per month.
+ * https://numverify.com/ - Global Phone Number Validation & Lookup JSON API. 250 api request per month
+ * https://sumome.com/ - Heat map and conversion enhancement tools, free without few advanced features.
 
 ## Payment / Billing Integration
 
