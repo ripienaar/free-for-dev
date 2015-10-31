@@ -290,6 +290,7 @@ Table of Contents
   * http://scn.sap.com/docs/DOC-56411 - The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1GB structured, 1GB unstructured, 1GB of Git data and allow you to run HTML5, Java and HANA XS apps.
   * https://www.mendix.com/ - Rapid Application Development for Enterprises - Unlimited number of free sandbox environments supporting 10 users, 100MB of files and 100MB database storage each.
   * https://www.pythonanywhere.com/ - cloud Python app hosting. Beginner account is free - one Python web applications at your-username.pythonanywhere.com domain, 512MB private file storage, one MuSQL database.
+  * https://www.giantswarm.io/ - Public, hosted, or on-premise container engine which feels like a PaaS, except less opinionated. Free while in alpha.
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
   * https://stamplay.com/ - 50k API calls, 100 GB data transfer, and 1 GB storage for free
@@ -516,7 +517,7 @@ Table of Contents
   * https://quay.io/ - Unlimited free public repositories
 
 ### PaaS
-
+  * https://www.giantswarm.io/ - Public, hosted, or on-premise container engine which feels like a PaaS, except less opinionated. Free while in alpha.
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops - Build, deploy, and manage your apps across any cloud - free while in beta and free developer plan when tutum will be production ready
 
 ## Vagrant Related
