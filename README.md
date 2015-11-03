@@ -88,6 +88,7 @@ Table of Contents
   * https://ideascale.com/ - Allow clients to submit ideas and vote, free for 25 members in 1 community
   * https://filehero.io/ - Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
   * https://codenvy.com/ - Share developer environments for your project. Includes configuration for the browser IDE, build, debug and run environments. Free tier with 4 GB environments and support for >90 languages
+  * http://wistia.com/ - Video hosting with viewer analytics, HD video delivery, and marketing tools to help understand your visitors. 25 Videos and Wistia branded player.
 
 
 ## Code Quality
