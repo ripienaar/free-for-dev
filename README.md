@@ -329,7 +329,8 @@ Table of Contents
   * https://www.pubnub.com/ - Free push notifications for up to 1,000,000 messages/month and 100 active daily devices
   * https://webtask.io/ - Run code with an HTTP call. No provisioning. No deployment. Developed by [Auth0](https://auth0.com/)
   * https://zapier.com/ - Connect the apps you use, to automate tasks. 5 zaps, every 15 min. and 100 tasks/month
-  * https://stackstorm.com/ - Event-driven automation for apps, services and workflows, free without flow, access control, LDAP...
+  * https://stackstorm.com/ - Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
+  * https://simperium.com/ - Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
 
 ## Web Hosting
 
