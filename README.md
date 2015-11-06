@@ -305,6 +305,7 @@ Table of Contents
   * https://www.apicastor.com/ - Convert spreadsheets into URL and monitor access
   * https://www.formlets.com/ - Online forms, unlimited single page forms/month, 100 submissions/month, email notifications
   * https://superfeedr.com/ - Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
+  * http://www.diffd.com/ - Compare website versions with highlighted changes before you deploy, free for 100 pages/month
 
 ## BaaS
 
