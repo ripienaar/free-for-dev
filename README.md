@@ -32,7 +32,7 @@ Table of Contents
    * [IaaS](#iaas)
    * [DBaaS](#dbaas)
    * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
-   * [Issue Tracking and Project Management](#issue-tracking--project-management)
+   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
    * [Storage and Media Processing](#storage-and-media-processing)
    * [Design and UI](#design--ui)
    * [Data Visualization on Maps](#data-visualization-on-maps)
