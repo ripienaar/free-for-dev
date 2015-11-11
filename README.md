@@ -70,6 +70,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Security and PKI
 
   * http://vaddy.net - Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scan history for free
+  * https://letsencrypt.org/ - Free SSL Certificate Authority with certificates trusted by all major browsers.
   * https://www.globalsign.com/en/ssl/ssl-open-source/ - Free SSL certs for Open Source projects
   * https://www.startssl.com/ - Free SSL certs
   * https://stormpath.com/ - Free user management, authentication, social login, and SSO.
