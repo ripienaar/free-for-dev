@@ -143,6 +143,7 @@ Table of Contents
 
   * https://crypteron.com/ - Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * http://vaddy.net/ - Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scans history for free
+  * https://letsencrypt.org/ - Free SSL Certificate Authority with certs trusted by all major browsers.
   * https://www.globalsign.com/en/ssl/ssl-open-source/ - Free SSL certs for Open Source projects
   * https://www.startssl.com/ - Free SSL certs
   * http://www.soclall.com/ - Free up to 1,000 users login, post, share through top 20+ social networks
