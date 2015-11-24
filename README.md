@@ -442,6 +442,7 @@ Table of Contents
    * http://embed.ly/ - Provides APIs for embeding media in a webpage, Responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/Month at 15 requests/sec
    * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos
    * http://www.otixo.com/ - Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max file size limit and allows 5 encrypted files
+   * https://cloudup.com/ - Share your videos, photos, music, links and docs - Free storage upto 1000 items.
 
 ## Design and UI
 
