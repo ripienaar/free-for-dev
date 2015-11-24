@@ -96,6 +96,7 @@ Table of Contents
 
   * http://tachikoma.io/ - Dependency Update for Ruby, Node.js, Perl projects, free for Open Source
   * https://gemnasium.com/ - Dependency Update for Ruby, Node.js projects, free for Open Source
+  * https://deppbot.com/ - Automated Dependency Updates for Ruby projects, free for Open Source
   * https://landscape.io/ - Code Quality for Python projects, free for Open Source
   * https://codeclimate.com/ - Automated code review, free for Open Source
   * https://houndci.com/ - Comments on GitHub commits about code quality, free for Open Source
