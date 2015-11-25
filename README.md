@@ -133,6 +133,7 @@ Table of Contents
   * http://www.appveyor.com/ - CD service for Windows, free for Open Source
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
   * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
+  * https://www.browserstack.com/ - Manual and automated browser testing, free for Open Source
   * http://ftploy.com/ - 1 project with unlimited deployments
   * https://deployhq.com/ - 1 project with 10 daily deployments
   * https://hub.jazz.net/ - 60 minutes of free build time/month
