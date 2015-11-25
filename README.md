@@ -13,7 +13,7 @@ Table of Contents
 =================
 
    * [Source Code Repos](#source-code-repos)
-   * [Tools for Teams and Collaboration](#tools-for-teams--collaboration)
+   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [CI / CD](#ci--cd)
@@ -34,7 +34,7 @@ Table of Contents
    * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
    * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
    * [Storage and Media Processing](#storage-and-media-processing)
-   * [Design and UI](#design--ui)
+   * [Design and UI](#design-and-ui)
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [Package Build System](#package-build-systems)
    * [IDE and Code Editing](#ide-and-code-editing)
