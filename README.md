@@ -13,7 +13,7 @@ Table of Contents
 =================
 
    * [Source Code Repos](#source-code-repos)
-   * [Tools for Teams and Collaboration](#tools-for-teams--collaboration)
+   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [CI / CD](#ci--cd)
