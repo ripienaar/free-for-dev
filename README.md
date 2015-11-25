@@ -18,7 +18,7 @@ Table of Contents
    * [Code Search and Browsing](#code-search-and-browsing)
    * [CI / CD](#ci--cd)
    * [Security and PKI](#security-and-pki)
-   * [Management Systems](#management-systems)
+   * [Management Systems](#management-system)
    * [Log Management](#log-management)
    * [Translation Management](#translation-management)
    * [Monitoring](#monitoring)
