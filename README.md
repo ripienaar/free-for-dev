@@ -29,6 +29,7 @@ Table of Contents
    * [PaaS](#paas)
    * [BaaS](#baas)
    * [Web Hosting](#web-hosting)
+   * [DNS](#dns)
    * [IaaS](#iaas)
    * [DBaaS](#dbaas)
    * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
@@ -347,11 +348,14 @@ Table of Contents
   * https://pantheon.io/ - Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies
   * https://www.acquia.com/ - Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
   * https://www.bitballoon.com/ - BitBalloon offers hosting for static sites and apps. Free on a subdomain
+  * https://readthedocs.org/ - Free documentation hosting with versioning, PDF generation and more
+  * https://bubble.is/ -  Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
+
+## DNS
   * https://freedns.afraid.org/ - Free DNS hosting
   * https://dns.he.net/ - Free DNS hosting service with Dynamic DNS Support
-  * https://readthedocs.org/ - Free documentation hosting with versioning, PDF generation and more
   * http://www.luadns.com/ - Free DNS hosting, 3 domains, all features with reasonable limits
-  * https://bubble.is/ -  Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
+  * https://domain.yandex.com/domains_add/ - Free email and DNS hosting for up to 1,000 users
 
 ## IaaS
 
