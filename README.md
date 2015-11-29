@@ -53,16 +53,16 @@ Table of Contents
 
 ## Source Code Repos
 
-  * https://bitbucket.org/ - Free unlimited public and private repos (GIT and Mecurial) for up to 5 users
+  * https://bitbucket.org/ - Free unlimited public and private repos (Git and Mecurial) for up to 5 users
   * http://chiselapp.com/ - Unlimited public and private Fossil repositories
   * https://github.com/ - Free for an unlimited number of public repositories
-  * https://about.gitlab.com/ - Unlimited public and private GIT repos with unlimited collaborators
+  * https://about.gitlab.com/ - Unlimited public and private Git repos with unlimited collaborators
   * https://hub.jazz.net/ - Unlimited public repos, private repos free for up to 3 accounts
-  * https://visualstudio.com/ - Free unlimited private repos (GIT and TFS) for up to 5 users per team
+  * https://visualstudio.com/ - Free unlimited private repos (Git and TFS) for up to 5 users per team
   * https://assembla.com/ - Free repo hosting in a free plan
-  * http://www.fogcreek.com/kiln/ - Free unlimited public and private repos (hybrid of GIT and Mecurial) for 2 users
+  * http://www.fogcreek.com/kiln/ - Free unlimited public and private repos (hybrid of Git and Mecurial) for 2 users
   * https://www.plasticscm.com/ - Free for individuals, OSS and non-profits
-  * [Cloud Source Repositories](https://cloud.google.com/tools/cloud-repositories/) - Free private GIT repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage
+  * [Cloud Source Repositories](https://cloud.google.com/tools/cloud-repositories/) - Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage
 
 ## Tools for Teams and Collaboration
 
@@ -296,7 +296,7 @@ Table of Contents
   * https://www.activestate.com/stackato/ - Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20 GB
   * http://www.outsystems.com/ - Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
   * https://platform.telerik.com/ - Build and deploy mobile applications using JavaScript. Free plan has 100 MB data storage, 1 GB file storage, 5 GB bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics
-  * http://scn.sap.com/docs/DOC-56411 - The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of GIT data and allow you to run HTML5, Java and HANA XS apps
+  * http://scn.sap.com/docs/DOC-56411 - The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps
   * https://www.mendix.com/ - Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
   * https://www.pythonanywhere.com/ - Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * https://www.tutum.co/ - The Docker Platform for Dev and Ops. Build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
@@ -415,7 +415,7 @@ Table of Contents
    * https://huboard.com/ - Instant project management for your GitHub issues, free for Open Source
    * https://taiga.io/ - Project management platform for startups and agile developers, free for Open Source
    * https://www.jetbrains.com/youtrack/buy/open_source_incloud.jsp - Free hosted YouTrack (InCloud) for FOSS projects (private projects free for 10 users: https://www.jetbrains.com/youtrack/buy/)
-   * https://github.com/ - In addition to its GIT storage facility, GitHub offers basic issue tracking
+   * https://github.com/ - In addition to its Git storage facility, GitHub offers basic issue tracking
    * https://asana.com/ - Free for private project with collaborators
    * http://www.acunote.com/ - Free project management and SCRUM software for up to 5 team members
    * http://gliffy.com/ - Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira & Confluence. 5 diagrams and 2 MB free
@@ -474,9 +474,9 @@ Table of Contents
 
 ## IDE and Code Editing
 
-   * https://c9.io/ - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with GitHub and BitBucket, but also adds SFTP and generic GIT access
+   * https://c9.io/ - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with GitHub and BitBucket, but also adds SFTP and generic Git access
    * https://codeanywhere.com/ - Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub, and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions, and version tracking
-   * https://codenvy.com/ - IDE and automated developer workspaces in a browser, collaborative, GIT/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 4 GB RAM, always-on machines, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
+   * https://codenvy.com/ - IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 4 GB RAM, always-on machines, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
    * https://koding.com/ - IDE in a browser. Full sudo access, VMs hosted on Amazon EC2, SSH Access, Real EC2 VM, no LXCs/hypervising, Custom sub-domains, Publicly accessible IP, Ubuntu 14.04, IDE/Terminal/Collaboration
    * https://www.nitrous.io/ - Private Linux instance(s) with interactive collaboration, free for 2 hours/day. {[More Details](http://goo.gl/J1Zbsg)}
    * http://visualstudio.com/free - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
@@ -489,7 +489,7 @@ Table of Contents
    * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals
    * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases
-   * https://www.sourcelair.com/ - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with GIT, Mercurial, GitHub, Heroku and more. Free forever for 1 private project
+   * https://www.sourcelair.com/ - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project
    * https://codepen.io/ - CodePen is a playground for the front end side of the web
 
 ## Analytics, Events and Statistics
