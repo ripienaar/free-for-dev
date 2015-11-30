@@ -424,7 +424,7 @@ Table of Contents
    * https://overv.io/ - Agile project management for teams who love GitHub
    * https://taskulu.com/ - Role based project management. Free up to 5 users. Integration with GitHub/ Trello/ Dropbox/ Google Drive
    * https://www.contriber.com/ - Customizable project management platform - Free starter plan - 5 workspaces
-   * [productboard](https://www.productboard.com/) - Beautiful product management. Free for 1 editor, including Slack, Intercom, and Zendesk integrations.
+   * https://www.productboard.com/ - Beautiful product management. Free for 1 editor, including Slack, Intercom, and Zendesk integrations.
 
 ## Storage and Media Processing
 
