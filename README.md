@@ -480,7 +480,8 @@ Table of Contents
    * https://codenvy.com/ - IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 4 GB RAM, always-on machines, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
    * https://koding.com/ - IDE in a browser. Full sudo access, VMs hosted on Amazon EC2, SSH Access, Real EC2 VM, no LXCs/hypervising, Custom sub-domains, Publicly accessible IP, Ubuntu 14.04, IDE/Terminal/Collaboration
    * https://www.nitrous.io/ - Private Linux instance(s) with interactive collaboration, free for 2 hours/day. {[More Details](http://goo.gl/J1Zbsg)}
-   * http://visualstudio.com/free - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+   * http://www.visualstudio.com/community - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+   * http://code.visualstudio.com/ - Build and debug modern web and cloud applications. Code is free,open source and available on your favorite platform - Linux, Mac OSX, and Windows.
    * https://cloud.sagemath.com/ - Collaborative mathematics-oriented IDE in a browser, with support for Python, LaTeX, IPython Notebooks, etc
    * https://wakatime.com/ - Quantified self metrics about your coding activity, using text editor plugins, limited plan for free
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
