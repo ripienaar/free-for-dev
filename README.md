@@ -223,6 +223,7 @@ Table of Contents
   * https://blackfire.io/ - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan
   * http://apimetrics.io/ - Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
   * https://www.opsdash.com/ - Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
+  * https://www.versioneye.com/ - Monitor your source code and notify about outdated dependencies. Free for open source and public repos. 
 
 ## Crash and Exception Handling
 
