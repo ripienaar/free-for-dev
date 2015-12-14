@@ -233,7 +233,7 @@ Table of Contents
 
 ## Search
 
-  * https://www.algolia.com/ - Hosted search-as-you-type (instant). Free hacker plan up to 1,000 documents and 50,000 operations. Bigger free plans available for community/Open Source projects
+  * https://www.algolia.com/ - Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
   * https://swiftype.com/ - Hosted search solution (API and crawler). Free for a single search engine with up to 1,000 documents. Free upgrade to Premium level for Open Source
   * https://bonsai.io/ - Free 1 GB memory and 1 GB storage
   * http://www.searchly.com/ - Free 2 indices and 5 MB storage
