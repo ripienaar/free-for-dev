@@ -116,6 +116,7 @@ Table of Contents
   * https://gtmetrix.com/ - Reports and thorough recommendations to optimize websites
   * http://browserling.com/ - Live interactive cross-browser testing, free only 3 min. sessions with MS IE 9 under Vista at 1024x768 resolution
   * https://loadfocus.com/ - Load and speed tests for websites, mobile apps and APIs, monitoring,... Free 5 tests/month, 120 clients/test, 1 monitor, 1 location,...
+  * https://www.versioneye.com/ - Monitor your source code and notify about outdated dependencies. Free for open source and public repos.
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
@@ -222,8 +223,7 @@ Table of Contents
   * http://www.probeapi.com/ - Performance Monitoring API, checks Ping, DNS, etc
   * https://blackfire.io/ - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan
   * http://apimetrics.io/ - Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
-  * https://www.opsdash.com/ - Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
-  * https://www.versioneye.com/ - Monitor your source code and notify about outdated dependencies. Free for open source and public repos. 
+  * https://www.opsdash.com/ - Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services 
 
 ## Crash and Exception Handling
 
