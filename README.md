@@ -75,7 +75,6 @@ Table of Contents
   * http://seafile.com/ - Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB
   * https://sameroom.io/ - Free for unlimited users with some feature limitations
   * https://yammer.com/ - Private social network standalone or for MS Office 365. Free, just a bit less admin tools and users management features
-  * https://www.blockspring.com/ - Share scripts with anyone on your team: cross language and with spreadsheet users. Free for 5 million runs/month
   * https://helpmonks.com/ - Shared inbox for teams, free for Open Source and non-profit organizations
   * http://typetalk.in/ - Share and discuss ideas with your team through instant messaging on the web or on your mobile
   * https://talky.io/ - Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
@@ -88,7 +87,6 @@ Table of Contents
   * https://www.zoom.us/ - Secure Video and Web conferencing, add-ons available. Free limited to 40 min
   * https://ideascale.com/ - Allow clients to submit ideas and vote, free for 25 members in 1 community
   * https://filehero.io/ - Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
-  * https://codenvy.com/ - Share developer environments for your project. Includes configuration for the browser IDE, build, debug and run environments. Free tier with 4 GB environments and support for 90+ languages
   * http://wistia.com/ - Video hosting with viewer analytics, HD video delivery, and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * https://cnverg.com/ - Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
 
@@ -223,7 +221,7 @@ Table of Contents
   * http://www.probeapi.com/ - Performance Monitoring API, checks Ping, DNS, etc
   * https://blackfire.io/ - Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan
   * http://apimetrics.io/ - Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
-  * https://www.opsdash.com/ - Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services 
+  * https://www.opsdash.com/ - Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
 
 ## Crash and Exception Handling
 
@@ -300,7 +298,6 @@ Table of Contents
   * http://scn.sap.com/docs/DOC-56411 - The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps
   * https://www.mendix.com/ - Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
   * https://www.pythonanywhere.com/ - Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
-  * https://www.tutum.co/ - The Docker Platform for Dev and Ops. Build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
   * http://www.configure.it/ - Mobile app development platform, free for 2 projects, limited features but no resource limits
   * https://stamplay.com/ - 50 K API calls, 100 GB data transfer, and 1 GB storage for free
   * http://qtcloudservices.com/products/managed-runtime/ - Managed platform with micro runtime instance and database for free
@@ -334,7 +331,7 @@ Table of Contents
   * http://www.iron.io/ - Async task processing (like AWS Lambda) with free tier and 1 month free trial
   * http://stackhut.com/ - Async task processing (like AWS Lambda). 10 free private services and unlimited free public services
   * https://www.pubnub.com/ - Free push notifications for up to 1,000,000 messages/month and 100 active daily devices
-  * https://webtask.io/ - Run code with an HTTP call. No provisioning. No deployment. Developed by [Auth0](https://auth0.com/)
+  * https://webtask.io/ - Run code with an HTTP call. No provisioning. No deployment.
   * https://zapier.com/ - Connect the apps you use, to automate tasks. 5 zaps, every 15 min. and 100 tasks/month
   * https://stackstorm.com/ - Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
   * https://simperium.com/ - Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
@@ -410,7 +407,7 @@ Table of Contents
    * https://kanbanery.com/ - Board based project management. Free for 2 users (premium tiers with more options)
    * https://zenhub.io/ - The only project management solution inside GitHub. Free for public repos, OSS, and non-profits
    * https://trello.com/ - Board based project management. Free
-   * https://www.producteev.com/ - Task management tool. Free (premium version with more options). Mobile applications available. 
+   * https://www.producteev.com/ - Task management tool. Free (premium version with more options). Mobile applications available.
    * http://www.fogcreek.com/fogbugz/ - Bug tracking and project management. Free for 2 users
    * https://waffle.io/ - Board based project management solution from your existing GitHub Issues, free for Open Source
    * https://huboard.com/ - Instant project management for your GitHub issues, free for Open Source
@@ -497,7 +494,6 @@ Table of Contents
 
 ## Analytics, Events and Statistics
 
-   * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free
    * https://www.google.com/analytics/ - Google Analytics
    * https://heapanalytics.com/ - Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
    * http://sematext.com/search-analytics - Free for up to 50 K actions/month, 1 day data retention, unlimited dashboards, users, etc
