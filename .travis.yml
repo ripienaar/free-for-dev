@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list github.com,jazz.net,yandex.com
+  - awesome_bot README.md --white-list github.com,jazz.net,yandex.com --allow-redirect
