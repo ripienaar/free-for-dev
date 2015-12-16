@@ -1,7 +1,7 @@
 # free-for-dev
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
-This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings thatƒ have free tiers for developers.
 
 The scope of this particular list is limited to things infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.
 
@@ -91,6 +91,8 @@ Table of Contents
   * https://codenvy.com/ - Share developer environments for your project. Includes configuration for the browser IDE, build, debug and run environments. Free tier with 4 GB environments and support for 90+ languages
   * http://wistia.com/ - Video hosting with viewer analytics, HD video delivery, and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * https://cnverg.com/ - Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
+  * https://www.flowdock.com/ - Free for teams of five and students.  Unlimited flows. Unlimited history. Unlimited integrations.
+  * https://witkit.com/ - 50GB of storage protected with WitCrypt.
 
 
 ## Code Quality
@@ -263,6 +265,8 @@ Table of Contents
   * http://mailcatcher.me/ - Catches mail and serves it through a web interface
   * http://www.yopmail.fr/en/ - Disposable email addresses
   * http://kickbox.io/ - Verify 100 emails free, real time API available
+  * https://beefree.io/index.html -  MailUp's drag-&-drop editor for responsive design emails
+  * https://mailtrack.io/en/ - Unlimited number of tracked emails
 
 ## CDN and Protection
 
