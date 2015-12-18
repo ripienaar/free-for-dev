@@ -7,4 +7,4 @@ before_script:
   - cd awesome_bot-timeout
   - bundle install
 script:  
-  - ./bin/awesome_bot ../README.md --white-list github.com,jazz.net,yandex.com --allow-redirect --set-timeout 5
+  - ./bin/awesome_bot ../README.md --white-list github.com,jazz.net,yandex.com --allow-redirect --set-timeout 5 --allow-timeout
