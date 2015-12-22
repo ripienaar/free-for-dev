@@ -403,7 +403,6 @@ Table of Contents
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source
    * http://kanbantool.com/ - Kanban board based project management. Free (paid plans with more options)
    * https://kanbanflow.com/ - Board based project management. Free (premium version with more options)
-   * https://kanbanpad.com/ - Board based project management. Free (premium version with more options)
    * https://kanbanery.com/ - Board based project management. Free for 2 users (premium tiers with more options)
    * https://zenhub.io/ - The only project management solution inside GitHub. Free for public repos, OSS, and non-profits
    * https://trello.com/ - Board based project management. Free
