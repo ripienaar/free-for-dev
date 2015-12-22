@@ -2,9 +2,6 @@ language: ruby
 rvm:
   - 2.2
 before_script:
-  - wget https://codeload.github.com/dkhamsing/awesome_bot/tar.gz/timeout -O /tmp/temp.tar.gz
-  - tar -xvf /tmp/temp.tar.gz
-  - cd awesome_bot-timeout
-  - bundle install
+  - gem install awesome_bot
 script:  
   - ./bin/awesome_bot ../README.md --white-list github.com,jazz.net,yandex.com --allow-redirect --set-timeout 5 --allow-timeout
