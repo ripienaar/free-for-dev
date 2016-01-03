@@ -354,6 +354,7 @@ Table of Contents
   * https://dns.he.net/ - Free DNS hosting service with Dynamic DNS Support
   * http://www.luadns.com/ - Free DNS hosting, 3 domains, all features with reasonable limits
   * https://domain.yandex.com/domains_add/ - Free email and DNS hosting for up to 1,000 users
+  * https://www.cloudns.net/ - Free DNS hosting up to 3 domains with unlimited records
 
 ## IaaS
 
