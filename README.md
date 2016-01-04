@@ -17,6 +17,7 @@ Table of Contents
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [CI / CD](#ci--cd)
+   * [Automated Browser Testing](#automated-browser-testing)
    * [Security and PKI](#security-and-pki)
    * [Management Systems](#management-system)
    * [Log Management](#log-management)
@@ -115,6 +116,7 @@ Table of Contents
   * http://browserling.com/ - Live interactive cross-browser testing, free only 3 min. sessions with MS IE 9 under Vista at 1024x768 resolution
   * https://loadfocus.com/ - Load and speed tests for websites, mobile apps and APIs, monitoring,... Free 5 tests/month, 120 clients/test, 1 monitor, 1 location,...
   * https://www.versioneye.com/ - Monitor your source code and notify about outdated dependencies. Free for open source and public repos.
+  * http://beanstalkapp.com/ - A complete workflow to write, review & deploy code - Free account for 1 user and 1 repository, with 100MB of storage.
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
@@ -132,14 +134,17 @@ Table of Contents
   * https://snap-ci.com/ - Free for public repositories, 1 build at the time
   * http://www.appveyor.com/ - CD service for Windows, free for Open Source
   * [Comparison of Continuous Integration services](https://github.com/ligurio/Continuous-Integration-services)
-  * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
-  * https://www.browserstack.com/ - Manual and automated browser testing, free for Open Source
   * http://ftploy.com/ - 1 project with unlimited deployments
   * https://deployhq.com/ - 1 project with 10 daily deployments
   * https://hub.jazz.net/ - 60 minutes of free build time/month
   * https://styleci.io/ - Public GitHub repositories only
   * http://deploybot.com/ - Free for 1 repository, private or public. Supports any service you can throw at it
   * https://www.bitrise.io/ - iOS CI/CD with 200 free builds/month
+  * https://saucelabs.com/ - CI with scalable testing for mobile and web apps, free for Open Source
+
+## Automated Browser Testing
+  * https://www.gridlastic.com - Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4000 test minutes per month
+  * https://www.browserstack.com/ - Manual and automated browser testing, free for Open Source
 
 ## Security and PKI
 
