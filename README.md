@@ -451,6 +451,7 @@ Table of Contents
    * https://backhub.co/ - Backup and archive your GitHub repositories. Free for public repos
    * http://www.otixo.com/ - Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max file size limit and allows 5 encrypted files
    * https://tinypng.com/ - API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
+   * https://www.filestack.com/ - File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwith
 
 ## Design and UI
 
