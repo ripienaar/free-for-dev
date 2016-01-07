@@ -165,8 +165,8 @@ Table of Contents
   * [tinfoilsecurity.com](https://tinfoilsecurity.com/) — Automated vulnerability scanning. Free plan = weekly XSS scans
   * [acunetix.com](http://acunetix.com/free-network-security-scanner/) — Free vulnerability and network scanning for 3 targets
   * [ponycheckup.com](https://ponycheckup.com/) — An automated security checkup tool for Django websites
-  * [foxpass.com](https://foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users
-  * [opswatgears.com](https://opswatgears.com/) — Security Monitoring of computers, devices, applications, configurations,... Free 25 users and 30 days history
+  * [foxpass.com](https://www.foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users
+  * [opswatgears.com](https://www.opswatgears.com/) — Security Monitoring of computers, devices, applications, configurations,... Free 25 users and 30 days history
   * [bitninja.io](https://bitninja.io/) — Botnet protection through a blacklist, free plan only reports limited information on each attack
   * [onelogin.com](https://onelogin.com/) — Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users
   * [logintc.com](https://logintc.com/) — Two-factor authentication (2FA) by push notifications, free for 10 users, VPN, Websites and SSH
@@ -182,7 +182,7 @@ Table of Contents
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://loggly.com/) — Free for a single user, see the ```lite``` option
   * [sematext.com](http://sematext.com/logsene) — Free for 1 million logs, unlimited retention
-  * [sumologic.com](https://sumologic.com/) — Free up to 500 MB/day, 7 days retention
+  * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
 
 ## Translation Management
 
@@ -199,7 +199,7 @@ Table of Contents
   * [checkmy.ws](https://checkmy.ws/en/solutions/free-forever-for-foss/) — Free 15 days full demo and 3 websites, forever free for Open Source
   * [appneta.com](http://appneta.com/) — Free with 1 hour data retention
   * [thousandeyes.com](https://thousandeyes.com/) — Network and user experience monitoring. 3 locations, plus 20 data feeds of major web services free
-  * [datadoghq.com](https://datadoghq.com/) — Free for up to 5 nodes
+  * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
   * [stackdriver.com](http://stackdriver.com/) — Free monitoring up to 10 servers/hosted services
   * [keymetrics.io](https://keymetrics.io/) — Free for 2 servers with 7 days data retention
   * [newrelic.com](http://newrelic.com/) — Free with 24 hours data retention
@@ -302,7 +302,7 @@ Table of Contents
   * [platform.telerik.com](https://platform.telerik.com/) — Build and deploy mobile applications using JavaScript. Free plan has 100 MB data storage, 1 GB file storage, 5 GB bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics
   * [scn.sap.com](http://scn.sap.com/docs/DOC-56411) — The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps
   * [mendix.com](https://mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
-  * [pythonanywhere.com](https://pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
+  * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [configure.it](http://configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
   * [stamplay.com](https://stamplay.com/) — 50 K API calls, 100 GB data transfer, and 1 GB storage for free
   * [qtcloudservices.com](http://qtcloudservices.com/products/managed-runtime/) — Managed platform with micro runtime instance and database for free
@@ -310,7 +310,7 @@ Table of Contents
   * [viaduct.io](https://viaduct.io/) — 350 MB of RAM and a 1 GB database for free
   * [pagodabox.io](http://pagodabox.io/) — Small worker, web server, cache, and database for free
   * [cloudandheat.com](https://cloudandheat.com/) — 128 MB of RAM for free, includes support for custom domains for free
-  * [apicastor.com](https://apicastor.com/) — Convert spreadsheets into URL and monitor access
+  * [apicastor.com](https://www.apicastor.com/) — Convert spreadsheets into URL and monitor access
   * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications
   * [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
   * [diffd.com](http://diffd.com/) — Compare website versions with highlighted changes before you deploy, free for 100 pages/month
@@ -344,7 +344,7 @@ Table of Contents
 ## Web Hosting
 
   * [closeheat.com](http://closeheat.com/) — Development Environment in the Cloud for Static Websites with Free Hosting and GitHub integration. 1 free website with custom domain support
-  * [simplybuilt.com](https://simplybuilt.com/) — SimplyBuilt offers free website building and hosting for {[Open Source projects](http://www.simplybuilt.com/explore/free-websites-for-open-source-projects)}. Simple alternative to GitHub Pages
+  * [simplybuilt.com](https://www.simplybuilt.com/) — SimplyBuilt offers free website building and hosting for {[Open Source projects](http://www.simplybuilt.com/explore/free-websites-for-open-source-projects)}. Simple alternative to GitHub Pages
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps, and websites into a personal developer portfolio
   * [netlify.com](https://netlify.com/) — Builds, deploy and hosts static site or app, free for 100 MB data and 1 GB bandwidth
   * [divshot.com](https://divshot.com/) — Static web hosting for developers, free basic apps, 1 GB bandwidth, 100 MB storage, custom domains, subdomain SSL
@@ -398,7 +398,7 @@ Table of Contents
    * stun:global.stun.twilio.com:3478?transport=udp — Twilio STUN
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third party services. 100 K events/month free
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL
-   * [cloudamqp.com](https://cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in differen AZ's
+   * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in differen AZ's
 
 
 ## Issue Tracking and Project Management
