@@ -107,6 +107,7 @@ Table of Contents
   * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, JavaScript, Scala and CSS, free for Open Source
   * [pullreview.com](https://www.pullreview.com/) — Automated Code Review for Ruby in GitHub, Bitbucket and GitLab, free for Open Source
   * [gocover.io](http://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
+  * [goreportcard.com/](http://goreportcard.com/) - Code Quality for Go projects, free for Open Source
   * [inch-ci.org](http://inch-ci.org/) — Documentation badges for Ruby, JS and Elixir
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
