@@ -424,7 +424,7 @@ Table of Contents
    * [acunote.com](http://acunote.com/) — Free project management and SCRUM software for up to 5 team members
    * [gliffy.com](http://gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira & Confluence. 5 diagrams and 2 MB free
    * [cacoo.com](https://cacoo.com/) — Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
-   * [draw.io](https://draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
+   * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
    * [hub.jazz.net](https://hub.jazz.net/) — IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects
    * [leankit.com](http://leankit.com/) — Kanban board, that visualizes your workflow. Free up to 10 users
    * [visualstudio.com](https://www.visualstudio.com//products/what-is-visual-studio-online-vs) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
@@ -490,7 +490,7 @@ Table of Contents
    * [cloud.sagemath.com](https://cloud.sagemath.com/) — Collaborative mathematics-oriented IDE in a browser, with support for Python, LaTeX, IPython Notebooks, etc
    * [wakatime.com](https://wakatime.com/) — Quantified self metrics about your coding activity, using text editor plugins, limited plan for free
    * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
-   * [mockable.io](https://mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data
+   * [mockable.io](https://www.mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data
    * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source, and user groups
    * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
    * [codio.com](https://codio.com/) — Codio is a cloud-based computer programming platform for universities, schools, and developer professionals
