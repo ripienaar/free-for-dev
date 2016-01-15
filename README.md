@@ -285,6 +285,7 @@ Table of Contents
   * [athenalayer.com](http://athenalayer.com/) — Free DDoS protection with unlimited websites
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
+  * [dropigee.com](https://www.dropigee.com) - Dropigee provides CDN + Cloud Storage, get 2GB of bandwidth and unlimited storage free per month.
 
 ## PaaS
   * [restlet.com](http://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
