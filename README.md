@@ -563,4 +563,4 @@ Table of Contents
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
   * [github.com - Free for nonprofit](https://github.com/pborreli/free-for-nonprofit) — List of free services for non-profit organisations
   * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
-  * [getawesomeness.com](http://getawesomeness.com/) — Retrieve all amazing awesomeness from GitHub... a must see
+  * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
