@@ -54,14 +54,14 @@ Table of Contents
 
 ## Source Code Repos
 
-  * [bitbucket.org](https://bitbucket.org/) — Free unlimited public and private repos (Git and Mecurial) for up to 5 users
+  * [bitbucket.org](https://bitbucket.org/) — Free unlimited public and private repos (Git and Mercurial) for up to 5 users
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [github.com](https://github.com/) — Free for an unlimited number of public repositories
   * [about.gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators
   * [hub.jazz.net](https://hub.jazz.net/) — Unlimited public repos, private repos free for up to 3 accounts
   * [visualstudio.com](https://www.visualstudio.com/) — Free unlimited private repos (Git and TFS) for up to 5 users per team
   * [assembla.com](https://www.assembla.com/home/) — Free repo hosting in a free plan
-  * [fogcreek.com](https://www.fogcreek.com/kiln/) — Free unlimited public and private repos (hybrid of Git and Mecurial) for 2 users
+  * [fogcreek.com](https://www.fogcreek.com/kiln/) — Free unlimited public and private repos (hybrid of Git and Mercurial) for 2 users
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and non-profits
   * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage
 
@@ -107,7 +107,7 @@ Table of Contents
   * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, JavaScript, Scala and CSS, free for Open Source
   * [pullreview.com](https://www.pullreview.com/) — Automated Code Review for Ruby in GitHub, Bitbucket and GitLab, free for Open Source
   * [gocover.io](http://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
-  * [goreportcard.com/](http://goreportcard.com/) - Code Quality for Go projects, free for Open Source
+  * [goreportcard.com/](http://goreportcard.com/) — Code Quality for Go projects, free for Open Source
   * [inch-ci.org](http://inch-ci.org/) — Documentation badges for Ruby, JS and Elixir
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
@@ -163,7 +163,7 @@ Table of Contents
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) — Find web app vulnerabilities, audit for OWASP Risks
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your network
   * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
-  * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/) — Automated vulnerability scanning. Free plan = weekly XSS scans
+  * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/) — Automated vulnerability scanning. Free plan allows weekly XSS scans
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) — Free vulnerability and network scanning for 3 targets
   * [ponycheckup.com](https://www.ponycheckup.com/) — An automated security checkup tool for Django websites
   * [foxpass.com](https://www.foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users
@@ -171,7 +171,7 @@ Table of Contents
   * [bitninja.io](https://bitninja.io/) — Botnet protection through a blacklist, free plan only reports limited information on each attack
   * [onelogin.com](https://www.onelogin.com/) — Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users
   * [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for 10 users, VPN, Websites and SSH
-  * [report-uri.io](https://report-uri.io/) - CSP and HPKP violation reporting
+  * [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
 
 ## Management System
 
@@ -244,7 +244,7 @@ Table of Contents
   * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 5 MB storage
   * [facetflow.com](https://facetflow.com/) — Hosted Elasticsearch for Microsoft Azure. Free 5,000 docs / 500 MB
-  * [indexisto.com](https://indexisto.com/) — Site search reinvented. Free 10,000,000 document index limit with advertisement block
+  * [indexisto.com](https://indexisto.com/) — Site search reinvented. Free 10 million document index limit with advertisement block
 
 ## Email
 
@@ -285,7 +285,7 @@ Table of Contents
   * [athenalayer.com](http://athenalayer.com/) — Free DDoS protection with unlimited websites
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
-  * [dropigee.com](https://www.dropigee.com) - Dropigee provides CDN + Cloud Storage, get 2GB of bandwidth and unlimited storage free per month.
+  * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month.
 
 ## PaaS
   * [restlet.com](http://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
@@ -320,7 +320,7 @@ Table of Contents
 
 ## BaaS
 
-  * [apigee.com](http://docs.apigee.com/api-baas) — Unlimited trial includes NoSQL data store with 25 GB of storage, user and permission management, geolocation, 10,000,000 push notifications/month, remote configuration, beta and A/B split testing, APM, fully API driven. Accessible and manageable via UI, SDK, and API
+  * [apigee.com](http://docs.apigee.com/api-baas) — Unlimited trial includes NoSQL data store with 25 GB of storage, user and permission management, geolocation, 10 million push notifications/month, remote configuration, beta and A/B split testing, APM, fully API driven. Accessible and manageable via UI, SDK, and API
   * [appacitive.com](http://appacitive.com/) — Mobile backend, free for the first 3 months with 100 K API calls, push notifications
   * [bip.io](https://bip.io/) — A web-automation platform for easily connecting web services. Fully open GPLv3 to power the backend of your Open Source project. Commercial OEM License available
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
@@ -450,7 +450,7 @@ Table of Contents
    * [placehold.it](https://placehold.it/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
    * [placepenguin.com](http://placepenguin.com/) — A quick and simple service for placeholder images of penguins
-   * [embed.ly](http://embed.ly/) — Provides APIs for embeding media in a webpage, Responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/Month at 15 requests/sec
+   * [embed.ly](http://embed.ly/) — Provides APIs for embeding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/Month at 15 requests/sec
    * [backhub.co](https://backhub.co/) — Backup and archive your GitHub repositories. Free for public repos
    * [otixo.com](http://otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max file size limit and allows 5 encrypted files
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
@@ -543,7 +543,7 @@ Table of Contents
 
 ### PaaS
 
-  * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, Build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
+  * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
 
 ## Vagrant Related
 ### Vagrant Box Indexes
