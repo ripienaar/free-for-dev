@@ -62,7 +62,7 @@ Table of Contents
   * [visualstudio.com](https://www.visualstudio.com/) — Free unlimited private repos (Git and TFS) for up to 5 users per team
   * [assembla.com](https://www.assembla.com/home/) — Free repo hosting in a free plan
   * [fogcreek.com](https://www.fogcreek.com/kiln/) — Free unlimited public and private repos (hybrid of Git and Mercurial) for 2 users
-  * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and non-profits
+  * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofits organizations
   * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage
 
 ## Tools for Teams and Collaboration
@@ -76,7 +76,7 @@ Table of Contents
   * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB
   * [sameroom.io](https://sameroom.io/) — Free for unlimited users with some feature limitations
   * [yammer.com](https://www.yammer.com/) — Private social network standalone or for MS Office 365. Free, just a bit less admin tools and users management features
-  * [helpmonks.com](https://helpmonks.com/) — Shared inbox for teams, free for Open Source and non-profit organizations
+  * [helpmonks.com](https://helpmonks.com/) — Shared inbox for teams, free for Open Source and nonprofit organizations
   * [typetalk.in](http://www.typetalk.in/) — Share and discuss ideas with your team through instant messaging on the web or on your mobile
   * [talky.io](https://talky.io/) — Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
   * [sourcetalk.net](http://sourcetalk.net/) — Code discussion tool, free for open code talks
@@ -412,7 +412,7 @@ Table of Contents
    * [kanbantool.com](http://kanbantool.com/) — Kanban board based project management. Free (paid plans with more options)
    * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free (premium version with more options)
    * [kanbanery.com](https://kanbanery.com/) — Board based project management. Free for 2 users (premium tiers with more options)
-   * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS, and non-profits
+   * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS, and nonprofits organizations
    * [trello.com](https://trello.com/) — Board based project management. Free
    * [producteev.com](https://producteev.com/) — Task management tool. Free (premium version with more options). Mobile applications available
    * [fogcreek.com](http://fogcreek.com/fogbugz/) — Bug tracking and project management. Free for 2 users
@@ -561,6 +561,6 @@ Table of Contents
 
 ## Other Lists
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
-  * [github.com - Free for nonprofit](https://github.com/pborreli/free-for-nonprofit) — List of free services for non-profit organisations
+  * [github.com - Free for nonprofit](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
