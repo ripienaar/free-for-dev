@@ -104,7 +104,7 @@ Table of Contents
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
   * [codecov.io](https://codecov.io/) — Code coverage tool (SaaS), free for Open Source
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) — Code Quality for PHP/Symfony projects, free for Open Source
-  * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, JavaScript, Scala and CSS, free for Open Source
+  * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for Open Source
   * [pullreview.com](https://www.pullreview.com/) — Automated Code Review for Ruby in GitHub, Bitbucket and GitLab, free for Open Source
   * [gocover.io](http://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
   * [goreportcard.com/](http://goreportcard.com/) — Code Quality for Go projects, free for Open Source
