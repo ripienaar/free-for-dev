@@ -558,6 +558,7 @@ Table of Contents
   * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with Machine Learning, 100,000 queries for free/month
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge based algorithms in the cloud
+  * [houndify.com](https://houndify.com) - Add a voice-enabled conversational interface to anything, from SoundHound
 
 ## Other Lists
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
