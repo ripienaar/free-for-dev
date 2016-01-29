@@ -555,6 +555,7 @@ Table of Contents
   * [apichangelog.com](https://apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
 
 ## Data Mining
+  * [houndify.com](http://houndify.com/) — Voice understanding NLP API, with a free usage tier.
   * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with Machine Learning, 100,000 queries for free/month
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge based algorithms in the cloud
