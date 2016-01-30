@@ -350,7 +350,6 @@ Table of Contents
   * [simplybuilt.com](https://www.simplybuilt.com/) — SimplyBuilt offers free website building and hosting for {[Open Source projects](http://www.simplybuilt.com/explore/free-websites-for-open-source-projects)}. Simple alternative to GitHub Pages
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps, and websites into a personal developer portfolio
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 MB data and 1 GB bandwidth
-  * [divshot.com](https://divshot.com/) — Static web hosting for developers, free basic apps, 1 GB bandwidth, 100 MB storage, custom domains, subdomain SSL
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies
   * [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
   * [bitballoon.com](https://www.bitballoon.com/) — BitBalloon offers hosting for static sites and apps. Free on a subdomain
