@@ -512,7 +512,7 @@ Table of Contents
    * [keen.io](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
    * [inspectlet.com](http://inspectlet.com/) — 100 sessions/month free for 1 website
    * [mousestats.com](https://mousestats.com/) — 100 sessions/month free for 1 website
-   * [metrika.yandex.com](https://metrika.yandex.com/) — Unlimited free analytics
+   * [metrica.yandex.com](https://metrica.yandex.com/) — Unlimited free analytics
    * [hotjar.com](https://hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [imprace.com](http://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free for 5 landing pages/domain
    * [baremetrics.com](https://baremetrics.com/) — Analytics & Insights for stripe
