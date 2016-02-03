@@ -328,7 +328,6 @@ Table of Contents
   * [kinvey.com](http://www.kinvey.com/) — Mobile backend, starter plan has unlimited requests/second, with 2 GB of data storage, as well as push notifications for up 5 million unique recipients. Enterprise application support
   * [konacloud.io](http://konacloud.io/) — Web and Mobile Backend as a Service, with 5 GB free account
   * [layer.com](https://layer.com/) — The full-stack building block for communications
-  * [parse.com](https://parse.com/) — Mobile backends, free plan has 30 requests/sec, with 20 GB of file and database storage, as well as push notifications for up to 1 million unique recipients
   * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling, and push notifications
   * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million push/month
   * [dreamfactory.com](http://dreamfactory.com/) — DreamFactory is an Open Source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
