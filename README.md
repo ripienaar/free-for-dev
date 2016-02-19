@@ -399,7 +399,7 @@ Table of Contents
    * stun:global.stun.twilio.com:3478?transport=udp — Twilio STUN
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third party services. 100 K events/month free
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL
-   * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in differen AZ's
+   * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
 
 
 ## Issue Tracking and Project Management
@@ -448,11 +448,11 @@ Table of Contents
    * [placehold.it](https://placehold.it/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
    * [placepenguin.com](http://placepenguin.com/) — A quick and simple service for placeholder images of penguins
-   * [embed.ly](http://embed.ly/) — Provides APIs for embeding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/Month at 15 requests/sec
+   * [embed.ly](http://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/Month at 15 requests/sec
    * [backhub.co](https://backhub.co/) — Backup and archive your GitHub repositories. Free for public repos
    * [otixo.com](http://otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max file size limit and allows 5 encrypted files
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
-   * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwith
+   * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
 
 ## Design and UI
 
