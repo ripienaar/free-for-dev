@@ -267,6 +267,7 @@ Table of Contents
   * [mailcatcher.me](http://mailcatcher.me/) — Catches mail and serves it through a web interface
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
   * [kickbox.io](http://kickbox.io/) — Verify 100 emails free, real time API available
+  * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
 
 ## CDN and Protection
 
