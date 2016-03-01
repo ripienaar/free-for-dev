@@ -198,7 +198,7 @@ Table of Contents
 
 ## Monitoring
 
-  * [opbeat.com](https://opbeat.com/) — Application performance, errors and releases. Free with 24 hours data retention
+  * [opbeat.com](https://opbeat.com/) — ​Instant performance insights for JS developers. Free with 24 hours data retention.
   * [checkmy.ws](https://checkmy.ws/en/solutions/free-forever-for-foss/) — Free 15 days full demo and 3 websites, forever free for Open Source
   * [appneta.com](http://www.appneta.com/) — Free with 1 hour data retention
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations, plus 20 data feeds of major web services free
