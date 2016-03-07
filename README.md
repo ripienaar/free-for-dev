@@ -272,7 +272,7 @@ Table of Contents
 
 ## CDN and Protection
 
-  * [kloudsec.com](https://kloudsec.com) - Minimal CDN platform targeted at programmers. Offers a `One-click Encryption` plugin that automatically provisions/renews LetsEncrypt certs for domains.
+  * [kloudsec.com](https://kloudsec.com) - Minimal CDN platform targeted at programmers. CDN is free. Optional and free plugins include `Page Optimization` (Pagespeed), `Service Doctor` (Website performance analytics and alerts) and `One-click Encryption` (Auto provision/renew LetsEncrypt certs for HTTPS).
   * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, Cloudflare also offers a free SSL certificate service
   * [bootstrapcdn.com](http://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and font awesome
   * [surge.sh](https://surge.sh/) — Zero-bullshit, single–command, bring your own source control web publishing CDN
