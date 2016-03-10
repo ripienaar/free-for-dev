@@ -219,7 +219,7 @@ Table of Contents
   * [sematext.com](https://sematext.com/) — Free for 24 hours metrics, unlimited number of servers, 10 custom metrics, 500 K custom metrics data points, unlimited dashboards, users, etc
   * [sealion.com](https://sealion.com/) — Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
   * [stathat.com](https://www.stathat.com/) — Get started with ten stats for free, no expiration
-  * [skylight.io](https://www.skylight.io/) — Free for first 100 K requests
+  * [skylight.io](https://www.skylight.io/) — Free for first 100 K requests (Rails only)
   * [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
   * [librato.com](https://www.librato.com/) — Free up to 100 metrics at 60 sec. resolution
