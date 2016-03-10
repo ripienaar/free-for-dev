@@ -226,7 +226,7 @@ Table of Contents
   * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things projects
   * [loader.io](https://loader.io/) — Free load testing tools with limitations
   * [speedchecker.xyz](http://probeapi.speedchecker.xyz/) — Performance Monitoring API, checks Ping, DNS, etc
-  * [blackfire.io](https://blackfire.io/) — Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan
+  * [blackfire.io](https://blackfire.io/) — Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan (PHP Only)
   * [apimetrics.io](http://apimetrics.io/) — Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
   * [opsdash.com](https://www.opsdash.com/) — Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
 
