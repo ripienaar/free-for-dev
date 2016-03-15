@@ -83,9 +83,9 @@ Table of Contents
   * [helplightning.com](https://www.helplightning.com/) — Help over video with augmented reality. Free without analytics, encryption, support
   * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
   * [wunderlist.com](https://www.wunderlist.com/) — Share your lists and work collaboratively on projects with your colleagues, free on iPhone, iPad, Mac, Android, Windows and the web
-  * [doodle.com](http://doodle.com/) — The scheduling tool you'll actually use. Find a date for a meeting 2 times faster
+  * [doodle.com](http://doodle.com/) — The scheduling tool you'll actually use. Find a date for a meeting two times faster
   * [sendtoinc.com](https://sendtoinc.com/) — Share links, notes, files and have discussions. Free for 3 and 100 MB
-  * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 min
+  * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [filehero.io](https://filehero.io/) — Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
   * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery, and marketing tools to help understand your visitors, 25 videos and Wistia branded player
@@ -146,6 +146,7 @@ Table of Contents
 ## Automated Browser Testing
   * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes per month
   * [browserstack.com](https://www.browserstack.com/) — Manual and automated browser testing, free for Open Source
+  * [EveryStep-Automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts,... free with fewer options
 
 ## Security and PKI
 
@@ -198,7 +199,7 @@ Table of Contents
 
 ## Monitoring
 
-  * [opbeat.com](https://opbeat.com/) — ​Instant performance insights for JS developers. Free with 24 hours data retention.
+  * [opbeat.com](https://opbeat.com/) — ​Instant performance insights for JS developers. Free with 24 hours data retention
   * [checkmy.ws](https://checkmy.ws/en/solutions/free-forever-for-foss/) — Free 15 days full demo and 3 websites, forever free for Open Source
   * [appneta.com](http://www.appneta.com/) — Free with 1 hour data retention
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations, plus 20 data feeds of major web services free
@@ -218,11 +219,11 @@ Table of Contents
   * [java-monitor.com](http://java-monitor.com/forum/welcome.php/) — Free monitoring of JVM's and uptime
   * [sematext.com](https://sematext.com/) — Free for 24 hours metrics, unlimited number of servers, 10 custom metrics, 500 K custom metrics data points, unlimited dashboards, users, etc
   * [sealion.com](https://sealion.com/) — Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
-  * [stathat.com](https://www.stathat.com/) — Get started with ten stats for free, no expiration
+  * [stathat.com](https://www.stathat.com/) — Get started with 10 stats for free, no expiration
   * [skylight.io](https://www.skylight.io/) — Free for first 100 K requests (Rails only)
   * [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
-  * [librato.com](https://www.librato.com/) — Free up to 100 metrics at 60 sec. resolution
+  * [librato.com](https://www.librato.com/) — Free up to 100 metrics at 60 seconds resolution
   * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things projects
   * [loader.io](https://loader.io/) — Free load testing tools with limitations
   * [speedchecker.xyz](http://probeapi.speedchecker.xyz/) — Performance Monitoring API, checks Ping, DNS, etc
@@ -243,7 +244,7 @@ Table of Contents
   * [swiftype.com](https://swiftype.com/) — Hosted search solution (API and crawler). Free for a single search engine with up to 1,000 documents. Free upgrade to Premium level for Open Source
   * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 5 MB storage
-  * [facetflow.com](https://facetflow.com/) — Hosted Elasticsearch for Microsoft Azure. Free 5,000 docs / 500 MB
+  * [facetflow.com](https://facetflow.com/) — Hosted Elasticsearch for Microsoft Azure. Free 5,000 docs and 500 MB
   * [indexisto.com](https://indexisto.com/) — Site search reinvented. Free 10 million document index limit with advertisement block
 
 ## Email
@@ -256,12 +257,12 @@ Table of Contents
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month for free
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month for free
   * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month for free
-  * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/sec, no forward rules
+  * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
   * [mailstache.io](https://mailstache.io/) — 4 mailboxes with 1 GB each for up to 2 custom domains
   * [postmarkapp.com](https://postmarkapp.com/) — First 25,000 emails are free
   * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 10 users
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
-  * [pawnmail.com](http://pawnmail.com) - 2GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP, and SMTP access. No paid plans or upgrades.
+  * [pawnmail.com](http://pawnmail.com) - 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP, and SMTP access. No paid plans or upgrades
   * [moosend.com](http://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
   * [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
@@ -272,7 +273,7 @@ Table of Contents
 
 ## CDN and Protection
 
-  * [kloudsec.com](https://kloudsec.com) - Minimal CDN platform targeted at programmers. CDN is free. Optional and free plugins include `Page Optimization` (Pagespeed), `Service Doctor` (Website performance analytics and alerts) and `One-click Encryption` (Auto provision/renew LetsEncrypt certs for HTTPS).
+  * [kloudsec.com](https://kloudsec.com) — Minimal CDN platform targeted at programmers. CDN is free. Optional and free plugins include `Page Optimization` (Pagespeed), `Service Doctor` (Website performance analytics and alerts) and `One-click Encryption` (Auto provision/renew LetsEncrypt certs for HTTPS)
   * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, Cloudflare also offers a free SSL certificate service
   * [bootstrapcdn.com](http://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and font awesome
   * [surge.sh](https://surge.sh/) — Zero-bullshit, single–command, bring your own source control web publishing CDN
@@ -287,7 +288,7 @@ Table of Contents
   * [athenalayer.com](http://athenalayer.com/) — Free DDoS protection with unlimited websites
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
-  * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month.
+  * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month
 
 ## PaaS
   * [restlet.com](http://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
@@ -295,7 +296,7 @@ Table of Contents
   * [engineyard.com](https://engineyard.com/) — Engine Yard provides 500 free hours
   * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives $200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
-  * [shellycloud.com](https://shellycloud.com/) — Platform for hosting Ruby and Ruby on Rails apps. Shelly Cloud gives €20 free credit
+  * [shellycloud.com](https://shellycloud.com/) — Platform for hosting Ruby and Ruby on Rails apps, €20 of free credit
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
   * [firebase.com](https://www.firebase.com/) — Build realtime apps, free plan has 100 max. connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 100 GB hosting transfer
   * [bluemix.net](https://console.ng.bluemix.net/) — IBM PaaS with a monthly free allowance
@@ -331,7 +332,7 @@ Table of Contents
   * [konacloud.io](http://konacloud.io/) — Web and Mobile Backend as a Service, with 5 GB free account
   * [layer.com](https://layer.com/) — The full-stack building block for communications
   * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling, and push notifications
-  * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million push/month
+  * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
   * [dreamfactory.com](http://dreamfactory.com/) — DreamFactory is an Open Source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
   * [mashape.com](https://www.mashape.com/) — API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
@@ -371,7 +372,7 @@ Table of Contents
   * [developer.rackspace.com](https://developer.rackspace.com/) — Rackspace Cloud gives $50/month for 12 months
   * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives $300 over 60 days
   * [cloud.google.com/engine](https://cloud.google.com/container-engine/) — Google Container Engine for run Docker containers (Alpha). Pricing: same of Google Compute Engine
-  * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 1 million free Queries
+  * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 1 million free queries
   * [virtzone.net](http://www.virtzone.net/) — Free VPS. You must meet certain minor qualifications
 
 ## DBaaS
@@ -390,8 +391,8 @@ Table of Contents
    * [mongolab.com](https://mongolab.com/) — MongoDB as a service, 500 MB free
    * [scalingo.com](https://scalingo.com/) — Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL, or MongoDB
    * [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
-   * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200/base and 1,000 API request/month
-   * [fieldbook.com](https://fieldbook.com/) - Fieldbook lets anyone create a simple tracking database, as easily as a spreadsheet. Automatic API. Unlimited free sheets, share with unlimited users.
+   * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
+   * [fieldbook.com](https://fieldbook.com/) — Fieldbook lets anyone create a simple tracking database, as easily as a spreadsheet. Automatic API. Unlimited free sheets, share with unlimited users
    * [iriscouch.com](http://www.iriscouch.com/) — CouchDB as a service. Free for developing, prototyping, etc
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
@@ -409,12 +410,12 @@ Table of Contents
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
    * [pivotaltracker.com](http://www.pivotaltracker.com/community/public-projects) — Pivotal Tracker, free for public projects
    * [atlassian.com](https://atlassian.com/opensource/overview) — Free Jira etc for Open Source
-   * [kanbantool.com](http://kanbantool.com/) — Kanban board based project management. Free (paid plans with more options)
-   * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free (premium version with more options)
-   * [kanbanery.com](https://kanbanery.com/) — Board based project management. Free for 2 users (premium tiers with more options)
+   * [kanbantool.com](http://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
+   * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
+   * [kanbanery.com](https://kanbanery.com/) — Board based project management. Free for 2 users, premium tiers with more options
    * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS, and nonprofits organizations
    * [trello.com](https://trello.com/) — Board based project management. Free
-   * [producteev.com](https://producteev.com/) — Task management tool. Free (premium version with more options). Mobile applications available
+   * [producteev.com](https://producteev.com/) — Task management tool. Free, premium version with more options. Mobile applications available
    * [fogcreek.com](http://fogcreek.com/fogbugz/) — Bug tracking and project management. Free for 2 users
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
@@ -451,9 +452,9 @@ Table of Contents
    * [placehold.it](https://placehold.it/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
    * [placepenguin.com](http://placepenguin.com/) — A quick and simple service for placeholder images of penguins
-   * [embed.ly](http://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/Month at 15 requests/sec
+   * [embed.ly](http://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
    * [backhub.co](https://backhub.co/) — Backup and archive your GitHub repositories. Free for public repos
-   * [otixo.com](http://otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max file size limit and allows 5 encrypted files
+   * [otixo.com](http://otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max. file size and allows 5 encrypted files
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
    * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
 
@@ -557,7 +558,7 @@ Table of Contents
   * [apichangelog.com](https://apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
 
 ## Data Mining
-  * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with Machine Learning, 100,000 queries for free/month
+  * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with Machine Learning, free 100,000 queries/month
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge based algorithms in the cloud
 
