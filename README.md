@@ -248,7 +248,7 @@ Table of Contents
 
 ## Email
 
-  * [sparkpost.com](https://www.sparkpost.com/) — First 10,000 emails/month are free
+  * [sparkpost.com](https://www.sparkpost.com/) — First 100,000 emails/month are free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month are free
   * [mailchimp.com](http://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month are free
   * [sendloop.com](https://sendloop.com/) — 2,000 subscribers and 10,000 emails/month are free
