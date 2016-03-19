@@ -185,7 +185,7 @@ Table of Contents
   * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the ```lite``` option
-  * [sematext.com](https://sematext.com//logsene) — Free for 1 million logs, unlimited retention
+  * [sematext.com](https://sematext.com//logsene) — Free up to 500 MB/day, 7 days retention
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
 
 ## Translation Management
