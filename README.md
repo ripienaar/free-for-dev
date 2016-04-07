@@ -272,6 +272,7 @@ Table of Contents
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
   * [kickbox.io](http://kickbox.io/) — Verify 100 emails free, real time API available
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
+  * [biz.mail.ru](https://biz.mail.ru/) - 5000 mailboxes with 25GB each per custom domain with DNS hosting
 
 ## CDN and Protection
 
