@@ -366,7 +366,6 @@ Table of Contents
   * [luadns.com](http://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 3 domains with unlimited records
-  * [biz.mail.ru](https://biz.mail.ru/) - Free DNS hosting & email server for 5000 users per domain with 25 GB space each
 
 ## IaaS
 
