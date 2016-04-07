@@ -252,6 +252,7 @@ Table of Contents
 
   * [sparkpost.com](https://www.sparkpost.com/) — First 100,000 emails/month are free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month are free
+  * [tinyletter.com](https://tinyletter.com/) - 5,000 subscribers/month are free
   * [mailchimp.com](http://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month are free
   * [sendloop.com](https://sendloop.com/) — 2,000 subscribers and 10,000 emails/month are free
   * [sendgrid.com](https://sendgrid.com/) — 400 emails/day for free and 25,000 free transactional emails/month for emails sent from a Google compute instance or Microsoft Azure App Service
