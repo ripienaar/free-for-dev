@@ -272,6 +272,7 @@ Table of Contents
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
   * [kickbox.io](http://kickbox.io/) — Verify 100 emails free, real time API available
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
+  * [biz.mail.ru](https://biz.mail.ru/) - 5000 mailboxes with 25GB each per custom domain with DNS hosting
 
 ## CDN and Protection
 
@@ -365,6 +366,7 @@ Table of Contents
   * [luadns.com](http://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 3 domains with unlimited records
+  * [biz.mail.ru](https://biz.mail.ru/) - Free DNS hosting & email server for 5000 users per domain with 25 GB space each
 
 ## IaaS
 
