@@ -60,7 +60,7 @@ Table of Contents
   * [about.gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators
   * [hub.jazz.net](https://hub.jazz.net/) — Unlimited public repos, private repos free for up to 3 accounts
   * [visualstudio.com](https://www.visualstudio.com/) — Free unlimited private repos (Git and TFS) for up to 5 users per team
-  * [assembla.com](https://www.assembla.com/home/) — Free repo hosting in a free plan
+  * [assembla.com](https://www.assembla.com/home/) — Free repo hosting in a free plan for 7 days
   * [fogcreek.com](https://www.fogcreek.com/kiln/) — Free unlimited public and private repos (hybrid of Git and Mercurial) for 2 users
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofits organizations
   * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage
