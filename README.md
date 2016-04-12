@@ -519,12 +519,12 @@ Table of Contents
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates & Currency Conversion for your Business, 1,000 API requests/month free
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT Number Validation & EU VAT Rates API, free 100 API requests/month
 
-### Docker Related
+## Docker Related
 
   * [quay.io](https://quay.io/) — Unlimited free public repositories
   * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
 
-### Vagrant Related
+## Vagrant Related
 
   * [atlas.hashicorp.com](https://atlas.hashicorp.com/boxes/search) — HashiCorp's index of boxes
   * [vagrantbox.es](http://vagrantbox.es/) — An alternative public box index
@@ -559,4 +559,4 @@ Table of Contents
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
   * [github.com - Free for nonprofit](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
-  * [education.github.com](https://education.github.com/pack) — As long as you're a student at a recognized university or US high school
+  * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
