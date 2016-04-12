@@ -43,14 +43,11 @@ Table of Contents
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
    * [Payment / Billing Integration](#payment--billing-integration)
-   * [Other Packs](#other-packs)
    * [Docker Related](#docker-related)
-   * [Alternate Container Hosting](#alternate-container-hosting)
    * [Vagrant Related](#vagrant-related)
-   * [Vagrant Box Indexes](#vagrant-box-indexes)
-   * [Technology watch](#technology-watch)
-   * [Data Mining](#data-mining)
-   * [Other Lists](#other-lists)
+   * [Miscellaneous](#miscellaneous)
+   * [APIs, Data, and ML](#apis-data-and-ml)
+   * [Other Free Resources](#other-free-resources)
 
 ## Source Code Repos
 
@@ -294,7 +291,6 @@ Table of Contents
   * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month
 
 ## PaaS
-  * [restlet.com](http://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
   * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL Database and more
   * [engineyard.com](https://engineyard.com/) — Engine Yard provides 500 free hours
   * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives $200 worth of free usage for a trial
@@ -304,24 +300,16 @@ Table of Contents
   * [firebase.com](https://www.firebase.com/) — Build realtime apps, free plan has 100 max. connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 100 GB hosting transfer
   * [bluemix.net](https://console.ng.bluemix.net/) — IBM PaaS with a monthly free allowance
   * [openshift.com](https://www.openshift.com/) — Red Hat PaaS, free tier provides three small gears each with 512 MB memory and 1 GB storage. {[Browse one-click deployments](https://hub.openshift.com/)}
-  * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
-  * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
-  * [hp.com Helion](http://www8.hp.com/us/en/cloud/helion-overview.html) — Enterprise-hardened Cloud Foundry PaaS from ActiveState, for private, public and hybrid cloud, free up to 20 GB
   * [outsystems.com](http://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
   * [platform.telerik.com](https://platform.telerik.com/) — Build and deploy mobile applications using JavaScript. Free plan has 100 MB data storage, 1 GB file storage, 5 GB bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411) — The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps
   * [mendix.com](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
   * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [configure.it](http://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
-  * [stamplay.com](https://stamplay.com/) — 50 K API calls, 100 GB data transfer, and 1 GB storage for free
   * [elastx.com](http://elastx.com/start/easypaas/) — Free tier with up to 4 cloudlets, must be renewed every year
   * [viaduct.io](https://viaduct.io/) — 350 MB of RAM and a 1 GB database for free
   * [pagodabox.io](http://pagodabox.io/) — Small worker, web server, cache, and database for free
   * [cloudandheat.com](https://www.cloudandheat.com/) — 128 MB of RAM for free, includes support for custom domains for free
-  * [apicastor.com](https://www.apicastor.com/) — Convert spreadsheets into URL and monitor access
-  * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications
-  * [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
-  * [instadiff.com](http://www.instadiff.com/) — Compare website versions with highlighted changes before you deploy, free for 100 pages/month
 
 ## BaaS
 
@@ -329,14 +317,12 @@ Table of Contents
   * [appacitive.com](http://appacitive.com/) — Mobile backend, free for the first 3 months with 100 K API calls, push notifications
   * [bip.io](https://bip.io/) — A web-automation platform for easily connecting web services. Fully open GPLv3 to power the backend of your Open Source project. Commercial OEM License available
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
-  * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 1 million API requests/month for free
   * [kinvey.com](http://www.kinvey.com/) — Mobile backend, starter plan has unlimited requests/second, with 2 GB of data storage, as well as push notifications for up 5 million unique recipients. Enterprise application support
   * [konacloud.io](http://konacloud.io/) — Web and Mobile Backend as a Service, with 5 GB free account
   * [layer.com](https://layer.com/) — The full-stack building block for communications
   * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling, and push notifications
   * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
   * [dreamfactory.com](http://dreamfactory.com/) — DreamFactory is an Open Source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
-  * [mashape.com](https://www.mashape.com/) — API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
   * [getstream.io](https://getstream.io/) — Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month
   * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring, and analytics. Free cloud offering
@@ -347,6 +333,7 @@ Table of Contents
   * [zapier.com](https://zapier.com/) — Connect the apps you use, to automate tasks. 5 zaps, every 15 min. and 100 tasks/month
   * [stackstorm.com](https://stackstorm.com/) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
   * [simperium.com](https://simperium.com/) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
+  * [stamplay.com](https://stamplay.com/) — Connect services together with a visual interface. 50 K API calls, 100 GB data transfer, and 1 GB storage for free
 
 ## Web Hosting
 
@@ -359,6 +346,7 @@ Table of Contents
   * [bitballoon.com](https://www.bitballoon.com/) — BitBalloon offers hosting for static sites and apps. Free on a subdomain
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
+  * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 100,000 API requests/month for free
 
 ## DNS
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting
@@ -366,6 +354,7 @@ Table of Contents
   * [luadns.com](http://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 3 domains with unlimited records
+  * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 1 million free queries
 
 ## IaaS
 
@@ -373,8 +362,6 @@ Table of Contents
   * [exoscale.ch](https://www.exoscale.ch/) — Free resources for Open Source
   * [developer.rackspace.com](https://developer.rackspace.com/) — Rackspace Cloud gives $50/month for 12 months
   * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives $300 over 60 days
-  * [cloud.google.com/engine](https://cloud.google.com/container-engine/) — Google Container Engine for run Docker containers (Alpha). Pricing: same of Google Compute Engine
-  * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 1 million free queries
   * [virtzone.net](http://www.virtzone.net/) — Free VPS. You must meet certain minor qualifications
 
 ## DBaaS
@@ -384,8 +371,6 @@ Table of Contents
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
    * [backand.com](https://www.backand.com/) — Back-end as a service for AngularJS
    * [zenginehq.com](http://www.zenginehq.com/) — Build business workflow apps in minutes, free for single users
-   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
-   * [import.io](https://import.io/) — Easily turn websites into APIs, completely free for life
    * [redsmin.com](https://redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](http://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
    * [elephantsql.com](http://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
@@ -498,8 +483,6 @@ Table of Contents
    * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * [mockable.io](https://www.mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data
    * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source, and user groups
-   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
-   * [codio.com](https://codio.com/) — Codio is a cloud-based computer programming platform for universities, schools, and developer professionals
    * [stackhive.com](http://stackhive.com/) — Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * [tadpoledb.com](http://tadpoledb.com/) — IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases
    * [sourcelair.com](https://sourcelair.com/) — In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project
@@ -536,36 +519,44 @@ Table of Contents
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates & Currency Conversion for your Business, 1,000 API requests/month free
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT Number Validation & EU VAT Rates API, free 100 API requests/month
 
-## Other Packs
-
-  * [education.github.com](https://education.github.com/pack) — As long as you're a student at a recognized university or US high school
-  * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
-
 ## Docker Related
-### Alternate Container Hosting
 
   * [quay.io](https://quay.io/) — Unlimited free public repositories
-
-### PaaS
-
   * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
 
 ## Vagrant Related
-### Vagrant Box Indexes
 
   * [atlas.hashicorp.com](https://atlas.hashicorp.com/boxes/search) — HashiCorp's index of boxes
   * [vagrantbox.es](http://vagrantbox.es/) — An alternative public box index
 
-## Technology Watch
+## Miscellaneous
   * [apichangelog.com](https://apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
+  * [instadiff.com](http://www.instadiff.com/) — Compare website versions with highlighted changes before you deploy, free for 100 pages/month
+  * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
+  * [apicastor.com](https://www.apicastor.com/) — Convert spreadsheets into URL and monitor access
+  * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications
+  * [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
+  * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
+  * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
 
-## Data Mining
+## APIs, Data, and ML
   * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with Machine Learning, free 100,000 queries/month
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge based algorithms in the cloud
+  * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
+  * [import.io](https://import.io/) — Easily turn websites into APIs, completely free for life
+  * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API
+  * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
+  * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
+  * [mashape.com](https://www.mashape.com/) — API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support
+  * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, Matlab, and others
+  * [havenondemand.com](https://www.havenondemand.com) — APIs for machine learning
+  * [restlet.com](http://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
+  
+  
 
-## Other Lists
+## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
   * [github.com - Free for nonprofit](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
-  * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
+  * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
