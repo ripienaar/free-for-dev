@@ -46,8 +46,8 @@ Table of Contents
    * [Docker Related](#docker-related)
    * [Vagrant Related](#vagrant-related)
    * [Miscellaneous](#miscellaneous)
-   * [Data Mining](#apis-data-and-ml)
-   * [Other Lists](#other-free-resources)
+   * [APIs, Data, and ML](#apis-data-and-ml)
+   * [Other Free Resources](#other-free-resources)
 
 ## Source Code Repos
 
