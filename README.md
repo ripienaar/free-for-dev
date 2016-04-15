@@ -307,7 +307,6 @@ Table of Contents
   * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [configure.it](http://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
   * [elastx.com](http://elastx.com/start/easypaas/) — Free tier with up to 4 cloudlets, must be renewed every year
-  * [viaduct.io](https://viaduct.io/) — 350 MB of RAM and a 1 GB database for free
   * [pagodabox.io](http://pagodabox.io/) — Small worker, web server, cache, and database for free
   * [cloudandheat.com](https://www.cloudandheat.com/) — 128 MB of RAM for free, includes support for custom domains for free
 
