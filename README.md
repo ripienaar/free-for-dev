@@ -307,7 +307,6 @@ Table of Contents
   * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [configure.it](http://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
   * [elastx.com](http://elastx.com/start/easypaas/) — Free tier with up to 4 cloudlets, must be renewed every year
-  * [viaduct.io](https://viaduct.io/) — 350 MB of RAM and a 1 GB database for free
   * [pagodabox.io](http://pagodabox.io/) — Small worker, web server, cache, and database for free
   * [cloudandheat.com](https://www.cloudandheat.com/) — 128 MB of RAM for free, includes support for custom domains for free
 
@@ -461,6 +460,7 @@ Table of Contents
    * [gogeo.io](http://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
    * [cartodb.com](https://cartodb.com/) — Create maps and geospatial APIs from your data and public data
    * [giscloud.com](http://giscloud.com/) — Visualize, analyze and share geo data online
+   * [latlon.io](https://latlon.io/) - Geocoding API + school districts, census geography divisons, and other address based data. 2,500 free requests/month.
    * [mapbox.com](https://mapbox.com/) — Maps, geospatial services, and SDKs for displaying map data
 
 ## Package Build System
@@ -474,7 +474,6 @@ Table of Contents
    * [c9.io](https://c9.io/) — IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with GitHub and BitBucket, but also adds SFTP and generic Git access
    * [codeanywhere.com](https://codeanywhere.com/) — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub, and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions, and version tracking
    * [codenvy.com](https://codenvy.com/) — IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 4 GB RAM, always-on machines, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
-   * [koding.com](https://koding.com/) — IDE in a browser. Full sudo access, VMs hosted on Amazon EC2, SSH Access, Real EC2 VM, no LXCs/hypervising, Custom sub-domains, Publicly accessible IP, Ubuntu 14.04, IDE/Terminal/Collaboration
    * [nitrous.io](https://nitrous.io/) — Private Linux instance(s) with interactive collaboration, free for 2 hours/day. {[More Details](http://goo.gl/J1Zbsg)}
    * [visualstudio.com](http://visualstudio.com/community) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
    * [code.visualstudio.com](http://code.visualstudio.com/) — Build and debug modern web and cloud applications. Code is free, Open Source and available on your favorite platform, Linux, Mac OSX and Windows
