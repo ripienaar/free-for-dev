@@ -249,7 +249,7 @@ Table of Contents
 
   * [sparkpost.com](https://www.sparkpost.com/) — First 100,000 emails/month are free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month are free
-  * [tinyletter.com](https://tinyletter.com/) - 5,000 subscribers/month are free
+  * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month are free
   * [mailchimp.com](http://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month are free
   * [sendloop.com](https://sendloop.com/) — 2,000 subscribers and 10,000 emails/month are free
   * [sendgrid.com](https://sendgrid.com/) — 400 emails/day for free and 25,000 free transactional emails/month for emails sent from a Google compute instance or Microsoft Azure App Service
@@ -261,7 +261,7 @@ Table of Contents
   * [postmarkapp.com](https://postmarkapp.com/) — First 25,000 emails are free
   * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 10 users
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
-  * [pawnmail.com](http://pawnmail.com) - 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP, and SMTP access. No paid plans or upgrades
+  * [pawnmail.com](http://pawnmail.com) — 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP, and SMTP access. No paid plans or upgrades
   * [moosend.com](http://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
   * [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
@@ -269,34 +269,34 @@ Table of Contents
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
   * [kickbox.io](http://kickbox.io/) — Verify 100 emails free, real time API available
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
-  * [biz.mail.ru](https://biz.mail.ru/) - 5000 mailboxes with 25GB each per custom domain with DNS hosting
-  * [maildocker.com](http://maildocker.com) - First 10,000 emails/month are free
-  * [sendpulse.com](https://sendpulse.com) - 50 emails free/hour, first 12,000 emails/month are free
-  * [pepipost.com](http://www.pepipost.com) - Unlimited emails free for first three months, then first 25,000 emails/month are free
+  * [biz.mail.ru](https://biz.mail.ru/) — 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
+  * [maildocker.com](http://maildocker.com) — First 10,000 emails/month are free
+  * [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month are free
+  * [pepipost.com](http://www.pepipost.com) — Unlimited emails free for first three months, then first 25,000 emails/month are free
 
 ## CDN and Protection
 
   * [kloudsec.com](https://kloudsec.com) — Minimal CDN platform targeted at programmers. CDN is free. Optional and free plugins include `Page Optimization` (Pagespeed), `Service Doctor` (Website performance analytics and alerts) and `One-click Encryption` (Auto provision/renew LetsEncrypt certs for HTTPS)
   * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, Cloudflare also offers a free SSL certificate service
   * [bootstrapcdn.com](http://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and font awesome
-  * [surge.sh](https://surge.sh/) — Zero-bullshit, single–command, bring your own source control web publishing CDN
+  * [surge.sh](https://surge.sh/) — Single–command, bring your own source control web publishing CDN
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc
   * [jsdelivr.com](http://www.jsdelivr.com/) — Super-fast CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
-  * [asp.net](https://www.asp.net/ajax/cdn/) — The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
+  * [asp.net](https://www.asp.net/ajax/cdn/) — The Microsoft Ajax CDN hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
   * [rawgit.com](https://rawgit.com/) — Free limited traffic, serves raw files directly from GitHub with proper Content-Type headers
   * [incapsula.com](https://www.incapsula.com/) — Free CDN and DDoS protection
-  * [fastly.com](https://www.fastly.com/) — Free CDN, all features until $50/month is reached, enough for most, then pay or suspended
+  * [fastly.com](https://www.fastly.com/) — Free CDN, all features until USD 50/month is reached, enough for most, then pay or suspended
   * [athenalayer.com](http://athenalayer.com/) — Free DDoS protection with unlimited websites
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month
 
 ## PaaS
-  * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL Database and more
+  * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and more
   * [engineyard.com](https://engineyard.com/) — Engine Yard provides 500 free hours
-  * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives $200 worth of free usage for a trial
+  * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [shellycloud.com](https://shellycloud.com/) — Platform for hosting Ruby and Ruby on Rails apps, €20 of free credit
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
@@ -349,6 +349,7 @@ Table of Contents
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
   * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 100,000 API requests/month for free
+  * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
 
 ## DNS
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting
@@ -362,13 +363,13 @@ Table of Contents
 
   * [aws.amazon.com](https://aws.amazon.com/free/) — AWS Free Tier, free for 12 months
   * [exoscale.ch](https://www.exoscale.ch/) — Free resources for Open Source
-  * [developer.rackspace.com](https://developer.rackspace.com/) — Rackspace Cloud gives $50/month for 12 months
-  * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives $300 over 60 days
+  * [developer.rackspace.com](https://developer.rackspace.com/) — Rackspace Cloud gives USD 50/month for 12 months
+  * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives USD 300 over 60 days
   * [virtzone.net](http://www.virtzone.net/) — Free VPS. You must meet certain minor qualifications
 
 ## DBaaS
 
-   * [cloudant.com](https://cloudant.com/) — Hosted database from IBM, free if usage is below $50/month
+   * [cloudant.com](https://cloudant.com/) — Hosted database from IBM, free if usage is below USD 50/month
    * [orchestrate.io](https://orchestrate.io/) — 1 application free
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
    * [backand.com](https://www.backand.com/) — Back-end as a service for AngularJS
@@ -433,7 +434,7 @@ Table of Contents
    * [bintray.com](https://bintray.com/) — Binary File storage, free for Open Source. Includes SSL, CDN and a limited number of REST calls
    * [cloudinary.com](http://cloudinary.com/) — Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
    * [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
-   * [transloadit.com](https://transloadit.com/) — Handles file uploads & encoding of video, audio, images, documents. Free for Open Source & other do-gooders. Commercial applications get the first GB free for test driving
+   * [transloadit.com](https://transloadit.com/) — Handles file uploads & encoding of video, audio, images, documents. Free for Open Source & other do-gooders. Commercial applications get one GB free for test driving
    * [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except users management
    * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
    * [imagefly.io](http://imagefly.io/) — Responsive images on-demand. CDN fronted image resizing, transcoding, and optimizing. 100 MB/month for free
@@ -463,7 +464,7 @@ Table of Contents
    * [gogeo.io](http://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
    * [cartodb.com](https://cartodb.com/) — Create maps and geospatial APIs from your data and public data
    * [giscloud.com](http://giscloud.com/) — Visualize, analyze and share geo data online
-   * [latlon.io](https://latlon.io/) - Geocoding API + school districts, census geography divisons, and other address based data. 2,500 free requests/month.
+   * [latlon.io](https://latlon.io/) — Geocoding API + school districts, census geography divisons, and other address based data. 2,500 free requests/month
    * [mapbox.com](https://mapbox.com/) — Maps, geospatial services, and SDKs for displaying map data
 
 ## Package Build System
@@ -511,15 +512,15 @@ Table of Contents
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 tries and 50 verifications/day. {[Signup](https://www.cognalys.com/signup/1)}
-  * [numverify.com](https://numverify.com/) — Global Phone Number Validation & Lookup JSON API. 250 API requests/month
+  * [numverify.com](https://numverify.com/) — Global phone number validation & lookup JSON API. 250 API requests/month
   * [sumome.com](https://sumome.com/) — Heat map and conversion enhancement tools, free without few advanced features
 
 ## Payment / Billing Integration
 
-  * [braintreepayments.com](https://braintreepayments.com/) — Credit Card, Paypal, Venmo, Bitcoin, Apple Pay,... integration. Single and Recurrent Payments. First $50,000 are free of charge
+  * [braintreepayments.com](https://braintreepayments.com/) — Credit Card, Paypal, Venmo, Bitcoin, Apple Pay,... integration. Single and Recurrent Payments. First USD 50,000 are free of charge
   * [taxratesapi.avalara.com](http://taxratesapi.avalara.com/) — Get the right sales tax rates to charge for the close to 10,000 sales tax jurisdictions in the USA. Free REST API. Registration required
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates & Currency Conversion for your Business, 1,000 API requests/month free
-  * [vatlayer.com](https://vatlayer.com/) — Instant VAT Number Validation & EU VAT Rates API, free 100 API requests/month
+  * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation & EU VAT rates API, free 100 API requests/month
 
 ## Docker Related
 
