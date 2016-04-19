@@ -270,6 +270,9 @@ Table of Contents
   * [kickbox.io](http://kickbox.io/) — Verify 100 emails free, real time API available
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
   * [biz.mail.ru](https://biz.mail.ru/) - 5000 mailboxes with 25GB each per custom domain with DNS hosting
+  * [maildocker.com](http://maildocker.com) - First 10,000 emails/month are free
+  * [sendpulse.com](https://sendpulse.com) - 50 emails free/hour, first 12,000 emails/month are free
+  * [pepipost.com](http://www.pepipost.com) - Unlimited emails free for first three months, then first 25,000 emails/month are free
 
 ## CDN and Protection
 
