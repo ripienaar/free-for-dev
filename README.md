@@ -460,6 +460,7 @@ Table of Contents
 
 ## Data Visualization on Maps
 
+   * [geocoder.opencagedata.com/](https://geocoder.opencagedata.com/) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day
    * [geocod.io](http://geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day
    * [gogeo.io](http://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
    * [cartodb.com](https://cartodb.com/) — Create maps and geospatial APIs from your data and public data
