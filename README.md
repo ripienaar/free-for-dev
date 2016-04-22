@@ -312,6 +312,7 @@ Table of Contents
   * [elastx.com](http://elastx.com/start/easypaas/) — Free tier with up to 4 cloudlets, must be renewed every year
   * [pagodabox.io](http://pagodabox.io/) — Small worker, web server, cache, and database for free
   * [cloudandheat.com](https://www.cloudandheat.com/) — 128 MB of RAM for free, includes support for custom domains for free
+  * [zeit.co/now](https://zeit.co/now) - Managed platform for Node.js deployments, featuring dynamic realtime scaling. Includes 20 free deploys/month limited to 1GB storage and 1GB bandwidth for OSS projects (source files are exposed on a public URL)
 
 ## BaaS
 
