@@ -185,6 +185,7 @@ Table of Contents
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the ```lite``` option
   * [sematext.com](https://sematext.com//logsene) — Free up to 500 MB/day, 7 days retention
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
+  * [logz.io](http://logz.io/) — Free up to 1 GB/day, 3 days retention
 
 ## Translation Management
 
