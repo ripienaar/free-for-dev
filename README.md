@@ -537,6 +537,7 @@ Table of Contents
 
 ## Miscellaneous
   * [apichangelog.com](https://apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
+  * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
   * [instadiff.com](http://www.instadiff.com/) — Compare website versions with highlighted changes before you deploy, free for 100 pages/month
   * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
   * [apicastor.com](https://www.apicastor.com/) — Convert spreadsheets into URL and monitor access
