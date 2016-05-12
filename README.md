@@ -354,6 +354,7 @@ Table of Contents
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
   * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 100,000 API requests/month for free
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
+  * [pubstorm.com](http://www.pubstorm.com) — Free static content hosting with global CDN and custom domain support. 10 free sites, each with 2 past revisions
 
 ## DNS
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting
