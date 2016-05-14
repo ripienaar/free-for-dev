@@ -59,7 +59,6 @@ Table of Contents
   * [visualstudio.com](https://www.visualstudio.com/) — Free unlimited private repos (Git and TFS) for up to 5 users per team
   * [fogcreek.com](https://www.fogcreek.com/kiln/) — Free unlimited public and private repos (hybrid of Git and Mercurial) for 2 users
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofits organizations
-  * [assembla.com](https://www.assembla.com/repositories/) — Free private Subversion, Git, and Perforce repositories
   * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage
 
 ## Tools for Teams and Collaboration
