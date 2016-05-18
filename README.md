@@ -140,6 +140,7 @@ Table of Contents
   * [deploybot.com](http://deploybot.com/) — Free for 1 repository, private or public. Supports any service you can throw at it
   * [bitrise.io](https://www.bitrise.io/) — iOS CI/CD with 200 free builds/month
   * [saucelabs.com](https://saucelabs.com/) — CI with scalable testing for mobile and web apps, free for Open Source
+  * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system.
 
 ## Automated Browser Testing
   * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes per month
