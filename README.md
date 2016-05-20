@@ -518,7 +518,7 @@ Table of Contents
    * [ironSource atom](http://www.ironsrc.com/data-flow-management/) — Atom Data Flow Management is a data pipeline solution, 10M monthly events free
 
 ## International Mobile Number Verification API and SDK
-  * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 70 tries and 50 verifications/day. {[Signup](https://www.cognalys.com/signup/1)}
+  * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 10 tries and 15 verifications/day.
   * [numverify.com](https://numverify.com/) — Global phone number validation & lookup JSON API. 250 API requests/month
   * [sumome.com](https://sumome.com/) — Heat map and conversion enhancement tools, free without few advanced features
 
