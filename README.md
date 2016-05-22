@@ -371,6 +371,7 @@ Table of Contents
   * [developer.rackspace.com](https://developer.rackspace.com/) — Rackspace Cloud gives USD 50/month for 12 months
   * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives USD 300 over 60 days
   * [virtzone.net](http://www.virtzone.net/) — Free VPS. You must meet certain minor qualifications
+  * [backblaze.com](https://backblaze.com/b2/) - Backblaze B2 cloud storage. Free 10GB (Amazon S3-like) object storage for unlimited time
 
 ## DBaaS
 
