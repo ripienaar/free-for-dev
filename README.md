@@ -553,6 +553,7 @@ Table of Contents
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
 
 ## APIs, Data, and ML
+  * [tensorflow.org](https://www.tensorflow.org/) — TensorFlow™ is an open source software library for numerical computation using data flow graphs. 
   * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with Machine Learning, free 100,000 queries/month
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge based algorithms in the cloud
