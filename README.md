@@ -63,6 +63,7 @@ Table of Contents
 
 ## Tools for Teams and Collaboration
 
+  * [scinote.net](http://scinote.net) — scientific data management & team collaboration. One Team with Unlimited number of users, backup and 1GB storage space
   * [appear.in](https://appear.in/) — One click video conversations, for free
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
