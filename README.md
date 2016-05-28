@@ -485,6 +485,7 @@ Table of Contents
 ## IDE and Code Editing
 
    * [c9.io](https://c9.io/) — IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with GitHub and BitBucket, but also adds SFTP and generic Git access
+   * [koding.com](http://www.koding.com/) - online cloud-based development environment. You have a Ubuntu OS machine
    * [codeanywhere.com](https://codeanywhere.com/) — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub, and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions, and version tracking
    * [codenvy.com](https://codenvy.com/) — IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 4 GB RAM, always-on machines, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
    * [nitrous.io](https://nitrous.io/) — Private Linux instance(s) with interactive collaboration, free for 2 hours/day. {[More Details](http://goo.gl/J1Zbsg)}
