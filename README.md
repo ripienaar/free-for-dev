@@ -8,7 +8,7 @@ The scope of this particular list is limited to things infrastructure developers
 You can help by sending Pull Requests to add more services. Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
 
 *NOTE:* This list is only for as-a-Service offerings, not for self hosted software.
-
+Sec
 Table of Contents
 =================
 
@@ -149,6 +149,7 @@ Table of Contents
 
 ## Security and PKI
 
+  * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts, and organizations who are starting to learn about cyber threat intelligence. Free upto 3 Users 
   * [crypteron.com](https://www.crypteron.com/) — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [vaddy.net](http://vaddy.net/) — Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scans history for free
   * [letsencrypt.org](https://letsencrypt.org/) — Free SSL Certificate Authority with certs trusted by all major browsers
