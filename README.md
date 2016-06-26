@@ -8,7 +8,7 @@ The scope of this particular list is limited to things infrastructure developers
 You can help by sending Pull Requests to add more services. Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
 
 *NOTE:* This list is only for as-a-Service offerings, not for self hosted software.
-Sec
+
 Table of Contents
 =================
 
@@ -321,7 +321,6 @@ Table of Contents
 
 ## BaaS
 
-  * [baasbox.com] (http://www.baasbox.com/) — The open source backend for your mobile app
   * [apigee.com](http://docs.apigee.com/api-baas) — Unlimited trial includes NoSQL data store with 25 GB of storage, user and permission management, geolocation, 10 million push notifications/month, remote configuration, beta and A/B split testing, APM, fully API driven. Accessible and manageable via UI, SDK, and API
   * [appacitive.com](http://appacitive.com/) — Mobile backend, free for the first 3 months with 100 K API calls, push notifications
   * [bip.io](https://bip.io/) — A web-automation platform for easily connecting web services. Fully open GPLv3 to power the backend of your Open Source project. Commercial OEM License available
