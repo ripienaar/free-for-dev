@@ -250,6 +250,7 @@ Table of Contents
 
 ## Email
 
+  * [mailinator.com](https://www.mailinator.com/) — Mailinator is Free, Public, Email system where you can use ANY inbox you want! ... Disposable Email.
   * [sparkpost.com](https://www.sparkpost.com/) — First 100,000 emails/month are free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month are free
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month are free
