@@ -237,7 +237,6 @@ Table of Contents
 
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [bugsnag.com](https://bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
-  * [airbrake.io](https://airbrake.io/) — Automatically groups, organizes and notifies you about your application errors. Free plan with 7,200 errors/day, 1 user, 1 project, 2 days retention
   * [getsentry.com](https://getsentry.com/) — Sentry tracks app exceptions in realtime, has a small free plan. Free, unrestricted use if self-hosted
 
 ## Search
