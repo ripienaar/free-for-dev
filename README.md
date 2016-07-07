@@ -542,7 +542,6 @@ Table of Contents
 
 ## Docker Related
 
-  * [quay.io](https://quay.io/) — Unlimited free public repositories
   * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
 
 ## Vagrant Related
