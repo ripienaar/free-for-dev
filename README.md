@@ -542,6 +542,7 @@ Table of Contents
 
 ## Docker Related
 
+  * [docker.com](https://www.docker.com) — One free private repository,free managed node and Unlimited public repositories
   * [quay.io](https://quay.io/) — Unlimited free public repositories
   * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
 
