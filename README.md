@@ -268,7 +268,6 @@ Table of Contents
   * [pawnmail.com](http://pawnmail.com) — 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP, and SMTP access. No paid plans or upgrades
   * [moosend.com](http://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
-  * [mailinator.com](https://mailinator.com) - Free public email for testing accounts
   * [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
   * [mailcatcher.me](http://mailcatcher.me/) — Catches mail and serves it through a web interface
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
