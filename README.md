@@ -503,7 +503,6 @@ Table of Contents
    * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source, and user groups
    * [stackhive.com](http://stackhive.com/) — Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * [tadpoledb.com](http://tadpoledb.com/) — IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases
-   * [sourcelair.com](https://sourcelair.com/) — In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project
    * [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web
 
 ## Analytics, Events and Statistics
