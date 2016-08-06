@@ -577,6 +577,7 @@ Table of Contents
   * [restlet.com](http://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
   * [scrapinghub.com](http://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
   * [context.io] (https://context.io) - Create simple email webhooks and code against a free, RESTful, imap API to leverage email data.
+  * [cloudrail.com] (https://cloudrail.com) - API integration solution. Unified interfaces for multiple web APIs, API change management.
 
 
 
