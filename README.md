@@ -236,6 +236,7 @@ Table of Contents
   * [apimetrics.io](http://apimetrics.io/) — Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
   * [opsdash.com](https://www.opsdash.com/) — Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
   * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Unlimited free checks.
+  * [selectel.com](https://selectel.com/services/monitoring/) - Simple monitor your service’s availability and status from all over the world, First 3 alerts. SMS notifications (price per message).
 
 ## Crash and Exception Handling
 
