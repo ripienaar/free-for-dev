@@ -103,7 +103,7 @@ Table of Contents
   * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for Open Source
   * [pullreview.com](https://www.pullreview.com/) — Automated Code Review for Ruby in GitHub, Bitbucket and GitLab, free for Open Source
   * [gocover.io](http://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
-  * [goreportcard.com/](http://goreportcard.com/) — Code Quality for Go projects, free for Open Source
+  * [goreportcard.com](http://goreportcard.com/) — Code Quality for Go projects, free for Open Source
   * [inch-ci.org](http://inch-ci.org/) — Documentation badges for Ruby, JS and Elixir
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
@@ -117,8 +117,8 @@ Table of Contents
   * [testanywhere.co](https://testanywhere.co/) — Automatic test website or web app continuously and catch bugs in the early stages, free 1,000 tests/month
   * [srcclr.com](https://srcclr.com/) — SourceClear to scan source code for vulnerabilities, multi-languages and OS
   * [blamewarrior.com](https://blamewarrior.com/) — Tool to automatically assign reviewers for new pull requests and track statistics of review process, free for Open Source
-  * [gerrithub](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories - for free
-  * [reviewable](https://reviewable.io/) — Code review for GitHub repositories - free for public or personal repos
+  * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories - for free
+  * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories - free for public or personal repos
 
 ## Code Search and Browsing
 
@@ -406,8 +406,8 @@ Table of Contents
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
    * [pusher.com](https://pusher.com/) — Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100 K messages/day
-   * stun:stun.l.google.com:19302 — Google STUN
-   * stun:global.stun.twilio.com:3478?transport=udp — Twilio STUN
+   * [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302) — Google STUN
+   * [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third party services. 100 K events/month free
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
@@ -478,7 +478,7 @@ Table of Contents
 
 ## Data Visualization on Maps
 
-   * [geocoder.opencagedata.com/](https://geocoder.opencagedata.com/) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day
+   * [geocoder.opencagedata.com](https://geocoder.opencagedata.com/) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day
    * [datamaps.co](https://datamaps.co/) a free platform for creating visualizations with data maps.
    * [geocod.io](http://geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day
    * [gogeo.io](http://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
@@ -582,8 +582,8 @@ Table of Contents
   * [havenondemand.com](https://www.havenondemand.com) — APIs for machine learning
   * [restlet.com](http://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
   * [scrapinghub.com](http://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
-  * [context.io] (https://context.io) — Create simple email webhooks and code against a free, RESTful, imap API to leverage email data
-  * [cloudrail.com] (https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
+  * [context.io](https://context.io) — Create simple email webhooks and code against a free, RESTful, imap API to leverage email data
+  * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
 
 ## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
