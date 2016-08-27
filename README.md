@@ -46,7 +46,7 @@ Table of Contents
    * [Docker Related](#docker-related)
    * [Vagrant Related](#vagrant-related)
    * [Miscellaneous](#miscellaneous)
-   * [APIs, Data, and ML](#apis-data-and-ml)
+   * [APIs, Data and ML](#apis-data-and-ml)
    * [Other Free Resources](#other-free-resources)
 
 ## Source Code Repos
@@ -63,8 +63,9 @@ Table of Contents
 
 ## Tools for Teams and Collaboration
 
-  * [scinote.net](http://scinote.net) — scientific data management & team collaboration. One Team with Unlimited number of users, backup and 1GB storage space
+  * [scinote.net](http://scinote.net) — Scientific data management & team collaboration. One Team with Unlimited number of users, backup and 1 GB storage space
   * [appear.in](https://appear.in/) — One click video conversations, for free
+  * [meet.jit.si](https://meet.jit.si/) — One click video conversations, screen sharing, for free
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
   * [hipchat.com](https://hipchat.com/) — Free for unlimited users with some feature limitations
@@ -85,9 +86,8 @@ Table of Contents
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [filehero.io](https://filehero.io/) — Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
-  * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery, and marketing tools to help understand your visitors, 25 videos and Wistia branded player
+  * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [cnverg.com](https://cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
-
 
 ## Code Quality
 
@@ -104,7 +104,7 @@ Table of Contents
   * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for Open Source
   * [pullreview.com](https://www.pullreview.com/) — Automated Code Review for Ruby in GitHub, Bitbucket and GitLab, free for Open Source
   * [gocover.io](http://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
-  * [goreportcard.com/](http://goreportcard.com/) — Code Quality for Go projects, free for Open Source
+  * [goreportcard.com](http://goreportcard.com/) — Code Quality for Go projects, free for Open Source
   * [inch-ci.org](http://inch-ci.org/) — Documentation badges for Ruby, JS and Elixir
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
@@ -117,8 +117,12 @@ Table of Contents
   * [beanstalkapp.com](http://beanstalkapp.com/) — A complete workflow to write, review & deploy code), free account for 1 user and 1 repository, with 100 MB of storage
   * [testanywhere.co](https://testanywhere.co/) — Automatic test website or web app continuously and catch bugs in the early stages, free 1,000 tests/month
   * [srcclr.com](https://srcclr.com/) — SourceClear to scan source code for vulnerabilities, multi-languages and OS
+  * [blamewarrior.com](https://blamewarrior.com/) — Tool to automatically assign reviewers for new pull requests and track statistics of review process, free for Open Source
+  * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories - for free
+  * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories - free for public or personal repos
 
 ## Code Search and Browsing
+
   * [sourcegraph.com](https://sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
 
@@ -138,18 +142,19 @@ Table of Contents
   * [deployhq.com](http://www.deployhq.com/) — 1 project with 10 daily deployments
   * [hub.jazz.net](https://hub.jazz.net/) — 60 minutes of free build time/month
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
-  * [bitrise.io](https://www.bitrise.io/) — iOS CI/CD with 200 free builds/month
+  * [bitrise.io](https://www.bitrise.io/) — An iOS CI/CD with 200 free builds/month
   * [saucelabs.com](https://saucelabs.com/) — CI with scalable testing for mobile and web apps, free for Open Source
-  * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system.
+  * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
 
 ## Automated Browser Testing
+
   * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes per month
   * [browserstack.com](https://www.browserstack.com/) — Manual and automated browser testing, free for Open Source
-  * [EveryStep-Automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts,... free with fewer options
+  * [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts,... free with fewer options
 
 ## Security and PKI
 
-  * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts, and organizations who are starting to learn about cyber threat intelligence. Free upto 3 Users 
+  * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free upto 3 Users
   * [crypteron.com](https://www.crypteron.com/) — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [snyk.io](https://snyk.io) — Snyk found and reported several vulnerabilities in the package.Limited to 1 private project (unlimited for open source projects)
   * [vaddy.net](http://vaddy.net/) — Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scans history for free
@@ -158,7 +163,7 @@ Table of Contents
   * [startssl.com](https://startssl.com/) — Free SSL certs
   * [wosign.com](https://buy.wosign.com/free/) — Free SSL certs. Up to 5 domain names for 2 years period. China authority
   * [soclall.com](http://soclall.com/) — Free up to 1,000 users login, post, share through top 20+ social networks
-  * [stormpath.com](https://stormpath.com/) — Free user management, authentication, social login, and SSO
+  * [stormpath.com](https://stormpath.com/) — Free user management, authentication, social login and SSO
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO
   * [getclef.com](https://getclef.com/) — New take on auth unlimited free tier for anyone not using premium features
   * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
@@ -169,7 +174,7 @@ Table of Contents
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/) — Automated vulnerability scanning. Free plan allows weekly XSS scans
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) — Free vulnerability and network scanning for 3 targets
   * [ponycheckup.com](https://www.ponycheckup.com/) — An automated security checkup tool for Django websites
-  * [foxpass.com](https://www.foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs, and wireless networks. Free for 10 users
+  * [foxpass.com](https://www.foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs and wireless networks. Free for 10 users
   * [opswatgears.com](https://www.opswatgears.com/) — Security Monitoring of computers, devices, applications, configurations,... Free 25 users and 30 days history
   * [bitninja.io](https://bitninja.io/) — Botnet protection through a blacklist, free plan only reports limited information on each attack
   * [onelogin.com](https://www.onelogin.com/) — Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users
@@ -180,6 +185,7 @@ Table of Contents
 
   * [bitnami.com](https://bitnami.com/) — Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
   * [visualops.io](http://visualops.io/) — 3,600 instance hours/month free
+  * [bushel.com](https://www.bushel.com/) —  Device management solution for iPads, iPhones and Macs, 3 devices free
 
 ## Log Management
 
@@ -223,7 +229,7 @@ Table of Contents
   * [sealion.com](https://sealion.com/) — Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
   * [stathat.com](https://www.stathat.com/) — Get started with 10 stats for free, no expiration
   * [skylight.io](https://www.skylight.io/) — Free for first 100 K requests (Rails only)
-  * [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
+  * [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
   * [librato.com](https://www.librato.com/) — Free up to 100 metrics at 60 seconds resolution
   * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things projects
@@ -232,12 +238,13 @@ Table of Contents
   * [blackfire.io](https://blackfire.io/) — Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan (PHP Only)
   * [apimetrics.io](http://apimetrics.io/) — Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
   * [opsdash.com](https://www.opsdash.com/) — Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
+  * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Unlimited free checks.
 
 ## Crash and Exception Handling
 
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [bugsnag.com](https://bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
-  * [getsentry.com](https://getsentry.com/) — Sentry tracks app exceptions in realtime, has a small free plan. Free, unrestricted use if self-hosted
+  * [getsentry.com](https://getsentry.com/) — Sentry tracks app exceptions in real-time, has a small free plan. Free, unrestricted use if self-hosted
 
 ## Search
 
@@ -250,7 +257,7 @@ Table of Contents
 
 ## Email
 
-  * [mailinator.com](https://www.mailinator.com/) — Mailinator is Free, Public, Email system where you can use ANY inbox you want! ... Disposable Email.
+  * [mailinator.com](https://www.mailinator.com/) — Mailinator is Free, Public, Email system where you can use ANY inbox you want! ... Disposable Email
   * [sparkpost.com](https://www.sparkpost.com/) — First 100,000 emails/month are free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month are free
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month are free
@@ -265,14 +272,13 @@ Table of Contents
   * [postmarkapp.com](https://postmarkapp.com/) — First 25,000 emails are free
   * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 10 users
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
-  * [pawnmail.com](http://pawnmail.com) — 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP, and SMTP access. No paid plans or upgrades
+  * [pawnmail.com](http://pawnmail.com) — 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP and SMTP access. No paid plans or upgrades
   * [moosend.com](http://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
-  * [mailinator.com](https://mailinator.com) - Free public email for testing accounts
   * [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
   * [mailcatcher.me](http://mailcatcher.me/) — Catches mail and serves it through a web interface
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
-  * [kickbox.io](http://kickbox.io/) — Verify 100 emails free, real time API available
+  * [kickbox.io](http://kickbox.io/) — Verify 100 emails free, real-time API available
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
   * [biz.mail.ru](https://biz.mail.ru/) — 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
   * [maildocker.com](http://maildocker.com) — First 10,000 emails/month are free
@@ -281,7 +287,6 @@ Table of Contents
 
 ## CDN and Protection
 
-  * [kloudsec.com](https://kloudsec.com) — Minimal CDN platform targeted at programmers. CDN is free. Optional and free plugins include `Page Optimization` (Pagespeed), `Service Doctor` (Website performance analytics and alerts) and `One-click Encryption` (Auto provision/renew LetsEncrypt certs for HTTPS)
   * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, Cloudflare also offers a free SSL certificate service
   * [bootstrapcdn.com](http://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and font awesome
   * [surge.sh](https://surge.sh/) — Single–command, bring your own source control web publishing CDN
@@ -299,13 +304,14 @@ Table of Contents
   * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month
 
 ## PaaS
+
   * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and more
   * [engineyard.com](https://engineyard.com/) — Engine Yard provides 500 free hours
   * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [shellycloud.com](https://shellycloud.com/) — Platform for hosting Ruby and Ruby on Rails apps, €20 of free credit
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
-  * [firebase.com](https://www.firebase.com/) — Build realtime apps, free plan has 100 max. connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
+  * [firebase.com](https://www.firebase.com/) — Build real-time apps, free plan has 100 max. connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
   * [bluemix.net](https://console.ng.bluemix.net/) — IBM PaaS with a monthly free allowance
   * [openshift.com](https://www.openshift.com/) — Red Hat PaaS, free tier provides three small gears each with 512 MB memory and 1 GB storage. {[Browse one-click deployments](https://hub.openshift.com/)}
   * [outsystems.com](http://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
@@ -315,26 +321,26 @@ Table of Contents
   * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [configure.it](http://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
   * [elastx.com](http://elastx.com/start/easypaas/) — Free tier with up to 4 cloudlets, must be renewed every year
-  * [pagodabox.io](http://pagodabox.io/) — Small worker, web server, cache, and database for free
+  * [pagodabox.io](http://pagodabox.io/) — Small worker, web server, cache and database for free
   * [cloudandheat.com](https://www.cloudandheat.com/) — 128 MB of RAM for free, includes support for custom domains for free
-  * [zeit.co/now](https://zeit.co/now) - Managed platform for Node.js deployments, featuring dynamic realtime scaling. Includes 20 free deploys/month limited to 1GB storage and 1GB bandwidth for OSS projects (source files are exposed on a public URL)
-  * [sandstorm.io](https://sandstorm.io/) - Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200MB storage and 5 grains free.
+  * [zeit.co/now](https://zeit.co/now) — Managed platform for Node.js deployments, featuring dynamic real-time scaling. Includes 20 free deploys/month limited to 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)
+  * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
 
 ## BaaS
 
-  * [apigee.com](http://docs.apigee.com/api-baas) — Unlimited trial includes NoSQL data store with 25 GB of storage, user and permission management, geolocation, 10 million push notifications/month, remote configuration, beta and A/B split testing, APM, fully API driven. Accessible and manageable via UI, SDK, and API
+  * [apigee.com](http://docs.apigee.com/api-baas) — Unlimited trial includes NoSQL data store with 25 GB of storage, user and permission management, geolocation, 10 million push notifications/month, remote configuration, beta and A/B split testing, APM, fully API driven. Accessible and manageable via UI, SDK and API
   * [appacitive.com](http://appacitive.com/) — Mobile backend, free for the first 3 months with 100 K API calls, push notifications
   * [bip.io](https://bip.io/) — A web-automation platform for easily connecting web services. Fully open GPLv3 to power the backend of your Open Source project. Commercial OEM License available
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
   * [kinvey.com](http://www.kinvey.com/) — Mobile backend, starter plan has unlimited requests/second, with 2 GB of data storage, as well as push notifications for up 5 million unique recipients. Enterprise application support
   * [konacloud.io](http://konacloud.io/) — Web and Mobile Backend as a Service, with 5 GB free account
   * [layer.com](https://layer.com/) — The full-stack building block for communications
-  * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling, and push notifications
+  * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling and push notifications
   * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
   * [dreamfactory.com](http://dreamfactory.com/) — DreamFactory is an Open Source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
   * [getstream.io](https://getstream.io/) — Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month
-  * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring, and analytics. Free cloud offering
+  * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
   * [iron.io](http://www.iron.io/) — Async task processing (like AWS Lambda) with free tier and 1 month free trial
   * [stackhut.com](http://stackhut.com/) — Async task processing (like AWS Lambda). 10 free private services and unlimited free public services
   * [pubnub.com](https://www.pubnub.com/) — Free push notifications for up to 1 million messages/month and 100 active daily devices
@@ -342,19 +348,19 @@ Table of Contents
   * [zapier.com](https://zapier.com/) — Connect the apps you use, to automate tasks. 5 zaps, every 15 min. and 100 tasks/month
   * [stackstorm.com](https://stackstorm.com/) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
   * [simperium.com](https://simperium.com/) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
-  * [stamplay.com](https://stamplay.com/) — Connect services together with a visual interface. 50 K API calls, 100 GB data transfer, and 1 GB storage for free
+  * [stamplay.com](https://stamplay.com/) — Connect services together with a visual interface. 50 K API calls, 100 GB data transfer and 1 GB storage for free
 
 ## Web Hosting
 
   * [closeheat.com](https://closeheat.com/) — Development Environment in the Cloud for Static Websites with Free Hosting and GitHub integration. 1 free website with custom domain support
-  * [code.fosshub.com](https://code.fosshub.com/) — is a free service offered by FossHub. Free hosting for Open Source projects.
-  * [sourceforge.net](https://sourceforge.net/) — Find, Create, and Publish Open Source software for free
-  * [simplybuilt.com](https://www.simplybuilt.com/) — SimplyBuilt offers free website building and hosting for {[Open Source projects](http://www.simplybuilt.com/explore/free-websites-for-open-source-projects)}. Simple alternative to GitHub Pages
-  * [devport.co](http://devport.co/) — Turn GitHub projects, apps, and websites into a personal developer portfolio
+  * [code.fosshub.com](https://code.fosshub.com/) — Free service offered by FossHub. Free hosting for Open Source projects
+  * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
+  * [simplybuilt.com](https://www.simplybuilt.com/) — free website building and hosting for {[Open Source projects](http://www.simplybuilt.com/explore/free-websites-for-open-source-projects)}. Simple alternative to GitHub Pages
+  * [devport.co](http://devport.co/) — Turn GitHub projects, apps and websites into a personal developer portfolio
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 MB data and 1 GB bandwidth
-  * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies
+  * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
   * [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
-  * [bitballoon.com](https://www.bitballoon.com/) — BitBalloon offers hosting for static sites and apps. Free on a subdomain
+  * [bitballoon.com](https://www.bitballoon.com/) — hosting for static sites and apps. Free on a subdomain
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
   * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 100,000 API requests/month for free
@@ -362,11 +368,12 @@ Table of Contents
   * [pubstorm.com](http://www.pubstorm.com) — Free static content hosting with global CDN and custom domain support. 10 free sites, each with 2 past revisions
 
 ## DNS
+
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting
   * [dns.he.net](https://dns.he.net/) — Free DNS hosting service with Dynamic DNS Support
   * [luadns.com](http://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
-  * [selectel.com](https://selectel.com/services/dns/) - Free DNS hosting, anycast, 10 geo zones
+  * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 3 domains with unlimited records
   * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 1 million free queries
 
@@ -377,7 +384,7 @@ Table of Contents
   * [developer.rackspace.com](https://developer.rackspace.com/) — Rackspace Cloud gives USD 50/month for 12 months
   * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives USD 300 over 60 days
   * [virtzone.net](http://www.virtzone.net/) — Free VPS. You must meet certain minor qualifications
-  * [backblaze.com](https://backblaze.com/b2/) - Backblaze B2 cloud storage. Free 10GB (Amazon S3-like) object storage for unlimited time
+  * [backblaze.com](https://backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
 
 ## DBaaS
 
@@ -400,12 +407,11 @@ Table of Contents
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
    * [pusher.com](https://pusher.com/) — Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100 K messages/day
-   * stun:stun.l.google.com:19302 — Google STUN
-   * stun:global.stun.twilio.com:3478?transport=udp — Twilio STUN
+   * [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302) — Google STUN
+   * [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third party services. 100 K events/month free
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
-
 
 ## Issue Tracking and Project Management
 
@@ -415,7 +421,7 @@ Table of Contents
    * [kanbantool.com](http://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
    * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
    * [kanbanery.com](https://kanbanery.com/) — Board based project management. Free for 2 users, premium tiers with more options
-   * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS, and nonprofits organizations
+   * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofits organizations
    * [trello.com](https://trello.com/) — Board based project management. Free
    * [producteev.com](https://producteev.com/) — Task management tool. Free, premium version with more options. Mobile applications available
    * [fogcreek.com](http://fogcreek.com/fogbugz/) — Bug tracking and project management. Free for 2 users
@@ -427,7 +433,7 @@ Table of Contents
    * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [acunote.com](http://acunote.com/) — Free project management and SCRUM software for up to 5 team members
    * [gliffy.com](http://gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira & Confluence. 5 diagrams and 2 MB free
-   * [cacoo.com](https://cacoo.com/) — Online diagrams in real time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
+   * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
    * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
    * [hub.jazz.net](https://hub.jazz.net/) — IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects
    * [leankit.com](http://leankit.com/) — Kanban board, that visualizes your workflow. Free up to 10 users
@@ -444,12 +450,12 @@ Table of Contents
 
    * [aerofs.com](https://aerofs.com/) — P2P file syncing, free for up to 30 users
    * [bintray.com](https://bintray.com/) — Binary File storage, free for Open Source. Includes SSL, CDN and a limited number of REST calls
-   * [cloudinary.com](http://cloudinary.com/) — Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
+   * [cloudinary.com](http://cloudinary.com/) — Image upload, powerful manipulations, storage and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
    * [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
-   * [transloadit.com](https://transloadit.com/) — Handles file uploads & encoding of video, audio, images, documents. Free for Open Source & other do-gooders. Commercial applications get one GB free for test driving
+   * [transloadit.com](https://transloadit.com/) — Handles file uploads & encoding of video, audio, images, documents. Free for Open Source & other do-gooders. Commercial applications get 1 GB free for test driving
    * [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except users management
    * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
-   * [imagefly.io](http://imagefly.io/) — Responsive images on-demand. CDN fronted image resizing, transcoding, and optimizing. 100 MB/month for free
+   * [imagefly.io](http://imagefly.io/) — Responsive images on-demand. CDN fronted image resizing, transcoding and optimizing. 100 MB/month for free
    * [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
    * [placehold.it](https://placehold.it/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
@@ -459,7 +465,7 @@ Table of Contents
    * [otixo.com](http://otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max. file size and allows 5 encrypted files
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
    * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
-   * [packagecloud.io](https://packagecloud.io/) - Hosted Package Repositories for YUM, APT, RubyGem, and PyPI.  Limited free plans, open source plans available via request.
+   * [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
 
 ## Design and UI
 
@@ -473,14 +479,14 @@ Table of Contents
 
 ## Data Visualization on Maps
 
-   * [geocoder.opencagedata.com/](https://geocoder.opencagedata.com/) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day
-   * [datamaps.co](https://datamaps.co/) a free platform for creating visualizations with data maps. 
+   * [geocoder.opencagedata.com](https://geocoder.opencagedata.com/) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day
+   * [datamaps.co](https://datamaps.co/) a free platform for creating visualizations with data maps.
    * [geocod.io](http://geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day
    * [gogeo.io](http://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
    * [cartodb.com](https://cartodb.com/) — Create maps and geospatial APIs from your data and public data
    * [giscloud.com](http://giscloud.com/) — Visualize, analyze and share geo data online
-   * [latlon.io](https://latlon.io/) — Geocoding API + school districts, census geography divisons, and other address based data. 2,500 free requests/month
-   * [mapbox.com](https://mapbox.com/) — Maps, geospatial services, and SDKs for displaying map data
+   * [latlon.io](https://latlon.io/) — Geocoding API + school districts, census geography divisons and other address based data. 2,500 free requests/month
+   * [mapbox.com](https://mapbox.com/) — Maps, geospatial services and SDKs for displaying map data
 
 ## Package Build System
 
@@ -491,8 +497,8 @@ Table of Contents
 ## IDE and Code Editing
 
    * [c9.io](https://c9.io/) — IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with GitHub and BitBucket, but also adds SFTP and generic Git access
-   * [koding.com](http://www.koding.com/) - online cloud-based development environment. You have a Ubuntu OS machine
-   * [codeanywhere.com](https://codeanywhere.com/) — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub, and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions, and version tracking
+   * [koding.com](http://www.koding.com/) — Cloud-based development environment. You have a Ubuntu OS machine
+   * [codeanywhere.com](https://codeanywhere.com/) — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions and version tracking
    * [codenvy.com](https://codenvy.com/) — IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 4 GB RAM, always-on machines, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
    * [nitrous.io](https://nitrous.io/) — Private Linux instance(s) with interactive collaboration, free for 2 hours/day. {[More Details](http://goo.gl/J1Zbsg)}
    * [visualstudio.com](http://visualstudio.com/community) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
@@ -501,10 +507,9 @@ Table of Contents
    * [wakatime.com](https://wakatime.com/) — Quantified self metrics about your coding activity, using text editor plugins, limited plan for free
    * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * [mockable.io](https://www.mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data
-   * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source, and user groups
+   * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source and user groups
    * [stackhive.com](http://stackhive.com/) — Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * [tadpoledb.com](http://tadpoledb.com/) — IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases
-   * [sourcelair.com](https://sourcelair.com/) — In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project
    * [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web
 
 ## Analytics, Events and Statistics
@@ -526,10 +531,10 @@ Table of Contents
    * [optimizely.com](https://optimizely.com) — A/B Testing solution, free starter plan, 1 website, 1 iOS and 1 Android app
    * [expensify.com](https://expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [ironSource atom](http://www.ironsrc.com/data-flow-management/) — Atom Data Flow Management is a data pipeline solution, 10M monthly events free
-   * [botan.io](http://botan.io/) — Free analytics for your Telegram bot.
+   * [botan.io](http://botan.io/) — Free analytics for your Telegram bot
 
 ## International Mobile Number Verification API and SDK
-  * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 10 tries and 15 verifications/day.
+  * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free accounts will have 10 tries and 15 verifications/day
   * [numverify.com](https://numverify.com/) — Global phone number validation & lookup JSON API. 250 API requests/month
   * [sumome.com](https://sumome.com/) — Heat map and conversion enhancement tools, free without few advanced features
 
@@ -544,7 +549,7 @@ Table of Contents
 
   * [docker.com](https://www.docker.com) — One free private repository,free managed node and Unlimited public repositories
   * [quay.io](https://quay.io/) — Unlimited free public repositories
-  * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, build, deploy, and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
+  * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, build, deploy and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
 
 ## Vagrant Related
 
@@ -563,7 +568,8 @@ Table of Contents
   * [screenshotmachine.com](https://screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
 
-## APIs, Data, and ML
+## APIs, Data and ML
+
   * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with Machine Learning, free 100,000 queries/month
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge based algorithms in the cloud
@@ -573,13 +579,12 @@ Table of Contents
   * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
   * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
   * [mashape.com](https://www.mashape.com/) — API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support
-  * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, Matlab, and others
+  * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, Matlab and others
   * [havenondemand.com](https://www.havenondemand.com) — APIs for machine learning
   * [restlet.com](http://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
   * [scrapinghub.com](http://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
-  * [context.io] (https://context.io) - Create simple email webhooks and code against a free, RESTful, imap API to leverage email data.
-
-
+  * [context.io](https://context.io) — Create simple email webhooks and code against a free, RESTful, imap API to leverage email data
+  * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
 
 ## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
