@@ -325,6 +325,7 @@ Table of Contents
   * [cloudandheat.com](https://www.cloudandheat.com/) — 128 MB of RAM for free, includes support for custom domains for free
   * [zeit.co/now](https://zeit.co/now) — Managed platform for Node.js deployments, featuring dynamic real-time scaling. Includes 20 free deploys/month limited to 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)
   * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
+  * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources.
 
 ## BaaS
 
