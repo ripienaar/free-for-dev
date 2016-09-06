@@ -28,7 +28,7 @@ Table of Contents
    * [Email](#email)
    * [CDN and Protection](#cdn-and-protection)
    * [PaaS](#paas)
-   * [BaaS](#baas)
+   * [BaaS](#baas)f
    * [Web Hosting](#web-hosting)
    * [DNS](#dns)
    * [IaaS](#iaas)
@@ -412,7 +412,7 @@ Table of Contents
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third party services. 100 K events/month free
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
-   * [Finch](https://meetfinch.com/) - Easily create SSL encrypted URLs that tunnel to your local development machine
+   * [meetfinch.com](https://meetfinch.com/) - Easily create SSL encrypted URLs that tunnel to your local development machine
 
 ## Issue Tracking and Project Management
 
