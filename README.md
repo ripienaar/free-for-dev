@@ -28,7 +28,7 @@ Table of Contents
    * [Email](#email)
    * [CDN and Protection](#cdn-and-protection)
    * [PaaS](#paas)
-   * [BaaS](#baas)f
+   * [BaaS](#baas)
    * [Web Hosting](#web-hosting)
    * [DNS](#dns)
    * [IaaS](#iaas)
