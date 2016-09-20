@@ -302,6 +302,8 @@ Table of Contents
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month
+  * [speeder.io](https://speeder.io/) - Uses KeyCDN. Automatic image optimization & free cdn boost. it's free and doesn't require any server changes.
+  * [jare.io](http://www.jare.io) - You should login using your GitHub account and register your domain. Uses AWS CloudFront.
 
 ## PaaS
 
