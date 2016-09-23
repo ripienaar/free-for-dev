@@ -302,6 +302,8 @@ Table of Contents
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month
+  * [speeder.io](https://speeder.io/) - Uses KeyCDN. Automatic image optimization & free cdn boost. it's free and doesn't require any server changes.
+  * [jare.io](http://www.jare.io) - You should login using your GitHub account and register your domain. Uses AWS CloudFront.
 
 ## PaaS
 
@@ -309,7 +311,6 @@ Table of Contents
   * [engineyard.com](https://engineyard.com/) — Engine Yard provides 500 free hours
   * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
-  * [shellycloud.com](https://shellycloud.com/) — Platform for hosting Ruby and Ruby on Rails apps, €20 of free credit
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
   * [firebase.com](https://www.firebase.com/) — Build real-time apps, free plan has 100 max. connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
   * [bluemix.net](https://console.ng.bluemix.net/) — IBM PaaS with a monthly free allowance
