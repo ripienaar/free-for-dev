@@ -351,6 +351,7 @@ Table of Contents
   * [stackstorm.com](https://stackstorm.com/) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
   * [simperium.com](https://simperium.com/) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
   * [stamplay.com](https://stamplay.com/) — Connect services together with a visual interface. 50 K API calls, 100 GB data transfer and 1 GB storage for free
+  * [syncano.io](https://www.syncano.io/) — A platform for building serverless apps. Increase productivity, focus on new features, and scale without managing servers.
 
 ## Web Hosting
 
