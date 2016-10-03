@@ -284,6 +284,7 @@ Table of Contents
   * [maildocker.com](http://maildocker.com) — First 10,000 emails/month are free
   * [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month are free
   * [pepipost.com](http://www.pepipost.com) — Unlimited emails free for first three months, then first 25,000 emails/month are free
+  * [elasticemail.com](https://elasticemail.com) — First 150,000 emails/month are free
 
 ## CDN and Protection
 
