@@ -29,7 +29,7 @@ Table of Contents
    * [CDN and Protection](#cdn-and-protection)
    * [PaaS](#paas)
    * [BaaS](#baas)
-   * [Web Hosting](#web-hosting)
+   * [Web](#web-hosting)
    * [DNS](#dns)
    * [IaaS](#iaas)
    * [DBaaS](#dbaas)
@@ -355,6 +355,7 @@ Table of Contents
 ## Web Hosting
 
   * [closeheat.com](https://closeheat.com/) — Development Environment in the Cloud for Static Websites with Free Hosting and GitHub integration. 1 free website with custom domain support
+  * [serverpilot.io] (https://serverpilot.io/) ServerPilot, and we'll install everything you need to host PHP apps like WordPress. Unlimited servers,1 SSH/SFTP user
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
   * [simplybuilt.com](https://www.simplybuilt.com/) — free website building and hosting for {[Open Source projects](http://www.simplybuilt.com/explore/free-websites-for-open-source-projects)}. Simple alternative to GitHub Pages
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps and websites into a personal developer portfolio
