@@ -340,7 +340,6 @@ Table of Contents
   * [layer.com](https://layer.com/) — The full-stack building block for communications
   * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling and push notifications
   * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
-  * [dreamfactory.com](http://dreamfactory.com/) — DreamFactory makes an open source REST API backend for mobile, web, and IoT applications. DreamFactory can be installed on any server, connected to any SQL or NoSQL database, and used for developing HTML or native mobile applications.
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
   * [getstream.io](https://getstream.io/) — Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month
   * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
@@ -574,6 +573,7 @@ Table of Contents
 
 ## APIs, Data and ML
 
+   * [dreamfactory.com](http://dreamfactory.com/) — DreamFactory makes an open source REST API backend for mobile, web, and IoT applications. Hook up any SQL or NoSQL database, file storage system, or external service and DreamFactory instantly creates a comprehensive REST API platform with live documentation, user management, and more.
   * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with Machine Learning, free 100,000 queries/month
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge based algorithms in the cloud
