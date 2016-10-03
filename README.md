@@ -340,7 +340,7 @@ Table of Contents
   * [layer.com](https://layer.com/) — The full-stack building block for communications
   * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling and push notifications
   * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
-  * [dreamfactory.com](http://dreamfactory.com/) — DreamFactory is an Open Source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
+  * [dreamfactory.com](http://dreamfactory.com/) — DreamFactory makes an open source REST API backend for mobile, web, and IoT applications. DreamFactory can be installed on any server, connected to any SQL or NoSQL database, and used for developing HTML or native mobile applications.
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
   * [getstream.io](https://getstream.io/) — Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month
   * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
