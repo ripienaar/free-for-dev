@@ -128,6 +128,7 @@ Table of Contents
 
 ## CI / CD
 
+  * [codefresh.io](https://codefresh.io) - Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
   * [circleci.com](https://circleci.com/) — Free for one concurrent build
   * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
