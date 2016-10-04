@@ -268,7 +268,6 @@ Table of Contents
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month for free
   * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month for free
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
-  * [mailstache.io](https://mailstache.io/) — 4 mailboxes with 1 GB each for up to 2 custom domains
   * [postmarkapp.com](https://postmarkapp.com/) — First 25,000 emails are free
   * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 10 users
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
