@@ -305,6 +305,7 @@ Table of Contents
   * [dropigee.com](https://www.dropigee.com) — Dropigee provides CDN + Cloud Storage, get 2 GB of bandwidth and unlimited storage free per month
   * [speeder.io](https://speeder.io/) - Uses KeyCDN. Automatic image optimization & free cdn boost. it's free and doesn't require any server changes.
   * [jare.io](http://www.jare.io) - You should login using your GitHub account and register your domain. Uses AWS CloudFront.
+  * [keycdn.com](https://app.keycdn.com/signup) - 25 GB of free CDN for first 30 days.
 
 ## PaaS
 
