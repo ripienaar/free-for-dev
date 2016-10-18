@@ -551,10 +551,11 @@ Table of Contents
 
 ## Docker Related
 
-  * [docker.com](https://www.docker.com) — One free private repository,free managed node and Unlimited public repositories
-  * [quay.io](https://quay.io/) — Unlimited free public repositories
-  * [tutum.co](https://tutum.co/) — The Docker Platform for Dev and Ops, build, deploy and manage your apps across any cloud, free while in beta and free developer plan when tutum will be production ready
-  * [arukas.io](https://arukas.io/) - Free docker container hosting,10 during beta period,3 afterwards
+  * [Arukas Cloud (Japanese)](https://arukas.io/) - Free docker container hosting, 10 during beta period, 3 afterwards
+  * [Docker Cloud](https://cloud.docker.com) - Manages the deployments of Docker containers to your (separate) cloud environment with one free repository
+  * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
+  * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
+
 ## Vagrant Related
 
   * [atlas.hashicorp.com](https://atlas.hashicorp.com/boxes/search) — HashiCorp's index of boxes
