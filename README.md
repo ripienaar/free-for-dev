@@ -146,6 +146,7 @@ Table of Contents
   * [bitrise.io](https://www.bitrise.io/) — An iOS CI/CD with 200 free builds/month
   * [saucelabs.com](https://saucelabs.com/) — CI with scalable testing for mobile and web apps, free for Open Source
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
+  * [gitlab.com](https://about.gitlab.com/gitlab-ci/) - Create pipelines directly from git repositories using GitLab's CI service
 
 ## Automated Browser Testing
 
