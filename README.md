@@ -557,6 +557,7 @@ Table of Contents
   * [Docker Cloud](https://cloud.docker.com) - Manages the deployments of Docker containers to your (separate) cloud environment with one free repository
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
+  * [canister.io](https://canister.io/) - 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
 
 ## Vagrant Related
 
