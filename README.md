@@ -383,6 +383,7 @@ Table of Contents
   * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 3 domains with unlimited records
   * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 1 million free queries
+  * [zonewatcher.com](https://zonewatcher.com) - Automatic backups and DNS change monitoring. Free for 1 domain.
 
 ## IaaS
 
