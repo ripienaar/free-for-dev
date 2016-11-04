@@ -61,6 +61,7 @@ Table of Contents
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofits organizations
   * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage
   * [buddy.works](https://buddy.works/) - One free private project with a git repository and continuous delivery integrated
+  * [codebasehq.com](https://www.codebasehq.com/) - One free project with 100MB space and 2 users
 
 ## Tools for Teams and Collaboration
 
@@ -291,6 +292,7 @@ Table of Contents
   * [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month are free
   * [pepipost.com](http://www.pepipost.com) — Unlimited emails free for first three months, then first 25,000 emails/month are free
   * [elasticemail.com](https://elasticemail.com) — First 150,000 emails/month are free
+  * [appmail.io](https://appmail.io) — First 10,000 emails are free
 
 ## CDN and Protection
 
