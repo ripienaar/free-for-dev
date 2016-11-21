@@ -301,7 +301,6 @@ Table of Contents
 
   * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, Cloudflare also offers a free SSL certificate service
   * [bootstrapcdn.com](http://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and font awesome
-  * [surge.sh](https://surge.sh/) — Single–command, bring your own source control web publishing CDN
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc
   * [jsdelivr.com](http://www.jsdelivr.com/) — Super-fast CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
@@ -380,6 +379,7 @@ Table of Contents
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
   * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 100,000 API requests/month for free
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
+  * [surge.sh](https://surge.sh/) — Static web publishing for Front-End Developers. Unlimited sites with custom domain support
 
 ## DNS
 
