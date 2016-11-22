@@ -541,6 +541,7 @@ Table of Contents
    * [inspectlet.com](http://inspectlet.com/) — 100 sessions/month free for 1 website
    * [mousestats.com](https://mousestats.com/) — 100 sessions/month free for 1 website
    * [metrica.yandex.com](https://metrica.yandex.com/) — Unlimited free analytics
+   * [getjaco.com](http://www.getjaco.com/) — User session recording for websites
    * [hotjar.com](https://hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [imprace.com](http://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free for 5 landing pages/domain
    * [baremetrics.com](https://baremetrics.com/) — Analytics & Insights for stripe
