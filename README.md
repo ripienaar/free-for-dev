@@ -228,7 +228,6 @@ Table of Contents
   * [newrelic.com](https://newrelic.com/) — Free with 24 hours data retention
   * [nodequery.com](https://nodequery.com/) — Free basic server monitor up to 10 servers
   * [watchsumo.com](http://www.watchsumo.com/) — Free website monitoring, 50 Http(s), Ping or keywords, every 5+ minutes
-  * [opsgenie.com](https://www.opsgenie.com/) — Alert management with mobile push. 600 free alerts/month for 2 users
   * [runscope.com](https://www.runscope.com/) — Monitor and log API usage. Single user 25,000 requests/month free
   * [circonus.com](http://www.circonus.com/) — Free for 20 metrics
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
