@@ -177,7 +177,7 @@ Table of Contents
   * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) — Very deep analysis of the configuration of any SSL web server
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) — Find web app vulnerabilities, audit for OWASP Risks
-  * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your network
+  * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your networkonth
   * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/) — Automated vulnerability scanning. Free plan allows weekly XSS scans
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) — Free vulnerability and network scanning for 3 targets
@@ -295,6 +295,7 @@ Table of Contents
   * [pepipost.com](http://www.pepipost.com) — Unlimited emails free for first three months, then first 25,000 emails/month are free
   * [elasticemail.com](https://elasticemail.com) — First 150,000 emails/month are free
   * [appmail.io](https://appmail.io) — First 10,000 emails are free
+  * [mail-tester.com](https://www.mail-tester.com) — Test email's dns/spf/dkim/dmarc/ settings are correct, 20 free/month
 
 ## CDN and Protection
 
