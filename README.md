@@ -169,8 +169,6 @@ Table of Contents
   * [vaddy.net](http://vaddy.net/) — Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scans history for free
   * [letsencrypt.org](https://letsencrypt.org/) — Free SSL Certificate Authority with certs trusted by all major browsers
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) — Free SSL certificates for Open Source
-  * [startssl.com](https://startssl.com/) — Free SSL certs
-  * [wosign.com](https://buy.wosign.com/free/) — [Temporarily discontinued] Free SSL certs. Up to 5 domain names for 2 years period. (China authority)
   * [soclall.com](http://soclall.com/) — Free up to 1,000 users login, post, share through top 20+ social networks
   * [stormpath.com](https://stormpath.com/) — Free user management, authentication, social login and SSO
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO
