@@ -87,6 +87,7 @@ Table of Contents
   * [filehero.io](https://filehero.io/) — Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
   * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery, and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [cnverg.com](https://cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
+  * [integram.org](http://integram.org/) — bots that allow us to get notification of all activity at repository that used by team using telegram chat
 
 
 ## Code Quality
@@ -246,6 +247,7 @@ Table of Contents
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 5 MB storage
   * [facetflow.com](https://facetflow.com/) — Hosted Elasticsearch for Microsoft Azure. Free 5,000 docs and 500 MB
   * [indexisto.com](https://indexisto.com/) — Site search reinvented. Free 10 million document index limit with advertisement block
+  * [bing.com](https://www.microsoft.com/cognitive-services/en-us/) — Free search api Across all Bing Search APIs (Web, Image, Video, News): 1,000 transactions per month, 5 per second. Trial keys expire after a 90 day period, after which a subscription may be purchased on the Azure portal.
 
 ## Email
 
@@ -356,6 +358,7 @@ Table of Contents
   * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 spaces (repositories) and 100,000 API requests/month for free
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
   * [pubstorm.com](http://www.pubstorm.com) — Free static content hosting with global CDN and custom domain support. 10 free sites, each with 2 past revisions
+  * [hostinger.com](https://www.hostinger.com/) — Free unlimited web hosting and sub domain 
 
 ## DNS
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting
