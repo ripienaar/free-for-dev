@@ -399,6 +399,7 @@ Table of Contents
   * [virtzone.net](http://www.virtzone.net/) — Free VPS. You must meet certain minor qualifications
   * [backblaze.com](https://backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [trystack.org](http://trystack.org/) — Free Openstack hosting. The environment is resets every 24 hours, suitable for testing only
+  * [dply.co](https://dply.co/) — Create a cloud server FREE for 2 hours. Backend host is Digitalocean.
 
 ## DBaaS
 
