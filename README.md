@@ -369,7 +369,6 @@ Table of Contents
   * [closeheat.com](https://closeheat.com/) — Development Environment in the Cloud for Static Websites with Free Hosting and GitHub integration. 1 free website with custom domain support
   * [serverpilot.io](https://serverpilot.io/) ServerPilot, and we'll install everything you need to host PHP apps like WordPress. Unlimited servers, 1 SSH/SFTP user
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
-  * [simplybuilt.com](https://www.simplybuilt.com/) — Free website building and hosting for {[Open Source projects](http://www.simplybuilt.com/explore/free-websites-for-open-source-projects)}. Simple alternative to GitHub Pages
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps and websites into a personal developer portfolio
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 MB data and 1 GB bandwidth
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
