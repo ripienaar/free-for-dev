@@ -90,7 +90,7 @@ Table of Contents
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [filehero.io](https://filehero.io/) — Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
   * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
-  * [cnverg.com](https://cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
+  * [cnverg.com](http://cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
 
 ## Code Quality
 
@@ -216,7 +216,7 @@ Table of Contents
 
 ## Monitoring
 
-  * [cloudsploit.com](https://CloudSploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc
+  * [cloudsploit.com](https://cloudSploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc
   * [opbeat.com](https://opbeat.com/) — ​Instant performance insights for JS developers. Free with 24 hours data retention
   * [checkmy.ws](https://checkmy.ws/en/solutions/free-forever-for-foss/) — Free 15 days full demo and 3 websites, forever free for Open Source
   * [appneta.com](http://www.appneta.com/) — Free with 1 hour data retention
@@ -235,7 +235,6 @@ Table of Contents
   * [ghostinspector.com](https://ghostinspector.com/) — Free website and web application monitoring. Single user, 100 test runs/month
   * [java-monitor.com](http://java-monitor.com/forum/welcome.php/) — Free monitoring of JVM's and uptime
   * [sematext.com](https://sematext.com/) — Free for 24 hours metrics, unlimited number of servers, 10 custom metrics, 500,000 custom metrics data points, unlimited dashboards, users, etc
-  * [sealion.com](https://sealion.com/) — Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
   * [stathat.com](https://www.stathat.com/) — Get started with 10 stats for free, no expiration
   * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
   * [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
@@ -432,7 +431,7 @@ Table of Contents
 ## Issue Tracking and Project Management
 
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
-   * [pivotaltracker.com](http://www.pivotaltracker.com/community/public-projects) — Pivotal Tracker, free for public projects
+   * [pivotaltracker.com](http://www.pivotaltracker.com/) — Pivotal Tracker, free for public projects
    * [atlassian.com](https://atlassian.com/opensource/overview) — Free Jira etc for Open Source
    * [kanbantool.com](http://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
    * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
