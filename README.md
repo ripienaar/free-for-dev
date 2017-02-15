@@ -461,6 +461,7 @@ Table of Contents
    * [contriber.com](https://contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
    * [planitpoker.com](http://planitpoker.com/) — Free online planning poker (estimation tool)
    * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
+   * [jetbrains.com](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — search based on time tracking, attachments on Agile Board, and many other improvements. 10 users 5 GB free
 
 ## Storage and Media Processing
 
