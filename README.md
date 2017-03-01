@@ -164,6 +164,7 @@ Table of Contents
 
 ## Security and PKI
 
+  * [pyup.io](https://pyup.io) — Monitory Python dependencies for security vulnerabilites and update them automatically. Free for one private project, unlimited projects for open source.
   * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users
   * [crypteron.com](https://www.crypteron.com/) — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [snyk.io](https://snyk.io) — Snyk found and reported several vulnerabilities in the package.Limited to 1 private project (unlimited for open source projects)
