@@ -63,7 +63,7 @@ Table of Contents
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
   * [NotABug](https://notabug.org) - NotABug.org is a free-software code collaboration platform for freely licensed projects, Git based
   * [Deveo](https://deveo.com/) - [free](https://deveo.com/pricing/) cloud and  Git, Mercurial, or SVN repositories.
-  
+
 ## Tools for Teams and Collaboration
 
   * [scinote.net](http://scinote.net) — Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space
@@ -249,6 +249,7 @@ Table of Contents
   * [opsdash.com](https://www.opsdash.com/) — Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
   * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Unlimited free checks
   * [appbeat.io](https://appbeat.io) — Website monitoring, 3 monitors free. They offer very reliable and affordable monitor service.
+  * [dnsspy.io](https://dnsspy.io) — Monitor your DNS and get alerts for changes, RFC-violating DNS configs, ... Free for 1 domain, open source maintainers may apply for a free premium account.
 
 ## Crash and Exception Handling
 
