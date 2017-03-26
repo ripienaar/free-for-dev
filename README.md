@@ -499,6 +499,7 @@ Table of Contents
   * [vectr.com](https://vectr.com/) — Free Design App For Web + Desktop
   * [walkme.com](http://walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
   * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
+  * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
 
 ## Data Visualization on Maps
 
