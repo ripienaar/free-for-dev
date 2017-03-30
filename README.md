@@ -139,7 +139,6 @@ Table of Contents
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
   * [wercker.com](http://wercker.com/) — Free for public and private repositories
-  * [drone.io](https://drone.io/) — CI platform that includes browser testing, free for Open Source
   * [semaphoreci.com](https://semaphoreci.com/) — 100 private builds/month, unlimited for Open Source
   * [shippable.com](https://app.shippable.com/) — Free for 1 build container, private and public repos, unlimited builds
   * [snap-ci.com](https://snap-ci.com/) — Free for public repositories, 1 build at the time
