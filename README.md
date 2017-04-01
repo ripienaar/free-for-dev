@@ -139,7 +139,6 @@ Table of Contents
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
   * [wercker.com](http://wercker.com/) — Free for public and private repositories
-  * [drone.io](https://drone.io/) — CI platform that includes browser testing, free for Open Source
   * [semaphoreci.com](https://semaphoreci.com/) — 100 private builds/month, unlimited for Open Source
   * [shippable.com](https://app.shippable.com/) — Free for 1 build container, private and public repos, unlimited builds
   * [snap-ci.com](https://snap-ci.com/) — Free for public repositories, 1 build at the time
@@ -194,7 +193,7 @@ Table of Contents
 
   * [bitnami.com](https://bitnami.com/) — Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
   * [visualops.io](http://visualops.io/) — 3,600 instance hours/month free
-  * [bushel.com](https://www.bushel.com/) —  Device management solution for iPads, iPhones and Macs, 3 devices free
+  * [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones and Macs, 3 devices free
 
 ## Log Management
 
@@ -499,6 +498,7 @@ Table of Contents
   * [vectr.com](https://vectr.com/) — Free Design App For Web + Desktop
   * [walkme.com](http://walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
   * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
+  * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
 
 ## Data Visualization on Maps
 
