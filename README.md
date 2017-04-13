@@ -567,7 +567,8 @@ Table of Contents
   * [taxratesapi.avalara.com](http://taxratesapi.avalara.com/) — Get the right sales tax rates to charge for the close to 10,000 sales tax jurisdictions in the USA. Free REST API. Registration required
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
-
+  * [fraudlabspro.com] (https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
+  
 ## Docker Related
 
   * [Arukas Cloud](https://arukas.io/) — Free docker container hosting, 10 during beta period, 3 afterwards (Japanese)
