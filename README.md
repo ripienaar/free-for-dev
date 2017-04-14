@@ -500,7 +500,7 @@ Table of Contents
   * [walkme.com](http://walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
   * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
-  * [figma.com](https://figma.com) — Online, collaborative design tool for teams, free[*](https://www.figma.com/pricing)
+  * [figma.com](https://figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects
 
 ## Data Visualization on Maps
 
