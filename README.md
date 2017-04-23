@@ -127,6 +127,7 @@ Table of Contents
 
 ## Code Search and Browsing
 
+  * [codota.com](https://www.codota.com/) — Codota helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
   * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
   * [sourcegraph.com](https://sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
