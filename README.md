@@ -509,7 +509,7 @@ Table of Contents
    * [datamaps.co](https://datamaps.co/) a free platform for creating visualizations with data maps
    * [geocod.io](http://geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day
    * [gogeo.io](http://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
-   * [cartodb.com](https://cartodb.com/) — Create maps and geospatial APIs from your data and public data
+   * [carto.com](https://carto.com/) — Create maps and geospatial APIs from your data and public data
    * [giscloud.com](http://giscloud.com/) — Visualize, analyze and share geo data online
    * [latlon.io](https://latlon.io/) — Geocoding API + school districts, census geography divisons and other address based data. 2,500 free requests/month
    * [mapbox.com](https://mapbox.com/) — Maps, geospatial services and SDKs for displaying map data
