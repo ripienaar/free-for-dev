@@ -556,6 +556,7 @@ Table of Contents
    * [expensify.com](https://expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [ironSource atom](http://www.ironsrc.com/data-flow-management/) — Atom Data Flow Management is a data pipeline solution, 10 million monthly events free
    * [botan.io](http://botan.io/) — Free analytics for your Telegram bot
+   * [Metabase](http://metabase.com/) — Free, open source analytics/business intelligence, works with most databases.
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
