@@ -1,4 +1,4 @@
-# free-for-dev
+# free-for-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
 This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
