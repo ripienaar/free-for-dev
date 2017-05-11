@@ -281,9 +281,8 @@ Table of Contents
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
   * [postmarkapp.com](https://postmarkapp.com/) — First 25,000 emails free
   * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 10 users
-  * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
-  * [pawnmail.com](http://pawnmail.com) — 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP and SMTP access. No paid plans or upgrades
-  * [moosend.com](http://moosend.com/) — Mailing list management service. Free account for 6 months for startups
+  * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
+  * [moosend.com](http://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
   * [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
   * [mailcatcher.me](http://mailcatcher.me/) — Catches mail and serves it through a web interface
