@@ -314,7 +314,6 @@ Table of Contents
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [speeder.io](https://speeder.io/) — Uses KeyCDN. Automatic image optimization and free CDN boost. Free and does not require any server changes
   * [jare.io](http://www.jare.io) — You should login using your GitHub account and register your domain. Uses AWS CloudFront
-  * [codepunker.com](https://www.codepunker.com/tools/cdn) — Uses CacheFly CDN. Free CDN for static assets (CSS and JavaScript files)
 
 ## PaaS
 
