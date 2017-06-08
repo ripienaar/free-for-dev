@@ -309,6 +309,7 @@ Table of Contents
   * [rawgit.com](https://rawgit.com/) — Free limited traffic, serves raw files directly from GitHub with proper Content-Type headers
   * [incapsula.com](https://www.incapsula.com/) — Free CDN and DDoS protection
   * [fastly.com](https://www.fastly.com/) — Free CDN, all features until USD 50/month is reached, enough for most, then pay or suspended
+  * [Web Support Revolution](https://w.tools/) — Free CDN, backup, firewall, antivirus and monitoring.
   * [athenalayer.com](http://athenalayer.com/) — Free DDoS protection with unlimited websites
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
