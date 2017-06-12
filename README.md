@@ -422,6 +422,7 @@ Table of Contents
    * [iriscouch.com](http://www.iriscouch.com/) — CouchDB as a service. Free for developing, prototyping, etc
    * [spreadsheetdb.io](https://www.spreadsheetdb.io) - Database that can be queried with spreadsheets, 3 spreadsheets and 200 rows
      free
+   * [AWS DynamoDB](https://aws.amazon.com/dynamodb/) - NoSQL database service accessed via HTTP api. Has free tier allowing 25GB storage and 200 million requests per month.
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
