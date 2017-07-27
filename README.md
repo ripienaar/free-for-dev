@@ -318,7 +318,7 @@ Table of Contents
 ## PaaS
 
   * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and more
-  * [engineyard.com](https://engineyard.com/) — Engine Yard provides 500 free hours
+  * [engineyard.com](https://www.engineyard.com/) — Engine Yard provides 500 free hours
   * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
@@ -330,9 +330,7 @@ Table of Contents
   * [mendix.com](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
   * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [configure.it](http://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
-  * [elastx.com](http://elastx.com/start/easypaas/) — Free tier with up to 4 cloudlets, must be renewed every year
   * [pagodabox.io](http://pagodabox.io/) — Small worker, web server, cache and database for free
-  * [cloudandheat.com](https://www.cloudandheat.com/) — 128 MB of RAM for free, includes support for custom domains for free
   * [zeit.co/now](https://zeit.co/now) — Managed platform for Node.js, static sites and Docker deployments. Limited to 3 concurrent instances, 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)
   * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
@@ -419,7 +417,6 @@ Table of Contents
    * [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
    * [fieldbook.com](https://fieldbook.com/) — Fieldbook lets anyone create a simple tracking database, as easily as a spreadsheet. Automatic API. Unlimited free sheets, share with unlimited users
-   * [iriscouch.com](http://www.iriscouch.com/) — CouchDB as a service. Free for developing, prototyping, etc
    * [spreadsheetdb.io](https://www.spreadsheetdb.io) - Database that can be queried with spreadsheets, 3 spreadsheets and 200 rows
      free
 
