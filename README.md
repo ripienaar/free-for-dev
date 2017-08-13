@@ -389,7 +389,6 @@ Table of Contents
 ## IaaS
 
   * [aws.amazon.com](https://aws.amazon.com/free/) — AWS Free Tier, free for 12 months
-  * [exoscale.ch](https://www.exoscale.ch/) — Free resources for Open Source
   * [developer.rackspace.com](https://developer.rackspace.com/) — Rackspace Cloud gives USD 50/month for 12 months
   * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives USD 300 over 12 months
   * [virtzone.net](http://www.virtzone.net/) — Free VPS. You must meet certain minor qualifications
