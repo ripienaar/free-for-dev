@@ -41,6 +41,7 @@ Table of Contents
    * [Package Build System](#package-build-system)
    * [IDE and Code Editing](#ide-and-code-editing)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
+   * [Visitor Session Recording](#visitor-session-recording)
    * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
    * [Payment / Billing Integration](#payment--billing-integration)
    * [Docker Related](#docker-related)
@@ -539,8 +540,6 @@ Table of Contents
    * [mixpanel.com](https://mixpanel.com/) — Free 25,000 points or 200,000 with their badge on your site
    * [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
    * [keen.io](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
-   * [inspectlet.com](http://inspectlet.com/) — 100 sessions/month free for 1 website
-   * [mousestats.com](https://mousestats.com/) — 100 sessions/month free for 1 website
    * [metrica.yandex.com](https://metrica.yandex.com/) — Unlimited free analytics
    * [hotjar.com](https://hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [imprace.com](http://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free 5 landing pages/domain
@@ -549,6 +548,14 @@ Table of Contents
    * [expensify.com](https://expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [ironSource atom](http://www.ironsrc.com/data-flow-management/) — Atom Data Flow Management is a data pipeline solution, 10 million monthly events free
    * [botan.io](http://botan.io/) — Free analytics for your Telegram bot
+
+## Visitor Session Recording
+   * [inspectlet.com](http://inspectlet.com/) — 100 sessions/month free for 1 website
+   * [mousestats.com](https://mousestats.com/) — 100 sessions/month free for 1 website
+   * [hotjar.com](https://hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
+   * [getWisdom.io](https://getWisdom.io/?ref=github) — 100 visitors/month, with unlimited page views, domains, and live-view.
+   * [usersurge.com](http://www.usersurge.com/) — 250K sessions per month for individuals.
+
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
