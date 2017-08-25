@@ -529,6 +529,10 @@ Table of Contents
    * [stackhive.com](http://stackhive.com/) — Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
    * [tadpoledb.com](http://tadpoledb.com/) — IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases
    * [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web
+   * [repl.it](https://repl.it/) — A cloud coding environment for various program languages
+   * [codesandbox.io](https://codesandbox.io/) — Online React playground
+   * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
+
 
 ## Analytics, Events and Statistics
 
