@@ -472,7 +472,6 @@ Table of Contents
    * [transloadit.com](https://transloadit.com/) — Handles file uploads and encoding of video, audio, images, documents. Free for Open Source and other do-gooders. Commercial applications get 1 GB free for test driving
    * [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except users management
    * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
-   * [imagefly.io](http://imagefly.io/) — Responsive images on-demand. CDN fronted image resizing, transcoding and optimizing. 100 MB/month for free
    * [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
    * [placehold.it](https://placehold.it/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
