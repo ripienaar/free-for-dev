@@ -502,6 +502,7 @@ Table of Contents
   * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [figma.com](https://figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects
+  * [Gravit Designer](https://www.designer.io/) — Free vector design app, very similar to SketchApp.
 
 ## Data Visualization on Maps
 
