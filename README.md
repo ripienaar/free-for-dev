@@ -481,7 +481,6 @@ Table of Contents
    * [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
    * [placehold.it](https://placehold.it/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
-   * [placepenguin.com](http://placepenguin.com/) — A quick and simple service for placeholder images of penguins
    * [embed.ly](http://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
    * [backhub.co](https://backhub.co/) — Backup and archive your GitHub repositories. Free for public repos
    * [otixo.com](http://otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max. file size and allows 5 encrypted files
