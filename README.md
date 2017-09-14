@@ -144,7 +144,7 @@ Table of Contents
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
   * [wercker.com](http://wercker.com/) — Free for public and private repositories
-  * [semaphoreci.com](https://semaphoreci.com/) — 100 private builds/month, unlimited for Open Source
+  * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source
   * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
   * [github.com](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
@@ -577,7 +577,7 @@ Table of Contents
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [fraudlabspro.com] (https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
-  
+
 ## Docker Related
 
   * [Arukas Cloud](https://arukas.io/) — Free docker container hosting, 10 during beta period, 3 afterwards (Japanese)
