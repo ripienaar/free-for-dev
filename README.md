@@ -380,6 +380,7 @@ Table of Contents
   * [contentful.com](https://www.contentful.com/) — Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 repositories and 100,000 API requests/month for free
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
+  * [wedeploy.com](https://wedeploy.com/) — WeDeploy is a deployment platform that gives you access to intuitive APIs that can help you create modern apps faster. In beta all services are free.
 
 ## DNS
 
