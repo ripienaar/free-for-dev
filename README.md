@@ -68,6 +68,7 @@ Table of Contents
 ## Artifact Repos
 
  * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
+ * [packagecloud.io](https://packagecloud.io) - Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
 
 ## Tools for Teams and Collaboration
 
