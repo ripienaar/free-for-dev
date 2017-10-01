@@ -157,6 +157,7 @@ Table of Contents
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
   * [dependencyci.com](https://dependencyci.com/) — Continuous dependency checking for GitHub repositories, free for open source
+  * [bitbucket.com](https://bitbucket.org/) — Create pielines from Bitbucket repositories using Bitbucket Pipelines
 
 ## Automated Browser Testing
 
