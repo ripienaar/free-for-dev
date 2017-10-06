@@ -278,7 +278,6 @@ Table of Contents
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month free
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [mailchimp.com](http://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
-  * [sendloop.com](https://sendloop.com/) — 2,000 subscribers and 10,000 emails/month free
   * [sendgrid.com](https://sendgrid.com/) — 12,000 emails/month and 2,000 contacts free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free
