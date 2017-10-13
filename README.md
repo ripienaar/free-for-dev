@@ -382,6 +382,7 @@ Table of Contents
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [txti.es](https://txt.es) — Quickly create web pages with mark down.
+  * [github.io](https://github.io) — Free repository/user hosting on Github Pages.
 
 ## DNS
 
