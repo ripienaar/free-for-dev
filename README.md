@@ -95,7 +95,7 @@ Table of Contents
   * [filehero.io](https://filehero.io/) — Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
   * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [cnverg.com](http://cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
-  * [flock.com](https://flock.com) — A faster way for your team to communicate. Discuss projects, share ideas, and make decisions faster
+  * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
 
 ## Code Quality
 
