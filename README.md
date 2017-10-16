@@ -88,7 +88,6 @@ Table of Contents
   * [sourcetalk.net](http://sourcetalk.net/) — Code discussion tool, free for open code talks
   * [helplightning.com](https://www.helplightning.com/) — Help over video with augmented reality. Free without analytics, encryption, support
   * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
-  * [wunderlist.com](https://www.wunderlist.com/) — Share your lists and work collaboratively on projects with your colleagues, free on iPhone, iPad, Mac, Android, Windows and the web
   * [doodle.com](http://doodle.com/) — The scheduling tool you'll actually use. Find a date for a meeting two times faster
   * [sendtoinc.com](https://sendtoinc.com/) — Share links, notes, files and have discussions. Free for 3 and 100 MB
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
