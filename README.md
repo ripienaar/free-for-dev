@@ -277,6 +277,7 @@ Table of Contents
   * [sparkpost.com](https://www.sparkpost.com/) — First 15,000 emails/month free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month free
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
+  * [sendloop.com](https://start.sendloop.com/) - 2,000 subscribers and unlimited emails/month free
   * [mailchimp.com](http://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
   * [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
