@@ -606,7 +606,7 @@ Table of Contents
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
   * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
   * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
-  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request.
+  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call. 
 
 ## APIs, Data and ML
 
