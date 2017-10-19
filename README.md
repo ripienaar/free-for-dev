@@ -300,7 +300,6 @@ Table of Contents
   * [elasticemail.com](https://elasticemail.com) — First 150,000 emails/month free
   * [appmail.io](https://appmail.io) — First 10,000 emails free
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
-  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request.
 
 ## CDN and Protection
 
@@ -607,6 +606,7 @@ Table of Contents
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
   * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
   * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
+  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request.
 
 ## APIs, Data and ML
 
