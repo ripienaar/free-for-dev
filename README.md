@@ -193,6 +193,7 @@ Table of Contents
   * [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for 10 users, VPN, Websites and SSH
   * [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services (AWS) security and compliance auditing and monitoring
+  * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on th breaches.
 
 ## Management System
 
@@ -578,7 +579,7 @@ Table of Contents
   * [taxratesapi.avalara.com](http://taxratesapi.avalara.com/) — Get the right sales tax rates to charge for the close to 10,000 sales tax jurisdictions in the USA. Free REST API. Registration required
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
-  * [fraudlabspro.com] (https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
+  * [fraudlabspro.com](https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
 
 ## Docker Related
 
@@ -626,6 +627,7 @@ Table of Contents
   * [context.io](https://context.io) — Create simple email webhooks and code against a free, RESTful, imap API to leverage email data
   * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
   * [Meya.ai](https://meya.ai) — Create and deploy a chatbot.  Free tier allows only 1 bot.
+  * [RequestBin](https://requestb.in) — Inspect and debug HTTP POST requests from an HTTP client.
 
 ## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
