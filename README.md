@@ -625,6 +625,7 @@ Table of Contents
   * [scrapinghub.com](http://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
   * [context.io](https://context.io) — Create simple email webhooks and code against a free, RESTful, imap API to leverage email data
   * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
+  * [Meya.ai](https://meya.ai) — Create and deploy a chatbot.
 
 ## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
