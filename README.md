@@ -606,6 +606,8 @@ Table of Contents
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
   * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
   * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
+  * [Typeform.com](https://www.typeform.com/) — Include a beautifully designed forms on websites.
+  * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.
 
 ## APIs, Data and ML
 
