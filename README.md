@@ -193,6 +193,7 @@ Table of Contents
   * [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for 10 users, VPN, Websites and SSH
   * [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services (AWS) security and compliance auditing and monitoring
+  * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on th breaches.
 
 ## Management System
 
