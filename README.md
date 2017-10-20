@@ -607,6 +607,7 @@ Table of Contents
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
   * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
   * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
+  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call. 
   * [Typeform.com](https://www.typeform.com/) — Include a beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
 
