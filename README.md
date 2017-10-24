@@ -501,7 +501,7 @@ Table of Contents
   * [cloudconvert.com](https://cloudconvert.com/) — Convert anything to anything. 208 supported formats including videos to gif
   * [resizeappicon.com](https://resizeappicon.com/) — A simple service to resize and manage your app icons
   * [vectr.com](https://vectr.com/) — Free Design App For Web + Desktop
-  * [walkme.com](http://walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
+  * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
   * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [figma.com](https://figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects
