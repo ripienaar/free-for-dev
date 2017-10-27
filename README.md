@@ -632,6 +632,7 @@ Table of Contents
   * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
   * [Meya.ai](https://meya.ai) — Create and deploy a chatbot.  Free tier allows only 1 bot.
   * [RequestBin](https://requestb.in) — Inspect and debug HTTP POST requests from an HTTP client.
+  * [Apify](https://www.apify.com/) — Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention.
 
 ## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
