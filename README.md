@@ -64,6 +64,7 @@ Table of Contents
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
   * [NotABug](https://notabug.org) - NotABug.org is a free-software code collaboration platform for freely licensed projects, Git based
   * [Deveo](https://deveo.com/) - [free](https://deveo.com/pricing/) cloud and  Git, Mercurial, or SVN repositories.
+  * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
 
 ## Artifact Repos
 
