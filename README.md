@@ -221,6 +221,7 @@ Table of Contents
   * [oneskyapp.com](http://www.oneskyapp.com/) — Limited free edition for up to 5 users, free for Open Source
   * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
   * [instant.cm](https://instant.cm/) — Free for up to 2 languages and 20,000 requests/month
+  * [Loco](https://localise.biz/) - Free up to 2000 translations, Unlimited translators, 10 languages/project, 1000 translatable assets/project
 
 ## Monitoring
 
