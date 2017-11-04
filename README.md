@@ -369,6 +369,7 @@ Table of Contents
   * [stackstorm.com](https://stackstorm.com/) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
   * [simperium.com](https://simperium.com/) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
   * [stamplay.com](https://stamplay.com/) — Connect services together with a visual interface. 50,000 API calls, 100 GB data transfer and 1 GB storage for free
+  * [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications up to 2000 Subscribers
 
 ## Web Hosting
 
