@@ -440,9 +440,10 @@ Table of Contents
    * [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302) — Google STUN
    * [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third party services. 100,000 events/month free
-   * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL
+   * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
-   * [meetfinch.com](https://meetfinch.com/) — Easily create SSL encrypted URLs that tunnel to your local development machine
+   * [serveo.net](https://serveo.net/) - Quickly expose any local port to the public internet on a servo subdomain using an SSH tunnel, includes SSH GUI to replay requests over HTTP.
+   * [ZeroTier](https://www.zerotier.com) - Free and open source managed virtual Ethernet as a service. End-to-end-encrypted private IP networks with up to 100 clients on free plan, or roll your own root servers. Clients for Windows, macOS, Linux, iOS, Android, QNAP and Synology NAS, WD MyCloud, FreeBSD, and OpenWRT can connect to private or public networks; the web interface allows configuration of custom routing rules and approval of new client nodes on private networks. No more SSH forwards, dynamic DNS, or other hassles to keep development machines and prototype servers connected!
 
 ## Issue Tracking and Project Management
 
