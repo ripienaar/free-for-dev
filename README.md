@@ -443,7 +443,7 @@ Table of Contents
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
    * [serveo.net](https://serveo.net/) - Quickly expose any local port to the public internet on a servo subdomain using an SSH tunnel, includes SSH GUI to replay requests over HTTP.
-   * [ZeroTier](https://www.zerotier.com) - Free and open source managed virtual Ethernet as a service. End-to-end-encrypted private IP networks with up to 100 clients on free plan, or roll your own root servers. Clients for Windows, macOS, Linux, iOS, Android, QNAP and Synology NAS, WD MyCloud, FreeBSD, and OpenWRT can connect to private or public networks; the web interface allows configuration of custom routing rules and approval of new client nodes on private networks. No more SSH forwards, dynamic DNS, or other hassles to keep development machines and prototype servers connected!
+   * [ZeroTier](https://www.zerotier.com) - FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks.
 
 ## Issue Tracking and Project Management
 
