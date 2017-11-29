@@ -388,7 +388,7 @@ Table of Contents
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
-  * [txti.es](https://txt.es) — Quickly create web pages with markdown.
+  * [txti.es](http://txti.es/) — Quickly create web pages with markdown.
 
 ## DNS
 
