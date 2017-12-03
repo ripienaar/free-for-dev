@@ -70,6 +70,7 @@ Table of Contents
 
  * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
  * [packagecloud.io](https://packagecloud.io) - Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
+ * [bintray.com](https://www.jfrog.com/open-source/) - JFrog Bintray is an easy to use repository hosting for pretty much any binary package format, (List from Pro but most should be supported in OSS Bintray): Bower, Chef Cookbooks, CocoaPods, Conan, Debian, Docker, Git LFS, NPM, NuGet, Opkg, P2, PHP Composer, Puppet, PyPI, RPM, RubyGems, SBT, Vagrant, VCS
 
 ## Tools for Teams and Collaboration
 
