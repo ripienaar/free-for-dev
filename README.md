@@ -527,8 +527,8 @@ Table of Contents
    * [giscloud.com](http://giscloud.com/) — Visualize, analyze and share geo data online
    * [latlon.io](https://latlon.io/) — Geocoding API + school districts, census geography divisons and other address based data. 2,500 free requests/month
    * [mapbox.com](https://mapbox.com/) — Maps, geospatial services and SDKs for displaying map data
-   * [openmaptiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK
    * [osmnames](https://osmnames.org/) - Geocoding, search results ranked by the popularity of related Wikipedia page
+   * [tilehosting](https://www.tilehosting.com/) - Vector maps, map services and SDKs for map visualisation
 
 ## Package Build System
 
