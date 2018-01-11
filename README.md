@@ -346,6 +346,7 @@ Table of Contents
   * [zeit.co/now](https://zeit.co/now) — Managed platform for Node.js, static sites and Docker deployments. Limited to 3 concurrent instances, 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)
   * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
+  * [glitch.com](https://www.glitch.com/) — Free unlimited public/private hosting for Node.js apps with features such as code sharing and real-time collaboration
 
 ## BaaS
 
