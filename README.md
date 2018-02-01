@@ -598,7 +598,7 @@ Table of Contents
 
 ## Docker Related
 
-  * [Arukas Cloud](https://arukas.io/) — Free docker container hosting, 10 during beta period, 3 afterwards (Japanese)
+  * [openshift.com](https://www.openshift.com/) —  Container platform based on Docker and Kubernetes. Free for 2 vCPU, 1GiB Memory, 1GiB Storage.
   * [Docker Cloud](https://cloud.docker.com) — Manages the deployments of Docker containers to your (separate) cloud environment with one free repository
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
