@@ -93,7 +93,6 @@ Table of Contents
   * [sendtoinc.com](https://sendtoinc.com/) — Share links, notes, files and have discussions. Free for 3 and 100 MB
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
-  * [filehero.io](https://filehero.io/) — Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
   * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [cnverg.com](http://cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
   * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
