@@ -70,6 +70,7 @@ Table of Contents
 
  * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
  * [packagecloud.io](https://packagecloud.io) - Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
+ * [cloudsmith.io](https://cloudsmith.io) - Simple, secure and centralised repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant +more. Free tier + free for open source.
 
 ## Tools for Teams and Collaboration
 
@@ -504,6 +505,7 @@ Table of Contents
    * [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
    * [image-charts.com](https://image-charts.com/) - Unlimited image chart generation with a watermark
    * [jsonbin.io](https://jsonbin.io/) - Free JSON data storage service, ideal for small-scale web apps, website, mobile apps.
+   * [cloudsmith.io](https://cloudsmith.io) - Simple, secure, hosted storage for any file type accessible via API. Free tier + free for open source.
 
 ## Design and UI
 
