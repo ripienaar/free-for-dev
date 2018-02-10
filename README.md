@@ -538,7 +538,6 @@ Table of Contents
 
 ## IDE and Code Editing
 
-   * [c9.io](https://c9.io/) — IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with GitHub and BitBucket, but also adds SFTP and generic Git access
    * [codeanywhere.com](https://codeanywhere.com/) — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions and version tracking (free tier includes 256MB RAM, 2GB HDD, 1 remote connection, no always on machine)
    * [codenvy.com](https://codenvy.com/) — IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 3 GB RAM, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
    * [visualstudio.com](http://visualstudio.com/community) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
