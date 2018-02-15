@@ -197,7 +197,7 @@ Table of Contents
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services (AWS) security and compliance auditing and monitoring
   * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
   * [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
-  
+
 ## Management System
 
   * [bitnami.com](https://bitnami.com/) — Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
@@ -373,6 +373,7 @@ Table of Contents
   * [simperium.com](https://simperium.com/) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
   * [stamplay.com](https://stamplay.com/) — Connect services together with a visual interface. 50,000 API calls, 100 GB data transfer and 1 GB storage for free
   * [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications up to 2000 Subscribers
+  * [streamdata.io](https://streamdata.io/) — Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections
 
 ## Web Hosting
 
