@@ -267,6 +267,7 @@ Table of Contents
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [bugsnag.com](https://bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free, unrestricted use if self-hosted
+  * [logrocket.com](https://logrocket.com/) — Front-end error/exception monitoring with video replay of end-user activity. Free plan includes 1000 sessions and 14 day data retention.
 
 ## Search
 
