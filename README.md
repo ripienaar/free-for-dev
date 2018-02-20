@@ -131,6 +131,7 @@ Table of Contents
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
   * [sonarqube.com](https://sonarqube.com) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
+  * [golangci.com](https://golangci.com) — Automated Go (golang) code review service for GitHub pull requests.
 
 ## Code Search and Browsing
 
