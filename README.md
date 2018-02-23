@@ -454,7 +454,6 @@ Table of Contents
 
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
    * [pivotaltracker.com](http://www.pivotaltracker.com/) — Pivotal Tracker, free for public projects
-   * [atlassian.com](https://atlassian.com/opensource/overview) — Free Jira etc for Open Source
    * [kanbantool.com](http://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
    * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
    * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
