@@ -573,6 +573,7 @@ Table of Contents
    * [expensify.com](https://expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [ironSource atom](http://www.ironsrc.com/data-flow-management/) — Atom Data Flow Management is a data pipeline solution, 10 million monthly events free
    * [botan.io](http://botan.io/) — Free analytics for your Telegram bot
+   * [Moesif](https://www.moesif.com) - API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
 
 ## Visitor Session Recording
    * [inspectlet.com](http://inspectlet.com/) — 100 sessions/month free for 1 website
