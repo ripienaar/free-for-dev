@@ -112,7 +112,6 @@ Table of Contents
   * [codecov.io](https://codecov.io/) — Code coverage tool (SaaS), free for Open Source
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) — Code Quality for PHP/Symfony projects, free for Open Source
   * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for Open Source
-  * (End of Service Feb 2018) [pullreview.com](https://www.pullreview.com/) — Automated Code Review for Ruby in GitHub, Bitbucket and GitLab, free for Open Source
   * [gocover.io](http://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
   * [goreportcard.com](http://goreportcard.com/) — Code Quality for Go projects, free for Open Source
   * [inch-ci.org](http://inch-ci.org/) — Documentation badges for Ruby, JS and Elixir
