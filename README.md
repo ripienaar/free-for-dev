@@ -505,7 +505,6 @@ Table of Contents
    * [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
    * [image-charts.com](https://image-charts.com/) - Unlimited image chart generation with a watermark
    * [jsonbin.io](https://jsonbin.io/) - Free JSON data storage service, ideal for small-scale web apps, website, mobile apps.
-   * [cloudsmith.io](https://cloudsmith.io) - Simple, secure, hosted storage for any file type accessible via API. Free tier + free for open source.
 
 ## Design and UI
 
