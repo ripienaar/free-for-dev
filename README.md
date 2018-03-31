@@ -451,6 +451,7 @@ Table of Contents
 
 ## Issue Tracking and Project Management
 
+   * [usersnap.com](https://www.usersnap.com/) — Bug Tracking, user feedback and Project management tool. free for open source projects [Request Needed]
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
    * [pivotaltracker.com](http://www.pivotaltracker.com/) — Pivotal Tracker, free for public projects
    * [kanbantool.com](http://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
