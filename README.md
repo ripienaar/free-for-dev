@@ -68,6 +68,7 @@ Table of Contents
 
 ## Artifact Repos
 
+ * [bintray.com](https://bintray.com/) - JFrog Bintray hosts Open Source projects for free and natively supports Docker, Maven, NuGet, npm, Debian, RPM, Conan, Vagrant, Opkg, and yum repositories. Also home to [JCenter](https://bintray.com/bintray/jcenter) the most comprehensive colleciton of Maven artifacts.
  * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
  * [packagecloud.io](https://packagecloud.io) - Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
  * [cloudsmith.io](https://cloudsmith.io) - Simple, secure and centralised repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant +more. Free tier + free for open source.
