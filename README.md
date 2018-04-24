@@ -554,6 +554,7 @@ Table of Contents
    * [repl.it](https://repl.it/) — A cloud coding environment for various program languages
    * [codesandbox.io](https://codesandbox.io/) — Online React playground
    * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
+   * [devmind.io](https://devmind.io) - Collaborative, cloud based and crossplaform online IDE. Github, Gitlab and dropbox    integrations. Currently free for open source and private projects. 
 
 
 ## Analytics, Events and Statistics
