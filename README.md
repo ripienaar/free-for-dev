@@ -68,6 +68,7 @@ Table of Contents
 
 ## Artifact Repos
 
+ * [bintray.com](https://bintray.com/) - JFrog Bintray hosts Open Source projects for free, and supports Docker, Maven, NuGet, npm, Debian, RPM, Conan, Vagrant, Opkg, yum, and also home to [JCenter](https://bintray.com/bintray/jcenter) the most comprehensive colleciton of Maven artifacts.
  * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
  * [packagecloud.io](https://packagecloud.io) - Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
  * [cloudsmith.io](https://cloudsmith.io) - Simple, secure and centralised repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant +more. Free tier + free for open source.
@@ -487,7 +488,6 @@ Table of Contents
 ## Storage and Media Processing
 
    * [aerofs.com](https://aerofs.com/) — P2P file syncing, free for up to 30 users
-   * [bintray.com](https://bintray.com/) — Binary File storage, free for Open Source. Includes SSL, CDN and a limited number of REST calls
    * [cloudinary.com](http://cloudinary.com/) — Image upload, powerful manipulations, storage and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
    * [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
    * [transloadit.com](https://transloadit.com/) — Handles file uploads and encoding of video, audio, images, documents. Free for Open Source and other do-gooders. Commercial applications get 1 GB free for test driving
