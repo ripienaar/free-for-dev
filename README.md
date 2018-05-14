@@ -336,7 +336,6 @@ Table of Contents
   * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
-  * [hasura.io](https://www.hasura.io/) — Platform to build and deploy app backends fast, free for single node cluster.
   * [firebase.com](https://www.firebase.com/) — Build real-time apps, the free plan has 100 max connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
   * [bluemix.net](https://console.ng.bluemix.net/) — IBM PaaS with a monthly free allowance
   * [outsystems.com](http://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
@@ -358,6 +357,7 @@ Table of Contents
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
   * [kinvey.com](http://www.kinvey.com/) — Mobile backend, starter plan has unlimited requests/second, with 2 GB of data storage, as well as push notifications for up 5 million unique recipients. Enterprise application support
   * [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
+   * [hasura.io](https://www.hasura.io/) — Platform to build and deploy app backends fast, free for single node cluster.
   * [pusher.com](https://pusher.com/beams/) - Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
   * [konacloud.io](http://konacloud.io/) — Web and Mobile Backend as a Service, with 5 GB free account
   * [layer.com](https://layer.com/) — The full-stack building block for communications
