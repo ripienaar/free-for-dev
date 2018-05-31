@@ -349,6 +349,7 @@ Table of Contents
   * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
   * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting for Node.js apps with features such as code sharing and real-time collaboration
+  * [Rainbond](https://www.rainbond.com) - Open Source PaaS, A new generation of easy-to-use cloud management platforms based on kubernetes.
 
 ## BaaS
 
