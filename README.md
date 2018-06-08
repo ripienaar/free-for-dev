@@ -462,7 +462,6 @@ Table of Contents
    * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
    * [trello.com](https://trello.com/) — Board based project management. Free
    * [producteev.com](https://producteev.com/) — Task management tool. Free, premium version with more options. Mobile applications available
-   * [fogcreek.com](http://fogcreek.com/fogbugz/) — Bug tracking and project management. Free for 2 users
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
