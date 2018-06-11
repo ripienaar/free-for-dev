@@ -200,6 +200,7 @@ Table of Contents
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services (AWS) security and compliance auditing and monitoring
   * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
   * [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
+  * [Mozilla Observatory](https://observatory.mozilla.org/) — Find and fix security vulnerabilities in your site.
 
 ## Management System
 
