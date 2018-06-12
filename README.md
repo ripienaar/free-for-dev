@@ -634,6 +634,7 @@ Table of Contents
 
 ## APIs, Data and ML
 
+  * [Scraper API](https://www.scraperapi.com/) — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.
   * [dreamfactory.com](http://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
   * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with machine learning, free 100,000 queries/month
   * [wit.ai](https://wit.ai/) — NLP for developers
