@@ -349,6 +349,7 @@ Table of Contents
   * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
   * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting for Node.js apps with features such as code sharing and real-time collaboration
+  * [flynn.io](https://flynn.io/) — A next generation open source platform as a service (PaaS). You can  setup and run your own Flynn cluster either locally, on dedicated hardware, or on a cloud provider
 
 ## BaaS
 
@@ -453,7 +454,7 @@ Table of Contents
    * [serveo.net](https://serveo.net/) - Quickly expose any local port to the public internet on a servo subdomain using an SSH tunnel, includes SSH GUI to replay requests over HTTP.
    * [ZeroTier](https://www.zerotier.com) - FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks.
    * [Hamachi](https://www.vpn.net/) - LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with free plan allows unlimited networks with up to 5 peoples
-   
+
 ## Issue Tracking and Project Management
 
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
@@ -609,7 +610,7 @@ Table of Contents
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
   * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free.
   * [PWD](https://labs.play-with-docker.com/) - Play with Docker. A simple, interactive and fun playground to learn Docker
- 
+
 ## Vagrant Related
 
   * [atlas.hashicorp.com](https://atlas.hashicorp.com/boxes/search) — HashiCorp's index of boxes
