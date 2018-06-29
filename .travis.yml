@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot README.md --white-list github.com,jazz.net,yandex.com,debugmail.io --allow-redirect --set-timeout 5 --allow-timeout
