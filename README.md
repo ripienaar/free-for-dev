@@ -452,7 +452,7 @@ Table of Contents
    * [serveo.net](https://serveo.net/) - Quickly expose any local port to the public internet on a servo subdomain using an SSH tunnel, includes SSH GUI to replay requests over HTTP.
    * [ZeroTier](https://www.zerotier.com) - FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks.
    * [Hamachi](https://www.vpn.net/) - LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with free plan allows unlimited networks with up to 5 peoples
-   
+
 ## Issue Tracking and Project Management
 
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
@@ -608,7 +608,7 @@ Table of Contents
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
   * [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free.
   * [PWD](https://labs.play-with-docker.com/) - Play with Docker. A simple, interactive and fun playground to learn Docker
- 
+
 ## Vagrant Related
 
   * [atlas.hashicorp.com](https://atlas.hashicorp.com/boxes/search) — HashiCorp's index of boxes
@@ -652,6 +652,7 @@ Table of Contents
   * [RequestBin](https://requestb.in) — Inspect and debug HTTP POST requests from an HTTP client.
   * [Apify](https://www.apify.com/) — Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention.
   * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
+  * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
 
 ## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
