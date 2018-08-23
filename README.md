@@ -631,7 +631,7 @@ Table of Contents
   * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call.
   * [Typeform.com](https://www.typeform.com/) — Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
-
+  * [qrcode-monkey.com](https://www.qrcode-monkey.com/) — QR Code Management tool to create, track and edit all QR codes in one place..  No limitations. Created QR codes are static so the only limitation is that you can't edit the QR code again.
 ## APIs, Data and ML
 
   * [Scraper API](https://www.scraperapi.com/) — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.
