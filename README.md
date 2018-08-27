@@ -652,7 +652,6 @@ Table of Contents
   * [context.io](https://context.io) — Create simple email webhooks and code against a free, RESTful, IMAP API to leverage email data
   * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
   * [Meya.ai](https://meya.ai) — Create and deploy a chatbot.  Free tier allows only 1 bot.
-  * [RequestBin](https://requestb.in) — Inspect and debug HTTP POST requests from an HTTP client.
   * [Apify](https://www.apify.com/) — Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention.
   * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
   * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
