@@ -486,6 +486,7 @@ Table of Contents
    * [plan.io](https://plan.io/) — Project Management with Repository Hosting and mor options. Free for 2 users with 10 customers and 500MB Storage
    * [taskade.com](https://taskade.com/) — Real-time collaborative task lists and outlines for teams
    * [zenkit.com](https://zenkit.com) - Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
+   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK that is helping companies worldwide build better apps.
 
 
 
