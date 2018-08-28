@@ -181,7 +181,8 @@ Table of Contents
   * [vaddy.net](http://vaddy.net/) — Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scans history for free
   * [letsencrypt.org](https://letsencrypt.org/) — Free SSL Certificate Authority with certs trusted by all major browsers
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) — Free SSL certificates for Open Source
-  * [stormpath.com](https://stormpath.com/) — Free user management, authentication, social login and SSO
+  * [Okta](https://developer.okta.com/) — User management, authentication and au
+thorization. Free for up to 1000 monthly active users.
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO
   * [getclef.com](https://getclef.com/) — New take on auth unlimited free tier for anyone not using premium features
   * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
