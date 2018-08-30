@@ -159,7 +159,6 @@ Table of Contents
   * [bitrise.io](https://www.bitrise.io/) — An iOS CI/CD with 200 free builds/month
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
-  * [dependencyci.com](https://dependencyci.com/) — Continuous dependency checking for GitHub repositories, free for open source
 
 ## Automated Browser Testing
 
