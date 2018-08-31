@@ -175,7 +175,6 @@ Table of Contents
   * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users
   * [crypteron.com](https://www.crypteron.com/) — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [snyk.io](https://snyk.io) — Snyk found and reported several vulnerabilities in the package.Limited to 1 private project (unlimited for open source projects)
-  * [vaddy.net](http://vaddy.net/) — Continuous web security testing with continuous integration (CI) tools. 3 domains, 10 scans history for free
   * [letsencrypt.org](https://letsencrypt.org/) — Free SSL Certificate Authority with certs trusted by all major browsers
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) — Free SSL certificates for Open Source
   * [Okta](https://developer.okta.com/) — User management, authentication and au
