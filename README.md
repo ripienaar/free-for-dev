@@ -230,7 +230,6 @@ thorization. Free for up to 1000 monthly active users.
 
   * [cloudsploit.com](https://cloudSploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc
   * [opbeat.com](https://opbeat.com/) — ​Instant performance insights for JS developers. Free with 24 hours data retention
-  * [checkmy.ws](https://checkmy.ws/en/solutions/free-forever-for-foss/) — Free 15 days full demo and 3 websites, forever free for Open Source
   * [appneta.com](http://www.appneta.com/) — Free with 1 hour data retention
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
