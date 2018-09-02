@@ -297,7 +297,6 @@ thorization. Free for up to 1000 monthly active users.
   * [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month free
   * [pepipost.com](http://www.pepipost.com) — Unlimited emails free for first three months, then first 25,000 emails/month free
   * [elasticemail.com](https://elasticemail.com) — First 150,000 emails/month free
-  * [appmail.io](https://appmail.io) — First 10,000 emails free
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [migadu.com](https://www.migadu.com/) — Email Hosting (Webmail, SMTP, IMAP, ...) - free plan is limited to 10 outgoing mails/day
 
