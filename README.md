@@ -203,7 +203,6 @@ thorization. Free for up to 1000 monthly active users.
 ## Management System
 
   * [bitnami.com](https://bitnami.com/) — Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
-  * [visualops.io](http://visualops.io/) — 3,600 instance hours/month free
   * [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones and Macs, 3 devices free
 
 ## Log Management
