@@ -123,7 +123,6 @@ Table of Contents
   * [websitetest.com](http://websitetest.com/) — Yotta's tool to optimize web sites, free limited version online
   * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
   * [browserling.com](https://www.browserling.com/) — Live interactive cross-browser testing, free only 3 minutes sessions with MS IE 9 under Vista at 1024 x 768 resolution
-  * [versioneye.com](https://www.versioneye.com/) — Monitor your source code and notify about outdated dependencies. Free for Open Source and public repos
   * [shields.io](https://shields.io) — Quality metadata badges for open source projects
   * [beanstalkapp.com](http://beanstalkapp.com/) — A complete workflow to write, review and deploy code), free account for 1 user and 1 repository with 100 MB of storage
   * [testanywhere.co](https://testanywhere.co/) — Automatic test website or web app continuously and catch bugs in the early stages, free 1,000 tests/month
