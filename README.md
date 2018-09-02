@@ -576,7 +576,6 @@ thorization. Free for up to 1000 monthly active users.
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
   * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
-  * [sumome.com](https://sumome.com/) — Heat map and conversion enhancement tools, free without few advanced features
 
 ## Payment / Billing Integration
 
