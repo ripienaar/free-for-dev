@@ -428,7 +428,6 @@ thorization. Free for up to 1000 monthly active users.
    * [scalingo.com](https://scalingo.com/) — Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL or MongoDB
    * [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
-   * [fieldbook.com](https://fieldbook.com/) — Fieldbook lets anyone create a simple tracking database, as easily as a spreadsheet. Automatic API. Unlimited free sheets, share with unlimited users
    * [spreadsheetdb.io](https://www.spreadsheetdb.io) - Database that can be queried with spreadsheets, 3 spreadsheets and 200 rows
      free
 
