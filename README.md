@@ -126,7 +126,6 @@ Table of Contents
   * [shields.io](https://shields.io) — Quality metadata badges for open source projects
   * [beanstalkapp.com](http://beanstalkapp.com/) — A complete workflow to write, review and deploy code), free account for 1 user and 1 repository with 100 MB of storage
   * [testanywhere.co](https://testanywhere.co/) — Automatic test website or web app continuously and catch bugs in the early stages, free 1,000 tests/month
-  * [srcclr.com](https://srcclr.com/) — SourceClear to scan source code for vulnerabilities, multi-languages and OS
   * [blamewarrior.com](https://blamewarrior.com/) — Tool to automatically assign reviewers for new pull requests and track statistics of review process, free for Open Source
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
