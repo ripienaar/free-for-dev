@@ -519,7 +519,7 @@ thorization. Free for up to 1000 monthly active users.
    * [latlong.net](https://www.latlong.net/) — Geocoding API + school districts, census geography divisons and other address based data. 2,500 free requests/month
    * [mapbox.com](https://mapbox.com/) — Maps, geospatial services and SDKs for displaying map data
    * [osmnames](https://osmnames.org/) — Geocoding, search results ranked by the popularity of related Wikipedia page
-   * [tilehosting](https://www.tilehosting.com/) — Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
+   * [maptiler.com](https://www.maptiler.com) — Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
 
 ## Package Build System
 
