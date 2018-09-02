@@ -598,7 +598,6 @@ thorization. Free for up to 1000 monthly active users.
 
 ## Vagrant Related
 
-  * [atlas.hashicorp.com](https://atlas.hashicorp.com/boxes/search) — HashiCorp's index of boxes
   * [vagrantbox.es](http://vagrantbox.es/) — An alternative public box index
 
 ## Miscellaneous
