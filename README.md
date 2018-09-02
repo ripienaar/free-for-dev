@@ -180,7 +180,6 @@ Table of Contents
   * [Okta](https://developer.okta.com/) — User management, authentication and au
 thorization. Free for up to 1000 monthly active users.
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO
-  * [getclef.com](https://getclef.com/) — New take on auth unlimited free tier for anyone not using premium features
   * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) — Very deep analysis of the configuration of any SSL web server
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) — Find web app vulnerabilities, audit for OWASP Risks
