@@ -564,7 +564,6 @@ thorization. Free for up to 1000 monthly active users.
    * [baremetrics.com](https://baremetrics.com/) — Analytics and Insights for stripe
    * [optimizely.com](https://optimizely.com) — A/B Testing solution, free starter plan, 1 website, 1 iOS and 1 Android app
    * [expensify.com](https://expensify.com/) — Expense reporting, free personal reporting approval workflow
-   * [ironSource atom](http://www.ironsrc.com/data-flow-management/) — Atom Data Flow Management is a data pipeline solution, 10 million monthly events free
    * [botan.io](http://botan.io/) — Free analytics for your Telegram bot
    * [Moesif](https://www.moesif.com) - API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
 
