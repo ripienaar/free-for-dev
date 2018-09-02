@@ -457,7 +457,7 @@ thorization. Free for up to 1000 monthly active users.
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
-   * [jetbrains.com](https://jetbrains.com/youtrack/buy/open_source_incloud.jsp) — Free hosted YouTrack (InCloud) for FOSS projects, private projects {[free for 10 users](https://www.jetbrains.com/youtrack/buy/)}
+   * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 10 users)
    * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
    * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [acunote.com](http://acunote.com/) — Free project management and SCRUM software for up to 5 team members
