@@ -548,7 +548,6 @@ thorization. Free for up to 1000 monthly active users.
    * [metrica.yandex.com](https://metrica.yandex.com/) — Unlimited free analytics
    * [hotjar.com](https://hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [imprace.com](https://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free 5 landing pages/domain
-   * [baremetrics.com](https://baremetrics.com/) — Analytics and Insights for stripe
    * [optimizely.com](https://optimizely.com) — A/B Testing solution, free starter plan, 1 website, 1 iOS and 1 Android app
    * [expensify.com](https://expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [Moesif](https://www.moesif.com) - API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
