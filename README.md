@@ -407,7 +407,6 @@ thorization. Free for up to 1000 monthly active users.
    * [ibm.com](https://www.ibm.com/cloud/cloudant) — Hosted database from IBM, 1 GB free
    * [orchestrate.io](https://orchestrate.io/) — 1 application free
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
-   * [zenginehq.com](http://www.zenginehq.com/) — Build business workflow apps in minutes, free for single users
    * [redsmin.com](https://redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](http://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
    * [elephantsql.com](http://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
