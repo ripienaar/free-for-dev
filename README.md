@@ -542,7 +542,6 @@ thorization. Free for up to 1000 monthly active users.
    * [heapanalytics.com](https://heapanalytics.com/) — Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
    * [sematext.com](https://sematext.com//search-analytics) — Free for up to 50 K actions/month, 1 day data retention, unlimited dashboards, users, etc
    * [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people, track visitors. Free for one user, unlimited tests
-   * [gosquared.com](https://gosquared.com/) — Track up to 1,000 data points for free
    * [mixpanel.com](https://mixpanel.com/) — Free 25,000 points or 200,000 with their badge on your site
    * [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
    * [keen.io](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
