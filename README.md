@@ -481,7 +481,6 @@ thorization. Free for up to 1000 monthly active users.
    * [placeholder.com](https://placeholder.com/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
    * [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
-   * [backhub.co](https://backhub.co/) — Backup and archive your GitHub repositories. Free for public repos
    * [otixo.com](https://otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max. file size and allows 5 encrypted files
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
    * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
