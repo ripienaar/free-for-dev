@@ -230,7 +230,7 @@ thorization. Free for up to 1000 monthly active users.
   * [appneta.com](http://www.appneta.com/) — Free with 1 hour data retention
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
-  * [stackdriver.com](http://www.stackdriver.com/) — Free monitoring up to 10 servers/hosted services
+ 
   * [keymetrics.io](https://keymetrics.io/) — Free for 2 servers and 1 user
   * [newrelic.com](https://newrelic.com/) — Free with 24 hours data retention
   * [nodequery.com](https://nodequery.com/) — Free basic server monitor up to 10 servers
