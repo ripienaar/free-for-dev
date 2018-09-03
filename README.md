@@ -32,6 +32,7 @@ Table of Contents
    * [BaaS](#baas)
    * [Web Hosting](#web-hosting)
    * [DNS](#dns)
+   * [Domains](#domains)
    * [IaaS](#iaas)
    * [DBaaS](#dbaas)
    * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
@@ -393,6 +394,10 @@ thorization. Free for up to 1000 monthly active users.
   * [namecheap.com](https://www.namecheap.com/domains/freedns.aspx) — Free DNS. No limit on number of domains
   * [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
   * [noip](https://www.noip.com/) - a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
+
+## Domains
+
+  * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
 
 ## IaaS
 
