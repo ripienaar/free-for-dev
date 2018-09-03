@@ -556,7 +556,6 @@ thorization. Free for up to 1000 monthly active users.
    * [inspectlet.com](https://inspectlet.com/) — 100 sessions/month free for 1 website
    * [mousestats.com](https://mousestats.com/) — 100 sessions/month free for 1 website
    * [hotjar.com](https://hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
-   * [getWisdom.io](https://getWisdom.io/?ref=github) — 100 visitors/month, with unlimited page views, domains, and live-view.
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
 
 
