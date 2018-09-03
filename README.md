@@ -532,7 +532,6 @@ thorization. Free for up to 1000 monthly active users.
    * [fakejson.com](https://fakejson.com/) — FakeJSON helps you quickly generate fake data using its API. Make an API request describing what you want and how you want it. The API returns it all in JSON. Speed up the go to market process for ideas and fake it till you make it.
    * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source and user groups
    * [stackhive.com](http://stackhive.com/) — Cloud-based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
-   * [tadpoledb.com](http://tadpoledb.com/) — IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases
    * [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web
    * [repl.it](https://repl.it/) — A cloud coding environment for various program languages
    * [codesandbox.io](https://codesandbox.io/) — Online React playground
