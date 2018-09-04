@@ -582,7 +582,7 @@ thorization. Free for up to 1000 monthly active users.
 
 ## Vagrant Related
 
-  * [vagrantbox.es](https://vagrantbox.es/) — An alternative public box index
+  * [vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
 
 ## Miscellaneous
   * [apichangelog.com](https://www.apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
