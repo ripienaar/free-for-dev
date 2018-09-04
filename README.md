@@ -394,6 +394,7 @@ thorization. Free for up to 1000 monthly active users.
   * [namecheap.com](https://www.namecheap.com/domains/freedns.aspx) — Free DNS. No limit on number of domains
   * [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
   * [noip](https://www.noip.com/) - a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
+  * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
 
 ## IaaS
 
