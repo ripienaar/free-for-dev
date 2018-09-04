@@ -318,6 +318,7 @@ thorization. Free for up to 1000 monthly active users.
 
 ## PaaS
 
+  * [wedeploy.com](https://wedeploy.com/) — WeDeploy gives you predefined services that can speed up your development process. Free plan: 1 GB Transfer, 1 GB Memory, 1 CPU, 512 MB Storage, 2 Service Instances, 2 Projects
   * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and more
   * [engineyard.com](https://www.engineyard.com/) — Engine Yard provides 500 free hours
   * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
