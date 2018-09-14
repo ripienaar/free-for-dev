@@ -581,6 +581,9 @@ Table of Contents
 ## Vagrant Related
 
   * [vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
+  
+## Education
+  * [smart.ly](https://smart.ly/) - Free MBA
 
 ## Miscellaneous
   * [apichangelog.com](https://www.apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
