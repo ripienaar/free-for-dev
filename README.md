@@ -348,7 +348,7 @@ Table of Contents
   * [getstream.io](https://getstream.io/) — Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month
   * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
   * [iron.io](https://www.iron.io/) — Async task processing (like AWS Lambda) with free tier and 1 month free trial
-  * [stackhut.com](https://stackhut.com/) — Async task processing (like AWS Lambda). 10 free private services and unlimited free public services
+  * [nstack.com](https://www.nstack.com/) — Async task processing (like AWS Lambda). 10 free private services and unlimited free public services
   * [pubnub.com](https://www.pubnub.com/) — Free push notifications for up to 1 million messages/month and 100 active daily devices
   * [pushtechnology.com](https://www.pushtechnology.com/) — Real-time Messaging for browsers, smartphones and everyone. 100 concurrent connections. Free 10 GB data/month
   * [webtask.io](https://webtask.io/) — Run code with an HTTP call. No provisioning. No deployment
