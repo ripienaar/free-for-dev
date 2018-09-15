@@ -276,6 +276,7 @@ Table of Contents
   * [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
   * [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
+  *[MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, unlimited email free
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free
   * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
