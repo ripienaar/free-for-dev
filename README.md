@@ -368,6 +368,7 @@ Table of Contents
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps and websites into a personal developer portfolio
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 GB data and 100 GB/month bandwidth
+  * [sanity.io](https://www.sanity.io/) – Hosted backend for structured content with customizeable MIT licensed editor built with React. Unlimited projects. 3 users, 2 datasets, 500k API CDN requests, 5GB assets for free per project
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
   * [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
   * [app.netlify.com](https://app.netlify.com/drop) — Hosting for static sites and apps. Free on a subdomain
@@ -559,7 +560,6 @@ Table of Contents
    * [mousestats.com](https://mousestats.com/) — 100 sessions/month free for 1 website
    * [hotjar.com](https://hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
-   * [smartlook.com](https://www.smartlook.com) - 100K sessions/month
 
 
 ## International Mobile Number Verification API and SDK
