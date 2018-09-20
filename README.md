@@ -559,6 +559,7 @@ Table of Contents
    * [mousestats.com](https://mousestats.com/) — 100 sessions/month free for 1 website
    * [hotjar.com](https://hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
+   * [smartlook.com](https://www.smartlook.com) - 100K sessions/month
 
 
 ## International Mobile Number Verification API and SDK
