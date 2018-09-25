@@ -508,6 +508,7 @@ Table of Contents
 ## Data Visualization on Maps
 
    * [geocoder.opencagedata.com](https://geocoder.opencagedata.com/) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day
+   * [graphhopper.com](https://www.graphhopper.com/) A free package for developers is offered for Routing, Route Optimization, Distance Matrix, Geocoding, Map Matching.
    * [datamaps.co](https://datamaps.co/) — a free platform for creating visualizations with data maps
    * [geocod.io](https://geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day
    * [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
