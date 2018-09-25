@@ -504,6 +504,7 @@ Table of Contents
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [figma.com](https://figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects
   * [designer.io](https://designer.io/) — Design tool for UI, illustrations and more. Has a native app. Free
+  * [photopea.com](https://www.photopea.com) - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
   
 ## Data Visualization on Maps
 
