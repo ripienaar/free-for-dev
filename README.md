@@ -417,6 +417,7 @@ Table of Contents
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
    * [spreadsheetdb.io](https://www.spreadsheetdb.io) — Database that can be queried with spreadsheets, 3 spreadsheets and 200 rows
      free
+   * [FaunaDB](https://fauna.com/) — FaunaDB is a distributed, multi-model, ACID-compliant, and globally scalable database, free tier gives 5 GB
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
