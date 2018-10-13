@@ -394,6 +394,7 @@ Table of Contents
   * [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
   * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
   * [duckdns.org](http://duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
+  * [1984.is](https://www.1984.is/product/freedns/) - Free DNS service with API, and lots of other free DNS features included.
 
 ## IaaS
 
