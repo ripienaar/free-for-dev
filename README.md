@@ -228,7 +228,6 @@ Table of Contents
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
 
-  * [keymetrics.io](https://keymetrics.io/) — Free for 2 servers and 1 user
   * [nodequery.com](https://nodequery.com/) — Free basic server monitor up to 10 servers
   * [circonus.com](https://www.circonus.com/) — Free for 20 metrics
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
