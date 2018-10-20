@@ -517,6 +517,7 @@ Table of Contents
    * [mapbox.com](https://mapbox.com/) — Maps, geospatial services and SDKs for displaying map data
    * [osmnames](https://osmnames.org/) — Geocoding, search results ranked by the popularity of related Wikipedia page
    * [tilehosting](https://www.tilehosting.com/) — Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
+   * [here](https://developer.here.com/) — APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
 
 ## Package Build System
 
