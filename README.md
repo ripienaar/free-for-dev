@@ -50,6 +50,7 @@ Table of Contents
    * [Vagrant Related](#vagrant-related)
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
+   * [Blog] (#Blogs)
 
 ## Source Code Repos
 
@@ -626,8 +627,28 @@ Table of Contents
   * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
   * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
-
+  
+  
+##  Blogs
+  * 11ty - Eleventy is a simpler static site generator. - #JavaScript #Node.js
+  * ABlog - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - #Python
+  * Hexo - A fast, simple & powerful blog framework. - #JavaScript #Node.js
+  * Hyde - #Python
+  * Jekyll - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - #Ruby
+  * Journey - #Go
+  * Nikola - #Python
+  * Octopress - Similar to Jekyll but where everything you need is already setup. - #Ruby #Jekyll
+  * Orchid Posts - Add Jekyll-like blogging functionality to your Orchid site. - #Orchid #Java #Kotlin
+  * Pelican - Uses Markdown or ReST for content and Jinja2 for themes. - #Python
+  * Qgoda - Arbitrary taxonomies and cross-links, multi-lingua. - #Perl
+  * Spress - #PHP
+  * Static - Supports org-mode and markdown. - #Clojure
+  * Tinkerer - #Python
+  
+  
 ## Other Free Resources
   * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
+  
+
