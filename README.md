@@ -50,7 +50,7 @@ Table of Contents
    * [Vagrant Related](#vagrant-related)
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
-   * [Blog] (#Blogs)
+   * [Blog](#Blogs)
 
 ## Source Code Repos
 
