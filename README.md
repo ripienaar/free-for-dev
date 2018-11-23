@@ -443,6 +443,7 @@ Table of Contents
    * [trello.com](https://trello.com/) — Board based project management. Free
    * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
+   * [LeanBoard](https://www.leanboard.io) - Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 10 users)
