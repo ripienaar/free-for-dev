@@ -628,7 +628,7 @@ Table of Contents
   * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
   * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
-  
+  * [Ipgeolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 50k requests per month limit.
   
 ##  Blogs
   * 11ty - Eleventy is a simpler static site generator. - #JavaScript #Node.js
