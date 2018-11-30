@@ -467,6 +467,7 @@ Table of Contents
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
    * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) - Free one-year Office 365 E3 subscription for development/testing.
+   * [senseitool.com](https://www.senseitool.com/) - An agile retrospective tool - Free.
 
 
 
