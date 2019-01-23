@@ -565,7 +565,7 @@ Table of Contents
    * [codesandbox.io](https://codesandbox.io/) — Online React playground
    * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
    * [cacher.io](https://www.cacher.io) - Code snippet organizer with labels and support for 100+ programming languages
-   * [Coder](https://coder.com) - Online development environment built around VSCode
+   * [Coder](https://coder.com) - Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
 
 ## Analytics, Events and Statistics
 
