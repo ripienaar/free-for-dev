@@ -288,6 +288,7 @@ Table of Contents
   * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 5 MB storage
   * [indexisto.com](https://indexisto.com/) — Site search, free 10 million documents index limit with advertisement block
+  * [cloudsh.com](https://cloudsh.com/) — Powerful search for your website with a few lines of JavaScript. Free personal plan with 300 documents. Free for Open Source up to 10,000 documents.
 
 ## Email
 
