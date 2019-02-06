@@ -179,6 +179,7 @@ Table of Contents
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
   * [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
+  * [bitrise.io](https://www.bitrise.io/) — Hosted CI/CD for iOS and Android with free unlimited builds, apps and teammembers and 1 concurrent run for OSS projects
 
 ## Automated Browser Testing
 
