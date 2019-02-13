@@ -400,6 +400,7 @@ Table of Contents
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [txti.es](http://txti.es/) — Quickly create web pages with markdown.
   * [opeNode.io](https://www.openode.io/) — Free cloud hosting for open source projects.
+  * [kuber.host](https://kuber.host/) — Kubernetes hosting with free plan
 
 ## DNS
 
