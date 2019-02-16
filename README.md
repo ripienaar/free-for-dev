@@ -87,7 +87,7 @@ Table of Contents
   * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
   * [Ipgeolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 50k requests per month limit.
-  * [RequestBin.com](https://requestbin.com) - Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.
+  * [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.
 
 ## Artifact Repos
 
@@ -219,7 +219,7 @@ Table of Contents
   * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
   * [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
   * [Mozilla Observatory](https://observatory.mozilla.org/) — Find and fix security vulnerabilities in your site.
-  * [Shieldfy](https://shieldfy.io) - Web application firewall and vulnerability detection for developers, free plan up to 100k requests per month.
+  * [Shieldfy](https://shieldfy.io) — Web application firewall and vulnerability detection for developers, free plan up to 100k requests per month.
 
 ## Management System
 
@@ -419,7 +419,7 @@ Table of Contents
   * [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
   * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
   * [duckdns.org](http://duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-  * [1984.is](https://www.1984.is/product/freedns/) - Free DNS service with API, and lots of other free DNS features included.
+  * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
 
 ## IaaS
 
@@ -467,7 +467,7 @@ Table of Contents
    * [trello.com](https://trello.com/) — Board based project management. Free
    * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
-   * [LeanBoard](https://www.leanboard.io) - Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
+   * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 10 users)
@@ -491,8 +491,8 @@ Table of Contents
    * [taskade.com](https://taskade.com/) — Real-time collaborative task lists and outlines for teams
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
    * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
-   * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) - Free one-year Office 365 E3 subscription for development/testing.
-   * [senseitool.com](https://www.senseitool.com/) - An agile retrospective tool - Free.
+   * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) — Free one-year Office 365 E3 subscription for development/testing.
+   * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
 
 
 
@@ -529,7 +529,7 @@ Table of Contents
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [figma.com](https://figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects
   * [designer.io](https://designer.io/) — Design tool for UI, illustrations and more. Has a native app. Free
-  * [photopea.com](https://www.photopea.com) - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
+  * [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 
 ## Data Visualization on Maps
 
@@ -568,9 +568,9 @@ Table of Contents
    * [repl.it](https://repl.it/) — A cloud coding environment for various program languages
    * [codesandbox.io](https://codesandbox.io/) — Online React playground
    * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
-   * [cacher.io](https://www.cacher.io) - Code snippet organizer with labels and support for 100+ programming languages
-   * [Coder](https://coder.com) - Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
-   * [gitpod.io](https://gitpod.io) - Instant, ready-to-code dev environmments for GitHub projects. Free for open-source.
+   * [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages
+   * [Coder](https://coder.com) — Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
+   * [gitpod.io](https://gitpod.io) — Instant, ready-to-code dev environmments for GitHub projects. Free for open-source.
 
 ## Analytics, Events and Statistics
 
