@@ -59,7 +59,7 @@ Table of Contents
   * [about.gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators
   * [visualstudio.com](https://www.visualstudio.com/) — Unlimited private repos (Git and TFS) for up to 5 users/team
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofit organizations
-  * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage
+  * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Upto 5 Users, 50GB Storage and Egress for free
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
   * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
@@ -133,11 +133,11 @@ Table of Contents
   * [tachikoma.io](https://tachikoma.io/) — Dependency Update for Ruby, Node.js, Perl projects, free for Open Source
   * [deppbot.com](https://www.deppbot.com/) — Automated Dependency Updates for Ruby projects, free for Open Source
   * [landscape.io](https://landscape.io/) — Code Quality for Python projects, free for Open Source
-  * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for Open Source
+  * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for unlimited Public and Private repos (upto 4 collaboraters)
   * [houndci.com](https://houndci.com/) — Comments on GitHub commits about code quality, free for Open Source
   * [coveralls.io](https://coveralls.io/) — Display test coverage reports, free for Open Source
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
-  * [codecov.io](https://codecov.io/) — Code coverage tool (SaaS), free for Open Source
+  * [codecov.io](https://codecov.io/) — Code coverage tool (SaaS), free for Open Source and 1 free private repo
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) — Code Quality for PHP/Symfony projects, free for Open Source
   * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for Open Source
   * [gocover.io](https://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
@@ -305,7 +305,7 @@ Table of Contents
   * [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
   * [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
-  *[MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, unlimited email free
+  * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, unlimited email free
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free
   * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
@@ -319,9 +319,8 @@ Table of Contents
   * [kickbox.io](https://kickbox.io/) — Verify 100 emails free, real-time API available
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
   * [biz.mail.ru](https://biz.mail.ru/) — 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
-  * [maildocker.com](https://maildocker.com) — First 10,000 emails/month free
   * [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month free
-  * [pepipost.com](https://www.pepipost.com) — Unlimited emails free for first three months, then first 25,000 emails/month free
+  * [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
   * [elasticemail.com](https://elasticemail.com) — 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [migadu.com](https://www.migadu.com/) — Email Hosting (Webmail, SMTP, IMAP, ...) — free plan is limited to 10 outgoing mails/day
@@ -487,7 +486,7 @@ Table of Contents
    * [overv.io](https://overv.io/) — Agile project management for teams who love GitHub
    * [taskulu.com](https://taskulu.com/) — Role based project management. Free up to 5 users. Integration with GitHub/Trello/Dropbox/Google Drive
    * [contriber.com](https://contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
-   * [planitpoker.com](https://planitpoker.com/) — Free online planning poker (estimation tool)
+   * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
    * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — search based on time tracking, attachments on Agile Board, and many other improvements. 10 users 5 GB free
    * [plan.io](https://plan.io/) — Project Management with Repository Hosting and mor options. Free for 2 users with 10 customers and 500MB Storage
@@ -569,7 +568,7 @@ Table of Contents
    * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source and user groups
    * [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web
    * [repl.it](https://repl.it/) — A cloud coding environment for various program languages
-   * [codesandbox.io](https://codesandbox.io/) — Online React playground
+   * [codesandbox.io](https://codesandbox.io/) — Online Playground for React, Vue, Angular, Preact and more
    * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
    * [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages
    * [Coder](https://coder.com) — Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
