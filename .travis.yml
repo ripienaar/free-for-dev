@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --allow-ssl --allow-redirect | grep -Ev "\s*?[0-9]{1,4}\.\s*?http"
+  - awesome_bot README.md --allow-dupe --allow-ssl --allow-redirect --set-timeout 5 | grep -Ev "\s*?[0-9]{1,4}\.\s*?http"
