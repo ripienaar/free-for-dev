@@ -55,11 +55,11 @@ Table of Contents
 
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators)
   * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private repos (Git and Mercurial) for up to 5 users with Pipelines for CI/CD
+  * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
-  * [about.gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators
   * [visualstudio.com](https://www.visualstudio.com/) — Unlimited private repos (Git and TFS) for up to 5 users/team
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofit organizations
-  * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Upto 5 Users, 50GB Storage and Egress for free
+  * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free for up to 5 Users, 50GB Storage and Egress
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
   * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
@@ -73,7 +73,7 @@ Table of Contents
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
-  * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API
+  * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month
   * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
   * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
   * [konghq.com/](https://konghq.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support
@@ -81,7 +81,6 @@ Table of Contents
   * [havenondemand.com](https://www.havenondemand.com) — APIs for machine learning
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
   * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
-  * [context.io](https://context.io) — Create simple email webhooks and code against a free, RESTful, IMAP API to leverage email data
   * [Apify](https://www.apify.com/) — Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention.
   * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
   * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
@@ -133,13 +132,13 @@ Table of Contents
   * [tachikoma.io](https://tachikoma.io/) — Dependency Update for Ruby, Node.js, Perl projects, free for Open Source
   * [deppbot.com](https://www.deppbot.com/) — Automated Dependency Updates for Ruby projects, free for Open Source
   * [landscape.io](https://landscape.io/) — Code Quality for Python projects, free for Open Source
-  * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for unlimited Public and Private repos (upto 4 collaboraters)
+  * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for Open Source and unlimited organisation-owned private repos (upto 4 collaboraters). Also free for students and institutions.
   * [houndci.com](https://houndci.com/) — Comments on GitHub commits about code quality, free for Open Source
   * [coveralls.io](https://coveralls.io/) — Display test coverage reports, free for Open Source
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
   * [codecov.io](https://codecov.io/) — Code coverage tool (SaaS), free for Open Source and 1 free private repo
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) — Code Quality for PHP/Symfony projects, free for Open Source
-  * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for Open Source
+  * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for unlimited public and private repositories
   * [gocover.io](https://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
   * [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
   * [inch-ci.org](https://inch-ci.org/) — Documentation badges for Ruby, JS and Elixir
@@ -366,8 +365,8 @@ Table of Contents
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
   * [postgress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
   * [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
-   * [hasura.io](https://www.hasura.io/) — Platform to build and deploy app backends fast, free for single node cluster.
-  * [pusher.com](https://pusher.com/beams/) — Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
+  * [hasura.io](https://www.hasura.io/) — Platform to build and deploy app backends fast, free for single node cluster.
+  * [pusher.com](https://pusher.com/beams) — Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
   * [layer.com](https://layer.com/) — The full-stack building block for communications
   * [quickblox.com](https://quickblox.com/) — A communication backend for instant messaging, video and voice calling and push notifications
   * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
