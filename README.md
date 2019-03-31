@@ -185,7 +185,7 @@ Table of Contents
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [bitrise.io](https://www.bitrise.io/) — An iOS CI/CD with 200 free builds/month
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
-  * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
+  * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service.  2,000min/mo
   * [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
   * [bitrise.io](https://www.bitrise.io/) — Hosted CI/CD for iOS and Android with free unlimited builds, apps and teammembers and 1 concurrent run for OSS projects
 
@@ -332,7 +332,7 @@ Table of Contents
 
 ## CDN and Protection
 
-  * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, it also offers a free SSL certificate service
+  * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, it also offers a free SSL certificate service and 5 firewall rules.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc
   * [jsdelivr.com](https://www.jsdelivr.com/) — CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
@@ -348,7 +348,7 @@ Table of Contents
 
 ## PaaS
 
-  * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and more
+  * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and much more
   * [engineyard.com](https://www.engineyard.com/) — Engine Yard provides 500 free hours
   * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
@@ -427,11 +427,12 @@ Table of Contents
   * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
   * [duckdns.org](http://duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
+  * [Cloudflare](https://www.cloudflare.com/) - Free DNS.  Unlimited number of doamins.
 
 ## IaaS
 
   * [aws.amazon.com](https://aws.amazon.com/free/) — AWS Free Tier, free for 12 months
-  * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives USD 300 over 12 months
+  * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives USD 300 over 12 months. 1 Free f1-micro instance.  Much more.
   * [backblaze.com](https://backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
 
 ## DBaaS
@@ -499,6 +500,7 @@ Table of Contents
    * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) — Free one-year Office 365 E3 subscription for development/testing.
    * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
+   * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
 
 
 
@@ -619,6 +621,7 @@ Table of Contents
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
   * [Whales](https://github.com/Gueils/whales) — A tool to automatically dockerize your applications for free.
   * [PWD](https://labs.play-with-docker.com/) — Play with Docker. A simple, interactive and fun playground to learn Docker
+  * [Gitlab](https://gitlab.com) - Per-repo container registry.  10GB limit.
 
 ## Vagrant Related
 
@@ -645,3 +648,8 @@ Table of Contents
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
+
+## Major Cloud Providers Always-Free limits
+  * [Google Cloud Always Free](https://cloud.google.com/free/) - Many services free to use, forever, with monthly limitation
+  * [Amazon Web Services Always Free](https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree) - see above
+  * [Microsoft Azure Always Free](https://azure.microsoft.com/en-us/free/free-account-faq/) - Always-free offering start 9rows down
