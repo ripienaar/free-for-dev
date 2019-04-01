@@ -410,6 +410,7 @@ Table of Contents
   * [opeNode.io](https://www.openode.io/) — Free cloud hosting for open source projects.
   * [kuber.host](https://kuber.host/) — Kubernetes hosting with free plan
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
+  * [gitlab.com](https://about.gitlab.com/product/pages/) — Host your static websites on GitLab from your repositories. Can be combined with GitLab CI and static site generators, custom domains and TLS certificates available.
 
 ## DNS
 
