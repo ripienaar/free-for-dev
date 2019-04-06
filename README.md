@@ -15,7 +15,8 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) or 
 Table of Contents
 =================
 
-   * [Major Cloud Providers Always-Free Limits](major-cloud-providers)
+   * [Major Cloud Providers Always-Free Limits](#major-cloud-providers)
+     * [Google Cloud Platform](#google-cloud-platform)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
@@ -57,9 +58,44 @@ Table of Contents
 
 ## Major Cloud Providers
 
-  * [cloud.google.com](https://cloud.google.com) 
-    * first item
-    * second
+  * [Google Cloud Platform](#google-cloud-platform) 
+    * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
+    * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
+    * Compute Engine - 1 non-preemptible f1-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions)
+    * Cloud Storage - 5GB, 1GB network egress
+    * Cloud Pub/Sub - 10GB of messages per month
+    * Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
+    * Google Kubernetes Engine - No cluster management fee for clusters of all sizes. Each user node is charged at standard Compute Engine pricing
+    * BigQuery - 1 TB of querying per month, 10 GB of storage each month
+    * Cloud Build - 120 build-minutes per day
+    * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
+    * Full, detailed list - https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits
+
+  * [Amazon Web Services](#amazon-web-services)
+    * Amazon DynamoDB - 25GB NoSQL DB
+    * Amazon Lambda - 1 Million requests per month
+    * Amazon SNS - 1 million publishes per month
+    * Amazon Cloudwatch - 10 custom metrics and 10 alarms
+    * Amazon Glacier - 10GB long-term object storage
+    * Amazon SQS - 1 million messaging queue requests
+    * Amazon CodeBuild - 100min of build time per month
+    * Amazon Code Commit - 5 active users per month
+    * Amazon Code Pipeline - 1 active pipeline per month
+    * Full, detailed list - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
+
+  * Microsoft Azure
+    * App service - 10 web, mobile or API apps
+    * Functions - 1 million requests per month
+    * DevTest Labs - Enable fast, easy, and lean dev-test environments
+    * Active Directory - 500,000 objects
+    * Active Directory B2C - 50,000 monthly stored users
+    * Azure DevOps - 5 active users
+    * Microsoft IoT Hub - 8,000 messages per day
+    * Load Balancer - 1 free public load balanced IP (VIP)
+    * Notification Hubs - 1 million push notifications
+    * Bandwidth - 5GB egress per month
+    * Visual Studio Code
+    * Full, detailed list - https://azure.microsoft.com/en-us/free/
 
 ## Source Code Repos
 
