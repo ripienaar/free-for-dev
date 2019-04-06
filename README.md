@@ -16,7 +16,6 @@ Table of Contents
 =================
 
    * [Major Cloud Providers Always-Free Limits](#major-cloud-providers)
-     * [Google Cloud Platform](#google-cloud-platform)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
@@ -58,7 +57,7 @@ Table of Contents
 
 ## Major Cloud Providers
 
-  * [Google Cloud Platform](#google-cloud-platform) 
+  * [Google Cloud Platform](https://cloud.google.com) 
     * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
     * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
     * Compute Engine - 1 non-preemptible f1-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions)
@@ -71,7 +70,7 @@ Table of Contents
     * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     * Full, detailed list - https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits
 
-  * [Amazon Web Services](#amazon-web-services)
+  * [Amazon Web Services](https://aws.amazon.com)
     * Amazon DynamoDB - 25GB NoSQL DB
     * Amazon Lambda - 1 Million requests per month
     * Amazon SNS - 1 million publishes per month
@@ -83,7 +82,7 @@ Table of Contents
     * Amazon Code Pipeline - 1 active pipeline per month
     * Full, detailed list - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
 
-  * Microsoft Azure
+  * [Microsoft Azure](https://azure.microsoft.com)
     * App service - 10 web, mobile or API apps
     * Functions - 1 million requests per month
     * DevTest Labs - Enable fast, easy, and lean dev-test environments
