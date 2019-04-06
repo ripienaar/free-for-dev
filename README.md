@@ -15,7 +15,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) or 
 Table of Contents
 =================
 
-   * [Major Cloud Providers Always-Free Limits](#major-cloud-providers)
+   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
