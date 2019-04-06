@@ -104,7 +104,6 @@ Table of Contents
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [visualstudio.com](https://www.visualstudio.com/) — Unlimited private repos (Git and TFS) for up to 5 users/team
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofit organizations
-  * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free for up to 5 Users, 50GB Storage and Egress
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
   * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
@@ -390,9 +389,7 @@ Table of Contents
 
 ## PaaS
 
-  * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and much more
   * [engineyard.com](https://www.engineyard.com/) — Engine Yard provides 500 free hours
-  * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
   * [firebase.google.com](https://firebase.google.com) — Build real-time apps, the free plan has 100 max connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
@@ -473,8 +470,6 @@ Table of Contents
 
 ## IaaS
 
-  * [aws.amazon.com](https://aws.amazon.com/free/) — AWS Free Tier, free for 12 months
-  * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives USD 300 over 12 months. 1 Free f1-micro instance.  Much more.
   * [backblaze.com](https://backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
 
 ## DBaaS
@@ -690,8 +685,3 @@ Table of Contents
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-
-## Major Cloud Providers Always-Free limits
-  * [Google Cloud Always Free](https://cloud.google.com/free/) - Many services free to use, forever, with monthly limitation
-  * [Amazon Web Services Always Free](https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree) - see above
-  * [Microsoft Azure Always Free](https://azure.microsoft.com/en-us/free/free-account-faq/) - Always-free offering start 9rows down
