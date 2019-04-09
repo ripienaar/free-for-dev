@@ -15,6 +15,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) or 
 Table of Contents
 =================
 
+   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
@@ -54,6 +55,47 @@ Table of Contents
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
 
+## Major Cloud Providers
+
+  * [Google Cloud Platform](https://cloud.google.com) 
+    * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
+    * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
+    * Compute Engine - 1 non-preemptible f1-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions)
+    * Cloud Storage - 5GB, 1GB network egress
+    * Cloud Pub/Sub - 10GB of messages per month
+    * Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
+    * Google Kubernetes Engine - No cluster management fee for clusters of all sizes. Each user node is charged at standard Compute Engine pricing
+    * BigQuery - 1 TB of querying per month, 10 GB of storage each month
+    * Cloud Build - 120 build-minutes per day
+    * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
+    * Full, detailed list - https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits
+
+  * [Amazon Web Services](https://aws.amazon.com)
+    * Amazon DynamoDB - 25GB NoSQL DB
+    * Amazon Lambda - 1 Million requests per month
+    * Amazon SNS - 1 million publishes per month
+    * Amazon Cloudwatch - 10 custom metrics and 10 alarms
+    * Amazon Glacier - 10GB long-term object storage
+    * Amazon SQS - 1 million messaging queue requests
+    * Amazon CodeBuild - 100min of build time per month
+    * Amazon Code Commit - 5 active users per month
+    * Amazon Code Pipeline - 1 active pipeline per month
+    * Full, detailed list - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
+
+  * [Microsoft Azure](https://azure.microsoft.com)
+    * App service - 10 web, mobile or API apps
+    * Functions - 1 million requests per month
+    * DevTest Labs - Enable fast, easy, and lean dev-test environments
+    * Active Directory - 500,000 objects
+    * Active Directory B2C - 50,000 monthly stored users
+    * Azure DevOps - 5 active users
+    * Microsoft IoT Hub - 8,000 messages per day
+    * Load Balancer - 1 free public load balanced IP (VIP)
+    * Notification Hubs - 1 million push notifications
+    * Bandwidth - 5GB egress per month
+    * Visual Studio Code
+    * Full, detailed list - https://azure.microsoft.com/en-us/free/
+
 ## Source Code Repos
 
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators)
@@ -62,7 +104,6 @@ Table of Contents
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [visualstudio.com](https://www.visualstudio.com/) — Unlimited private repos (Git and TFS) for up to 5 users/team
   * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofit organizations
-  * [cloud.google.com](https://cloud.google.com/tools/cloud-repositories/) — Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free for up to 5 Users, 50GB Storage and Egress
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
   * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
@@ -185,7 +226,7 @@ Table of Contents
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [bitrise.io](https://www.bitrise.io/) — An iOS CI/CD with 200 free builds/month
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
-  * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
+  * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service.  2,000min/mo
   * [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
   * [bitrise.io](https://www.bitrise.io/) — Hosted CI/CD for iOS and Android with free unlimited builds, apps and teammembers and 1 concurrent run for OSS projects
 
@@ -332,7 +373,7 @@ Table of Contents
 
 ## CDN and Protection
 
-  * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, it also offers a free SSL certificate service
+  * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, it also offers a free SSL certificate service and 5 firewall rules.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc
   * [jsdelivr.com](https://www.jsdelivr.com/) — CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
@@ -348,9 +389,7 @@ Table of Contents
 
 ## PaaS
 
-  * [cloud.google.com](https://cloud.google.com/appengine/) — Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and more
   * [engineyard.com](https://www.engineyard.com/) — Engine Yard provides 500 free hours
-  * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
   * [firebase.google.com](https://firebase.google.com) — Build real-time apps, the free plan has 100 max connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
@@ -428,11 +467,10 @@ Table of Contents
   * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
   * [duckdns.org](http://duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
+  * [Cloudflare](https://www.cloudflare.com/) - Free DNS.  Unlimited number of doamins.
 
 ## IaaS
 
-  * [aws.amazon.com](https://aws.amazon.com/free/) — AWS Free Tier, free for 12 months
-  * [cloud.google.com/compute](https://cloud.google.com/compute/) — Google Compute Engine gives USD 300 over 12 months
   * [backblaze.com](https://backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
 
 ## DBaaS
@@ -500,6 +538,7 @@ Table of Contents
    * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) — Free one-year Office 365 E3 subscription for development/testing.
    * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
+   * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
 
 
 
@@ -620,6 +659,7 @@ Table of Contents
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
   * [Whales](https://github.com/Gueils/whales) — A tool to automatically dockerize your applications for free.
   * [PWD](https://labs.play-with-docker.com/) — Play with Docker. A simple, interactive and fun playground to learn Docker
+  * [Gitlab](https://gitlab.com) - Per-repo container registry.  10GB limit.
 
 ## Vagrant Related
 
