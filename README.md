@@ -527,7 +527,6 @@ Table of Contents
    * [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
    * [vivifyscrum.com](https://vivifyscrum.com/) — Free tool for Agile project management. Scrum Compatible
    * [targetprocess.com](https://targetprocess.com/) — Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1,000 data entities {[more details](https://www.targetprocess.com/pricing/)}
-   * [overv.io](https://overv.io/) — Agile project management for teams who love GitHub
    * [taskulu.com](https://taskulu.com/) — Role based project management. Free up to 5 users. Integration with GitHub/Trello/Dropbox/Google Drive
    * [contriber.com](https://contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
    * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
