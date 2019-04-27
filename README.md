@@ -164,7 +164,6 @@ Table of Contents
   * [helplightning.com](https://www.helplightning.com/) — Help over video with augmented reality. Free without analytics, encryption, support
   * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
   * [doodle.com](https://doodle.com/) — The scheduling tool you'll actually use. Find a date for a meeting two times faster
-  * [sendtoinc.com](https://sendtoinc.com/) — Share links, notes, files and have discussions. Free for 3 and 100 MB
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [wistia.com](https://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
@@ -188,7 +187,6 @@ Table of Contents
   * [codacy.com](https://codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for unlimited public and private repositories
   * [gocover.io](https://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
   * [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
-  * [inch-ci.org](https://inch-ci.org/) — Documentation badges for Ruby, JS and Elixir
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
   * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
