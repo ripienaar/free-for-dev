@@ -301,7 +301,7 @@ Table of Contents
   * [appneta.com](https://www.appneta.com/) — Free with 1 hour data retention
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
-
+  * [freshping.io](https://www.freshworks.com/website-monitoring/) — Monitor 50 URLs at 1-minute interval with 10 Global locations and 5 Public status pages for Free
   * [nodequery.com](https://nodequery.com/) — Free basic server monitor up to 10 servers
   * [circonus.com](https://www.circonus.com/) — Free for 20 metrics
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
