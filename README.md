@@ -228,6 +228,7 @@ Table of Contents
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service.  2,000min/mo
   * [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
   * [bitrise.io](https://www.bitrise.io/) — Hosted CI/CD for iOS and Android with free unlimited builds, apps and teammembers and 1 concurrent run for OSS projects
+  * [gocd.org](https://gocd.org) — Easily model and visualize complex workflows with gocd, a free and open source continuous delivery server.
 
 ## Automated Browser Testing
 
