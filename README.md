@@ -616,6 +616,7 @@ Table of Contents
    * [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages
    * [Coder](https://coder.com) — Platform that gives you a whole development environment build around Visual Studio Code. In the free tier you will get 2GB of project and 2 GB of container space as well as 5 hours of Fast Time that dynamically scales your container up if enabled.
    * [gitpod.io](https://gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free for open-source.
+   * [Katacoda](https://katacoda.com) — Interactive learning and training platform for software engineers helping developers learn and companies increase adoption.
 
 ## Analytics, Events and Statistics
 
