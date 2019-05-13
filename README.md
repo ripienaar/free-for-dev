@@ -221,7 +221,7 @@ Table of Contents
   * [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
   * [github.com](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [ftploy.com](https://ftploy.com/) — 1 project with unlimited deployments
-  * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments
+  * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service.  2,000min/mo
