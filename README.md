@@ -448,6 +448,7 @@ Table of Contents
   * [opeNode.io](https://www.openode.io/) — Free cloud hosting for open source projects.
   * [kuber.host](https://kuber.host/) — Kubernetes hosting with free plan
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
+  * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
 
 ## DNS
 
