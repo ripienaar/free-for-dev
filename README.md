@@ -403,6 +403,7 @@ Table of Contents
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
   * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting with features such as code sharing and real-time collaboration
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provide 1 free instance that never sleeps and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps. 
+  * [arukas.io]https://arukas.io - Caas hosting, free plain has 730 hours / month, 0.1 vCPU, 128MB RAM and 0.1TB traffic.
 
 ## BaaS
 
