@@ -343,6 +343,7 @@ Table of Contents
 ## Email
 
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
+  * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 10,000 free API requests/month
   * [sparkpost.com](https://www.sparkpost.com/) — First 15,000 emails/month free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month free
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
