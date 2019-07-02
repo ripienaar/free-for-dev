@@ -471,7 +471,7 @@ Table of Contents
   * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
   * [duckdns.org](http://duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
-  * [Cloudflare](https://www.cloudflare.com/) - Free DNS.  Unlimited number of doamins.
+  * [Cloudflare](https://www.cloudflare.com/) - Free DNS.  Unlimited number of domains.
 
 ## IaaS
 
