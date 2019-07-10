@@ -328,7 +328,6 @@ Table of Contents
   * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
   * [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
-  * [overops.com](https://www.overops.com/) - OverOps tells companies when, where and why code breaks in monoliths and microservices. Free tier offers an overview of all issues, limited root cause analysis view.
 
 ## Crash and Exception Handling
 
