@@ -109,6 +109,8 @@ Table of Contents
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
   * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
   * [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic, also you have an ionic repo
+  * [gitea.com](https://www.gitea.com/) - Unlimited public and private Git repos
+  * [codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos
 
 ## APIs, Data and ML
   * [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked. The first 1000 calls are free of charge.
