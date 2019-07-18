@@ -213,6 +213,7 @@ Table of Contents
 
 ## CI / CD
 
+  * [ligurio/Continuous-Integration-services](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [dev.azure.com](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
@@ -222,7 +223,6 @@ Table of Contents
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
   * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
-  * [github.com](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [ftploy.com](https://ftploy.com/) — 1 project with unlimited deployments
   * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
