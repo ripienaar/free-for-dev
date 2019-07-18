@@ -393,7 +393,7 @@ Table of Contents
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [speeder.io](https://speeder.io/) — Uses KeyCDN. Automatic image optimization and free CDN boost. Free and does not require any server changes
-  * [jare.io](http://www.jare.io) — You should log in using your GitHub account and register your domain. Uses AWS CloudFront
+  * [jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
   * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
   * [staticaly.com](https://staticaly.com/) — CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets and images
 
