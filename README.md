@@ -201,6 +201,7 @@ Table of Contents
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
   * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
   * [golangci.com](https://golangci.com) — Automated Go (golang) code review service for GitHub pull requests.
+  * [lgtm.com](https://lgtm.com) — Continuous security analysis for Java, Python, JavaScript, TypeScript, C#, C and C++, free for Open Source
 
 ## Code Search and Browsing
 
