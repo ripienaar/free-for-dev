@@ -634,6 +634,7 @@ Table of Contents
 ## Analytics, Events and Statistics
 
    * [analytics.google.com](https://analytics.google.com/) — Google Analytics
+   * [www.heatlyanalytics.com](https://www.heatlyanalytics.com) — Free Heatmap tool to understand UI/UX.
    * [heapanalytics.com](https://heapanalytics.com/) — Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
    * [sematext.com](https://sematext.com//search-analytics) — Free for up to 50 K actions/month, 1 day data retention, unlimited dashboards, users, etc
    * [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people, track visitors. Free for one user, unlimited tests
