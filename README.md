@@ -473,13 +473,18 @@ Table of Contents
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 3 domains with unlimited records
   * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 1 million free queries
   * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
-  * [namecheap.com](https://www.namecheap.com/domains/freedns.aspx) — Free DNS. No limit on number of domains
+  * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
   * [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
   * [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
   * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
   * [duckdns.org](http://duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
   * [Cloudflare](https://www.cloudflare.com/) - Free DNS.  Unlimited number of domains.
+  * [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
+  * [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
+  * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
+  * [entrydns.net](https://entrydns.net/) — Free DNS hosting service with Dynamic DNS Support.
+  * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) — Free DNS hosting.
 
 ## IaaS
 
