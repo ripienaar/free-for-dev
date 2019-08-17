@@ -391,7 +391,9 @@ Table of Contents
   * [jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
   * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
   * [staticaly.com](https://staticaly.com/) — CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets and images
-  * [bitmitigate.com](https://bitmitigate.com/website-suite.html) — Free CDN and DDoS protection
+  * [bitmitigate.com](https://bitmitigate.com/website-suite.html) — Free CDN, DDoS protection and SSL certificate
+  * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate 
+  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDos protection and SSL certificate
 
 ## PaaS
 
@@ -466,7 +468,7 @@ Table of Contents
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
   * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 3 domains with unlimited records
-  * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 1 million free queries
+  * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
   * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
   * [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
@@ -647,6 +649,7 @@ Table of Contents
    * [optimizely.com](https://www.optimizely.com) — A/B Testing solution, free starter plan, 1 website, 1 iOS and 1 Android app
    * [expensify.com](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
+   * [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
 
 ## Visitor Session Recording
    * [inspectlet.com](https://www.inspectlet.com/) — 100 sessions/month free for 1 website
