@@ -378,6 +378,7 @@ Table of Contents
 
 ## CDN and Protection
 
+  * [PageCDN.com](https://pagecdn.com/) - Offers Public CDN, Private CDN, Shared CDN and Snippets CDN. Public CDN and snippets CDN are totally free. Public CDN includes 100s of opensource libraries, 2000+ WordPress themes, HTML5 themes, Google Fonts, and more.
   * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, it also offers a free SSL certificate service and 5 firewall rules.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc
