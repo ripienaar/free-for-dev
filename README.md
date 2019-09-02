@@ -155,7 +155,7 @@ Table of Contents
 ## Tools for Teams and Collaboration
 
   * [scinote.net](https://scinote.net) — Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space
-  * [appear.in](https://appear.in/) — One click video conversations, for free
+  * [whereby.com](https://whereby.com/) — One click video conversations, for free (formerly known as appear.in)
   * [meet.jit.si](https://meet.jit.si/) — One click video conversations, screen sharing, for free
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
