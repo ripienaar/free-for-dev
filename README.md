@@ -500,6 +500,7 @@ Table of Contents
    * [redsmin.com](https://www.redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](https://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
+   * [heroku.com](https://www.heroku.com/) — PostgreSQL as a service, up to 10,000 rows and 20 connections free (provided as an "addon," but can be attached to an otherwise empty app and accessed externally)
    * [graphenedb.com](https://www.graphenedb.com/) — Neo4j as a service, up to 1,000 nodes and 10,000 relations free
    * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
    * [scalingo.com](https://scalingo.com/) — Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL or MongoDB
