@@ -178,6 +178,7 @@ Table of Contents
   * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
   * [riot.im](https://about.riot.im/) — A decentralized communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users.
+  * [Phabricator](https://phabricator.org) - Phabricator is a set of tools for developing software. It includes applications for code review, repository hosting, bug tracking, project management, and more. Phabricator is powerful, fast, scalable, and completely open source. You can download and install it on your own hardware for free, or launch a (paid) hosted instance for $20/user/month.
 
 ## Code Quality
 
