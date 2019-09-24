@@ -466,6 +466,7 @@ Table of Contents
   * [kuber.host](https://kuber.host/) — Kubernetes hosting with free plan
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
   * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
+ * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
 
 ## DNS
 
