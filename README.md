@@ -683,6 +683,7 @@ Table of Contents
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [fraudlabspro.com](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
   * [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
+  * [routefusion.co](https://routefusion.co/) — Developer focused cross borders bank-to-bank payments API.  Programatically send money to 180+ countries.  Go live and begin transacting cross border bank to bank payment in your app in under a month with 0 cost and risk.
 ## Docker Related
 
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
