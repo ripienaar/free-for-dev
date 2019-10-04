@@ -96,6 +96,17 @@ Table of Contents
     * Visual Studio Code
     * Full, detailed list - https://azure.microsoft.com/en-us/free/
 
+  * [Oracle Cloud](https://www.oracle.com/cloud/)
+    * Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
+    * Block Volume - 2 volumes, 100 GB total (used for compute)
+    * Object Storage - 10 GB
+    * Load balancer - 1 instance with 10 Mbps
+    * Databases - 2 DBs, 20 GB each
+    * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
+    * Bandwidth - 10TB egress per month
+    * Notifications - 1 million delivery options per month, 1000 emails sent per month
+    * Full, detailed list - https://www.oracle.com/cloud/free/
+
 ## Source Code Repos
 
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators)
