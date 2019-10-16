@@ -613,6 +613,7 @@ Table of Contents
   * [designer.io](https://www.designer.io/) — Design tool for UI, illustrations and more. Has a native app. Free
   * [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
   * [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
+  * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
 
 ## Data Visualization on Maps
 
