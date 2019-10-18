@@ -22,7 +22,7 @@ Table of Contents
    * [Automated Browser Testing](#automated-browser-testing)
    * [BaaS](#baas)
    * [CDN and Protection](#cdn-and-protection)
-   * [CI / CD](#ci--cd)
+   * [CI / CD](#ci-cd)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
