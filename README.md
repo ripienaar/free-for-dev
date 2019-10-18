@@ -677,6 +677,7 @@ Table of Contents
    * [expensify.com](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
    * [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
+   * [getinsights.io](https://getinsights.io) - Privacy-focused, cookie free analytics, free for up to 5k events/month.
 
 ## Visitor Session Recording
    * [inspectlet.com](https://www.inspectlet.com/) — 100 sessions/month free for 1 website
