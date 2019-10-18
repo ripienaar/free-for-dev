@@ -194,6 +194,7 @@ Table of Contents
 
 ## Code Quality
 
+  * [hiberly.com](https://hiberly.com) - Tech debt toolkit for developers - grabs feedback from engineers after each merge, then aggregates this to quantify and highlight tech debt in the codebase. Free for use in retrospectives for up to 12 months.
   * [tachikoma.io](https://tachikoma.io/) — Dependency Update for Ruby, Node.js, Perl projects, free for Open Source
   * [landscape.io](https://landscape.io/) — Code Quality for Python projects, free for Open Source
   * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for Open Source and unlimited organisation-owned private repos (upto 4 collaboraters). Also free for students and institutions.
@@ -701,7 +702,7 @@ Table of Contents
   * [fraudlabspro.com](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
   * [exchangerate-api.com](https://www.exchangerate-api.com) - An easy to use currency conversion JSON API. Free tier with no request limit.
   * [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
-  
+
 ## Docker Related
 
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
