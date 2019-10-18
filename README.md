@@ -632,6 +632,7 @@ Table of Contents
    * [osmnames](https://osmnames.org/) — Geocoding, search results ranked by the popularity of related Wikipedia page
    * [maptiler.com](https://www.maptiler.com/cloud/) — Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
    * [here](https://developer.here.com/) — APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
+   * [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. 2,500 free map views and API requests / day for non-commercial usage and testing.
 
 ## Package Build System
 
