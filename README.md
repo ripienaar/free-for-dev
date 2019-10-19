@@ -110,7 +110,7 @@ Table of Contents
 ## Source Code Repos
 
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators)
-  * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private repos (Git and Mercurial) for up to 5 users with Pipelines for CI/CD
+  * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
   * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited private repos (Git and TFS) for up to 5 users/team
