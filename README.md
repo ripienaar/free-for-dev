@@ -716,6 +716,7 @@ Table of Contents
   * [fraudlabspro.com](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
   * [exchangerate-api.com](https://www.exchangerate-api.com) - An easy to use currency conversion JSON API. Free tier with no request limit.
   * [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
+  * [mailpop.in](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
 
 ## Docker Related
 
