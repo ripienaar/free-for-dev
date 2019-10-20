@@ -430,6 +430,7 @@ Table of Contents
 ## PaaS
 
   * [engineyard.com](https://www.engineyard.com/) — Engine Yard provides 500 free hours
+  * [openshift.com](https://www.openshift.com/) — Container hosting managed by Kubernetes, free 1 project, 2GB RAM, 2GB storage
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
   * [firebase.google.com](https://firebase.google.com) — Build real-time apps, the free plan has 100 max connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
