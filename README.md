@@ -107,6 +107,17 @@ Table of Contents
     * Notifications - 1 million delivery options per month, 1000 emails sent per month
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
+  * [IBM Cloud](https://www.oracle.com/cloud/)
+    * Kubernetes - Free cluster with 1 worker node
+    * Cloud Functions - 5 million executions per month
+    * Object Storage - 25GB per month
+    * Cloudant database - 1 GB of data stoage
+    * Db2 database - 100MB of data storage
+    * API Connect - 50,000 API calls per month
+    * Availability Monitoring - 3 million data points per month
+    * Log Analysis - 500MB od daily log
+    * Full, detailed list - https://www.ibm.com/cloud/free/
+
 ## Source Code Repos
 
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators)
