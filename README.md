@@ -309,6 +309,7 @@ Table of Contents
   * [rollbar.com](https://rollbar.com) — Free up to 5000 events/month, 30 days retention
   * [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, 7 days retention
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
+  * [splunk.com](https://www.splunk.com) - Free for a single user, 500 MB/day
 
 ## Translation Management
 
