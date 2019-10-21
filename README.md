@@ -25,6 +25,7 @@ Table of Contents
    * [CI / CD](#ci--cd)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
+   * [Cookie Consent](#cookie-consent)
    * [Crash and Exception Handling](#crash-and-exception-handling)
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [DBaaS](#dbaas)
@@ -638,6 +639,10 @@ Table of Contents
   * [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting
+
+## Cookie Consent
+
+  * [metomic.io](https://metomic.io) - Cookie widget which doesn't look bad
 
 ## Data Visualization on Maps
 
