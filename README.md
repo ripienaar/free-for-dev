@@ -687,6 +687,7 @@ Table of Contents
    * [gitpod.io](https://www.gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free for open-source.
    * [Katacoda](https://katacoda.com) — Interactive learning and training platform for software engineers helping developers learn and companies increase adoption.
    * [JDoodle](https://www.jdoodle.com) — Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
+   * [Atom](https://atom.io/) - Atom is a hackable text editor built on Electron.
 
 ## Analytics, Events and Statistics
 
