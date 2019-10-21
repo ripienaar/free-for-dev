@@ -519,7 +519,6 @@ Table of Contents
   * [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
   * [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
   * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
-  * [entrydns.net](https://entrydns.net/) — Free DNS hosting service with Dynamic DNS Support.
   * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) — Free DNS hosting.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
   * [zilore.com](https://zilore.com/ru/dns) — Free DNS hosting.
