@@ -556,39 +556,39 @@ Table of Contents
    * [webhookrelay.com](https://webhookrelay.com) — Manage, debug, fan-out and proxy all your webhooks to public or internal (ie: localhost) destinations. Also, expose servers running in a private networks over a tunnel by getting a public HTTP endpoint (`https://yoursubdomain.webrelay.io <----> http://localhost:8080`).
 
 ## Issue Tracking and Project Management
-
-   * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
-   * [pivotaltracker.com](https://www.pivotaltracker.com/) — Pivotal Tracker, free for public projects
-   * [kanbantool.com](https://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
-   * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
-   * [zenhub.io](https://www.zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
-   * [trello.com](https://trello.com/) — Board based project management. Free
-   * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
-   * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
-   * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
-   * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
-   * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 3 users). Includes time tracking and agile boards
-   * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
-   * [asana.com](https://asana.com/) — Free for private project with collaborators
-   * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
-   * [gliffy.com](https://www.gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira and Confluence. 5 diagrams and 2 MB free
-   * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
-   * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
-   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
-   * [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
-   * [vivifyscrum.com](https://www.vivifyscrum.com/) — Free tool for Agile project management. Scrum Compatible
-   * [targetprocess.com](https://www.targetprocess.com/) — Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1,000 data entities {[more details](https://www.targetprocess.com/pricing/)}
-   * [taskulu.com](https://taskulu.com/) — Role based project management. Free up to 5 users. Integration with GitHub/Trello/Dropbox/Google Drive
-   * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
-   * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
-   * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
-   * [plan.io](https://plan.io/) — Project Management with Repository Hosting and mor options. Free for 2 users with 10 customers and 500MB Storage
-   * [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams
-   * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
-   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
-   * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) — Free one-year Office 365 E3 subscription for development/testing.
-   * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
-   * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
+  * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
+  * [asana.com](https://asana.com/) — Free for private project with collaborators
+  * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
+  * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
+  * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
+  * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
+  * [clubhouse.io](https://www.clubhouse.io/) - Project management based on Kanban. Fast solution with great reporting capabilities. Free for teams under 10.
+  * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
+  * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
+  * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
+  * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
+  * [gliffy.com](https://www.gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira and Confluence. 5 diagrams and 2 MB free
+  * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
+  * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
+  * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
+  * [kanbantool.com](https://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
+  * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
+  * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) — Free one-year Office 365 E3 subscription for development/testing.
+  * [pivotaltracker.com](https://www.pivotaltracker.com/) — Pivotal Tracker, free for public projects
+  * [plan.io](https://plan.io/) — Project Management with Repository Hosting and mor options. Free for 2 users with 10 customers and 500MB Storage
+  * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
+  * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
+  * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
+  * [targetprocess.com](https://www.targetprocess.com/) — Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1,000 data entities {[more details](https://www.targetprocess.com/pricing/)}
+  * [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams
+  * [taskulu.com](https://taskulu.com/) — Role based project management. Free up to 5 users. Integration with GitHub/Trello/Dropbox/Google Drive
+  * [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
+  * [trello.com](https://trello.com/) — Board based project management. Free
+  * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
+  * [vivifyscrum.com](https://www.vivifyscrum.com/) — Free tool for Agile project management. Scrum Compatible
+  * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 3 users). Includes time tracking and agile boards
+  * [zenhub.io](https://www.zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
+  * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
 
 
 
