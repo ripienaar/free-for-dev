@@ -405,6 +405,7 @@ Table of Contents
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
   * [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
+  * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
 
 ## CDN and Protection
 
