@@ -49,7 +49,6 @@ Table of Contents
    * [Source Code Repos](#source-code-repos)
    * [Storage and Media Processing](#storage-and-media-processing)
    * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
-   * [Test Results Reporting and Test Case Management](#test-results-reporting-and-test-case-management)
    * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
    * [Translation Management](#translation-management)
    * [Vagrant Related](#vagrant-related)
