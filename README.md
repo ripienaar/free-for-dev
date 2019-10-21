@@ -294,6 +294,7 @@ Table of Contents
   * [Mozilla Observatory](https://observatory.mozilla.org/) — Find and fix security vulnerabilities in your site.
   * [Shieldfy](https://shieldfy.io) — Web application firewall and vulnerability detection for developers, free plan up to 100k requests per month.
   * [Sqreen](https://www.sqreen.com/) — Application security monitoring and protection (RASP, WAF and more) for web applications and APIs. Free for 1 app and 3 million requests.
+  * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
 
 ## Management System
 
