@@ -642,6 +642,7 @@ Table of Contents
   * [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting
+  * [bootstrapstudio.io](https://bootstrapstudio.io) — Create responsive websites using the Bootstrap framework.
 
 ## Data Visualization on Maps
 
