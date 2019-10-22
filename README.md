@@ -645,7 +645,7 @@ Table of Contents
   * [unsplash.com](https://unsplash.com/) - Free stock photos for commercial and noncommercial purposes (do-whatever-you-want license)
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting
-  * [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe & Prototyping tool similar to Sketch. Free plan covers: 1 active shared design spec, Adobe Fonts Free (limited set of fonts), 2GB of cloud storage2GB of cloud storage
+  * [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe & Prototyping tool similar to Sketch. Free plan covers: 1 active shared design spec, Adobe Fonts Free (limited set of fonts), 2GB of cloud storage
 
 ## Data Visualization on Maps
 
