@@ -43,7 +43,7 @@ Table of Contents
    * [Other Free Resources](#other-free-resources)
    * [PaaS](#paas)
    * [Package Build System](#package-build-system)
-   * [Payment / Billing Integration](#payment-billing-integration)
+   * [Payment / Billing Integration](#payment--billing-integration)
    * [Search](#search)
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
