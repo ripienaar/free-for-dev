@@ -715,8 +715,6 @@ Table of Contents
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
    * [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), 3 heatmaps, 1 funnel, 1 month data history
    * [mouseflow.com](https://mouseflow.com/) — 100 sessions/month free for 1 website
-   
-
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
