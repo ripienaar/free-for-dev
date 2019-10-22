@@ -568,7 +568,7 @@ Table of Contents
 ## Issue Tracking and Project Management
 
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
-   * [pivotaltracker.com](https://www.pivotaltracker.com/) — Pivotal Tracker, free for public projects
+   * [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with 3 total active users (read-write) and unlimited passive users (read-only).
    * [kanbantool.com](https://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
    * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
    * [zenhub.io](https://www.zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
