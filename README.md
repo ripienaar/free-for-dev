@@ -199,6 +199,7 @@ Table of Contents
   * [riot.im](https://about.riot.im/) — A decentralized communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users.
   * [featurepeek.com](https://featurepeek.com) - Cloud provider-agnostic front-end feature environments with team collaboration tools built-in. Works with static and Dockerized front-ends. Free for public repositories.
+  * [Spectrum](https://spectrum.chat/) - Create public or private communities for free. 
 
 ## Code Quality
 
