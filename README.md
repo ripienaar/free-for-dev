@@ -163,6 +163,7 @@ Table of Contents
   * [wolfram.com](http://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month
   * [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits  
+  * [XboxAPI](https://xboxapi.com) — An unofficial Xbox API for retrieving game and profile information from Microsoft Xbox LIVE. 60 free API calls/hour, paid tiers also available for higher API limits  
 
 ## Artifact Repos
 
