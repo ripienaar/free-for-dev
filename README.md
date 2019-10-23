@@ -22,7 +22,7 @@ Table of Contents
    * [Testing](#testing)
    * [BaaS](#baas)
    * [CDN and Protection](#cdn-and-protection)
-   * [CI / CD](#ci--cd)
+   * [CI / CD](#ci-cd)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
@@ -43,7 +43,7 @@ Table of Contents
    * [Other Free Resources](#other-free-resources)
    * [PaaS](#paas)
    * [Package Build System](#package-build-system)
-   * [Payment / Billing Integration](#payment-billing-integration)
+   * [Payment / Billing Integration](#payment--billing-integration)
    * [Search](#search)
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
@@ -109,7 +109,7 @@ Table of Contents
 
 ## Source Code Repos
 
-  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators)
+  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators) with Pipelines for CI/CD
   * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
   * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators and 10 GB space per repo
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
@@ -146,6 +146,7 @@ Table of Contents
   * [konghq.com/](https://konghq.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support
   * [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. Free API plan has 300 verifications per month.
   * [monkeylearn.com](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month
+  * [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [Postman](https://postman.com) — Simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
@@ -159,6 +160,7 @@ Table of Contents
   * [ScreenshotAPI.net](https://screenshotapi.net/) - Screenshot API use one simple API call to generate screenshots of any website. Build to scale and hosted on Google Cloud. Offers 100 free screenshots per month.
   * [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorisation and no request limits
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
+  * [Time Door](https://timedoor.io) - A time series analysis API
   * [wit.ai](https://wit.ai/) — NLP for developers
   * [wolfram.com](http://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month
@@ -179,6 +181,7 @@ Table of Contents
   * [meet.jit.si](https://meet.jit.si/) — One click video conversations, screen sharing, for free
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
+  * [twist.com](https://twist.com) — An asynchronous-friendly team communication app where conversations stay organized and on-topic. Free and Unlimited plans available. Discounts provided for eligible teams.
   * [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25
   * [Discord](https://discordapp.com/) — Chat with public/private Rooms & VoIP Service. Free for unlimited users.
   * [hangouts.google.com](https://hangouts.google.com/) — One place for all your conversations, for free, need a Google account
@@ -199,13 +202,13 @@ Table of Contents
   * [riot.im](https://about.riot.im/) — A decentralized communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users.
   * [featurepeek.com](https://featurepeek.com) - Cloud provider-agnostic front-end feature environments with team collaboration tools built-in. Works with static and Dockerized front-ends. Free for public repositories.
+  * [Spectrum](https://spectrum.chat/) - Create public or private communities for free. 
 
 ## Code Quality
 
   * [codescene.io](https://codescene.io/) - CodeScene prioritizes technical debt based on how the developers work with the code, and visualizes organizational factors like team coupling and system mastery. Free for Open Source.
   * [hiberly.com](https://hiberly.com) - Tech debt toolkit for developers - grabs feedback from engineers after each merge, then aggregates this to quantify and highlight tech debt in the codebase. Free for use in retrospectives for up to 12 months.
   * [tachikoma.io](https://tachikoma.io/) — Dependency Update for Ruby, Node.js, Perl projects, free for Open Source
-  * [landscape.io](https://landscape.io/) — Code Quality for Python projects, free for Open Source
   * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for Open Source and unlimited organisation-owned private repos (upto 4 collaboraters). Also free for students and institutions.
   * [houndci.com](https://houndci.com/) — Comments on GitHub commits about code quality, free for Open Source
   * [coveralls.io](https://coveralls.io/) — Display test coverage reports, free for Open Source
@@ -313,7 +316,7 @@ Table of Contents
   * [humio.com](https://www.humio.com/) — Free up to 2 GB/day with 7 days retention
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
-  * [logz.io](https://logz.io/) — Free up to 1 GB/day, 3 days retention
+  * [logz.io](https://logz.io/) — Free up to 3 GB/day, 3 days retention
   * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
   * [rollbar.com](https://rollbar.com) — Free up to 5000 events/month, 30 days retention
   * [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, 7 days retention
@@ -368,7 +371,7 @@ Table of Contents
 
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [bugsnag.com](https://www.bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
-  * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free, unrestricted use if self-hosted
+  * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
   * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring that's so awesome, you'll wish your site had more errors. Honeybadger is free for solo devs and open-source projects (12,000 errors/month).
 
 ## Search
@@ -382,7 +385,7 @@ Table of Contents
 ## Email
 
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
-  * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 10,000 free API requests/month
+  * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
   * [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails and 100 e-mail address validation is free each month
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
@@ -393,7 +396,7 @@ Table of Contents
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free
   * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
-  * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 25 users
+  * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 5 users
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
@@ -506,6 +509,10 @@ Table of Contents
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
   * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
  * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
+ * [Infinity Free](https://infinityfree.net/) —  Completely free website hosting with unlimited disk space and bandwidth.
+ * [000WebHost](https://www.000webhost.com/) — Zero cost website hosting with PHP, MySQL, cPanel & no ads!
+ * [Free Host](https://profreehost.com/) — Free Web Hosting with Unlimited diskspace and bandwidth.
+ * [Free Hosting](http://freehostingnoads.net/) — Free HostingWith PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
 
 ## DNS
 
@@ -567,12 +574,13 @@ Table of Contents
 
 ## Issue Tracking and Project Management
 
+   * [todoist.com](https://todoist.com/) — Collaborative and individual task management. Free, Premium and Team plans are available. Discounts provided for eligible users.
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
-   * [pivotaltracker.com](https://www.pivotaltracker.com/) — Pivotal Tracker, free for public projects
+   * [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with 3 total active users (read-write) and unlimited passive users (read-only).
    * [kanbantool.com](https://kanbantool.com/) — Kanban board based project management. Free, paid plans with more options
    * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
    * [zenhub.io](https://www.zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
-   * [trello.com](https://trello.com/) — Board based project management. Free
+   * [trello.com](https://trello.com/) — Board based project management. Unlimited Personal Boards, 10 Team Boards.
    * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
    * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
@@ -600,6 +608,7 @@ Table of Contents
    * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
    * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
    * [Clubhouse](https://clubhouse.io/) - Project management platform. Free for up to 10 users forever
+   * [Ora](https://ora.pm/) - Agile task management & team collaboration. Free for up to 3 users and files are limited to 10 MB.
 
 
 
@@ -634,16 +643,20 @@ Table of Contents
   * [vectr.com](https://vectr.com/) — Free Design App For Web + Desktop
   * [clevebrush.com](https://www.cleverbrush.com/) — Free Graphics Design / Photo Collage App, also they offer paid integration of it as component
   * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
-  * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
+  * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free plan limited to one user and one project.
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [figma.com](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects
   * [designer.io](https://www.designer.io/) — Design tool for UI, illustrations and more. Has a native app. Free
   * [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
   * [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has free API that allows you to search photos by keywords.
+  * [unsplash.com](https://unsplash.com/) - Free stock photos for commercial and noncommercial purposes (do-whatever-you-want license)
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting
+
   * [freepik.com](https://freepik.com/) - Free stock and Premium Illustrations .Ai/ .eps /.psd
-  * [dribbble.com](https://dribbble.com/) - Inspiration for Designers 
+
+  * [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe & Prototyping tool similar to Sketch. Free plan covers: 1 active shared design spec, Adobe Fonts Free (limited set of fonts), 2GB of cloud storage
+
 
 ## Data Visualization on Maps
 
@@ -716,7 +729,7 @@ Table of Contents
    * [hotjar.com](https://www.hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
    * [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), 3 heatmaps, 1 funnel, 1 month data history
-
+   * [mouseflow.com](https://mouseflow.com/) — 100 sessions/month free for 1 website
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
@@ -761,6 +774,7 @@ Table of Contents
   * [Typeform.com](https://www.typeform.com/) — Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
   * [Filly](https://fill.ly) — Boost your web development workflow by reusing manual actions done previously on your app. Form filler for improved team collaboration. 
+  * [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Inculdes a basic login system for saving your requests.
 
 ## Other Free Resources
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers
