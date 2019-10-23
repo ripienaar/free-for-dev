@@ -384,7 +384,7 @@ Table of Contents
 ## Email
 
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
-  * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 10,000 free API requests/month
+  * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
   * [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails and 100 e-mail address validation is free each month
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
@@ -395,7 +395,7 @@ Table of Contents
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free
   * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
-  * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 25 users
+  * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 5 users
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
