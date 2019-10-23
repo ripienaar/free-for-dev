@@ -602,6 +602,7 @@ Table of Contents
    * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
    * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
    * [Clubhouse](https://clubhouse.io/) - Project management platform. Free for up to 10 users forever
+   * [Ora](https://ora.pm/) - Agile task management & team collaboration. Free for up to 3 users and files are limited to 10 MB.
 
 
 
