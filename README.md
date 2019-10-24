@@ -107,6 +107,17 @@ Table of Contents
     * Notifications - 1 million delivery options per month, 1000 emails sent per month
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
+  * [IBM Cloud](https://www.ibm.com/cloud/free/)
+    * Kubernetes - Free cluster with 1 worker node
+    * Cloud Functions - 5 million executions per month
+    * Object Storage - 25GB per month
+    * Cloudant database - 1 GB of data stoage
+    * Db2 database - 100MB of data storage
+    * API Connect - 50,000 API calls per month
+    * Availability Monitoring - 3 million data points per month
+    * Log Analysis - 500MB od daily log
+    * Full, detailed list - https://www.ibm.com/cloud/free/
+
 ## Source Code Repos
 
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators) with Pipelines for CI/CD
@@ -258,7 +269,6 @@ Table of Contents
   * [gitlab.com](https://about.gitlab.com/product/continuous-integration/) — Create pipelines directly from Git repositories using GitLab's CI service.  2,000min/mo
   * [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
   * [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
-  * [IBM Continuous Delivery](https://www.ibm.com/cloud/continuous-delivery) - Free 500 delivery pipeline jobs per month
 
 ## Testing
 
@@ -447,7 +457,6 @@ Table of Contents
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [heroku.com](https://www.heroku.com/) — Host your apps in the cloud, free for single process apps
   * [firebase.google.com](https://firebase.google.com) — Build real-time apps, the free plan has 100 max connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer
-  * [IBM Cloud](https://cloud.ibm.com/login) — IBM PaaS with a monthly free allowance
   * [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411) — The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps
   * [mendix.com](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
@@ -545,7 +554,6 @@ Table of Contents
 
 ## DBaaS
 
-   * [ibm.com](https://www.ibm.com/cloud/cloudant) — Hosted database from IBM, 1 GB free
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
    * [redsmin.com](https://www.redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](https://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
