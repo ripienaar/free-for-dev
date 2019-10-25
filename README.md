@@ -269,6 +269,7 @@ Table of Contents
   * [gitlab.com](https://about.gitlab.com/product/continuous-integration/) — Create pipelines directly from Git repositories using GitLab's CI service.  2,000min/mo
   * [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
   * [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
+  * [github.com](https://github.com/features/actions/) — CI/CD provided by GitHub (currently in Beta). 100% free for all public repositories, 2,000 build minutes per month free for private repositories (unlimited during Beta). Only available for repos on GitHub
 
 ## Testing
 
