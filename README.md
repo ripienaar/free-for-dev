@@ -22,7 +22,7 @@ Table of Contents
    * [Testing](#testing)
    * [BaaS](#baas)
    * [CDN and Protection](#cdn-and-protection)
-   * [CI / CD](#ci--cd)
+   * [CI / CD](#cicd)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
@@ -252,7 +252,7 @@ Table of Contents
   * [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
 
-## CI / CD
+## <a name="cicd"></a>CI / CD
 
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
   * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
