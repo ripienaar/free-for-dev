@@ -430,6 +430,7 @@ Table of Contents
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
   * [10minutemail](10minutemail.com) - Free, temporary email for testing.
+  * [Mailnesia](mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
 
 ## CDN and Protection
 
