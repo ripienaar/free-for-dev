@@ -219,6 +219,7 @@ Table of Contents
 ## Code Quality
 
   * [codescene.io](https://codescene.io/) - CodeScene prioritizes technical debt based on how the developers work with the code, and visualizes organizational factors like team coupling and system mastery. Free for Open Source.
+  * [dareboost](https://dareboost.com) - 5 free analysis report for web performance, accessibility, security each month
   * [hiberly.com](https://hiberly.com) - Tech debt toolkit for developers - grabs feedback from engineers after each merge, then aggregates this to quantify and highlight tech debt in the codebase. Free for use in retrospectives for up to 12 months.
   * [tachikoma.io](https://tachikoma.io/) — Dependency Update for Ruby, Node.js, Perl projects, free for Open Source
   * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for Open Source and unlimited organisation-owned private repos (upto 4 collaboraters). Also free for students and institutions.
