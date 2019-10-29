@@ -396,6 +396,7 @@ Table of Contents
 
 ## Email
 
+  * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
   * [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
