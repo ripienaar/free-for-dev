@@ -284,6 +284,8 @@ Table of Contents
   * [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
   * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free project.
   * [cypress.io](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open source with no restrictions and limitations. Cypress Dashboard is free for open source projects for up to 5 users. 
+  * [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library. 
+10 team members, Demo app and unlimited projects, 5,000 snapshots / month.
 
 ## Security and PKI
 
