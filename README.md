@@ -516,6 +516,7 @@ Table of Contents
 ## Web Hosting
 
   * [pages.github.com](https://pages.github.com/) — Hosting static site directly from GitHub repository
+  * [gitlab.com](https://about.gitlab.com/product/pages/) — Hosting static site directly from GitLab repository
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps and websites into a personal developer portfolio
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 GB data and 100 GB/month bandwidth
