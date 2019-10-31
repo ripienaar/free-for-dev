@@ -54,6 +54,7 @@ Table of Contents
    * [Vagrant Related](#vagrant-related)
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
+   * [Dev Blogging Sites](#dev-blogging-sites)
 
 ## Major Cloud Providers
 
@@ -779,6 +780,12 @@ Table of Contents
 
   * [app.vagrantup.com](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
   * [vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
+
+## Dev Blogging Sites
+
+  * [dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
+  * [medium.com](https://medium.com/) — Get smarter about what matters to you.
+  * [hashnode.com](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
 
 ## Miscellaneous
   * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
