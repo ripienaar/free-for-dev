@@ -301,6 +301,7 @@ Table of Contents
   * [snyk.io](https://snyk.io) — Can find and fix known security vulnerabilities in your open source dependencies. Unlimited tests and remediation for open source projects. Limited to 200 tests/month for your private projects.   
   * [letsencrypt.org](https://letsencrypt.org/) — Free SSL Certificate Authority with certs trusted by all major browsers
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) — Free SSL certificates for Open Source
+  * [FusionAuth](https://fusionauth.io/) - Built for devs: Integrates with every platform, every codebase. Complete authentication, registration, login, MFA, SSO and more. Download for free.
   * [Okta](https://developer.okta.com/) — User management, authentication and authorization. Free for up to 1000 monthly active users.
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO. Up to 2 social identity providers for closed-source projects.
   * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
