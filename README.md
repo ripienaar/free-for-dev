@@ -95,7 +95,6 @@ Table of Contents
     * Load Balancer - 1 free public load balanced IP (VIP)
     * Notification Hubs - 1 million push notifications
     * Bandwidth - 5GB egress per month
-    * Visual Studio Code
     * Full, detailed list - https://azure.microsoft.com/en-us/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
