@@ -95,7 +95,6 @@ Table of Contents
     * Load Balancer - 1 free public load balanced IP (VIP)
     * Notification Hubs - 1 million push notifications
     * Bandwidth - 5GB egress per month
-    * Visual Studio Code
     * Full, detailed list - https://azure.microsoft.com/en-us/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
@@ -726,6 +725,7 @@ Table of Contents
    * [Katacoda](https://katacoda.com) — Interactive learning and training platform for software engineers helping developers learn and companies increase adoption.
    * [JDoodle](https://www.jdoodle.com) — Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
    * [Atom](https://atom.io/) - Atom is a hackable text editor built on Electron.
+   * [Visual Studio Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft for Windows, macOS and Linux.
 
 ## Analytics, Events and Statistics
 
