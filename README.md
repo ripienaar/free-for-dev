@@ -780,6 +780,7 @@ Table of Contents
   * [Whales](https://github.com/Gueils/whales) — A tool to automatically dockerize your applications for free.
   * [PWD](https://labs.play-with-docker.com/) — Play with Docker. A simple, interactive and fun playground to learn Docker
   * [Gitlab](https://gitlab.com) - Per-repo container registry.  10GB limit.
+  * [portainer.io](https://www.portainer.io) - Build and manage your Docker environments with ease today
 
 ## Vagrant Related
 
