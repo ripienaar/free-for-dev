@@ -444,6 +444,7 @@ Table of Contents
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [ImprovMX](https://improvmx.com) – Free email forwarding
+  * [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7 day Mailbox History
 
 ## CDN and Protection
 
