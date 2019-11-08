@@ -377,7 +377,6 @@ Table of Contents
   * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
   * [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
-  * [librato.com](https://www.librato.com/) — Free up to 100 metrics at 60 seconds resolution
   * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects
   * [loader.io](https://loader.io/) — Free load testing tools with limitations
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) — Performance Monitoring API, checks Ping, DNS, etc.
