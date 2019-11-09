@@ -463,7 +463,6 @@ Table of Contents
   * [jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
   * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
   * [staticaly.com](https://staticaly.com/) — CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets and images
-  * [bitmitigate.com](https://bitmitigate.com/website-suite.html) — Free CDN, DDoS protection and SSL certificate
   * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
   * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDos protection and SSL certificate
 
