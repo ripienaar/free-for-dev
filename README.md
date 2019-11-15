@@ -537,7 +537,6 @@ Table of Contents
   * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
   * [Infinity Free](https://infinityfree.net/) —  Completely free website hosting with unlimited disk space and bandwidth.
   * [000WebHost](https://www.000webhost.com/) — Zero cost website hosting with PHP, MySQL, cPanel & no ads!
-  * [Free Host](https://profreehost.com/) — Free Web Hosting with Unlimited diskspace and bandwidth.
   * [Free Hosting](http://freehostingnoads.net/) — Free Hosting With PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
   * [2Host](https://2host.me) — Free hosting with Rocket boost website performance and SDD storage.
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
