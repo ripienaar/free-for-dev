@@ -22,7 +22,7 @@ Table of Contents
    * [Testing](#testing)
    * [BaaS](#baas)
    * [CDN and Protection](#cdn-and-protection)
-   * [CI / CD](#ci-cd)
+   * [CI and CD](#ci-and-cd)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
@@ -43,7 +43,7 @@ Table of Contents
    * [Other Free Resources](#other-free-resources)
    * [PaaS](#paas)
    * [Package Build System](#package-build-system)
-   * [Payment / Billing Integration](#payment--billing-integration)
+   * [Payment and Billing Integration](#payment-and-billing-integration)
    * [Search](#search)
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
@@ -262,7 +262,7 @@ Table of Contents
   * [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
 
-## CI / CD
+## CI and CD
 
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
   * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
@@ -764,7 +764,7 @@ Table of Contents
   * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
   * [veriphone.io](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
-## Payment / Billing Integration
+## Payment and Billing Integration
 
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
