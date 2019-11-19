@@ -117,7 +117,7 @@ Table of Contents
     * Db2 database - 100MB of data storage
     * API Connect - 50,000 API calls per month
     * Availability Monitoring - 3 million data points per month
-    * Log Analysis - 500MB od daily log
+    * Log Analysis - 500MB of daily log
     * Full, detailed list - https://www.ibm.com/cloud/free/
 
 ## Source Code Repos
@@ -485,6 +485,7 @@ Table of Contents
   * [workers.dev](https://workers.dev) - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow, based on any trigger. Workflows are code, which you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
   * [okteto.com](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with five namespaces, each with 8GB of RAM and 4 CPUs.
+  * [kubesail.com](https://kubesail.com) - Managed Kubernetes namespace service designed for developers. Free developer accounts come with with 1 Core of CPU, 512MB of RAM, 100MB of storage and 1 domain.
 
 ## BaaS
 
