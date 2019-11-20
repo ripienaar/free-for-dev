@@ -294,6 +294,7 @@ Table of Contents
   * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free project.
   * [cypress.io](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open source with no restrictions and limitations. Cypress Dashboard is free for open source projects for up to 5 users.
   * [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  10 team members, Demo app and unlimited projects, 5,000 snapshots / month.
+  * [locust.io](https://locust.io/) - Python based load testing tool, Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
 
 ## Security and PKI
 
