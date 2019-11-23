@@ -38,6 +38,7 @@ Table of Contents
    * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
    * [Log Management](#log-management)
    * [Management Systems](#management-system)
+   * [Messaging and Streaming](#messaging)
    * [Miscellaneous](#miscellaneous)
    * [Monitoring](#monitoring)
    * [Other Free Resources](#other-free-resources)
@@ -335,6 +336,10 @@ Table of Contents
   * [bitnami.com](https://bitnami.com/) — Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
   * [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones and Macs, 3 devices free
   * [moss.sh](https://moss.sh) - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
+
+## Messaging
+  * [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
+
 
 ## Log Management
 
