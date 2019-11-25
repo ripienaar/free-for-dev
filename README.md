@@ -671,6 +671,7 @@ Table of Contents
    * [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
    * [jsonbin.io](https://jsonbin.io/) — Free JSON data storage service, ideal for small-scale web apps, website, mobile apps.
    * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
+   * [extendsclass.com](https://extendsclass.com/json-storage.html) — Free JSON web storage. Store, read and modify JSON data through an HTTP API.
 
 ## Design and UI
 
