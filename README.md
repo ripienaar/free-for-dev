@@ -572,7 +572,8 @@ Table of Contents
 ## IaaS
 
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
-  * [www.terraform.io](https://www.terraform.io/) - Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
+  * [www.terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
+  * [scaleway.com](https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic
 
 ## DBaaS
 
