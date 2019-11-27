@@ -644,7 +644,6 @@ Table of Contents
    * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
    * [GraphQL Inspector](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector ouputs a list of changes between two GraphQL schemas. Every change is precisely explained and marked as breaking, non-breaking or dangerous.
 
-
 ## Storage and Media Processing
 
    * [redbooth.com](https://redbooth.com) — P2P file syncing, free for up to 2 users
