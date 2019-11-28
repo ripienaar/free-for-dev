@@ -672,6 +672,7 @@ Table of Contents
 
    * [redbooth.com](https://redbooth.com) — P2P file syncing, free for up to 2 users
    * [cloudinary.com](https://cloudinary.com/) — Image upload, powerful manipulations, storage and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
+   * [easyDB.io](https://easydb.io/) — one-click, hosted database provider. They provide a database for the programming language of your choice for development purposes. The DB is ephemeral and will be deleted after 24 or 72 hours on the free tier.
    * [piio.co](https://piio.co/) — Responsive image optimization and delivery for every website. Free plan for developers and personal websites. Includes free CDN, WebP and Lazy Loading out of the box.
    * [gumlet.com](https://www.gumlet.com/) — Image resize-as-a-service. It also optimizes images and performs delivery via CDN. Free tier includes 1 GB bandwidth and unlimited number of image processing every month for 1 year.
    * [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
@@ -688,6 +689,8 @@ Table of Contents
    * [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
    * [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
    * [jsonbin.io](https://jsonbin.io/) — Free JSON data storage service, ideal for small-scale web apps, website, mobile apps.
+   * [jsonstore.io](https://www.jsonstore.io/) — One click JSON storage endpoint
+   * [npoint.io](https://www.npoint.io/) — JSON store with collaborative schema editing
    * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
 
 ## Design and UI
