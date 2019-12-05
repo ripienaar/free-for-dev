@@ -196,6 +196,7 @@ Table of Contents
 
 ## Tools for Teams and Collaboration
 
+  * [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
   * [GitDuck](https://gitduck.com/) — Private live coding and remote pair programming for distributed teams. Open-source tool
   * [scinote.net](https://scinote.net) — Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space
   * [whereby.com](https://whereby.com/) — One click video conversations, for free (formerly known as appear.in)
