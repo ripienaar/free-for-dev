@@ -723,7 +723,7 @@ Table of Contents
   * [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
   * [Pencil](https://github.com/evolus/pencil) - Open source design tool using Electron.
   * [Invision App](https://www.invisionapp.com) - UI design and prototyping tool. Desktop and webapp available. Free to use with 1 active prototype.
-  * [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. Free tier available when free trail ends.
+  * [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. Free tier available when free trial ends. Free tier includes: 1 user, 1 project, 5 prototypes, 100MB online storage and preview in proto.io app.
 
 ## Data Visualization on Maps
 
