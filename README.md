@@ -24,6 +24,7 @@ Table of Contents
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
+   * [Chaos Engineering](#chaos-engineering)
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [DBaaS](#dbaas)
    * [Design and UI](#design-and-ui)
@@ -413,6 +414,10 @@ Table of Contents
   * [bugsnag.com](https://www.bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
   * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring that's so awesome, you'll wish your site had more errors. Honeybadger is free for solo devs and open-source projects (12,000 errors/month).
+
+## Chaos Engineering
+
+  * [Gremlin](https://www.gremlin.com/gremlin-free-software) — Gremlin's Chaos Engineering tools allow you to safely, securely, and simply inject failure into your systems to find weaknesses before they cause customer-facing issues.
 
 ## Search
 
