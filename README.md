@@ -265,6 +265,7 @@ Table of Contents
   * [Imgbot](https://github.com/marketplace/imgbot) — Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
   * [Typo CI](https://github.com/marketplace/typo-ci) — Typo CI reviews your Pull Requests and commits for spelling mistakes, free for Open Source.
   * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes and finds issues categorized under security, performance, anti-patterns, bug-risks, documentation and style. For Python and Go. Free for open source.
+  * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev) - Automated Infrastructure as Code review tool for DevOps integrates with GitHub, Bitbucket and GitLab (even self-hosted). In addition to standard languages, it analyzes also Ansible, Terraform, CloudFormation, Kubernetes, and more. (open-source free)
 
 ## Code Search and Browsing
 
