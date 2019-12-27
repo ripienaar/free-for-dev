@@ -499,6 +499,7 @@ Table of Contents
   * [staticaly.com](https://staticaly.com/) — CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets and images
   * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
   * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDos protection and SSL certificate
+  * [pika.dev/cdn](https://www.pika.dev/cdn) — The 100% Native ES Module JavaScript CDN
 
 ## PaaS
 
