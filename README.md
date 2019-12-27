@@ -139,6 +139,7 @@ Table of Contents
 
 ## APIs, Data and ML
 
+  * [Firecamp](https://firecamp.app/) — API studio to test out any APIs including Rest, Websocket, GraphQL and manymore. 
   * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
   * [ApiFlash](https://apiflash.com) — A screenshot API based on Aws Lambda and Chrome. Handles full page, capture timing, viewport dimensions, ...
   * [Apify](https://www.apify.com/) — Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention.
