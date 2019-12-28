@@ -125,7 +125,7 @@ Table of Contents
 
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (up to 3 collaborators) with Pipelines for CI/CD
   * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
-  * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators and 10 GB space per repo
+  * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators, with Pipelines for CI/CD, and 10 GB space per repo
   * [pijul.com](https://pijul.com/) - Unlimited free and open source distributed version control system. Its distinctive feature is to be based on a sound theory of patches, which makes it easy to learn and use, and really distributed. Solves many problems of git/hg/svn/darcs.
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited private repos (Git and TFS) for up to 5 users/team
