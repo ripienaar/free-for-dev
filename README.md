@@ -754,6 +754,7 @@ Table of Contents
    * [opencagedata.com](https://opencagedata.com) — Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day.
    * [osmnames](https://osmnames.org/) — Geocoding, search results ranked by the popularity of related Wikipedia page.
    * [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. 2,500 free map views and API requests / day for non-commercial usage and testing.
+   * [kepler.gl](https://kepler.gl) - a powerful open source geospatial analysis tool for large-scale data sets (from Uber)
 
 ## Package Build System
 
