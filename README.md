@@ -455,6 +455,7 @@ Table of Contents
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
+  * [postale.io](https://postale.io/) — Free domain email addresses for up to 5 users per domain, unlimited domains, POP3/IMAP enabled, no ads
   * [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
   * [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
   * [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
