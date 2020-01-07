@@ -845,6 +845,7 @@ Table of Contents
   * [PWD](https://labs.play-with-docker.com/) — Play with Docker. A simple, interactive and fun playground to learn Docker
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [Whales](https://github.com/Gueils/whales) — A tool to automatically dockerize your applications for free.
+  * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive and fun playground to learn Docker.
 
 ## Vagrant Related
 
