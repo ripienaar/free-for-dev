@@ -308,6 +308,7 @@ Table of Contents
   * [saucelabs.com](https://saucelabs.com/) — Cross browser testing, Selenium testing and mobile testing, [free for Open Source](https://saucelabs.com/open-source)
   * [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
   * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free project.
+  * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free admin testing tools.
 
 ## Security and PKI
 
@@ -412,6 +413,7 @@ Table of Contents
   * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
+  * [websitepulse.com](https://www.websitepulse.com/) — Free basic uptime monitoring after a 30-day free full-service trial.
 
 ## Crash and Exception Handling
 
