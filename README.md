@@ -20,6 +20,7 @@ Table of Contents
    * [BaaS](#baas)
    * [CDN and Protection](#cdn-and-protection)
    * [CI and CD](#ci-and-cd)
+   * [CMS](#cms)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
@@ -233,6 +234,14 @@ Table of Contents
   * [wistia.com](https://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [yammer.com](https://www.yammer.com/) — Private social network standalone or for MS Office 365. Free with a bit less admin tools and user management features
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
+
+
+## CMS
+
+  * [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
+  * [contentful.com](https://www.contentful.com/) — Headless CMS. Content management and delivery APIs in the cloud. Comes with one free micro space that includes 10 users, 5000 records, 24 Content Types, 2 locales.
+  * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, custom types, assets, and locales. Everything that you need for your next project. Bigger free plans available for Open Content/Open Source projects.
+  * [sanity.io](https://www.sanity.io/) – Hosted backend for structured content with customizable MIT licensed editor built with React. Unlimited projects. 3 users, 2 datasets, 500k API CDN requests, 5GB assets for free per project
 
 ## Code Quality
 
@@ -561,12 +570,10 @@ Table of Contents
 ## Web Hosting
 
   * [000WebHost](https://www.000webhost.com/) — Zero cost website hosting with PHP, MySQL, cPanel & no ads!
-  * [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
   * [Byet](https://byet.host) — Byet provides you with a massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!..
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
-  * [contentful.com](https://www.contentful.com/) — Headless CMS. Content management and delivery APIs in the cloud. Comes with one free micro space that includes 10 users, 5000 records, 24 Content Types, 2 locales.
   * [devport.co](http://devport.co/) — Turn GitHub projects, apps and websites into a personal developer portfolio
   * [Free Hosting](http://freehostingnoads.net/) — Free Hosting With PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
   * [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
@@ -576,10 +583,8 @@ Table of Contents
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 GB data and 100 GB/month bandwidth
   * [pages.github.com](https://pages.github.com/) — Hosting static site directly from GitHub repository
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
-  * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, Custom Types, assets, and locales. Everything that you need for your next project.
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [render.com](https://render.com) — A unified platform to build and run all your apps and web app free SSL, a global CDN, private networks and auto deploys from Git, free for static web page.
-  * [sanity.io](https://www.sanity.io/) – Hosted backend for structured content with customizable MIT licensed editor built with React. Unlimited projects. 3 users, 2 datasets, 500k API CDN requests, 5GB assets for free per project
   * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
