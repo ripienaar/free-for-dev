@@ -303,6 +303,7 @@ Table of Contents
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
+  * [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
 
 ## Testing
 
