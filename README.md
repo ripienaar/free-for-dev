@@ -24,7 +24,6 @@ Table of Contents
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
-   * [Chaos Engineering](#chaos-engineering)
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [DBaaS](#dbaas)
    * [Design and UI](#design-and-ui)
@@ -305,6 +304,8 @@ Table of Contents
   * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free project.
   * [cypress.io](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open source with no restrictions and limitations. Cypress Dashboard is free for open source projects for up to 5 users.
   * [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  10 team members, Demo app and unlimited projects, 5,000 snapshots / month.
+  * [Gremlin](https://www.gremlin.com/gremlin-free-software) — Gremlin's Chaos Engineering tools allow you to safely, securely, and simply inject failure into your systems to find weaknesses before they cause customer-facing issues. Gremlin Free provides access to Shutdown and CPU attacks on up to 5 hosts or containers.
+
 
 ## Security and PKI
 
@@ -414,10 +415,6 @@ Table of Contents
   * [bugsnag.com](https://www.bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
   * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring that's so awesome, you'll wish your site had more errors. Honeybadger is free for solo devs and open-source projects (12,000 errors/month).
-
-## Chaos Engineering
-
-  * [Gremlin](https://www.gremlin.com/gremlin-free-software) — Gremlin's Chaos Engineering tools allow you to safely, securely, and simply inject failure into your systems to find weaknesses before they cause customer-facing issues. Gremlin Free provides access to Shutdown and CPU attacks on up to 5 hosts or containers.
 
 ## Search
 
