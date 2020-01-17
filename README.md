@@ -484,6 +484,7 @@ Table of Contents
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
   * [zoho.com](https://www.zoho.com/mail/) — Free Webmail and collaboration for up to 5 users
+  * [emailprofi.cz](https://emailprofi.cz) — Free email hosting
 
 ## Forms
 
