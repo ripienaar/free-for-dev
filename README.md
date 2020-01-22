@@ -749,7 +749,7 @@ Table of Contents
   * [resizeappicon.com](https://resizeappicon.com/) — A simple service to resize and manage your app icons.
   * [smartmockups.com](https://smartmockups.com/) — Create product mockups, 200 free mockups.
   * [unDraw](https://undraw.co/) - A constantly updated collection of beautiful svg images that you can use completely free and without attribution.
-  * [userway.org](https://userway.org/) - Free Web Accessibility Widget. 
+  * [userway.org](https://userway.org/) - 100% Free Web Accessibility Widget. Accessibility Audits if needed starting from   $980 
   * [unsplash.com](https://unsplash.com/) - Free stock photos for commercial and noncommercial purposes (do-whatever-you-want license).
   * [vectr.com](https://vectr.com/) — Free Design App for Web + Desktop.
   * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk.
