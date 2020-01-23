@@ -189,6 +189,7 @@ Table of Contents
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month
   * [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits
   * [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
+  * [APIFull](https://apifull.com/) — Web Scraping API handling headless browsers and rotating proxies for developers.  
 
 ## Artifact Repos
 
@@ -756,6 +757,7 @@ Table of Contents
   * [Webflow](https://webflow.com) - WYSIWYG web site builder with animations and website hosting. Free for 2 projects.
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
+  * [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
 
 ## Data Visualization on Maps
 
