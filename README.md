@@ -122,6 +122,12 @@ Table of Contents
     * Log Analysis - 500MB of daily log
     * Full, detailed list - https://www.ibm.com/cloud/free/
 
+  * [Alibaba Cloud](https://www.ibm.com/cloud/free/)
+    * Compute - 1 ecs.t5-lc1m1.small for 12 months with 40 GB ultra cloud disk or SSD disk and 1 MB internet bandwidth.
+    * Function Compute - 1 million calls free each month, 400,000 GB-seconds free each month
+    * API Gateway - For the 1st year you activate API Gateway, you get 1 million free calls each month.
+    * Full, detailed list - https://www.alibabacloud.com/campaign/free-trial
+
 ## Source Code Repos
 
   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited private repos (Git and TFS) for up to 5 users/team
