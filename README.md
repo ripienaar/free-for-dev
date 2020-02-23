@@ -229,7 +229,7 @@ Table of Contents
   * [helpmonks.com](https://helpmonks.com) — Shared inbox for teams, free for Open Source and nonprofit organizations
   * [ideascale.com](https://ideascale.com) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [Igloo](https://www.igloosoftware.com) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
-  * [KeyBase](https://keybase.io/) — Keybase is a cool FOSS alternative to Slack, it keeps everyone's chats and files safe, from families to communities to companies.
+  * [Keybase](https://keybase.io/) — Keybase is a cool FOSS alternative to Slack, it keeps everyone's chats and files safe, from families to communities to companies.
   * [meet.jit.si](https://meet.jit.si) — One click video conversations, screen sharing, for free
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users.
   * [Notion](https://www.notion.so) - Notion is a note-taking and collaboration application with markdown support that also integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
