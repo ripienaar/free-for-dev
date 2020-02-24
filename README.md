@@ -702,6 +702,7 @@ Table of Contents
    * [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free, paid plans with more options
    * [kanrails.com](https://kanrails.com/) — Kanban board-based project management. Free for 3 collaborators, 2 projects and 5 tracks. Paid plans available for unlimited collaborators, projects and tracks.
    * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
+   * [MeuScrum](https://www.meuscrum.com) - Free online scrum tool with kanban board
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) — Free one-year Office 365 E3 subscription for development/testing.
    * [Ora](https://ora.pm/) - Agile task management & team collaboration. Free for up to 3 users and files are limited to 10 MB.
    * [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with 3 total active users (read-write) and unlimited passive users (read-only).
