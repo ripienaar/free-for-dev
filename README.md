@@ -31,6 +31,7 @@ Table of Contents
    * [DNS](#dns)
    * [Docker Related](#docker-related)
    * [Email](#email)
+   * [Font](#font)
    * [Forms](#forms)
    * [IaaS](#iaas)
    * [IDE and Code Editing](#ide-and-code-editing)
@@ -504,6 +505,11 @@ Table of Contents
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
   * [zoho.com](https://www.zoho.com/mail/) — Free Webmail and collaboration for up to 5 users
   * [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).
+
+## Font
+  * [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property, and are either freeware, shareware, demo versions or public domain.
+  * [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
+  * [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
 
 ## Forms
 
