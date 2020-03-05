@@ -459,7 +459,6 @@ Table of Contents
 ## Search
 
   * [algolia.com](https://www.algolia.com/) — Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
-  * [Aleph](https://docs.alephdata.org/) — Aleph is a powerful and foss tool for people who follow the money. It helps investigators to securely access and search large amounts of data - no matter whether they are a government database or a leaked email archive.
   * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
 
