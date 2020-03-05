@@ -215,6 +215,7 @@ Table of Contents
 
 ## Tools for Teams and Collaboration
 
+  * [Bitwarden](https://bitwarden.com) — The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
   * [cally.com](https://cally.com/) — Find the perfect time and date for a meeting. Simple to use, works great for small and large groups.
   * [Discord](https://discordapp.com/) — Chat with public/private Rooms & VoIP Service. Free for unlimited users.
   * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
@@ -229,6 +230,7 @@ Table of Contents
   * [helpmonks.com](https://helpmonks.com/) — Shared inbox for teams, free for Open Source and nonprofit organizations
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
+  * [Keybase](https://keybase.io/) — Keybase is a cool FOSS alternative to Slack, it keeps everyone's chats and files safe, from families to communities to companies.
   * [meet.jit.si](https://meet.jit.si/) — One click video conversations, screen sharing, for free
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users.
   * [Notion](https://www.notion.so/) - Notion is a note-taking and collaboration application with markdown support that also integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
@@ -457,6 +459,7 @@ Table of Contents
 ## Search
 
   * [algolia.com](https://www.algolia.com/) — Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
+  * [Aleph](https://docs.alephdata.org/) — Aleph is a powerful and foss tool for people who follow the money. It helps investigators to securely access and search large amounts of data - no matter whether they are a government database or a leaked email archive.
   * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
 
