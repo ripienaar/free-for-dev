@@ -179,7 +179,7 @@ Table of Contents
   * [myfakeapi.com](https://myfakeapi.com) — Free serverless API mocking service for developers
   * [microenv.com](https://microenv.com) —  Create fake REST API for developers with possibility to generate code and app in docker container.
   * [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
-  * [interaction-design.co.za/openapidesigner](https://interaction-design.co.za/openapidesigner/) — Visually create Open API 3 definitions
+  * [interaction-design.co.za/openapidesigner](https://interaction-design.co.za/openapidesigner/) — Visually create Open API 3 definitions for free
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [Postbacks](https://postbacks.io/) - Request HTTP callbacks for a later time. 8,000 free requests on signup.
@@ -584,7 +584,7 @@ Table of Contents
   * [getstream.io](https://getstream.io/) — Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month
   * [hasura.io](https://hasura.io/) — Platform to build and deploy app backends fast, free for single node cluster.
   * [iron.io](https://www.iron.io/) — Async task processing (like AWS Lambda) with free tier and 1-month free trial
-  * [linx.software](https://linx.software/) — A low-code tool to easily design, connect and host server-side services into your website or mobile application
+  * [linx.software](https://linx.software/) — Visual, low-code IDE to easily develop the backend for websites or mobile apps. 14 day free hosting.
   * [netlicensing.io](https://netlicensing.io) - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan for *FREE* while you are a student.
   * [nstack.com](https://nstack.com/) — Async task processing (like AWS Lambda). 10 free private services and unlimited free public services
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
