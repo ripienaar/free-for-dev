@@ -179,6 +179,7 @@ Table of Contents
   * [myfakeapi.com](https://myfakeapi.com) — Free serverless API mocking service for developers
   * [microenv.com](https://microenv.com) —  Create fake REST API for developers with possibility to generate code and app in docker container.
   * [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
+  * [interaction-design.co.za/openapidesigner](https://interaction-design.co.za/openapidesigner/) — Visually create Open API 3 definitions for free
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [Postbacks](https://postbacks.io/) - Request HTTP callbacks for a later time. 8,000 free requests on signup.
