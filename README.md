@@ -302,6 +302,7 @@ Table of Contents
   * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
   * [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
+  * [tickgit.com](https://www.tickgit.com/) — Surfaces `TODO` comments (and other markers) to identify areas of code worth returning to for improvement.
 
 ## CI and CD
 
