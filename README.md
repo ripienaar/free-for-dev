@@ -689,6 +689,7 @@ Table of Contents
 
    * [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
    * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with free plan allows unlimited networks with up to 5 peoples
+   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
    * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third-party services. 100,000 events/month free
