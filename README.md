@@ -947,7 +947,7 @@ Table of Contents
 
 ## Other Free Resources
 
-  * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
+  * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required,see [mirror page](https://gh.fastio.me/).
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers
