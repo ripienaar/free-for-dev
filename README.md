@@ -99,6 +99,7 @@ Table of Contents
     * Load Balancer - 1 free public load balanced IP (VIP)
     * Notification Hubs - 1 million push notifications
     * Bandwidth - 5GB egress per month
+    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year
     * Full, detailed list - https://azure.microsoft.com/en-us/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
