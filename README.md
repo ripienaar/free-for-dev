@@ -583,6 +583,7 @@ Table of Contents
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411) — The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps
   * [workers.dev](https://workers.dev) - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
   * [zeit.co/now](https://zeit.co/now) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, 20GB bandwidth, 100 deployments.
+  * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.
 
 ## BaaS
 
