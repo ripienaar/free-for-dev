@@ -596,7 +596,6 @@ Table of Contents
   * [hasura.io](https://hasura.io/) — Platform to build and deploy app backends fast, free for single node cluster.
   * [iron.io](https://www.iron.io/) — Async task processing (like AWS Lambda) with free tier and 1-month free trial
   * [netlicensing.io](https://netlicensing.io) - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan for *FREE* while you are a student.
-  * [nstack.com](https://nstack.com/) — Async task processing (like AWS Lambda). 10 free private services and unlimited free public services
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
   * [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for 1 app, 1GB app data.
   * [posthook.io](https://posthook.io/) — Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free.
