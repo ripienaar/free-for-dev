@@ -616,6 +616,7 @@ Table of Contents
 
 ## Web Hosting
 
+  * [firebase](https://firebase.google.com/products/hosting) — Static, 1 GB free storage with 10 GB/month Bandwidth.
   * [000WebHost](https://www.000webhost.com/) — Zero cost website hosting with PHP, MySQL, cPanel & no ads!
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
