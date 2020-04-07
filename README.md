@@ -714,6 +714,7 @@ Table of Contents
    * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
    * [Cloudcraft](https://cloudcraft.co/) — Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too.
    * [Clubhouse](https://clubhouse.io/) - Project management platform. Free for up to 10 users forever
+   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.
    * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
    * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
    * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
