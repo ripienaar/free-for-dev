@@ -550,7 +550,7 @@ Table of Contents
   * [jsdelivr.com](https://www.jsdelivr.com/) — CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
   * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
-  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDos protection and SSL certificate
+  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate
   * [PageCDN.com](https://pagecdn.com/) - Offers free Public CDN for everyone, and free Private CDN for opensource / nonprofits.
   * [pika.dev/cdn](https://www.pika.dev/cdn) — The 100% Native ES Module JavaScript CDN
   * [raw.githack.com](https://raw.githack.com/) — A modern replacement of **rawgit.com** which simply hosts file using Cloudflare
@@ -560,7 +560,8 @@ Table of Contents
   * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
   * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
   * [Web Support Revolution](https://w.tools/) — Free CDN, backup, firewall, antivirus and monitoring.
-
+  * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
+  
 ## PaaS
 
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
