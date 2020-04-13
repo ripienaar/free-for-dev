@@ -114,7 +114,6 @@ Table of Contents
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
   * [IBM Cloud](https://www.ibm.com/cloud/free/)
-    * Kubernetes - Free cluster with 1 worker node
     * Cloud Functions - 5 million executions per month
     * Object Storage - 25GB per month
     * Cloudant database - 1 GB of data storage
