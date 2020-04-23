@@ -663,7 +663,7 @@ Table of Contents
   * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
   * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) — Free DNS hosting.
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
-  * [zilore.com](https://zilore.com/ru/dns) — Free DNS hosting.
+  * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
   * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
