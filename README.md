@@ -408,7 +408,6 @@ Table of Contents
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
   * [logz.io](https://logz.io/) — Free up to 3 GB/day, 3 days retention
   * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
-  * [rollbar.com](https://rollbar.com) — Free up to 5000 events/month, 30 days retention
   * [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, 7 days retention
   * [splunk.com](https://www.splunk.com) - Free for a single user, 500 MB/day
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
