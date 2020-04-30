@@ -58,6 +58,7 @@ Table of Contents
    * [Vagrant Related](#vagrant-related)
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
+   * [Commenting Platforms](#commenting-platforms)
 
 ## Major Cloud Providers
 
@@ -936,6 +937,19 @@ Table of Contents
   * [dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [hashnode.com](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [medium.com](https://medium.com/) — Get smarter about what matters to you.
+
+## Commenting Platforms
+  * [ReplyBox](https://getreplybox.com) - ReplyBox, a simple, honest comment system. No ads, no dodgy affiliate links, no fluff.
+  * [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.
+  * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience. 
+  * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
+  * [Talkyard](https://www.talkyard.io/blog-comments) - Talkyard is a commenting system for your website. Open source, install for free
+  * [Isso](https://posativ.org/isso) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
+  * [Commento](https://commento.io/) - A fast, privacy-focused commenting platform
+  * [Remark42](https://remark42.com/) - A self-hosted, lightweight, and simple (yet functional) commenting system, which doesn't spy on users.
+  * [schnack](https://schnack.cool/) - An easy to use, self-hosted and open source commenting system
+  * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
+
 
 ## Screenshot APIs
 
