@@ -943,11 +943,6 @@ Table of Contents
   * [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.
   * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience. 
   * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
-  * [Talkyard](https://www.talkyard.io/blog-comments) - Talkyard is a commenting system for your website. Open source, install for free
-  * [Isso](https://posativ.org/isso) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
-  * [Commento](https://commento.io/) - A fast, privacy-focused commenting platform
-  * [Remark42](https://remark42.com/) - A self-hosted, lightweight, and simple (yet functional) commenting system, which doesn't spy on users.
-  * [schnack](https://schnack.cool/) - An easy to use, self-hosted and open source commenting system
   * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
 
 
