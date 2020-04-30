@@ -31,6 +31,7 @@ Table of Contents
    * [DNS](#dns)
    * [Docker Related](#docker-related)
    * [Email](#email)
+   * [Esignature](#esignature)
    * [Font](#font)
    * [Forms](#forms)
    * [IaaS](#iaas)
@@ -975,3 +976,6 @@ Table of Contents
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers
+
+## eSignature
+  * [WaiverStevie.com](https://waiverstevie.com) - Request electronic signatures via REST API. Receive notifications with webhooks. Free plan watermarks signed documents.
