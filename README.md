@@ -628,6 +628,7 @@ Table of Contents
 ## Web Hosting
 
   * [000WebHost](https://www.000webhost.com/) — Zero cost website hosting with PHP, MySQL, cPanel & no ads!
+  * [Amezmo](https://www.amezmo.com) — PHP hosting for developers. Docker container based. Modern PHP 7, Automatic Deployments with Git, free SSL for custom domains. 
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
   * [bubble.is](https://bubble.is/) — Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps
   * [Byet](https://byet.host) — Byet provides you with a massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!..
