@@ -277,6 +277,7 @@ Table of Contents
   * [codescene.io](https://codescene.io/) - CodeScene prioritizes technical debt based on how the developers work with the code and visualizes organizational factors like team coupling and system mastery. Free for Open Source.
   * [coveralls.io](https://coveralls.io/) — Display test coverage reports, free for Open Source
   * [dareboost](https://dareboost.com) - 5 free analysis report for web performance, accessibility, security each month
+  * [deepcode.ai](https://www.deepcode.ai) — DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket and Gitlab. Free for open source and private repos, free up to 30 developers.
   * [deepscan.io](https://deepscan.io) — Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source
   * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes and finds issues categorized under security, performance, anti-patterns, bug-risks, documentation and style. For Python and Go. Free for open source.
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
