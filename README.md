@@ -267,6 +267,7 @@ Table of Contents
   * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, custom types, assets, and locales. Everything that you need for your next project. Bigger free plans available for Open Content/Open Source projects.
   * [sanity.io](https://www.sanity.io/) – Hosted backend for structured content with customizable MIT licensed editor built with React. Unlimited projects. 3 users, 2 datasets, 500k API CDN requests, 5GB assets for free per project
   * [kontent.ai](https://www.kontent.ai) - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Starter plan provides 3 users with unlimited projects, 5000 content items, 2 languages. Larger plans available to meet your needs.
+  * [Forestry.io/](https://forestry.io/) — Headless CMS. Give your editors the power of Git.Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews.
 
 ## Code Quality
 
