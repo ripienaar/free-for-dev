@@ -686,6 +686,8 @@ Table of Contents
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
   * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
+  * [alibabacloud.com](https://www.alibabacloud.com/product/dns) — Free DNS hosting by Alibaba Cloud
+  * [dns.as207960.net](https://docs.as207960.net/hexdns/) — Free DNS hosting
 
 ## IaaS
 
