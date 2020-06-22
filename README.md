@@ -198,6 +198,7 @@ Table of Contents
   * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
   * [ScrapingNinja](https://www.scrapingninja.co/) — Handle JS rendering, Chrome Headless, Proxy rotation and CAPTCHAs solving all in one place. The first 1000 are free of charge, no credit card required.
   * [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorisation and no request limits
+  * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
   * [Time Door](https://timedoor.io) - A time series analysis API
   * [Webhook.site](https://webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests instantly.
