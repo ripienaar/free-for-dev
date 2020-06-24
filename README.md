@@ -197,6 +197,7 @@ Table of Contents
   * [ScrapingDog](https://scrapingdog.com/) — Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demand. Free plans available.
   * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
   * [ScrapingNinja](https://www.scrapingninja.co/) — Handle JS rendering, Chrome Headless, Proxy rotation and CAPTCHAs solving all in one place. The first 1000 are free of charge, no credit card required.
+  * [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into RESTful API. Free plan available.
   * [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorisation and no request limits
   * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
