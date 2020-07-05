@@ -461,6 +461,7 @@ Table of Contents
   * [keychest.net/speedtest](https://keychest.net/speedtest) - Independent speed test and TLS handshake latency test against Digital Ocean
   * [letsmonitor.org](https://letsmonitor.org) - SSL monitoring, free for up to 5 monitors
   * [loader.io](https://loader.io/) — Free load testing tools with limitations
+  * [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.
   * [nodequery.com](https://nodequery.com/) — Free basic server monitors up to 10 servers
   * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
@@ -474,7 +475,7 @@ Table of Contents
   * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
-  * [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.
+  * [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for 5 websites, 60 second intervals, public statuspage.
 
 ## Crash and Exception Handling
 
