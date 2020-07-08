@@ -338,6 +338,7 @@ Table of Contents
   * [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
   * [drone](https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place
   * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month
+  * [github.com](https://github.com/) — CI/CD with GitHub Actions (2,000 minutes per month)
 
 ## Testing
 
