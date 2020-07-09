@@ -101,6 +101,7 @@ Table of Contents
     * Notification Hubs - 1 million push notifications
     * Bandwidth - 5GB egress per month
     * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year
+    * [Azure Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL, Authenticationa/Authorisations and custom domains
     * Full, detailed list - https://azure.microsoft.com/en-us/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
