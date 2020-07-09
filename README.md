@@ -850,6 +850,7 @@ Table of Contents
   * [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
   * [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
   * [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
+  * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers)
 
 ## Data Visualization on Maps
 
