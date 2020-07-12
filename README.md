@@ -75,7 +75,7 @@ Table of Contents
     * BigQuery - 1 TB of querying per month, 10 GB of storage each month
     * Cloud Build - 120 build-minutes per day
     * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-    * Full, detailed list - https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits
+    * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
     * Amazon DynamoDB - 25GB NoSQL DB
