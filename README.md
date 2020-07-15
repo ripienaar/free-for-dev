@@ -398,6 +398,7 @@ Table of Contents
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/) — Automated vulnerability scanning. Free plan allows weekly XSS scans
   * [Virgil Security](https://virgilsecurity.com/) — Tools and services for implementing end-to-end encryption, database protection, IoT security and more in your digital solution. Free for applications with up to 250 users.
   * [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. Possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
+  * [WorkOS](https://workos.com/) — Add Enterprise-grade single sign-on to your application. One integration provides you with support for multiple SSO identity providers, including SAML providers like Okta, Azure AD, and G Suite. Seamlessly add new SSO connections for your clients without worrying about their authentication strategy's implementation details.
 
 ## Management System
 
