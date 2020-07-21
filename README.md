@@ -260,7 +260,7 @@ Table of Contents
   * [typetalk.com](https://www.typetalk.com/) — Share and discuss ideas with your team through instant messaging on the web or on your mobile
   * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
   * [whereby.com](https://whereby.com/) — One click video conversations, for free (formerly known as appear.in)
-  * [userforge.com](https://userforge.com/) - Interconnected online personas, user stories and context mapping.  Helps to keep design and dev in sync.
+  * [userforge.com](https://userforge.com/) - Interconnected online personas, user stories and context mapping.  Helps keep design and dev in sync, free for up to 3 personas and 2 collaborators.
   * [wistia.com](https://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [yammer.com](https://www.yammer.com/) — Private social network standalone or for MS Office 365. Free with a bit less admin tools and user management features
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
