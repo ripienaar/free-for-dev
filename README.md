@@ -550,6 +550,7 @@ Table of Contents
   * [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
   * [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
   * [Google Fonts](https://fonts.google.com/) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
+  * [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
 
 ## Forms
 
