@@ -292,7 +292,6 @@ Table of Contents
   * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes and finds issues categorized under security, performance, anti-patterns, bug-risks, documentation and style. For Python and Go. Free for open source.
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
   * [gocover.io](https://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
-  * [golangci.com](https://golangci.com) — Automated Go (golang) code review service for GitHub pull requests.
   * [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
   * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
   * [hiberly.com](https://hiberly.com) - Tech debt toolkit for developers - grabs feedback from engineers after each merge, then aggregates this to quantify and highlight tech debt in the codebase. Free for use in retrospectives for up to 12 months.
