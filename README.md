@@ -132,6 +132,11 @@ Table of Contents
     * .tech Domain Name - Free to use for one year
     * Full, detailed list - https://www.alibabacloud.com/campaign/free-trial
 
+
+  * [DigitalOcean](https://www.digitalocean.com/)
+    * [GitHub Student Developer Pack for free $50 DigitalOcean Credit](https://www.digitalocean.com/github-students/)
+    * [DigitalOcean Open source sponsorships](https://www.digitalocean.com/open-source/)
+
 ## Source Code Repos
 
   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited private repos (Git and TFS) for up to 5 users/team
