@@ -59,6 +59,7 @@ Table of Contents
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
    * [Commenting Platforms](#commenting-platforms)
+   * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
 
 ## Major Cloud Providers
 
