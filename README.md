@@ -215,6 +215,7 @@ Table of Contents
   * [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
   * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.
   * [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. 10000 free requests/month.
+  *[EVA](http://eva.pingutil.com/) - Free email vaidator API, which helps to identify whether an email is dispsable and having valid MX records.
 
 ## Artifact Repos
 
