@@ -837,7 +837,7 @@ Table of Contents
    * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
    * [transloadit.com](https://transloadit.com/) — Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 2 GB free for test driving
-    * [Uploadcare Developer Hub](https://uploadcare.com/hub/developers/) — In addition to paid services, Uploadcare has an absolutely free one for developers. There are a lot of Storage and Media Processing instruments such as file uploader, image and video manipualtions, CDN, etc.
+   * [Uploadcare Developer Hub](https://uploadcare.com/hub/developers/) — Uploadcare provides media pipeline  with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression.
 
 ## Design and UI
 
