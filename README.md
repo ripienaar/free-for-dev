@@ -523,9 +523,9 @@ Table of Contents
   * [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
   * [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface
   * [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
-  * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, unlimited email free
+  * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
-  * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free
+  * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
   * [mailkitchen](https://www.mailkitchen.com/) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
