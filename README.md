@@ -219,6 +219,7 @@ Table of Contents
   * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.
   * [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. 10000 free requests/month.
   * [EVA](http://eva.pingutil.com/) - Free email vaidator API, which helps to identify whether an email is dispsable and having valid MX records.
+  * [happi.dev](https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics). 8000 free API calls per month.
 
 ## Artifact Repos
 
