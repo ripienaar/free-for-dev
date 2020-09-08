@@ -274,6 +274,7 @@ Table of Contents
   * [yammer.com](https://www.yammer.com/) — Private social network standalone or for MS Office 365. Free with a bit less admin tools and user management features
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
 
+  * [Brightful](https://www.brightful.me/) — Play incredibly fun icebreaker and card games to form deep relationships for effective teamwork.
 
 ## CMS
 
