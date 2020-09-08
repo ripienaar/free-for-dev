@@ -273,8 +273,8 @@ Table of Contents
   * [wistia.com](https://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [yammer.com](https://www.yammer.com/) — Private social network standalone or for MS Office 365. Free with a bit less admin tools and user management features
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
-
   * [Brightful](https://www.brightful.me/) — Play incredibly fun icebreaker and card games to form deep relationships for effective teamwork.
+
 
 ## CMS
 
