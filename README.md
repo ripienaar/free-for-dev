@@ -91,19 +91,24 @@ Table of Contents
     * Full, detailed list - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
 
   * [Microsoft Azure](https://azure.microsoft.com)
-    * App service - 10 web, mobile or API apps
-    * Functions - 1 million requests per month
-    * DevTest Labs - Enable fast, easy, and lean dev-test environments
-    * Active Directory - 500,000 objects
-    * Active Directory B2C - 50,000 monthly stored users
-    * Azure DevOps - 5 active users
-    * Microsoft IoT Hub - 8,000 messages per day
-    * Load Balancer - 1 free public load balanced IP (VIP)
-    * Notification Hubs - 1 million push notifications
-    * Bandwidth - 5GB egress per month
-    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year
-    * [Azure Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL, Authenticationa/Authorisations and custom domains
-    * Full, detailed list - https://azure.microsoft.com/en-us/free/
+    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/?WT.mc_id=freefordev-github-yolasors) - 1 B1S Linux VM, 1 B1S Windows VM
+    * [App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=freefordev-github-yolasors) - 10 web, mobile or API apps
+    * [Functions](https://azure.microsoft.com/services/functions/?WT.mc_id=freefordev-github-yolasors) - 1 million requests per month
+    * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/?WT.mc_id=freefordev-github-yolasors) - Enable fast, easy, and lean dev-test environments
+    * [Active Directory](https://azure.microsoft.com/services/active-directory/?WT.mc_id=freefordev-github-yolasors) - 500,000 objects
+    * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/?WT.mc_id=freefordev-github-yolasors) - 50,000 monthly stored users
+    * [Azure DevOps](https://azure.microsoft.com/services/devops/?WT.mc_id=freefordev-github-yolasors) - 5 active users, unlimited private Git repos
+    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/?WT.mc_id=freefordev-github-yolasors) - 8,000 messages per day
+    * [Load Balancer](https://azure.microsoft.com/services/load-balancer/?WT.mc_id=freefordev-github-yolasors) - 1 free public load balanced IP (VIP)
+    * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/?WT.mc_id=freefordev-github-yolasors) - 1 million push notifications
+    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/?WT.mc_id=freefordev-github-yolasors) - 5GB egress per month
+    * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=freefordev-github-yolasors) - 5GB storage and 400 RUs of provisioned throughput
+    * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
+    * [Storage](https://azure.microsoft.com/services/storage/?WT.mc_id=freefordev-github-yolasors) - 5GB LRS File or Blob storage
+    * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=docs-freefordev-yolasors) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
+    * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/?WT.mc_id=freefordev-github-yolasors) - Managed Kubernetes service, free cluster management
+    * [Event Grid](https://azure.microsoft.com/services/event-grid/?WT.mc_id=freefordev-github-yolasors) - 100K ops/month
+    * Full, detailed list - [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/?WT.mc_id=freefordev-github-yolasors)
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
     * Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
@@ -157,6 +162,7 @@ Table of Contents
   * [Abstract API](https://www.abstractapi.com) — API suite for a variety of use cases including IP geolocation, gender detection or even email validation
   * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
   * [Apify](https://www.apify.com/) — Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention.
+  * [Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=docs-freefordev-yolasors) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
   * [Beeceptor](https://beeceptor.com) - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone having link to the dashboard can view requests and responses).
   * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
   * [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month.
@@ -221,7 +227,7 @@ Table of Contents
   * [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. 10000 free requests/month.
   * [EVA](http://eva.pingutil.com/) - Free email vaidator API, which helps to identify whether an email is dispsable and having valid MX records.
   * [happi.dev](https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics). 8000 free API calls per month.
-
+  
 ## Artifact Repos
 
  * [bintray.com](https://bintray.com/) — JFrog Bintray hosts Open Source projects for free, and supports Docker, Maven, NuGet, npm, Debian, RPM, Conan, Vagrant, Opkg, yum, and also home to [JCenter](https://bintray.com/bintray/jcenter) the most comprehensive collection of Maven artifacts.
@@ -341,6 +347,7 @@ Table of Contents
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
   * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
+  * [GitHub Actions](https://github.com/features/actions) - Free for public repos, 2000 build minutes/month for private repos. Supports Windows, Linux, OSX, ARM, with custom containers
   * [gitlab.com](https://about.gitlab.com/product/continuous-integration/) — Create pipelines directly from Git repositories using GitLab's CI service.  2,000min/mo
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
@@ -420,6 +427,7 @@ Table of Contents
 
 ## Messaging
 
+  * [Azure Event Grid](https://azure.microsoft.com/services/event-grid/?WT.mc_id=freefordev-github-yolasors) - Event bus with free 100K ops/month
   * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
   * [pusher.com](https://pusher.com/) — Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
   * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
@@ -502,6 +510,7 @@ Table of Contents
 ## Search
 
   * [algolia.com](https://www.algolia.com/) — Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
+  * [Azure Cognitive Search](https://azure.microsoft.com/services/search/?WT.mc_id=freefordev-github-yolasors#features) - AI-based search and indexation service, free for 10,000 documents
   * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
   * [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.
@@ -533,6 +542,7 @@ Table of Contents
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
   * [mohmal.com](https://www.mohmal.com/en) — Disposable temporary email
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
+  * [Outlook.com](https://outlook.live.com/owa/?WT.mc_id=freefordev-github-yolasors) - Free personal email and calendar
   * [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
   * [postale.io](https://postale.io/) — Free domain email addresses for up to 5 users per domain, unlimited domains, POP3/IMAP enabled, no ads
@@ -668,6 +678,7 @@ Table of Contents
   * [Amezmo](https://www.amezmo.com) — PHP hosting with MySQL for developers. Docker container based. Modern PHP 7, Automatic Deployments with Git, free SSL for custom domains.
   * [Alwaysdata](https://www.alwaysdata.com/) — 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
+  * [Azure Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-yolasors) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
   * [Bubble](https://bubble.io/) — Visual programming to build web and mobile apps without code, free with Bubble branding.
   * [Byet](https://byet.host) — Byet provides you with a massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!..
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
@@ -724,6 +735,7 @@ Table of Contents
 
 ## IaaS
 
+  * [Azure Virtual Machines](https://azure.microsoft.com/services/virtual-machines/?WT.mc_id=freefordev-github-yolasors) - 1 B1S Linux VM, 1 B1S Windows VM
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [scaleway.com](https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic
   * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
@@ -732,6 +744,7 @@ Table of Contents
 
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
    * [Astra](https://astra.datastax.com/register) — Cloud Native Cassandra as a Service with 10GB free tier
+   * [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=freefordev-github-yolasors) - 5GB storage and 400 RUs of provisioned throughput)
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service, up to 1M messages/month and 20 connections free
    * [FaunaDB](https://fauna.com/) — Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 5GB
