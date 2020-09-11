@@ -345,6 +345,7 @@ Table of Contents
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
   * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
+  * [Squash Labs](https://www.squash.io/) — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
