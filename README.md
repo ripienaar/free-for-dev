@@ -586,7 +586,12 @@ Table of Contents
 
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc.
-  * [cloudflare.com](https://www.cloudflare.com/) — Basic service is free, good for a blog, it also offers a free SSL certificate service and 5 firewall rules.
+  * [Cloudflare](https://www.cloudflare.com/)
+    * CDN along with free SSL
+    * Free DNS for unlimited number of domains
+    * Firewall rules and pagerules
+    * Analytics
+    * [TryCloudflare](https://developers.cloudflare.com/argo-tunnel/trycloudflare) — Expose local HTTP servers through Argo Tunnel to public.
   * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
   * [jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
@@ -703,7 +708,6 @@ Table of Contents
 
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
   * [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
-  * [Cloudflare](https://www.cloudflare.com/) - Free DNS.  Unlimited number of domains.
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
   * [dns.he.net](https://dns.he.net/) — Free DNS hosting service with Dynamic DNS Support
   * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
