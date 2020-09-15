@@ -489,6 +489,7 @@ Table of Contents
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) — Performance Monitoring API, checks Ping, DNS, etc.
   * [stathat.com](https://www.stathat.com/) — Get started with 10 stats for free, no expiration
   * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
+  * [statusgator.com](https://statusgator.com/) — Status page monitoring, 3 monitors free
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
   * [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for 5 websites, 60 second intervals, public statuspage.
