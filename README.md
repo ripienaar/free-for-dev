@@ -347,7 +347,6 @@ Table of Contents
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
   * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
-  * [GitHub Actions](https://github.com/features/actions) - Free for public repos, 2000 build minutes/month for private repos. Supports Windows, Linux, OSX, ARM, with custom containers
   * [gitlab.com](https://about.gitlab.com/product/continuous-integration/) — Create pipelines directly from Git repositories using GitLab's CI service.  2,000min/mo
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
@@ -745,7 +744,6 @@ Table of Contents
 
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
    * [Astra](https://astra.datastax.com/register) — Cloud Native Cassandra as a Service with 10GB free tier
-   * [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=freefordev-github-yolasors) - 5GB storage and 400 RUs of provisioned throughput)
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service, up to 1M messages/month and 20 connections free  
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
    * [FaunaDB](https://fauna.com/) — Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 5GB
