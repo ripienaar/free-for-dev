@@ -91,26 +91,26 @@ Table of Contents
     * Full, detailed list - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
 
   * [Microsoft Azure](https://azure.microsoft.com)
-    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/?WT.mc_id=freefordev-github-yolasors) - 1 B1S Linux VM, 1 B1S Windows VM
-    * [App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=freefordev-github-yolasors) - 10 web, mobile or API apps
-    * [Functions](https://azure.microsoft.com/services/functions/?WT.mc_id=freefordev-github-yolasors) - 1 million requests per month
-    * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/?WT.mc_id=freefordev-github-yolasors) - Enable fast, easy, and lean dev-test environments
-    * [Active Directory](https://azure.microsoft.com/services/active-directory/?WT.mc_id=freefordev-github-yolasors) - 500,000 objects
-    * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/?WT.mc_id=freefordev-github-yolasors) - 50,000 monthly stored users
-    * [Azure DevOps](https://azure.microsoft.com/services/devops/?WT.mc_id=freefordev-github-yolasors) - 5 active users, unlimited private Git repos
-    * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/?WT.mc_id=freefordev-github-yolasors) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
-    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/?WT.mc_id=freefordev-github-yolasors) - 8,000 messages per day
-    * [Load Balancer](https://azure.microsoft.com/services/load-balancer/?WT.mc_id=freefordev-github-yolasors) - 1 free public load balanced IP (VIP)
-    * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/?WT.mc_id=freefordev-github-yolasors) - 1 million push notifications
-    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/?WT.mc_id=freefordev-github-yolasors) - 5GB egress per month
-    * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/?WT.mc_id=freefordev-github-yolasors) - 5GB storage and 400 RUs of provisioned throughput
-    * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
-    * [Storage](https://azure.microsoft.com/services/storage/?WT.mc_id=freefordev-github-yolasors) - 5GB LRS File or Blob storage
-    * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=docs-freefordev-yolasors) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
-    * [Cognitive Search](https://azure.microsoft.com/services/search/?WT.mc_id=freefordev-github-yolasors#features) - AI-based search and indexation service, free for 10,000 documents
-    * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/?WT.mc_id=freefordev-github-yolasors) - Managed Kubernetes service, free cluster management
-    * [Event Grid](https://azure.microsoft.com/services/event-grid/?WT.mc_id=freefordev-github-yolasors) - 100K ops/month
-    * Full, detailed list - [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/?WT.mc_id=freefordev-github-yolasors)
+    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM
+    * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps
+    * [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
+    * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
+    * [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 objects
+    * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - 50,000 monthly stored users
+    * [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 active users, unlimited private Git repos
+    * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
+    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
+    * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load balanced IP (VIP)
+    * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
+    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 5GB egress per month
+    * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 5GB storage and 400 RUs of provisioned throughput
+    * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
+    * [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage
+    * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
+    * [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI-based search and indexation service, free for 10,000 documents
+    * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - Managed Kubernetes service, free cluster management
+    * [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K ops/month
+    * Full, detailed list - [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/)
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
     * Compute - 2 VM.Standard.E2.1.Micro 1GB RAM
@@ -542,7 +542,7 @@ Table of Contents
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
   * [mohmal.com](https://www.mohmal.com/en) — Disposable temporary email
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
-  * [Outlook.com](https://outlook.live.com/owa/?WT.mc_id=freefordev-github-yolasors) - Free personal email and calendar
+  * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar
   * [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
   * [postale.io](https://postale.io/) — Free domain email addresses for up to 5 users per domain, unlimited domains, POP3/IMAP enabled, no ads
