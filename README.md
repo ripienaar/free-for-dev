@@ -540,6 +540,7 @@ Table of Contents
   * [mailkitchen](https://www.mailkitchen.com/) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
+  * [mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
   * [mohmal.com](https://www.mohmal.com/en) — Disposable temporary email
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar
@@ -870,6 +871,7 @@ Table of Contents
   * [Invision App](https://www.invisionapp.com) - UI design and prototyping tool. Desktop and webapp available. Free to use with 1 active prototype.
   * [landen.co](https://www.landen.co) — Generate, edit and publish beautiful websites and landing pages for your startup. All without code. Free tier allows you to have one website, fully customizable and published on the web.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
+  * [Lorem Picsum](https://picsum.photos/) - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image.
   * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free plan limited to one user and one project.
   * [Mindmup.com](https://www.mindmup.com/) — Unlimited mind maps for free, and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
   * [Octopus.do](https://octopus.do) — Visual sitemap builder. Build your website structure in real-time and rapidly share it to collaborate with your team or clients.
