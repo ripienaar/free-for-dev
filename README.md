@@ -959,6 +959,7 @@ Table of Contents
 
 ## Analytics, Events and Statistics
 
+   * [Panelbear.com](https://panelbear.com/) — The analytics suite for the modern web. Free: 5,000 pageviews per month for unlimited websites
    * [Hitsteps.com](https://hitsteps.com/) — 2,000 pageviews per month for 1 website
    * [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
    * [analytics.google.com](https://analytics.google.com/) — Google Analytics
