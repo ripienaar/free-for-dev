@@ -40,6 +40,7 @@ Table of Contents
    * [Log Management](#log-management)
    * [Management Systems](#management-system)
    * [Messaging and Streaming](#messaging)
+   * [Metadata Management and Data Catalogs](#metadata-management-and-data-catalogs)
    * [Miscellaneous](#miscellaneous)
    * [Monitoring](#monitoring)
    * [Other Free Resources](#other-free-resources)
@@ -436,6 +437,9 @@ Table of Contents
   * [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
   * [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluster, up to 5 topics, 10MB data per topic and 28 days of data retention.
 
+## Metadata Management and Data Catalogs
+
+  * [Tree Schema](https://treeschema.com/) — Data catalog with APIs to manage data lineage as code. Free for teams of up to 5 users.
 
 ## Log Management
 
