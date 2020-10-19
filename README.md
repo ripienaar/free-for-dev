@@ -40,7 +40,6 @@ Table of Contents
    * [Log Management](#log-management)
    * [Management Systems](#management-system)
    * [Messaging and Streaming](#messaging)
-   * [Metadata Management and Data Catalogs](#metadata-management-and-data-catalogs)
    * [Miscellaneous](#miscellaneous)
    * [Monitoring](#monitoring)
    * [Other Free Resources](#other-free-resources)
@@ -277,6 +276,7 @@ Table of Contents
   * [talky.io](https://talky.io/) — Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
   * [Tefter](https://tefter.io) - Bookmarking app with a powerful Slack integration. Free for open-source teams.
   * [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.
+  * [Tree Schema](https://treeschema.com/) — Data catalog and metadata management with APIs to manage data lineage as code. Free for teams of up to 5 users.
   * [twist.com](https://twist.com) — An asynchronous-friendly team communication app where conversations stay organized and on-topic. Free and Unlimited plans available. Discounts provided for eligible teams.
   * [typetalk.com](https://www.typetalk.com/) — Share and discuss ideas with your team through instant messaging on the web or on your mobile
   * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
@@ -436,10 +436,6 @@ Table of Contents
   * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
   * [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
   * [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluster, up to 5 topics, 10MB data per topic and 28 days of data retention.
-
-## Metadata Management and Data Catalogs
-
-  * [Tree Schema](https://treeschema.com/) — Data catalog with APIs to manage data lineage as code. Free for teams of up to 5 users.
 
 ## Log Management
 
