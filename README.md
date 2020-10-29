@@ -631,6 +631,11 @@ Table of Contents
   * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
   * [Web Support Revolution](https://w.tools/) — Free CDN, backup, firewall, antivirus and monitoring.
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
+  * [Arvan Cloud CDN](https://https://www.arvancloud.com/en/products/cdn)
+   * Free CDN upto 50 GB of bandwidth
+   * Free DNS for Domains
+   * Custom Error Pages
+   * Cloud Firewall and Pagerules
 
 ## PaaS
 
