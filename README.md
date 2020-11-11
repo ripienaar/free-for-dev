@@ -906,6 +906,7 @@ Table of Contents
   * [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
   * [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
   * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers)
+  * [grapesjs.com](https://grapesjs.com/) — Web builder framework which provides API to create your own editor to make beautiful HTML templates (open-source)
 
 ## Data Visualization on Maps
 
