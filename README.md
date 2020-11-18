@@ -88,7 +88,7 @@ Table of Contents
     * Amazon CodeBuild - 100min of build time per month
     * Amazon Code Commit - 5 active users per month
     * Amazon Code Pipeline - 1 active pipeline per month
-    * Full, detailed list - https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
+    * Full, detailed list - https://aws.amazon.com/free/
 
   * [Microsoft Azure](https://azure.microsoft.com)
     * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM
