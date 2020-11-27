@@ -390,7 +390,7 @@ Table of Contents
   * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free project.
   * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
   * [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform test runs, track defects and measure impact. The free tier includes all core features, with 500Mb available for attachments and up to 3 users.
-  * [knapsackpro.com](https://knapsackpro.com/?utm_source=github&utm_medium=awesomelist&utm_campaign=free-for-dev) - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Supported test runners in Ruby (RSpec, Minitest, Test::Unit, Cucumber, Spinach, Turnip), in JavaScript (Cypress.io, Jest), native API integration. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.
+  * [knapsackpro.com](https://knapsackpro.com) - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.
 
 ## Security and PKI
 
