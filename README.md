@@ -347,6 +347,7 @@ Table of Contents
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
   * [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [tickgit.com](https://www.tickgit.com/) — Surfaces `TODO` comments (and other markers) to identify areas of code worth returning to for improvement.
+  * [Namae](https://namae.dev/) - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.
 
 ## CI and CD
 
