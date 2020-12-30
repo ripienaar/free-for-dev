@@ -580,6 +580,7 @@ Table of Contents
   * [socketlabs.com](https://www.socketlabs.com) - 40k emails free for first month, then first 2000 emails/month free
   * [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
+  * [Tempmailo](https://tempmailo.com/) - Unlimited free temp email addresses. Autoexpire in two days.
   * [testmail.app](https://testmail.app/) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. 100 emails/month free forever, unlimited free for open source.
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
