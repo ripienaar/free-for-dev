@@ -643,6 +643,7 @@ Table of Contents
   * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
   * [Web Support Revolution](https://w.tools/) — Free CDN, backup, firewall, antivirus and monitoring.
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
+  * [BotFront](https://botfront.net/) — Free CDN and DDoS protection for one domain and three subdomains
 
 ## PaaS
 
