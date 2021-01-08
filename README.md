@@ -1048,6 +1048,7 @@ Table of Contents
   * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive and fun playground to learn Docker.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [Whales](https://github.com/Gueils/whales) — A tool to automatically dockerize your applications for free.
+  * [Portainer](https://www.portainer.io/) — An open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
 
 ## Vagrant Related
 
