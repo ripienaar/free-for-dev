@@ -1,0 +1,35 @@
+name: Awesome Bot
+# Controls when the action will run.
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: '*'
+  pull_request:
+    branches: '*'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.7.x
+    - name: Install Awesome Bot
+      run: gem install awesome_bot
+    - name: Run Awesome Bot
+      run: awesome_bot README.md --allow-dupe --allow-ssl --allow-redirect --set-timeout 5 | grep -Ev "\s*?[0-9]{1,4}\.\s*?http"
+    - uses: actions/upload-artifact@v2
+      if: failure()
+      with:
+        name: ab-results
+        path: ab-results-README.md-filtered.json
