@@ -377,6 +377,8 @@ Table of Contents
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
+  * [github.com](https://github.com/features/actions) — Get built-in CI/CD, package management, and all-in-one automation with the platform developers love—for free.
+
 
 ## Testing
 
