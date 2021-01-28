@@ -1006,6 +1006,7 @@ Table of Contents
    * [metrica.yandex.com](https://metrica.yandex.com/) — Unlimited free analytics
    * [mixpanel.com](https://mixpanel.com/) — Free 25,000 points or 200,000 with their badge on your site
    * [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
+   * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
    * [optimizely.com](https://www.optimizely.com) — A/B Testing solution, free starter plan, 1 website, 1 iOS and 1 Android app
    * [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
    * [sematext.com](https://sematext.com/cloud/) — Free for up to 50 K actions/month, 1-day data retention, unlimited dashboards, users, etc.
