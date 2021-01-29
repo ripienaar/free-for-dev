@@ -648,7 +648,6 @@ Table of Contents
   * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
   * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
-  * [BotFront](https://botfront.net/) — Free CDN and DDoS protection for one domain and three subdomains
 
 ## PaaS
 
