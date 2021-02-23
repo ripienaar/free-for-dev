@@ -965,6 +965,7 @@ Table of Contents
 
    * [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian etc).
    * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) — Mock-based RPM build service for Fedora and EL.
+   * [GitHub Packages](https://github.com/features/packages) - Safely publish and consume packages within your GitHub organization or with the entire world.
    * [help.launchpad.net](https://help.launchpad.net/Packaging) — Ubuntu and Debian build service.
 
 ## IDE and Code Editing
