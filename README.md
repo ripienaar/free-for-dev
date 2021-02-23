@@ -424,6 +424,7 @@ Table of Contents
   * [LoginRadius](https://www.loginradius.com/) — Managed User Authentication service for free. Email registration and 3 social providers.
   * [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for 10 users, VPN, Websites and SSH
   * [meterian.io](https://www.meterian.io/) - Monitor Java, Javascript, .NET, Scala, Ruby and NodeJS projects for security vulnerabilities in dependencies. Free for one private project, unlimited projects for open source.
+  * [Nmap Online](https://nmap.online) — Online Nmap scanner to find Open ports, OS information for free.
   * [Mozilla Observatory](https://observatory.mozilla.org/) — Find and fix security vulnerabilities in your site.
   * [Okta](https://developer.okta.com/) — User management, authentication and authorization. Free for up to 1000 monthly active users.
   * [onelogin.com](https://www.onelogin.com/) — Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users
@@ -554,6 +555,7 @@ Table of Contents
 ## Email
 
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
+  * [Amail](https://www.amail.az) - Free 10 GB+ @amail.az email for free
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [biz.mail.ru](https://biz.mail.ru/) — 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
   * [Bump](https://bump.email/) - Free 10 Bump email addresses, 1 custom domain
