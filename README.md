@@ -529,6 +529,7 @@ Table of Contents
   * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
   * [statusgator.com](https://statusgator.com/) — Status page monitoring, 3 monitors free
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
+  * [thundra.io/apm](https://www.thundra.io/apm) — Application monitoring and debugging. Has a free tier up to 250k monthly invocations.
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
   * [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for 5 websites, 60 second intervals, public statuspage.
   * [zenduty.com](https://www.zenduty.com/) — End-to-end incident management, alerting, on-call management and response orchestration platform for network operations, site reliability engineering and DevOps teams. Free for upto 5 users.
