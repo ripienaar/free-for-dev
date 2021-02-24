@@ -298,6 +298,7 @@ Table of Contents
   * [wormhol.org](https://www.wormhol.org/) — Straightforward file sharing service. Share unlimited files up to 5GB to as many peers as you want.
   * [yammer.com](https://www.yammer.com/) — Private social network standalone or for MS Office 365. Free with a bit less admin tools and user management features
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
+  * [uvdesk.com](https://www.uvdesk.com/en/) — UVdesk is an online SAAS based customer support **helpdesk software** which allows customers to communicate over email, Social media with task management and many more other features as well.
 
 
 ## CMS
