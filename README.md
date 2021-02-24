@@ -983,6 +983,7 @@ Table of Contents
 
 ## IDE and Code Editing
 
+   * [3v4l](https://3v4l.org/) - Free online PHP shell and snippet sharing site, runs your code in 300+ PHP versions
    * [Apache Netbeans](https://netbeans.apache.org/) — Development Environment, Tooling Platform and Application Framework.
    * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation).
    * [Atom](https://atom.io/) - Atom is a hackable text editor built on Electron.
