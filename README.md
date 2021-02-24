@@ -42,7 +42,6 @@ Table of Contents
    * [Messaging and Streaming](#messaging)
    * [Miscellaneous](#miscellaneous)
    * [Monitoring](#monitoring)
-   * [Other Free Resources](#other-free-resources)
    * [PaaS](#paas)
    * [Package Build System](#package-build-system)
    * [Payment and Billing Integration](#payment-and-billing-integration)
@@ -60,6 +59,7 @@ Table of Contents
    * [Web Hosting](#web-hosting)
    * [Commenting Platforms](#commenting-platforms)
    * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
+   * [Other Free Resources](#other-free-resources)
 
 ## Major Cloud Providers
 
