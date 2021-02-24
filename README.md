@@ -377,6 +377,7 @@ Table of Contents
   * [drone](https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place
   * [gitlab.com](https://about.gitlab.com/product/continuous-integration/) — Create pipelines directly from Git repositories using GitLab's CI service. 400 mins/mo per top-level group
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
+  * [Octopus Deploy](https://octopus.com) - Automated deployment and release-management. Free for <= 10 deployment targets.
   * [scalr.com](https://scalr.com/) - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
   * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
