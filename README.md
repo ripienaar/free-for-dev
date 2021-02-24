@@ -1093,7 +1093,6 @@ Table of Contents
   * [Gitlab](https://gitlab.com) - Per-repo container registry.  10GB limit.
   * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive and fun playground to learn Docker.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
-  * [Whales](https://github.com/Gueils/whales) — A tool to automatically dockerize your applications for free.
 
 ## Vagrant Related
 
