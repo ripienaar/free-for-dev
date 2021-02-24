@@ -547,7 +547,6 @@ Table of Contents
   * [exceptionless](https://exceptionless.com) — Real-time error, feature, log reporting and more. Free for 3k events per month/1 user. Open source and easy to self-host for unlimited use.
   * [GlitchTip](https://glitchtip.com/) — Simple, open source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits
   * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for solo devs and open-source projects (12,000 errors/month).
-  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javascript apps. Free for 1,000 sessions a month, 14 days retention
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
 
@@ -1036,6 +1035,7 @@ Table of Contents
 ## Visitor Session Recording
 
    * [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, 3 heatmaps, 3 widgets, free bug tracking
+   * [LogRocket.com](https://www.logrocket.com) - 1,000 sessions/month with 30 day retention, error tracking, live mode
    * [FullStory.com](https://www.fullstory.com) — 1,000 sessions/month with 1 month data retention and 3 user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
    * [hotjar.com](https://www.hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
    * [inspectlet.com](https://www.inspectlet.com/) — 100 sessions/month free for 1 website
