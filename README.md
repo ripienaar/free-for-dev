@@ -471,6 +471,7 @@ Table of Contents
 
   * [bugfender.com](https://bugfender.com/) — Free up to 100k log lines/day with 24 hours retention
   * [humio.com](https://www.humio.com/) — Free up to 2 GB/day with 7 days retention
+  * [logdna.com](https://logdna.com) - Free for a single user, no retention, unlimited hosts and sources
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
   * [logz.io](https://logz.io/) — Free up to 3 GB/day, 3 days retention
