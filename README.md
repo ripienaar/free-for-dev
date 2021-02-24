@@ -207,6 +207,7 @@ Table of Contents
   * [News API](https://newsapi.org) — Search news on the web with code, get JSON results. Developers get 3,000 queries free each month. 
   * [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
   * [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
+  * [Optic](https://useoptic.com/) — the easiest way to document and test your APIs. Optic uses development traffic to learn your APIs behavior, write your specification, and help you update the docs whenever your API changes.
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [Postbacks](https://postbacks.io/) - Request HTTP callbacks for a later time. 8,000 free requests on signup.
