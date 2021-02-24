@@ -511,6 +511,7 @@ Table of Contents
   * [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
   * [bearer.sh](https://www.bearer.sh) - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.
   * [blackfire.io](https://blackfire.io/) — Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan (PHP only)
+  * [checklyhq.com](https://checklyhq.com) - Open source E2E / Synthetic monitoring and deep API monitoring for developers. Free plan with 5 users and 50k+ check runs.
   * [circonus.com](https://www.circonus.com/) — Free for 20 metrics
   * [cloudsploit.com](https://cloudsploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc.
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
@@ -956,7 +957,6 @@ Table of Contents
   * [vectr.com](https://vectr.com/) — Free Design App for Web + Desktop.
   * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk.
   * [Webflow](https://webflow.com) - WYSIWYG web site builder with animations and website hosting. Free for 2 projects.
-  * [Updrafts.app](https://updrafts.app) - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
