@@ -753,6 +753,7 @@ Table of Contents
   * [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
   * [GitLab Pages](https://about.gitlab.com/product/pages/) — Hosting static site directly from GitLab repository
   * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
+  * [hostman.com](https://hostman.com) — Deploy up to 3 static sites from your GitHub repository for free.
   * [InfinityFree](https://infinityfree.net/) - Free PHP website hosting with MySQL, cPanel, and no ads.
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site or app, free for 100 GB data and 100 GB/month bandwidth
