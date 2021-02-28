@@ -708,7 +708,6 @@ Table of Contents
   * [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
   * [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
-  * [connectycube.com](https://connectycube.com) - APIs for realtime messaging, voice & video calling, push notifications, files storage and users management. Free for apps up to 20K MAU.
   * [darklang.com](https://darklang.com/) - Hosted language combined with editor and infrastructure. Free during the beta, generous free tier planned after beta.
   * [getstream.io](https://getstream.io/) — Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month
   * [hasura.io](https://hasura.io/) — Platform to build and deploy app backends fast, free for single node cluster.
