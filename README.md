@@ -407,6 +407,7 @@ Table of Contents
 
 ## Security and PKI
 
+  * [Acra](https://marketplace.digitalocean.com/apps/acra) - SQL database protection suite: field-level encryption, masking, tokenization, available as database proxy or API service.
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your network
   * [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate a variety of development tasks. Now in beta.
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO. Up to 2 social identity providers for closed-source projects.
