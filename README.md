@@ -572,6 +572,7 @@ Table of Contents
   * [Bump](https://bump.email/) - Free 10 Bump email addresses, 1 custom domain
   * [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7 day Mailbox History
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 1,000 subscribers free
+  * [CloudMailin](https://www.cloudmailin.com/) - Incoming email via HTTP POST and transactional outbound - 10,000 free emails/month
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
   * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
