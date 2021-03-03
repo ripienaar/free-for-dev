@@ -649,7 +649,6 @@ Table of Contents
 
 ## CDN and Protection
 
-  * [20i](https://www.20i.com/) — Free global CDN with no restrictions and 1 Tbps+ DDoS protection available on all web hosting, including free hosting.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc.
   * [Cloudflare](https://www.cloudflare.com/)
