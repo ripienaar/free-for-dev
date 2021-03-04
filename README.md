@@ -140,6 +140,7 @@ Table of Contents
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
   * [codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos
   * [gitea.com](https://www.gitea.com/) - Unlimited public and private Git repos
+  * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD
   * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators, with Pipelines for CI/CD, and 10 GB space per repo
   * [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
@@ -181,6 +182,7 @@ Table of Contents
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. Free Micro plan has 500 transactions per month.
   * [FreeGeoIP.app](https://freegeoip.app/) - Completely free Geo IP information (JSON, CSV, XML). No registration required, 15000 queries per hour rate limit.
   * [GeoDataSource](https://www.geodatasource.com) — Location search service lookup for city name by using latitude and longitude coordinate. Free API queries up to 500 times per month.
+  * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs.
   * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
   * [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
   * [IP Geolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 30k requests per month (1k/day) limit.
