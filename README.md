@@ -881,7 +881,6 @@ Table of Contents
    * [Linear](https://linear.app/) — Issue tracker with streamlined interface. Free for unlimited members, up to 10MB file upload size, 250 issues (excluding Archive)
    * [MeisterTask](https://www.meistertask.com/) — Online task management for teams. Free up to 3 projects, unlimited project members.
    * [MeuScrum](https://www.meuscrum.com/en) - Free online scrum tool with kanban board
-   * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) — Free one-year Office 365 E3 subscription for development/testing.
    * [Ora](https://ora.pm/) - Agile task management & team collaboration. Free for up to 3 users and files are limited to 10 MB.
    * [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with 3 total active users (read-write) and unlimited passive users (read-only).
    * [plan.io](https://plan.io/) — Project Management with Repository Hosting and more options. Free for 2 users with 10 customers and 500MB Storage
