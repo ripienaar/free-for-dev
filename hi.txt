@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi
 My name is
+=======
+Hello
+It's me
+>>>>>>> branch1
