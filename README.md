@@ -119,7 +119,7 @@ Table of Contents
     * Load balancer - 1 instance with 10 Mbps
     * Databases - 2 DBs, 20 GB each
     * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
-    * Bandwidth - 10TB egress per month
+    * Bandwidth - 10TB egress per month, speed limited to 5Mbps
     * Notifications - 1 million delivery options per month, 1000 emails sent per month
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
@@ -131,7 +131,6 @@ Table of Contents
     * API Connect - 50,000 API calls per month
     * Availability Monitoring - 3 million data points per month
     * Log Analysis - 500MB of daily log
-    * Bandwidth - 250 GB is included with each monthly virtual server
     * Full, detailed list - https://www.ibm.com/cloud/free/
 
 ## Source Code Repos
