@@ -66,7 +66,7 @@ Table of Contents
   * [Google Cloud Platform](https://cloud.google.com)
     * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
     * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
-    * Compute Engine - 1 non-preemptible f1-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions)
+    * Compute Engine - 1 non-preemptible f1-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
     * Cloud Storage - 5GB, 1GB network egress
     * Cloud Shell - Web-based Linux shell/basic IDE with 5GB of persistent storage. 60 hours limit per week
     * Cloud Pub/Sub - 10GB of messages per month
@@ -119,7 +119,7 @@ Table of Contents
     * Load balancer - 1 instance with 10 Mbps
     * Databases - 2 DBs, 20 GB each
     * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
-    * Bandwidth - 10TB egress per month
+    * Bandwidth - 10TB egress per month, speed limited to 5Mbps
     * Notifications - 1 million delivery options per month, 1000 emails sent per month
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
