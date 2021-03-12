@@ -7,4 +7,4 @@ before_script:
 script:
   - awesome_bot README.md --allow-dupe --allow-ssl --allow-redirect --set-timeout 5 | grep -Ev "\s*?[0-9]{1,4}\.\s*?http"
 
-Nikita is Here!
+Nikita is Here!!!
