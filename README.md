@@ -31,6 +31,7 @@ Table of Contents
    * [DNS](#dns)
    * [Docker Related](#docker-related)
    * [Email](#email)
+   * [File Converters](#file-converters)
    * [Font](#font)
    * [Forms](#forms)
    * [IaaS](#iaas)
@@ -625,6 +626,9 @@ Table of Contents
   * [yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
   * [zoho.com](https://www.zoho.com/mail/) — Free Webmail and collaboration for up to 5 users
   * [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).
+
+## File Converters
+  * [Conversion Tools](https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.
 
 ## Font
 
