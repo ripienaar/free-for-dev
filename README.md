@@ -860,6 +860,7 @@ Table of Contents
 ## Issue Tracking and Project Management
 
    * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
+   * [AppFlux](https://appflux.io) — Project Management tool with Log Management & Issues. Take your team onboard & forget management through emails.
    * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
    * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
