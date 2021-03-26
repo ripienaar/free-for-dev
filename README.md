@@ -557,6 +557,7 @@ Table of Contents
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
   * [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
   * [pingbreak.com](https://pingbreak.com/) — Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack or email.
+  * [pingr.io](https://pingr.io/) — Know when your site is down before your customers do. unlimited notifications via Telegram, Slack or email.
   * [sematext.com](https://sematext.com/) — Free for 24 hours metrics, unlimited number of servers, 10 custom metrics, 500,000 custom metrics data points, unlimited dashboards, users, etc.
   * [sitemonki.com](https://sitemonki.com/) — Website, domain, Cron & SSL monitoring, 5 monitors in each category for free
   * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
@@ -622,6 +623,7 @@ Table of Contents
   * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar
   * [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
+  * [Postcards](https://designmodo.com/postcards/) - Drag and drop email template builder. Export the email to HTML.
   * [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
   * [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
   * [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
@@ -634,6 +636,7 @@ Table of Contents
   * [testmail.app](https://testmail.app/) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. 100 emails/month free forever, unlimited free for open source.
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
+  * [unspam.email](https://unspam.email/) - Check free the newsletter spam score and quality. Improve the deliverability of your emails with online spam tester and checker tool.
   * [Validator.Pizza](https://www.validator.pizza/) — Free API to detect disposable emails
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
@@ -961,10 +964,12 @@ Table of Contents
 
 ## Design and UI
 
+  * [absurd.design](https://absurd.design/) - Free illustrations for any websites. A constantly updated collection.
   * [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe & Prototyping tool similar to Sketch. Free plan covers: 1 active shared design spec, Adobe Fonts Free (limited set of fonts), 2GB of cloud storage.
   * [Mockplus iDoc](https://www.mockplus.com/idoc) - Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes 3 users and 5 projects with all features available.
   * [AllTheFreeStock](https://allthefreestock.com) - a curated list of free stock images, audio and videos.
   * [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.
+  * [Bootstrap.Build](https://bootstrap.build/) — Create Bootstrap 4 themes and templates. Start from scratch or reuse free featured designs.
   * [clevebrush.com](https://www.cleverbrush.com/) — Free Graphics Design / Photo Collage App, also they offer paid integration of it as component.
   * [cloudconvert.com](https://cloudconvert.com/) — Convert anything to anything. 208 supported formats including videos to gif.
   * [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
@@ -1000,7 +1005,10 @@ Table of Contents
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
   * [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
-  * [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
+  * [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates.
+  * [Siter.io](https://siter.io/) - Design in the cloud and create new websites seamlessly, without any coding skills.
+  * [Slides](https://designmodo.com/slides/) - Generate beautiful, animated, static websites with your creative direction in a matter of minutes.
+  * [Startup](https://designmodo.com/startup/) - Create websites online using the Startup Bootstrap builder with the help of pre-designed blocks.
   * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers)
   * [Grapedrop](https://grapedrop.com/) — Responsive, powerful, SEO optimized web page builder based on GrapesJS Framework. Free for first 5 pages, unlimited custom domains, all features and simple usage.
 
@@ -1084,6 +1092,7 @@ Table of Contents
    * [imprace.com](https://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free 5 landing pages/domain
    * [keen.io](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
    * [metrica.yandex.com](https://metrica.yandex.com/) — Unlimited free analytics
+   * [microanalytics.io](https://microanalytics.io/) — Free website analytics. A lightweight, privacy-focused alternative to Google Analytics.
    * [mixpanel.com](https://mixpanel.com/) — 100,000 monthly tracked users, unlimited data history and seats, US or EU data residency
    * [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
    * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
