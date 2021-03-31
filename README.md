@@ -506,6 +506,7 @@ Table of Contents
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
   * [logz.io](https://logz.io/) — Free up to 3 GB/day, 3 days retention
+  * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-log-management) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 1 Month retention.
   * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
   * [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, 7 days retention
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
@@ -695,6 +696,11 @@ Table of Contents
 
 ## CDN and Protection
 
+  * [Arvan Cloud](https://arvancloud.com/) — Offers cloud related services (CDN,Cloud DNS, PaaS, Security etc.). Free plan offers :
+    - CDN with Free SSL. 50 GB Traffic + 1 Million HTTP(S) Requests.
+    - Free Cloud DNS for unlimited sites.
+    - Free Cloud Security with Basic DDoS Protection + 5 Firewall Rules.
+    - Free VoD (Video On Demand) Platform with 10 GB Storage + 50 GB Traffic.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc.
   * [Cloudflare](https://www.cloudflare.com/)
