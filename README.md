@@ -701,7 +701,7 @@ Table of Contents
 
   * [Arvan Cloud](https://arvancloud.com/) — Offers cloud related services (CDN,Cloud DNS, PaaS, Security etc.). Free plan offers :
     - CDN with Free SSL. 50 GB Traffic + 1 Million HTTP(S) Requests.
-    - Free Cloud DNS for unlimited sites.
+    - Free Cloud DNS for unlimited number of domains.
     - Free Cloud Security with Basic DDoS Protection + 5 Firewall Rules.
     - Free VoD (Video On Demand) Platform with 10 GB Storage + 50 GB Traffic.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
@@ -831,6 +831,7 @@ Table of Contents
 ## DNS
 
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
+  * [arvancloud.com](https://arvancloud.com) — Free full feature DNS service with API, for unlimited number of domain, unlimited records and unlimited requests per month.
   * [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
   * [dns.he.net](https://dns.he.net/) — Free DNS hosting service with Dynamic DNS Support
