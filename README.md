@@ -843,6 +843,7 @@ Table of Contents
   * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
   * [luadns.com](https://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
+  * [nextdns.io](https://nextdns.io) - DNS based firewall, 300K free queries monthly
   * [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
   * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
   * [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
