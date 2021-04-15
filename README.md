@@ -1199,7 +1199,7 @@ Table of Contents
 
 ## Screenshot APIs
 
-  * [ProxyCrawl.com](https://proxycrawl.com/screenshots-api) - Automate website screenshots while avoiding captchas and blocks with an API.
+  * [ProxyCrawl.com](https://proxycrawl.com/screenshots-api) - Automate website screenshots while avoiding captchas and blocks with an API. Free tier includes 50 screenshots with all the available functionality.
   * [24browser.com](https://www.24browser.com) – Capture beautifully rendered website screenshots at scale with powerful API.
   * [ApiFlash](https://apiflash.com) — A screenshot API based on Aws Lambda and Chrome. Handles full page, capture timing, viewport dimensions, ...
   * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities or screenshots as a service. 250 reqs/day every day free.
