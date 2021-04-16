@@ -961,7 +961,6 @@ Table of Contents
    * [zenhub.com](https://www.zenhub.com) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
    * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
-   * [zentao.jp](https://www.zentao.jp) — An application lifecycle management tool involves issue tracking, free Saas version available for basic plan. Premium versions on-premise is also offered.
    * [Zube](https://zube.io) — Project management with free plan for 4 Projects & 4 users. GitHub integration available.
 
 ## Storage and Media Processing
