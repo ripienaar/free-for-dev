@@ -714,6 +714,7 @@ Table of Contents
     * Firewall rules and pagerules
     * Analytics
     * [TryCloudflare](https://developers.cloudflare.com/argo-tunnel/trycloudflare) — Expose local HTTP servers through Argo Tunnel to public.
+    * [Cloudflare Pages](https://pages.cloudflare.com/) — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
   * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
   * [jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
