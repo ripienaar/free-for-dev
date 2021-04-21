@@ -804,6 +804,7 @@ Table of Contents
   * [20i](https://www.20i.com/) — Free web hosting with no ads, on the same platform as paid plans. Includes a free CDN, 100 email addresses, SSL and over 80 one-click installs.
   * [Alwaysdata](https://www.alwaysdata.com/) — 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
+  * [awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of Node.js, VPS and Cloud Platform with Free options
   * [Bubble](https://bubble.io/) — Visual programming to build web and mobile apps without code, free with Bubble branding.
   * [Byet](https://byet.host) — Byet provides you with a massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!..
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
