@@ -768,15 +768,7 @@ Table of Contents
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
   * [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps.
   * [darklang.com](https://darklang.com/) - Hosted language combined with editor and infrastructure. Free during the beta, generous free tier planned after beta.
-  * [Firebase](https://firebase.com) — Firebase helps you build and run successful apps. Offers a variety of services in the Free Spark Plan listed here :
-    - Authentication - 10K Phone Auths/month (seperate 10K limit for US,Canada & India) & unlimited auths for other methods.
-    - Cloud Firestore,Cloud Functions & BigQuery - same as offered in GCP Always Free Tier.
-    - Hosting - 10GB storage with 360 MB data transfer per day with custom domain & SSL.
-    - Firebase ML - Custom Model Deployment.
-    - Realtime Database - 100 simultaneous connections with 1GB storage & 10GB downloads per month.
-    - Cloud Storage - 5GB storage with 1GB/day upto 50k/day downloads and 20k/day upload operations.
-    - Testlab - 10 Virtual Device & 5 Physical Device tests per day.
-    - Always Free :A/B Testing, Analytics, App Distribution, App Indexing,Cloud Messaging (FCM), Crashlytics, Dynamic Links, In-App Messaging, Performance Monitoring, Predictions, and Remote Config.
+  * [Firebase](https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM), Crashlytics, Dynamic Links, In-App Messaging, Performance Monitoring, Predictions, and Remote Config are always-free.
   * [getstream.io](https://getstream.io/) — Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month
   * [hasura.io](https://hasura.io/) — Platform to build and deploy app backends fast, free for single node cluster.
   * [iron.io](https://www.iron.io/) — Async task processing (like AWS Lambda) with free tier and 1-month free trial
@@ -797,12 +789,7 @@ Table of Contents
   * [simperium.com](https://simperium.com/) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
   * [stackstorm.com](https://stackstorm.com/) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
   * [streamdata.io](https://streamdata.io/) — Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections.
-  * [Supabase](https://supabase.io) — The Open Source Firebase Alternative to build backends. Free Plan offers the following :
-   - Authentication for 10k users with Audit Trails of 1 hour.
-   - Dedicated Postgres database with unlimited API
-   requests, realtime functionality & 500MB storage.
-   - Object Storage with upto 1GB data storage & 2GB transfer limits.
-   - 1 day API & database log retention.
+  * [Supabase](https://supabase.io) — The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
   * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
   * [zapier.com](https://zapier.com/) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
   * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
@@ -915,7 +902,6 @@ Table of Contents
 
 ## Issue Tracking and Project Management
 
-   * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
    * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
    * [AppFlux](https://appflux.io) — Project Management tool with Log Management & Issues. Take your team onboard & forget management through emails.
    * [asana.com](https://asana.com/) — Free for private project with collaborators
