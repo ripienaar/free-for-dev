@@ -10,6 +10,19 @@ This list is the result of Pull Requests, reviews, ideas and work done by 900+ p
 
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a free tier and not just a free trial. If the free tier is time-bucketed it has to be for at least a year. We also consider the free tier from a security perspective, so SSO is fine but I will not accept services that restrict TLS to paid-only tiers.
 
+Sponsors
+========
+
+## 🪐 Deta – The free cloud for hackers
+
+
+> [Deta](https://deta.sh/?ref=freedev) is a 100% free cloud provider from Germany 🇩🇪. Deta offers friendly & fast support on Slack & Discord as well.  
+> __Deta Micros__: Unlimited & 0-downtime Node.js and Python hosting.  
+> __Deta Base__: Unlimited production-ready NoSQL databases for your next project.  
+> __Deta Drive__: Scalable cloud file storage for all of your apps.
+
+
+
 Table of Contents
 =================
 
