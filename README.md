@@ -779,6 +779,13 @@ Table of Contents
   * [jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
   * [jsdelivr.com](https://www.jsdelivr.com/) — CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
   * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
+  * [MerlinCDN](https://www.merlincdn.com/)
+    * Automated Free SSL
+	  * Unlimited number of requests
+	  * Visitor and Traffic statistics
+	  * Unlimited number of Page Rules
+	  * Dynamic Cache
+    * [Try with 10$ Credit](https://app.merlincdn.com/register)
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate
   * [PageCDN.com](https://pagecdn.com/) - Offers free Public CDN for everyone, and free Private CDN for opensource / nonprofits.
