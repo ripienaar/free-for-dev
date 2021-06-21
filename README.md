@@ -769,7 +769,7 @@ Table of Contents
     - Free Cloud Security with Basic DDoS Protection + 5 Firewall Rules.
     - Free VoD (Video On Demand) Platform with 10 GB Storage + 50 GB Traffic.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
-  * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc.
+  * [cdnjs.com](https://cdnjs.com/) — Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 11% of all websites, powered by Cloudflare.
   * [Cloudflare](https://www.cloudflare.com/)
     * CDN along with free SSL
     * Free DNS for unlimited number of domains
@@ -781,7 +781,7 @@ Table of Contents
   * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
   * [jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
-  * [jsdelivr.com](https://www.jsdelivr.com/) — CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
+  * [jsdelivr.com](https://www.jsdelivr.com/) — A free, fast, and reliable CDN for open source. Supports npm, GitHub, WordPress, Deno, and more.
   * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate
