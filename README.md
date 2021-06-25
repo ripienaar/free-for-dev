@@ -880,7 +880,6 @@ Table of Contents
   * [Alwaysdata](https://www.alwaysdata.com/) — 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
   * [Bubble](https://bubble.io/) — Visual programming to build web and mobile apps without code, free with Bubble branding.
-  * [Byet](https://byet.host) — Byet provides you with a massive free, and ad-free load balanced free web hosting service including PHP, MySQL, FTP, Vistapanel & more!..
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
   * [Drive To Web](https://drv.tw) — Host directly to the web from Google Drive & OneDrive. Static sites only. Free forever. One site per Google/Microsoft account.
   * [Endless Hosting](https://theendlessweb.com/) — 300 MB storage, Free SSL, PHP, MySQL, FTP, free sub-domains, E-Mail, DNS, beatiful panel UI. One of the best!
