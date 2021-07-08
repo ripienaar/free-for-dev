@@ -1306,6 +1306,7 @@ Table of Contents
   * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive and fun playground to learn Docker.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [TreeScale.com](https://treescale.com/) — Host and manage container images with group permissions. Free tier offers 1 GB storage for private repositories.
+  * [GitLab](https://gitlab.com) — Gitlab provides free doscker container registry (up to 10 GB per repository)
 
 **[⬆ back to top](#table-of-contents)**
 
