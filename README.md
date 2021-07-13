@@ -1,4 +1,4 @@
-# free-for.dev 
+# free-for.dev
 
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.
 
@@ -11,19 +11,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 900+ p
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a free tier and not just a free trial. If the free tier is time-bucketed it has to be for at least a year. We also consider the free tier from a security perspective, so SSO is fine but I will not accept services that restrict TLS to paid-only tiers.
-
-Sponsors
-========
-
-## 🪐 Deta – The free cloud for hackers
-
-
-> [Deta](https://deta.sh/?ref=freedev) is a 100% free cloud provider from Germany 🇩🇪. Deta offers friendly & fast support on Slack & Discord as well.  
-> __Deta Micros__: Unlimited & 0-downtime Node.js and Python hosting.  
-> __Deta Base__: Unlimited production-ready NoSQL databases for your next project.  
-> __Deta Drive__: Scalable cloud file storage for all of your apps.
-
-
 
 Table of Contents
 =================
@@ -161,7 +148,7 @@ Table of Contents
   * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
   * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here) provided are :
        - [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free)
-       - [Static Website Hosting](https://pages.github.com) (Free for Public Repos)  
+       - [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
        - [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
        - Project Management & Issue Tracking.
   * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators. Also offers the following features :
