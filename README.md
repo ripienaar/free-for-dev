@@ -650,6 +650,8 @@ Table of Contents
 
 ## Email
 
+  * [Migomail(https://migomail.com/) – migomail provides transactional smtp server.
+  * [Mailcot(https://mailcot.com/) – mailcot provides email marketing services.
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [biz.mail.ru](https://biz.mail.ru/) — 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
