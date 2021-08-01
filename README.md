@@ -1164,6 +1164,7 @@ Table of Contents
    * [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. 2,500 free map views and API requests / day for non-commercial usage and testing.
    * [http://maps.stamen.com/](http://maps.stamen.com/) - Free map tiles and tile hosting.
    * [GeocodeAPI](https://geocodeapi.io) - Geocode API: Address to Coordinate Conversion & Geoparsing based on Pelias. Batch geocoding via CSV. 350000 free requests/month.
+   * [Geokeo api](https://geokeo.com) - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries
 
 **[⬆ back to top](#table-of-contents)**
 
