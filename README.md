@@ -62,6 +62,7 @@ Table of Contents
    * [Web Hosting](#web-hosting)
    * [Commenting Platforms](#commenting-platforms)
    * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
+   * [Remote Desktop Tools](#remote-desktop-tools)
    * [Other Free Resources](#other-free-resources)
 
 ## Major Cloud Providers
@@ -722,7 +723,7 @@ Table of Contents
      - [Wiki](https://zoho.com/wiki) — Free for 3 users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customisable CSS.
      - [Subscriptions](https://zoho.com/subscriptions) — Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho themselves. Last 40 subscription metrics are stored
      - [Checkout](https://zoho.com/checkout) — Product Billing management with 3 pages & up to 50 payments.
-     - [Desk](https://zoho.com/desk) — Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Assist](https://zoho.com/assist) for 1 remote technician & 5 unattended computers.
+     - [Desk](https://zoho.com/desk) — Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Zoho Assist](#remote-desktop-tools).
      - [Cliq](https://zoho.com/cliq) — Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.
      - [Campaigns](https://zoho.com/campaigns)
      - [Forms](https://zoho.com/forms)
@@ -1390,6 +1391,13 @@ Table of Contents
   * [Cronhooks](https://cronhooks.io/) - Schedule one time or recurring webhooks using api and web app. Free plan allows 1 webhook schedule.
   * [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
   * [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
+
+**[⬆ back to top](#table-of-contents)**
+
+## Remote Desktop Tools
+
+  * [Zoho Assist](https://zoho.com/assist) — Free for 1 remote technician & 5 unattended computers
+  * [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
 
 **[⬆ back to top](#table-of-contents)**
 
