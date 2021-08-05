@@ -62,6 +62,7 @@ Table of Contents
    * [Web Hosting](#web-hosting)
    * [Commenting Platforms](#commenting-platforms)
    * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
+   * [Remote Desktop Tools](#remote-desktop-tools)
    * [Other Free Resources](#other-free-resources)
 
 ## Major Cloud Providers
@@ -1390,6 +1391,13 @@ Table of Contents
   * [Cronhooks](https://cronhooks.io/) - Schedule one time or recurring webhooks using api and web app. Free plan allows 1 webhook schedule.
   * [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
   * [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
+
+**[⬆ back to top](#table-of-contents)**
+
+## Remote Desktop Tools
+
+  * [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
+  * [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
 
 **[⬆ back to top](#table-of-contents)**
 
