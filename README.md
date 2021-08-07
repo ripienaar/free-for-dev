@@ -701,6 +701,7 @@ Table of Contents
   * [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
   * [Tempmailo](https://tempmailo.com/) - Unlimited free temp email addresses. Autoexpire in two days.
+  * [HotTempMail](https://hottempmail.com/) - Unlimited free temp email or disposable temporary email addresses. Autoexpire in one days.
   * [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
   * [testmail.app](https://testmail.app/) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. 100 emails/month free forever, unlimited free for open source.
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
