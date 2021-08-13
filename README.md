@@ -491,6 +491,7 @@ Table of Contents
   * [foxpass.com](https://www.foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs and wireless networks. Free for 10 users
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) — Free SSL certificates for Open Source
   * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
+  * [Hdiv](https://github.com/hdiv/hdiv) - Application security monitoring and protection (RASP) for web applications and APIs.
   * [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
   * [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.
   * [keychest.net](https://keychest.net) - SSL expiry management and cert purchase with an integrated CT database
