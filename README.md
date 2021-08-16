@@ -56,9 +56,7 @@ Table of Contents
    * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
    * [Testing](#testing)
    * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
-   * [
-   
- n Management](#translation-management)
+   * [Translation Management](#translation-management)
    * [Vagrant Related](#vagrant-related)
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
