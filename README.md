@@ -56,7 +56,9 @@ Table of Contents
    * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
    * [Testing](#testing)
    * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
-   * [Translation Management](#translation-management)
+   * [
+   
+ n Management](#translation-management)
    * [Vagrant Related](#vagrant-related)
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
@@ -576,6 +578,7 @@ Table of Contents
   * [oneskyapp.com](https://www.oneskyapp.com/) — Limited free edition for up to 5 users, free for Open Source
   * [POEditor](https://poeditor.com/) — Free up to 1000 strings
   * [SimpleLocalize](https://simplelocalize.io/) - Free up to 100 translation keys, unlimited strings, unlimited languages, startup deals
+  * [Texterify](https://texterify.com/) - Free for a single user
   * [transifex.com](https://www.transifex.com/) — Free for Open Source
   * [Translation.io](https://translation.io) - Free for Open Source
   * [webtranslateit.com](https://webtranslateit.com/) — Free up to 500 strings
