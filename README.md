@@ -632,6 +632,7 @@ Table of Contents
   * [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for 5 websites, 60 second intervals, public statuspage.
   * [zenduty.com](https://www.zenduty.com/) — End-to-end incident management, alerting, on-call management and response orchestration platform for network operations, site reliability engineering and DevOps teams. Free for upto 5 users.
   * [asayer.io](https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket). Free 1k sessions/month with 14 days retention
+  * [lean20.com](https://lean20.com) - Public status pages for incident reporting. 100% free.
 
 **[⬆ back to top](#table-of-contents)**
 
