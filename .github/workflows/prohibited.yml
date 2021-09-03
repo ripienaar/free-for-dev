@@ -1,0 +1,17 @@
+name: Check for files that can't be edited
+on:
+  pull_request_target:
+    types: [opened,synchronize]
+    paths:
+      - '.github/**'
+      - 'index.html'
+      - 'CNAME'
+      - '.github/action-scripts/**'
+jobs:
+  failure:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.user.login != 'thispsj' && github.event.pull_request.user.login != 'ripienaar'
+    steps:
+      - name: Fail
+        run: exit 1
+    

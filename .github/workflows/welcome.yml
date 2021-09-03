@@ -1,0 +1,18 @@
+name: Send a Welcome Message to First time contributors
+on:
+  pull_request_target:
+    types: [opened]
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Client
+        run: curl -#L $CLI_URL --output fbot.jar
+        env:
+          CLI_URL: ${{ secrets.BOTJAR_URL }}
+      - name: Send Welcome Message
+        run: java -jar fbot.jar welcomemsg
+        env:
+          PULL_NUM: ${{ github.event.pull_request.number }}
+          GHPAT: ${{ secrets.GHBOT_TOKEN }}
+          

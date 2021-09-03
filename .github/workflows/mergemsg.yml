@@ -1,0 +1,19 @@
+name: Merge PR
+on:
+  pull_request_target:
+    types: [closed]
+jobs:
+  sendmsg:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged && github.event.pull_request.user.login != 'ripienaar'
+    steps:
+      - name: Download Client
+        run: curl -#L $CLI_URL --output fbot.jar
+        env:
+          CLI_URL: ${{ secrets.BOTJAR_URL }}
+      - name: Send Merge Notification
+        run: java -jar fbot.jar mergemsg
+        env:
+          GHPAT: ${{ secrets.GHBOT_TOKEN }}
+          PULL_NUM: ${{ github.event.pull_request.number }}
+        

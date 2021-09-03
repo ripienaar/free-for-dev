@@ -1,0 +1,17 @@
+name: Triage Pull Request
+on:
+  pull_request_target:
+    types: [opened,converted_to_draft,ready_for_review]
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Client
+        run: curl -#L $CLI_URL --output fbot.jar
+        env:
+          CLI_URL: ${{ secrets.BOTJAR_URL }}
+      - name: Run Triage Task
+        run: java -jar fbot.jar triage
+        env:
+          PULL_NUM: ${{ github.event.pull_request.number }}
+          GHPAT: ${{ secrets.GHBOT_TOKEN }}

@@ -1,0 +1,14 @@
+name: Lint Markdown
+on:
+  pull_request:
+    types: [opened,synchronize]
+    
+jobs:
+  lint:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install mdl
+        run: gem install mdl
+      - name: Lint INDEX.MD
+        run: bash ./.github/action-scripts/lint.sh
