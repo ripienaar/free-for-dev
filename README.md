@@ -7,7 +7,8 @@ This is a list of software (SaaS, PaaS, IaaS etc.) and other offerings that have
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.
 
 
-[![Edit on GitHub](https://img.shields.io/badge/GitHub-contribute-green?style=plastic&logo=github)](https://github.com/ripienaar/free-for-dev)
+[![Edit on GitHub](https://img.shields.io/badge/GitHub-contribute-green?style=plastic&logo=github)](https://github.com/ripienaar/free-for-dev) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
+
  
 Table of Contents
 =================
