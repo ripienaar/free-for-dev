@@ -9,6 +9,8 @@ The scope of this particular list is limited to things that infrastructure devel
 
 [![Edit on GitHub](https://img.shields.io/badge/GitHub-contribute-green?style=plastic&logo=github)](https://github.com/ripienaar/free-for-dev) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
+*NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a free tier and not just a free trial. If the free tier is time-bucketed it has to be for at least a year. We also consider the free tier from a security perspective, so SSO is fine but I will not accept services that restrict TLS to paid-only tiers.
+
  
 Table of Contents
 =================
