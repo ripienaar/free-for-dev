@@ -4,7 +4,7 @@ Developers and Open Source authors now have a massive amount of services offerin
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
-[![Edit on GitHub](https://img.shields.io/badge/GitHub-contribute-green?style=plastic&logo=github)]](https://github.com/ripienaar/free-for-dev)
+[![Edit on GitHub](https://img.shields.io/badge/GitHub-contribute-green?style=plastic&logo=github)](https://github.com/ripienaar/free-for-dev)
  
 Table of Contents
 =================
