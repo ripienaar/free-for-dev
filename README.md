@@ -758,6 +758,7 @@ Table of Contents
   * [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
   * [Google Fonts](https://fonts.google.com/) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
   * [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
+  * [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
 
 **[⬆ back to top](#table-of-contents)**
 
