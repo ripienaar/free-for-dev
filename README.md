@@ -48,6 +48,7 @@ Table of Contents
    * [Package Build System](#package-build-system)
    * [Payment and Billing Integration](#payment-and-billing-integration)
    * [Privacy Management](#privacy-management)
+   * [Promotion](#promotion)
    * [Screenshot APIs](#screenshot-apis)
    * [Search](#search)
    * [Security and PKI](#security-and-pki)
@@ -1382,6 +1383,14 @@ Table of Contents
   * [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies along with consent management. Free tier offers limited privacy and cookie policy as well as cookie banners.
   * [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. Free tier offers a one-time scan and a single banner.
   * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. Free tier offers most features with a limited visitor count.
+
+**[⬆ back to top](#table-of-contents)**
+
+## Promotion
+  * [ProductHunt](https://producthunt.com) - Place to post and promote your software. Also can be useful when finding innovative products.
+  * [AlternativeTo](https://alternativeto.net) - Curated list of software alternatives. Anyone can add a software for free.
+  * [Find a Discord](https://findadiscord.com) - List of discord servers. If your software have a discord server as support, it will be helpful for promotion to add it here.
+  * [Free for dev](https://free-for.dev) - Curated list of free and helpful services for developers (Psst, you're browsing this site right now :) ). If your software/service has free plans, and helps other developers to build their products, you can create PR and list it here.
 
 **[⬆ back to top](#table-of-contents)**
 
