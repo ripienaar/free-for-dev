@@ -146,9 +146,11 @@ Table of Contents
     * Terraform code generated automatically
     * Versioning (graphics and code)
     * One click deployment
+    - Team collaboration
     * Cloud governance
     * Marketplace of cloud architectures
-
+    - Remote state management
+  * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
 
 **[⬆ back to top](#table-of-contents)**
 
