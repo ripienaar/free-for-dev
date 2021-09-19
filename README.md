@@ -16,6 +16,7 @@ Table of Contents
 =================
 
    * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
+   * [Cloud management solutions](#cloud-management-solutions)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
@@ -136,6 +137,12 @@ Table of Contents
     * Availability Monitoring - 3 million data points per month
     * Log Analysis - 500MB of daily log
     * Full, detailed list - https://www.ibm.com/cloud/free/
+
+**[⬆ back to top](#table-of-contents)**
+
+## Cloud management solutions
+  * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
+  * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
 
 **[⬆ back to top](#table-of-contents)**
 
