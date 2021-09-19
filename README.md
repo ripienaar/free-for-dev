@@ -141,15 +141,7 @@ Table of Contents
 **[⬆ back to top](#table-of-contents)**
 
 ## Cloud management solutions
-  * [Brainboard](https://www.brainboard.co) - visually build and manage cloud infrastructures from end-to-end:
-    * Visual graphical interface
-    * Terraform code generated automatically
-    * Versioning (graphics and code)
-    * One click deployment
-    - Team collaboration
-    * Cloud governance
-    * Marketplace of cloud architectures
-    - Remote state management
+  * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
   * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
 
 **[⬆ back to top](#table-of-contents)**
