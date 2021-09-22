@@ -868,6 +868,7 @@ Table of Contents
   * [Divio](https://www.divio.com/) - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects.
   * [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources.
   * [Railway](https://railway.app) - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 3 Projects, 2 Plugins / Project, 2 Environments / Project, 3 Live Deploys / Environment available for free.
+  * [gupshup.io](https://www.gupshup.io/) - A Bot Platform to develop, test and deploy Conversational Messaging Bots for free on multiple Social Media channels.
 
 **[⬆ back to top](#table-of-contents)**
 
