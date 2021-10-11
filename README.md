@@ -619,6 +619,7 @@ Table of Contents
   * [checklyhq.com](https://checklyhq.com) - Open source E2E / Synthetic monitoring and deep API monitoring for developers. Free plan with 5 users and 50k+ check runs.
   * [circonus.com](https://www.circonus.com/) — Free for 20 metrics
   * [cloudsploit.com](https://cloudsploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc.
+  * [cronrobot.io](https://www.cronrobot.io) — Open source monitoring and automation platform for your websites. Free tier for personal use. Can be used with our cloud solution or self-hosted.
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
   * [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
   * [economize.cloud](https://economize.cloud) — Economize helps demystify cloud infrastructure costs by organizing cloud resources, optimize and report the same. Free for up to $5000 spends on Google Cloud Platform every month.
