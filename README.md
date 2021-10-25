@@ -287,6 +287,7 @@ Table of Contents
   * [happi.dev](https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics). 8000 free API calls per month.
   * [huggingface.co](https://huggingface.co) - Build, train and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
   * [vatcheckapi.com](https://vatcheckapi.com) - Simple and free VAT number validation API. 500 free requests per month.
+  * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100k free requests / month.
 
 **[⬆ back to top](#table-of-contents)**
 
