@@ -610,6 +610,7 @@ Table of Contents
   * [Translation.io](https://translation.io) - Free for Open Source
   * [webtranslateit.com](https://webtranslateit.com/) — Free up to 500 strings
   * [weblate.org](https://weblate.org/) — It's free for libre projects up to 10,000 string source for the free tier, and Unlimited Self-hosted on-premises.
+  * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
 
 **[⬆ back to top](#table-of-contents)**
 
