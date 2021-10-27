@@ -317,6 +317,7 @@ Table of Contents
   * [Fibery](https://fibery.io/) — Connected workspace platform. Free for single user, up to 2 GB disk space.
   * [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
   * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
+  * [Flowdash](https://flowdash.com/) — Automate business workflows. Free tier for up to 3 users, 1000 tasks, and 3 workflows.
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
   * [GitDailies](https://gitdailies.com) - Daily reports of your team's Commit and Pull Request activity on GitHub. Includes Push visualizer, peer recognition system, custom alert builder. Free tier has unlimited users, 3 repos, 3 alert configs.
   * [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25
