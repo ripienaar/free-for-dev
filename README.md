@@ -1407,7 +1407,6 @@ Table of Contents
   * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience.
   * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
   * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
-  * [Valine](https://valine.js.org/) wis a fast, simple & efficient Leancloud based no back end comment system.
 
 **[⬆ back to top](#table-of-contents)**
 
