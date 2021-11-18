@@ -932,7 +932,7 @@ Table of Contents
 
 ## Web Hosting
 
-  * [Alwaysdata](https://www.alwaysdata.com/) — 1000 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
+  * [Alwaysdata](https://www.alwaysdata.com/) — 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
   * [Bubble](https://bubble.io/) — Visual programming to build web and mobile apps without code, free with Bubble branding.
   * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
