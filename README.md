@@ -709,6 +709,7 @@ Table of Contents
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
   * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
+  * [Email Temporanee](https://emailtemporanee.com/) - Easy to use free Unlimited disposable temporary email addresses (temp email). Autoexpires even you can set it day.
   * [elasticemail.com](https://elasticemail.com) — 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
   * [EmailOctopus](https://emailoctopus.com) - Up to 2,500 subscribers and 10,000 emails per month free
   * [Eva](https://eva.pingutil.com) — Verify 5 million emails per day for free using REST API. No sign-ups required.
