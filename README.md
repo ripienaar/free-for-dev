@@ -1331,16 +1331,15 @@ Table of Contents
    * [Hitsteps.com](https://hitsteps.com/) — 2,000 pageviews per month for 1 website
    * [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
    * [Flagsmith](https://www.molasses.app) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise
-   * [goatcounter.com](https://www.goatcounter.com/) — GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. Free tier is for non-commerical use and includes unlimited number of sites, 6 months of data retention, and 100k pageviews/month.
+   * [GoatCounter](https://www.goatcounter.com/) — GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. Free tier is for non-commerical use and includes unlimited number of sites, 6 months of data retention, and 100k pageviews/month.
    * [Google Analytics](https://analytics.google.com/) — Google Analytics
-   * [expensify.com](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
+   * [Expensify](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [getinsights.io](https://getinsights.io) - Privacy-focused, cookie free analytics, free for up to 5k events/month.
    * [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
    * [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. 100 snapshots/day (max capacity: 300). 3 snapshot heatmaps which can be stored for 365 days. Unlimited Team Members.
-   * [imprace.com](https://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free 5 landing pages/domain
-   * [keen.io](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
-   * [metrica.yandex.com](https://metrica.yandex.com/) — Unlimited free analytics
-   * [mixpanel.com](https://mixpanel.com/) — 100,000 monthly tracked users, unlimited data history and seats, US or EU data residency
+   * [Keen](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
+   * [Yandex.Metrica](https://metrica.yandex.com/) — Unlimited free analytics
+   * [Mixpanel](https://mixpanel.com/) — 100,000 monthly tracked users, unlimited data history and seats, US or EU data residency
    * [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
    * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
    * [optimizely.com](https://www.optimizely.com) — A/B Testing solution, free starter plan, 1 website, 1 iOS and 1 Android app
@@ -1376,25 +1375,25 @@ Table of Contents
 
 ## International Mobile Number Verification API and SDK
 
-  * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
-  * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
-  * [veriphone.io](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
+  * [Cognalys](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
+  * [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
+  * [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Payment and Billing Integration
 
   * [CurrencyFreaks](https://currencyfreaks.com/) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
-  * [currencyapi.net](https://currencyapi.net/) — Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.
-  * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
+  * [CurrencyApi](https://currencyapi.net/) — Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.
+  * [currencylayer](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   * [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
   * [exchangerate-api.com](https://www.exchangerate-api.com) - An easy to use currency conversion JSON API. Free tier with no request limit.
-  * [fraudlabspro.com](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
-  * [mailpop.in](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
-  * [namiml.com](https://www.namiml.com/) - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics.  Free for all base features to run an IAP business.
-  * [revenuecat.com](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.
-  * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
-  * [freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.
+  * [FraudLabsPRO](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
+  * [MailPopin](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
+  * [Nami ML](https://www.namiml.com/) - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics.  Free for all base features to run an IAP business.
+  * [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.
+  * [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
+  * [Freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1412,21 +1411,24 @@ Table of Contents
 
 ## Vagrant Related
 
-  * [app.vagrantup.com](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
-  * [vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
+  * [Vagrant Cloud](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
+  * [Vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Dev Blogging Sites
 
-  * [dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
-  * [hashnode.com](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
-  * [medium.com](https://medium.com/) — Get smarter about what matters to you.
+  * [BearBlog](https://bearblog.dev/) - Minimalist, and Markdown powered blog and website builder.
+  * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
+  * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
+  * [Medium](https://medium.com/) — Get smarter about what matters to you.
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Commenting Platforms
   * [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.
+  * [Giscus](https://giscus.app/) - A lightweight comments widget built arround GitHub Discussions.
+  * [Gitalk](https://gitalk.github.io/) - A little comments widget built on GitHub Issues.
   * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience.
   * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
   * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
@@ -1508,13 +1510,15 @@ Table of Contents
 
 ## Other Free Resources
 
-  * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
-  * [js.org](https://js.org) - Free js.org domains for GitHub Pages
-  * [pp.ua](https://nic.ua/) — Free pp.ua domain.
+  * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
+  * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
+  * [FreeDNS](https://freedns.afraid.org) — Free subdomains powered by the community and free DNS hosting. Until 5 free DNS records.
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+  * [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
+  * [is-a.dev](https://is-a.dev) — Free `*.is-a.dev` subdomain for developers.
   * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
   * [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
   * [smsreceivefree.com](https://smsreceivefree.com/) — Provides free temporary and disposable phone numbers.
