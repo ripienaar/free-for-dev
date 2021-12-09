@@ -1044,7 +1044,7 @@ Table of Contents
    * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
    * [Radmin VPN](https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third-party services. 100,000 events/month free
-   * STUN Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs])
+   * [STUN](https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs])
      * Google STUN — [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302)
      * Twilio STUN — [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp)
    * [Tailscale](https://tailscale.com/) — Zero config VPN, using the open source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 20 devices.
