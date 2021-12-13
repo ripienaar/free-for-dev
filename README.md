@@ -734,6 +734,7 @@ Table of Contents
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
   * [mailkitchen](https://www.mailkitchen.com/) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
+  * [mailmenot.io](http://mailmenot.io) — Free disposable temporary email service with ability to add multiple email addresses
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
   * [Mailtie.com](https://mailtie.com/) - Free Email Forwarding for Your Domain. No registration required. Free Forever.
