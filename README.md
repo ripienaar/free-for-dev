@@ -239,6 +239,7 @@ Table of Contents
   * [KSoft.Si](https://api.ksoft.si/) — Free lyrics api chiefly aimed for discord bots.Also provides an extensive library of images and user data
   * [Lightly](https://www.lightly.ai/) — Improve your machine learning models by using the right data. Use datasets of up to 1'000 samples for free.
   * [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. Free API plan has 300 verifications per month.
+  * [MetalpriceAPI.com](https://metalpriceapi.com) - Live (Spot) and Historical Precious Metals and Currency Rates API. Also provides currency conversion API. Free developer plan available with 100 requests/month.
   * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities or screenshots as a service. 100 reqs/day every day free.
   * [monkeylearn.com](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month.
   * [MockAPI](https://www.mockapi.io/) — MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/50 resources per project for free.
