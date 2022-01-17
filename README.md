@@ -1366,6 +1366,7 @@ Table of Contents
    * [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people, track visitors. Free for one user, unlimited tests
    * [woopra.com](https://www.woopra.com/) — Free user analytics platform for 500K actions, 90 day data retention, 30+ one click integration.
    * [counter.dev](https://counter.dev) — Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.
+   * [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1385,6 +1386,7 @@ Table of Contents
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
    * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
    * [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your web site or app. Free unlimited time for small projects
+   * [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
 
 **[⬆ back to top](#table-of-contents)**
 
