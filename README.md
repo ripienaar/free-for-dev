@@ -1386,7 +1386,6 @@ Table of Contents
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
    * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
    * [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your web site or app. Free unlimited time for small projects
-   * [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
 
 **[⬆ back to top](#table-of-contents)**
 
