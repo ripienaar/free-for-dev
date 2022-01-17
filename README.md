@@ -43,7 +43,7 @@ Table of Contents
    * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
    * [Log Management](#log-management)
    * [Management Systems](#management-system)
-   * [Messaging and Streaming](#messaging)
+   * [Messaging and Streaming](#messaging-and-streaming)
    * [Miscellaneous](#miscellaneous)
    * [Monitoring](#monitoring)
    * [PaaS](#paas)
@@ -578,7 +578,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## Messaging
+## Messaging and Streaming
 
   * [Ably](https://www.ably.com/) - Realtime messaging service with presence, persistence and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections and 100 peak channels.
   * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
@@ -589,6 +589,7 @@ Table of Contents
   * [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
   * [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluster, up to 5 topics, 10MB data per topic and 28 days of data retention.
   * [pubnub.com](https://www.pubnub.com/) - Swift, Kotlin and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
+  * [eyeson API](https://developers.eyeson.team/) - A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows RealTime Data Injection, Video Layouts, Recordings, a fully featured hosted web UI (quickstart) or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes a month.
 
 **[⬆ back to top](#table-of-contents)**
 
