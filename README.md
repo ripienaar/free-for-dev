@@ -43,7 +43,7 @@ Table of Contents
    * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
    * [Log Management](#log-management)
    * [Management Systems](#management-system)
-   * [Messaging and Streaming](#messaging)
+   * [Messaging and Streaming](#messaging-and-streaming)
    * [Miscellaneous](#miscellaneous)
    * [Monitoring](#monitoring)
    * [PaaS](#paas)
@@ -578,7 +578,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## Messaging
+## Messaging and Streaming
 
   * [Ably](https://www.ably.com/) - Realtime messaging service with presence, persistence and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections and 100 peak channels.
   * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
