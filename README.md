@@ -296,7 +296,7 @@ Table of Contents
   * [huggingface.co](https://huggingface.co) - Build, train and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
   * [vatcheckapi.com](https://vatcheckapi.com) - Simple and free VAT number validation API. 500 free requests per month.
   * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100k free requests / month.
-  * [geojs.io] (https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
+  * [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
 
 **[⬆ back to top](#table-of-contents)**
 
