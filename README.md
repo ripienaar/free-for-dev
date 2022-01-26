@@ -481,7 +481,6 @@ Table of Contents
   * [Squash Labs](https://www.squash.io/) — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
-  * [TeamCity](https://www.jetbrains.com/teamcity/) — TeamCity Professional is free: 100 build configurations, 3 build agents.
   * [Mergify](https://mergify.io) — workflow automation and merge queue for GitHub — Free for public GitHub repositories
   * [Integromat](https://www.integromat.com) — Workflow automation tool which lets you connect apps and automate workflows using UI, it supports many apps and most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations and 15 minutes of minimum interval.
 
@@ -1452,7 +1451,7 @@ Table of Contents
 
   * [BearBlog](https://bearblog.dev/) - Minimalist, and Markdown powered blog and website builder.
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
-  * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!
+  * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get smarter about what matters to you.
 
 **[⬆ back to top](#table-of-contents)**
