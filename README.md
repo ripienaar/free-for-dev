@@ -1252,6 +1252,9 @@ Table of Contents
   * [Mastershot](https://mastershot.app) - Completely free browser-based video editor. No watermark, up to 1080p export options.
   * [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. 1 website for free.
   * [react-favicon.com](https://react-favicon.com/) - Generate Favicons for your web site using React and JSX using any font and icon library.
+  * [Windframe](https://www.devwares.com/windframe/) - Visual builder and editor for rapidly building and prototyping components and websites using tailwind css.
+
+
 
 **[⬆ back to top](#table-of-contents)**
 
