@@ -1452,8 +1452,7 @@ Table of Contents
 
   * [BearBlog](https://bearblog.dev/) - Minimalist, and Markdown powered blog and website builder.
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
-  * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
-  * [JetBrains Blog](https://blog.jetbrains.com/) — Industry and developer tools news by JetBrains.
+  * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!
   * [Medium](https://medium.com/) — Get smarter about what matters to you.
 
 **[⬆ back to top](#table-of-contents)**
@@ -1463,7 +1462,6 @@ Table of Contents
   * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience.
   * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
   * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
-  * [Remark42](https://remark42.com/) - Privacy-focused lightweight commenting engine.
 
 **[⬆ back to top](#table-of-contents)**
 
