@@ -85,15 +85,21 @@ Table of Contents
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
+    * Amazon CloudFront - 1TB egress per month
     * Amazon DynamoDB - 25GB NoSQL DB
-    * Amazon Lambda - 1 Million requests per month
+    * Amazon EC2 - 100GB aggregated egress per month
+    * Amazon EC2 - 750 hours per month of t2.micro or t3.micro
+    * Amazon EBS - 30GB per month of General Purpose (SSD) or Magnetic
+    * Amazon ELB - 750 hours per month
+    * Amazon Lambda - 1 million requests per month
     * Amazon SNS - 1 million publishes per month
+    * Amazon SES - 62.000 messages per month
     * Amazon Cloudwatch - 10 custom metrics and 10 alarms
     * Amazon Glacier - 10GB long-term object storage
     * Amazon SQS - 1 million messaging queue requests
     * Amazon CodeBuild - 100min of build time per month
-    * Amazon Code Commit - 5 active users per month
-    * Amazon Code Pipeline - 1 active pipeline per month
+    * Amazon CodeCommit - 5 active users per month
+    * Amazon CodePipeline - 1 active pipeline per month
     * Full, detailed list - https://aws.amazon.com/free/
 
   * [Microsoft Azure](https://azure.microsoft.com)
