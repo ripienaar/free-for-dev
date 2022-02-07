@@ -5,7 +5,13 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <title>Free for developers</title>
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <link 
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+      title="docsify-darklight-theme"
+      type="text/css"
+  />
   <link rel="icon" href="logo.webp" type="image/gif" sizes="16x16">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DLYKZXPL9J"></script>
@@ -25,11 +31,21 @@
     window.$docsify = {
       name: 'Free for developers',
       repo: 'ripienaar/free-for-dev',
-      search: ['/']
+      search: ['/'],
+      darklightTheme: {
+        siteFont : 'Source Sans Pro, Helvetica Neue',
+        defaultTheme : 'light',
+        codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+        bodyFontSize: '15px',
+      }
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script 
+      src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+      type="text/javascript">
+  </script>
   <style>
     a[href="#/?id=%f0%9f%aa%90-deta-the-free-cloud-for-hackers"] {
       color: rgb(233, 105, 0) !important;
