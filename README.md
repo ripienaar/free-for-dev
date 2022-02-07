@@ -1026,7 +1026,7 @@ Table of Contents
   * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
   * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
-  * [huaweicloud](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
+  * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
 
