@@ -160,7 +160,7 @@ Table of Contents
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
   * [Codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).
-  * [CodeFever](https://codefever.cn) — Unlimited private repositories. Fully open source and lightweight desigin. Powered by PGYER Team.
+  * [CodeFever](https://github.com/PGYER/codefever) — Unlimited private repositories. Fully open source and lightweight desigin. Powered by PGYER Team.
   * [Gitea.com](https://www.gitea.com/) - Unlimited public and private Git repos
   * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
   * [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here) provided are :
