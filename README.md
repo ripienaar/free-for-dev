@@ -1265,6 +1265,7 @@ Table of Contents
   * [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. 1 website for free.
   * [react-favicon.com](https://react-favicon.com/) - Generate Favicons for your web site using React and JSX using any font and icon library.
   * [svgrepo.com](https://www.svgrepo.com/) - Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use.
+  * [Windframe](https://devwares.com/windframe/) - Visual builder and editor for rapidly prototyping and building stunning webpages using tailwind css.
 
 **[⬆ back to top](#table-of-contents)**
 
