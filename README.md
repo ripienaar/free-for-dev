@@ -85,25 +85,24 @@ Table of Contents
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
-    * Amazon CloudFront - 1TB egress per month
-    * Amazon DynamoDB - 25GB NoSQL DB
-    * Amazon EC2 - 100GB aggregated egress per month
-    * Amazon EC2 - 750 hours per month of t2.micro or t3.micro
-    * Amazon EBS - 30GB per month of General Purpose (SSD) or Magnetic
-    * Amazon ELB - 750 hours per month
-    * Amazon Lambda - 1 million requests per month
-    * Amazon SNS - 1 million publishes per month
-    * Amazon SES - 62.000 messages per month
-    * Amazon Cloudwatch - 10 custom metrics and 10 alarms
-    * Amazon Glacier - 10GB long-term object storage
-    * Amazon SQS - 1 million messaging queue requests
-    * Amazon CodeBuild - 100min of build time per month
-    * Amazon CodeCommit - 5 active users per month
-    * Amazon CodePipeline - 1 active pipeline per month
+    * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month
+    * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and 10 alarms
+    * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
+    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month
+    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
+    * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
+    * [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo)
+    * [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
+    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
+    * [Glacier](https://aws.amazon.com/glacier) - 10GB long-term object storage
+    * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
+    * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
+    * [SES](https://aws.amazon.com/ses/) - 62.000 messages per month
+    * [SQS](https://aws.amazon.com/sqs/) - 1 million messaging queue requests
     * Full, detailed list - https://aws.amazon.com/free/
 
   * [Microsoft Azure](https://azure.microsoft.com)
-    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM
+    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
     * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps
     * [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
     * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
@@ -114,15 +113,15 @@ Table of Contents
     * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
     * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load balanced IP (VIP)
     * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
-    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 5GB egress per month
+    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB Inbound(12mo) & 5GB egress per month
     * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 5GB storage and 400 RUs of provisioned throughput
     * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
-    * [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage
+    * [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage (12mo)
     * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
     * [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI-based search and indexation service, free for 10,000 documents
     * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - Managed Kubernetes service, free cluster management
     * [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K ops/month
-    * Full, detailed list - [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/)
+    * Full, detailed list - https://azure.microsoft.com/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
     * Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
@@ -1019,7 +1018,6 @@ Table of Contents
   * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
   * [nsupdate.info](https://www.nsupdate.info/) — Free and open-source Dynamic DNS service
   * [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
-  * [qingcloud](https://www.qingcloud.com/products/dns/) — Free DNS hosting by QingCloud.
   * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting with unlimited records, anycast
   * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) — Free DNS hosting.
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
