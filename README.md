@@ -173,7 +173,8 @@ Table of Contents
        - Project Management & Issue Tracking.
   * [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
   * [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic, also you have an ionic repo
-  * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
+  * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration plat
+  for freely licensed projects, Git-based
   * [OSDN](https://osdn.net/) - OSDN.net is a free-of-charge service for open source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories and more.
   * [Pagure.io](https://pagure.io) — Pagure.io is a free and open source software code collaboration platform for FOSS-licensed projects, Git-based
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
@@ -834,7 +835,7 @@ Table of Contents
 
 ## Forms
 
-* .[FabForm].(https://fabform.io/) - Form backend platform for smart developers. Free plan allows unlimited forms, 250 submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email and others.
+  * [FabForm].(https://fabform.io/) - Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email and others.
 
   * [99inbound.com](https://www.99inbound.com/) - Build forms and share them online. Get an email or Slack message for each submission. Free plan has 2 forms, 100 entries per month, basic email & Slack.
   * [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.
