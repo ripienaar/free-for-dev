@@ -701,7 +701,6 @@ Table of Contents
   * [lean20.com](https://lean20.com/product/status/) - Public status pages for incident reporting. 100% free.
   * [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
   * [Squadcast.com](https://squadcast.com) - Squadcast is an end-to-end incident management software that's designed to help you promote SRE best practices. Free forever plan available for upto 10 users.
-  * [UptimeDog.com](https://www.uptimedog.com) - Free uptime monitoring service. Monitors availability of your website every 2 minutes 24/7/365.
 
 **[⬆ back to top](#table-of-contents)**
 
