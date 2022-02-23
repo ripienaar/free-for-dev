@@ -6,7 +6,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that hav
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.
 
-This list is the result of Pull Requests, reviews, ideas and work done by 1000+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.
+This list is the result of Pull Requests, reviews, ideas and work done by 1100+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
@@ -34,6 +34,7 @@ Table of Contents
    * [Dev Blogging Sites](#dev-blogging-sites)
    * [DNS](#dns)
    * [Docker Related](#docker-related)
+   * [Domain](#domain)
    * [Email](#email)
    * [Font](#font)
    * [Forms](#forms)
@@ -996,7 +997,6 @@ Table of Contents
   * [txti.es](https://txti.es/) — Quickly create web pages with markdown.
   * [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
   * [Versoly](https://versoly.com/) — SaaS focussed website builder - unlimited websites, 70+ blocks, 5 templates, custom CSS, favicon, SEO and forms. No custom domain.
-  * [Qovery](https://www.qovery.com) — Qovery is the simplest way to deploy your full-stack apps on AWS, GCP and Azure. It is free web hosting for developers with Database, SSL, a global CDN, and auto deploys from Git.
   * [Qoddi](https://qoddi.com) - PaaS service similar to Heroku with a developer-centric approach and all inclusive features. Free tier for static assets, staging and developer apps.
   * [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
 
@@ -1029,6 +1029,14 @@ Table of Contents
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
 
+**[⬆ back to top](#table-of-contents)**
+
+## Domain
+  * [freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
+  * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
+  * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
+  * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
+  * [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
 **[⬆ back to top](#table-of-contents)**
 
 ## IaaS
@@ -1551,9 +1559,6 @@ Table of Contents
 ## Other Free Resources
 
   * [get.localhost.direct](https://get.localhost.direct) — A better *.localhost.direct Wildcard public CA signed SSL cert for localhost development with sub-domain support  
-  * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
-  * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
-  * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
@@ -1564,7 +1569,6 @@ Table of Contents
   * [smsreceivefree.com](https://smsreceivefree.com/) — Provides free temporary and disposable phone numbers.
   * [simplebackups.io](https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...). Provides free plan for 1 backup.
   * [SnapShooter](https://snapshooter.com/) — Backup solution for DigitalOcean, AWS, LightSail, Hetzner and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
-  * [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
   * [Themeselection](https://themeselection.com/) — Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
 HTML Themes and UI Kits to create your applications faster!
   * [Web.Dev](https://web.dev/measure/) — This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.
