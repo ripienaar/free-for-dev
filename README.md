@@ -1369,6 +1369,7 @@ Table of Contents
    * [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
    * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity, using text editor plugins, limited plan for free.
    * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
+   * [PHPSandbox](https://phpsandbox.io/) — Online developement environment for PHP.
 
 **[⬆ back to top](#table-of-contents)**
 
