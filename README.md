@@ -445,6 +445,7 @@ Table of Contents
   * [parsers.dev](https://parsers.dev/) - Abstract syntax tree parsers and intermediate representation compilers as a service
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
+  * [Sema](https://www.semasoftware.com/) - Code review tool. Code reviewers have access to library of best practices to avoid repeating the same review.  Code reviews are automatically structured. There is also a dashboard for users to review the code and create portfolios of their work. Product is totally free to individuals and teams.
   * [shields.io](https://shields.io) — Quality metadata badges for open source projects
   * [Sider](https://sider.review) — Code review platform for many languages. Supports integration with GitHub. Free for public repositories with unlimited users.
   * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
