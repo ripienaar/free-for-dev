@@ -1043,6 +1043,9 @@ Table of Contents
   * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
+  * [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
+  * [cluster.ws & wip.la](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+
 **[⬆ back to top](#table-of-contents)**
 
 ## IaaS
