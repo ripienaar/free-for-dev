@@ -1295,6 +1295,7 @@ Table of Contents
   * [Screenlane](https://screenlane.com/) - [Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.
   * [scrnshts](https://scrnshts.club/) - [Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
   * [UI Garage](https://uigarage.net/) - [Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.
+  * [Nicelydone](https://nicelydone.club/) - [Web application screenshots] Save hours of research by browsing 19,000+ screen examples from web applications.
 
 **[⬆ back to top](#table-of-contents)**
 
