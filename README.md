@@ -1588,7 +1588,6 @@ HTML Themes and UI Kits to create your applications faster!
   * [Web.Dev](https://web.dev/measure/) — This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.
   * [SmallDev.tools](https://smalldev.tools/) — A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing real like dataset in JSON/CSV & multiple other formats and many more features. With a delightful interface.
   * [UseCSV by Layercode](https://layercode.com/usecsv) — Add CSV and Excel import to your web app in minutes. Give your users an enjoyable and robust data import experience. Get Started for Free without any credit card details, and start integrating UseCSV today. You can create unlimited Importers and upload files up to 100Mb.
-
-
+ * [Materio Free MUI React NextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) — Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers
 
 **[⬆ back to top](#table-of-contents)**
