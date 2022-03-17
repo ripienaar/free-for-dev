@@ -815,7 +815,7 @@ Table of Contents
 ## Forms
 
   * [99inbound.com](https://www.99inbound.com/) - Build forms and share them online. Get an email or Slack message for each submission. Free plan has 2 forms, 100 entries per month, basic email & Slack.
-  * [Crove.app](https://crove.app/) - Design mobile-friendly multi-step forms with branching logic. Connect with other apps using Zapier and Webhooks.
+  * [Crove.app](https://crove.app/) - Design mobile-friendly multi-step forms with branching logic. Connect with other apps using Zapier and Webhooks. Free for 3 documents per month.
   * [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.
   * [Formcake.com](https://formcake.com) - Form backend for devs, free plan allows unlimited forms, 100 submissions, Zapier integration. No libraries or dependencies required.
   * [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint, Free plan allows 100 submissions per month.
