@@ -1045,7 +1045,6 @@ Table of Contents
   * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
-  * [js.cool](https://js.cool) - Free js.cool subdomain for developers.
   * [runs-on.tech](https://runs-on.tech/) - Free runs-on.tech subdomain.
   * [is-a.dev](https://www.is-a.dev/) — Free is-a.dev subdomain for developers.
   * [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
