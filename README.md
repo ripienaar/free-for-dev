@@ -306,7 +306,6 @@ Table of Contents
   * [huggingface.co](https://huggingface.co) - Build, train and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
   * [vatcheckapi.com](https://vatcheckapi.com) - Simple and free VAT number validation API. 500 free requests per month.
   * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100k free requests / month.
-  * [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1311,6 +1310,7 @@ Table of Contents
    * [geoapify.com](https://www.geoapify.com/) - Vector and raster map tiles, geocoding, places, routing, isolines APIs. 3000 free requests / day.
    * [geocod.io](https://www.geocod.io/) — Geocoding via API or CSV Upload. 2,500 free queries/day.
    * [geocodify.com](https://geocodify.com/) — Geocoding and Geoparsing via API or CSV Upload. 10k free queries/month.
+   * [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
    * [giscloud.com](https://www.giscloud.com/) — Visualize, analyze and share geo data online.
    * [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data.
    * [graphhopper.com](https://www.graphhopper.com/) A free package for developers is offered for Routing, Route Optimization, Distance Matrix, Geocoding, Map Matching.
