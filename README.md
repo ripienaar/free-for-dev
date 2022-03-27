@@ -779,6 +779,7 @@ Table of Contents
   * [mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
   * [mohmal.com](https://www.mohmal.com/en) — Disposable temporary email
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
+  * [Mutant Mail](https://www.mutantmail.com/) – Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
   * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar
   * [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
   * [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
