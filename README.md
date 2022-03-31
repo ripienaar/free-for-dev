@@ -648,6 +648,7 @@ Table of Contents
   * [POEditor](https://poeditor.com/) — Free up to 1000 strings
   * [SimpleLocalize](https://simplelocalize.io/) - Free up to 100 translation keys, unlimited strings, unlimited languages, startup deals
   * [Texterify](https://texterify.com/) - Free for a single user
+  * [Tolgee](https://tolgee.io) - Free SaaS offering with limited translations, forever-free self hosted version
   * [transifex.com](https://www.transifex.com/) — Free for Open Source
   * [Translation.io](https://translation.io) - Free for Open Source
   * [Translized](https://translized.com) - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects
