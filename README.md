@@ -167,7 +167,7 @@ Table of Contents
        - [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
        - [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
        - Project Management & Issue Tracking.
-  * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators. Also offers the following features :
+  * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Also offers the following features :
        - [CI/CD](https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos)
        - Static Sites with [GitLab Pages](https://about.gitlab.com/product/pages).
        - Container Registry with 10 GB limit per repo.
