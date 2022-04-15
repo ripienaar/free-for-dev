@@ -1016,6 +1016,8 @@ Table of Contents
   * [Versoly](https://versoly.com/) — SaaS focussed website builder - unlimited websites, 70+ blocks, 5 templates, custom CSS, favicon, SEO and forms. No custom domain.
   * [Qoddi](https://qoddi.com) - PaaS service similar to Heroku with a developer-centric approach and all inclusive features. Free tier for static assets, staging and developer apps.
   * [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
+  * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) - Standard Web Hosting Package for
+Free for the first year for students.
 
 **[⬆ back to top](#table-of-contents)**
 
