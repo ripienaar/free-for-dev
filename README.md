@@ -1503,7 +1503,6 @@ Table of Contents
   * [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
 
 **[⬆ back to top](#table-of-contents)**
->>>>>>> 23b5a8eeb9bf71950059b39b7e3cb6884dd88f5b
 
 ## Other Free Resources
 
