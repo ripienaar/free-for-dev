@@ -1053,7 +1053,7 @@ Table of Contents
   * [freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
   * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
-  * [js.cool](https://github.com/willin/js-cool) - Free js.cool subdomains for GitHub Pages and Vercel.
+  * [js.cool](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
   * [runs-on.tech](https://runs-on.tech/) - Free runs-on.tech subdomain.
