@@ -854,6 +854,7 @@ Table of Contents
   * [Google Fonts](https://fonts.google.com/) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
   * [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
   * [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
+  * [Befonts](https://befonts.com/) - Provides several unqiue fonts for personal or commercial use.
 
 **[⬆ back to top](#table-of-contents)**
 
