@@ -1027,6 +1027,7 @@ Table of Contents
   * [Qoddi](https://qoddi.com) - PaaS service similar to Heroku with a developer-centric approach and all inclusive features. Free tier for static assets, staging and developer apps.
   * [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
   * [fleek.co](https://fleek.co/) - Build modern sites and apps on the Open Web and its protocols seamlessly free for, unlimited websites and 50 GB/month bandwidth.
+  * [InfinityFree](https://infinityfree.net) - Completely free website hosting with 5GB Disk Space, Unlimited Bandwidth and Free Subdomains and DNS. 
 
 **[⬆ back to top](#table-of-contents)**
 
