@@ -1054,7 +1054,7 @@ Table of Contents
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
-  * [Nova53](https://www.nova53.net) - Free Anycast DNS hosting for up to 3 domains, DNSSEC support, Master Slave and Native support.
+  * [Nova53](https://www.nova53.net) - Free Anycast DNS hosting for up to 3 domains, DNSSEC support, Primary Secondary and Native DNS Zone support.
 
 **[⬆ back to top](#table-of-contents)**
 
