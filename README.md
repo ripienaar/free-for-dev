@@ -225,6 +225,7 @@ Table of Contents
   * [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
   * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
   * [Export SDK](https://exportsdk.com) - PDF generator API with drag and drop template editor that also provides an SDK and no-code integrations. Free plan comes with 250 pages per month, unlimited users and three templates.
+  * [file.coffee](https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account).
   * [Flatirons Fuse](https://flatironsdevelopment.com/products/fuse/) - An embeddable CSV and spreadsheet import tool that makes importing data to your website fast, easy, and painless.
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. Free Micro plan has 500 transactions per month.
   * [FreeGeoIP.app](https://freegeoip.app/) - Completely free Geo IP information (JSON, CSV, XML). No registration required, 15000 queries per hour rate limit.
@@ -302,6 +303,7 @@ Table of Contents
   * [Time Door](https://timedoor.io) - A time series analysis API.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features free for unlimited usage.
   * [Unixtime](https://unixtime.co.za) - Free API to convert Unixtime to DateTime and vice versa.
+  * [unscan](https://unscan.co) - Free API to scan images for NSFW and files for malware. 100 requests per second.
   * [Webhook.site](https://webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests instantly.
   * [wit.ai](https://wit.ai/) — NLP for developers.
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
