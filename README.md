@@ -765,6 +765,7 @@ Table of Contents
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 2,000 free API requests/month
   * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms) - totally free!
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
+  * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
   * [Email Temporanee](https://emailtemporanee.com/) - Easy to use free Unlimited disposable temporary email addresses (temp email). Autoexpires even you can set it day.
   * [EmailLabs.io](https://emaillabs.io/en) — Send up to 24 000 Email for free every month.
   * [elasticemail.com](https://elasticemail.com) — 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
@@ -823,7 +824,6 @@ Table of Contents
   * [Validator.Pizza](https://www.validator.pizza/) — Free API to detect disposable emails
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
-  * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
   * [yopmail.fr](https://www.yopmail.fr/en/) — Disposable email addresses
   * [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services out of which some of them have free plans. List of services having free plans :
      - [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain.
@@ -1018,7 +1018,8 @@ Table of Contents
   * [hostman.com](https://hostman.com) — Deploy up to 3 static sites from your GitHub repository for free.
   * [Neocities](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [Netlify](https://www.netlify.com/) — Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.
-  * [Layer0](https://layer0.co/) Deploy fast dynamic Jamstack websites on a global CDN powered by [Limelight](https://www.limelight.com/) for free with 100GB/month bandwidth and 3 environments.
+  * [Layer0](https://layer0.co/) - Deploy fast dynamic Jamstack websites on a global CDN powered by [Limelight](https://www.limelight.com/) for free with 100GB/month bandwidth and 3 environments.
+  * [mogenius](https://mogenius.com/) - Deploy from git repository with Dockerfile. 1 CPU core, 2 GB RAM, 10 GB traffic, 4 GB SSD persistent storage.
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [render.com](https://render.com) — Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
