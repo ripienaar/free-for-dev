@@ -67,6 +67,7 @@ Table of Contents
    * [Commenting Platforms](#commenting-platforms)
    * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
    * [Remote Desktop Tools](#remote-desktop-tools)
+   * [Game Development](#game-development)
    * [Other Free Resources](#other-free-resources)
 
 ## Major Cloud Providers
