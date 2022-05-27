@@ -52,7 +52,7 @@ Table of Contents
    * [Payment and Billing Integration](#payment-and-billing-integration)
    * [Privacy Management](#privacy-management)
    * [Screenshot APIs](#screenshot-apis)
-   * [Flutter & Building IOS without Mac](#flutter)
+   * [Flutter Related and Building IOS Apps without Mac](#flutter-related-and-building-ios-apps-without-mac)
    * [Search](#search)
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
@@ -1547,9 +1547,12 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## Fltter Related & Building IOS Apps without Mac  
-  *[FlutLab](https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac) and Android apps with Flutter.
-  *[CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool.
+## Flutter Related and Building IOS Apps without Mac
+  * [FlutLab](https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac) and Android apps with Flutter.
+  * [CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool. Free tier offers 500 free minutes/month, and Mac Mini instance with 2.3Ghz and 8gb of RAM.
+  * [FlutterFlow](https://flutterflow.io/) -  FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Browser based hardware emulation written in Javascript
 
