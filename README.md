@@ -1614,6 +1614,8 @@ Table of Contents
   * [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
   * [RemSupp](https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free)
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Game Development
 
   * [itch.io](https://itch.io/game-assets) —  Free/Paid assets like sprites, tile sets, character packs, ...
