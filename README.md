@@ -106,7 +106,7 @@ Table of Contents
 
   * [Microsoft Azure](https://azure.microsoft.com)
     * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
-    * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps
+    * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day)
     * [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
     * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
     * [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 objects
