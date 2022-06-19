@@ -303,6 +303,7 @@ Table of Contents
   * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, Youtube, Bing, Baidu, Walmart and many other engines. Free plan includes 100 successful API calls per month.
   * [Similar Words API](https://word-simi.herokuapp.com/) — An API to find similar words, has vocabulary of about 4Million words.
   * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.
+  * [Stoplight](https://stoplight.io/) - Saas for collaborativly designing and documenting for APIs. The free plan offers free design, mocking and documentation tools to get started.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
   * [Time Door](https://timedoor.io) - A time series analysis API.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features free for unlimited usage.
