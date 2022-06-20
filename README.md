@@ -1528,6 +1528,7 @@ Table of Contents
 
 ## Dev Blogging Sites
 
+  * [AO.ms](https://ao.ms/) - Software Engineering Authority - Master of Software (MS)
   * [BearBlog](https://bearblog.dev/) - Minimalist, and Markdown powered blog and website builder.
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
