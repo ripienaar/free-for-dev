@@ -1637,6 +1637,7 @@ Table of Contents
   * [LoSpec](https://lospec.com/) — Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for you games
   * [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.
   * [Rive](https://rive.app/community/) - Community assets as well as create your own game assets using its free plan. 
+  * [Poly Pizza](https://poly.pizza/) - Free low poly 3D assets
 
 
 **[⬆ back to top](#table-of-contents)**
