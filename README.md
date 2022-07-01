@@ -305,7 +305,6 @@ Table of Contents
   * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.
   * [Stoplight](https://stoplight.io/) - Saas for collaborativly designing and documenting for APIs. The free plan offers free design, mocking and documentation tools to get started.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
-  * [Time Door](https://timedoor.io) - A time series analysis API.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features free for unlimited usage.
   * [Unixtime](https://unixtime.co.za) - Free API to convert Unixtime to DateTime and vice versa.
   * [unscan](https://unscan.co) - Free API to scan images for NSFW and files for malware. 100 requests per second.
