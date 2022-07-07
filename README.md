@@ -971,6 +971,7 @@ Table of Contents
   * [Northflank](https://northflank.com) — Build and deploy microservices, jobs and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database.
   * [Porter](https://getporter.dev/) - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers 1 cluster with up to 10 vCPU and 20 GB memory.
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing/).
+  * [WayScript](https://www.wayscript.com)- WayScript is the leading Internal Developer Platform (IDP) for software devs to enable secure, flexible, and rapid development of internal and custom software. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. Free tier available, no credit card required.
 
 **[⬆ back to top](#table-of-contents)**
 
