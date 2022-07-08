@@ -430,6 +430,8 @@ Table of Contents
   * [GraphCMS](https://graphcms.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
   * [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).
   * [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
+  * [Strapi](https://strapi.io/) -  Headless CMS open-source, Node.js based. Use to connect the front-end with the Strapi back-end.  
+
 
 **[⬆ back to top](#table-of-contents)**
 
