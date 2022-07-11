@@ -1514,6 +1514,7 @@ Table of Contents
   * [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.
   * [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [Freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.
+  * [Stripe](https://stripe.com) - A simple API integration used to accept payments on verious platforms.
 
 **[⬆ back to top](#table-of-contents)**
 
