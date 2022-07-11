@@ -1332,7 +1332,6 @@ Table of Contents
   * [react-favicon.com](https://react-favicon.com/) - Generate Favicons for your web site using React and JSX using any font and icon library.
   * [svgrepo.com](https://www.svgrepo.com/) - Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use.
   * [haikei.app](https://www.haikei.app/) - Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.
-  * [GIMP](https://gimp.org) - Free and open-source raster graphics editor used for image manipulation and image editing.
   * [Canva](https://canva.com) - Free online design tool to create visual content.
 
 **[⬆ back to top](#table-of-contents)**
@@ -1516,7 +1515,7 @@ Table of Contents
   * [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.
   * [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [Freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.
-  * [Stripe](https://stripe.com) - A simple API integration used to accept payments on various platforms.
+  * [Stripe](https://stripe.com) - A free payment and checkout API for cards, bank transfers with 3d secure authentication and instant payouts.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1651,8 +1650,6 @@ Table of Contents
   * [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.
   * [Rive](https://rive.app/community/) - Community assets as well as create your own game assets using its free plan. 
   * [Poly Pizza](https://poly.pizza/) - Free low poly 3D assets
-  * [Unity](https://unity.com) - Cross-platform game engine for real-time development
-  * [Unreal Engine](https://www.unrealengine.com/) - Advanced game engine for game creation
 
 **[⬆ back to top](#table-of-contents)**
 
