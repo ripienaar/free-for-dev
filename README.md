@@ -1647,6 +1647,7 @@ Table of Contents
   * [Rive](https://rive.app/community/) - Community assets as well as create your own game assets using its free plan. 
   * [Poly Pizza](https://poly.pizza/) - Free low poly 3D assets
   * [Unity](https://unity.com) - Cross-platform game engine for real-time development
+  * [Unreal Engine](https://www.unrealengine.com/) - Advanced game engine for game creation
 
 **[⬆ back to top](#table-of-contents)**
 
