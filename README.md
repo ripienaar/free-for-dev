@@ -1471,6 +1471,7 @@ Table of Contents
    * [counter.dev](https://counter.dev) — Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.
    * [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
    * [Uptrace](https://uptrace.dev) - Distributed Tracing Tool that helps developers pinpoint failures and find performance bottlenecks. Has a free plan, offers a free Personal subscription for open source projects, and has an open source version.
+   * [Microsoft Clarity](https://clarity.microsoft.com/) - Clarity is a free, easy-to-use tool that captures how real people actually use your site.
 
 **[⬆ back to top](#table-of-contents)**
 
