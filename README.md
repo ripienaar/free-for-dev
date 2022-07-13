@@ -972,8 +972,11 @@ Table of Contents
   * [Northflank](https://northflank.com) — Build and deploy microservices, jobs and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database.
   * [Porter](https://getporter.dev/) - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers 1 cluster with up to 10 vCPU and 20 GB memory.
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing/).
+<<<<<<< HEAD
   * [mogenius](https://mogenius.com/) - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 1 CPU core, 2 GB RAM, 10 GB traffic, 4 GB SSD persistent storage.
   * [WayScript](https://www.wayscript.com)- WayScript is the leading Internal Developer Platform (IDP) for software devs to enable secure, flexible, and rapid development of internal and custom software. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 744 hours of [free runtime per month](https://www.wayscript.com/pricing).
+=======
+>>>>>>> 6f72547 (Revert "Updating readme with a devtool (WayScript)")
 
 **[⬆ back to top](#table-of-contents)**
 
