@@ -475,6 +475,7 @@ Table of Contents
   * [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
   * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
+  * [Rubocop](https://rubocop.org/) — A static code analyzer and formatter for Ruby, based on the community Ruby style guide. It fixes many code style offensives automatically and suggests more efficient implementation methods according to Ruby style guide.
 
 **[⬆ back to top](#table-of-contents)**
 
