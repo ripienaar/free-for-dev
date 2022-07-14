@@ -10,7 +10,9 @@ would find useful.
 
 We do not anymore accept cPanel like PHP+MySQL hosting services.
 
-### Check List
+### New Submission Check List
+
+<!-- Only for new submissions -->
 
 Please ensure your submission ticks all of these boxes:
 
