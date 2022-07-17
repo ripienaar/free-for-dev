@@ -19,6 +19,7 @@ Please ensure your submission ticks all of these boxes:
  - [ ] This is Software as a Service not self hosted
  - [ ] It has a free tier not just a free trial
  - [ ] The submission mentions what is free
+ - [ ] The submission is not already present in the list
 
 ### Thank You
 
