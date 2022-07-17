@@ -10,6 +10,12 @@ would find useful.
 
 We do not anymore accept cPanel like PHP+MySQL hosting services.
 
+### New Service description 
+<!-- Please fill all these details, helps us review and merge your PR quickly -->
+Service name:
+Service website:
+Service pricing page: 
+
 ### New Submission Check List
 
 <!-- Only for new submissions -->
