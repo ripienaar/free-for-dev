@@ -996,6 +996,7 @@ Table of Contents
   * [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
   * [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for 1 app, 1GB app data.
+  * [pipedream.com](https://pipedream.com) - Connect APIs, remarkably fast. Start connecting APIs with code-level control when you need it — and no code when you don't. Free tier includes 10,000 monthly invocations.
   * [posthook.io](https://posthook.io/) — Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free.
   * [progress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
   * [pubnub.com](https://www.pubnub.com/) — Free push notifications for up to 1 million messages/month and 100 active daily devices
