@@ -1,3 +1,4 @@
+<!--
 ### Free SaaS Offering Submission
 
 Thank you for contributing to this list. This list is for **SaaS**
@@ -8,7 +9,12 @@ The focus of this list is quite broad but we try to keep things
 limited to that which infrastructure developers, like DevOps Practitioners,
 would find useful.
 
-We do not anymore accept cPanel like PHP+MySQL hosting services.
+This list is the result of more than a thousand people contributing
+to make something useful, we appreciate your efforts.
+
+NOTES:
+  * We do not anymore accept cPanel like PHP+MySQL hosting services.
+-->
 
 ### New Submission Check List
 
@@ -20,8 +26,3 @@ Please ensure your submission ticks all of these boxes:
  - [ ] It has a free tier not just a free trial
  - [ ] The submission mentions what is free
  - [ ] The submission is not already present in the list
-
-### Thank You
-
-This list is the result of more than a thousand people contributing
-to make something useful, we appreciate your efforts.
