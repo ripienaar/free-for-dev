@@ -919,11 +919,6 @@ Table of Contents
 
 ## CDN and Protection
 
-  * [Arvan Cloud](https://arvancloud.com/) — Offers cloud related services (CDN,Cloud DNS, PaaS, Security etc.). Free plan offers :
-    - CDN with Free SSL. 100 GB Traffic + 1 Million HTTP(S) Requests.
-    - Free Cloud DNS for unlimited domains.
-    - Free Cloud Security with Basic DDoS Protection + 5 Firewall Rules.
-    - Free VoD (Video On Demand) Platform with 10 GB Storage + 50 GB Traffic.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 11% of all websites, powered by Cloudflare.
   * [Cloudflare](https://www.cloudflare.com/)
