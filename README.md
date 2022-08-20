@@ -870,8 +870,7 @@ Table of Contents
      - [Analytics](https://zoho.com/analytics)
   * [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).
   * [EmailJS](https://www.emailjs.com/) – This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
-  * [Takeout](https://takeout.bysourfruit.com) - 500 emails/month free.
-
+  * [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.
 
 **[⬆ back to top](#table-of-contents)**
 
