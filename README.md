@@ -957,6 +957,7 @@ Table of Contents
   * [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
   * [codenameone.com](https://www.codenameone.com/) — Open source, cross platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with unlimited number of projects
   * [Cyclic](https://www.cyclic.sh) - Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits.
+  * [Deno Deploy](https://deno.com/deploy) - Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge, worldwide. Free tier includes 100,000 requests per day and 100 GiB data transfer per month.
   * [Deta](https://www.deta.sh) – Deploy unlimited number of Node.js and Python apps for free. Includes free DBs, Auth and email.
   * [encore.dev](https://encore.dev/) — Backend framework using static analysis to provide automatic infrastructure, boilerplate free code, and more. Includes free cloud hosting for hobby projects.
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provide 1 free instance that never sleeps, and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps.
