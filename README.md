@@ -650,6 +650,7 @@ Table of Contents
   * [Upstash Kafka](https://upstash.com/kafka) - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.
   * [webpushr](https://www.webpushr.com/) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
   * [Scramjet Cloud Platform Beta](https://www.scramjet.org/#join-beta) - An end-to-end stream processing platform in free beta and offering 15 petabyte-seconds of free compute after the beta ends.
+  * [Raven](https://www.raven.dev/) - API to manage notifications across SMS, Email, Push, Slack, WA & more, First 10,000 events free every month
 
 **[⬆ back to top](#table-of-contents)**
 
