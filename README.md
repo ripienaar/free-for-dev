@@ -1081,6 +1081,7 @@ Table of Contents
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
+  * [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
 
 **[⬆ back to top](#table-of-contents)**
 
