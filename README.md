@@ -884,6 +884,7 @@ Table of Contents
   * [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
   * [Befonts](https://befonts.com/) - Provides several unqiue fonts for personal or commercial use.
   * [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
+  * [Bunny Fonts](https://fonts.bunny.net/) - Easily integrate Bunny Fonts into your website with a Google Fonts drop-in compatible API. But without the tracking!.
 
 **[⬆ back to top](#table-of-contents)**
 
