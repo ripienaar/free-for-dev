@@ -950,6 +950,9 @@ Table of Contents
   * [UNPKG](https://unpkg.com/) — CDN for everything on npm
   * [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on-the-fly with a worldwide cache.
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
+  * [Gcore](https://gcorelabs.com/)
+    * [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
+    * [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
 
 **[⬆ back to top](#table-of-contents)**
 
