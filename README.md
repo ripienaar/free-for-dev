@@ -1679,6 +1679,12 @@ Table of Contents
   * [Godot Engine](https://godotengine.org/) - Cross-platform, free, and open-source game engine. For making 2D and 3D games.
   * [Love2D](https://love2d.org/) - LÖVE is an open-source cross-platform engine for developing 2D video games.
   * [ambientCG](https://ambientcg.com/) - Public domain materials and resources, for physically-based rendering.
+  * [Blender](https://www.blender.org/) -  Free and open-source 3D graphics toolset, used for creating 3D models, animations, and VR.
+  * [Inkscape](https://www.inkscape.org/) - Free and open-source vector graphics editor used to create vector images, primarily in SVG format.
+  * [Audacity](https://www.audacityteam.org/) - Free and open-source audio editor and recording software. (Windows/Mac/Linux)
+  * [LMMS](https://lmms.io/lsp/) - Free, open-source, multiplatform digital audio workstation.
+  
+
 
 **[⬆ back to top](#table-of-contents)**
 
