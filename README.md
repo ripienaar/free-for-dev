@@ -1612,6 +1612,7 @@ Table of Contents
   * [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies along with consent management. Free tier offers limited privacy and cookie policy as well as cookie banners.
   * [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. Free tier offers a one-time scan and a single banner.
   * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. Free tier offers most features with a limited visitor count.
+  * [Privado](https://www.privado.ai/) - Tool identifies personal data as well as tracks the journey of processed data from the point of collection to defined sinks such as Third Parties, Databases, Logs, and APIs - thereby intelligently generating dataflows for your repository.
 
 **[⬆ back to top](#table-of-contents)**
 
