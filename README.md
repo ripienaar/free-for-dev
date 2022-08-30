@@ -1677,6 +1677,8 @@ Table of Contents
   * [3Dassets.one](https://www.3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
   * [Unity Asset Store](https://assetstore.unity.com/) - Thousands of free or affordable game assets (textures/models/tools/etc)
   * [Godot Engine](https://godotengine.org/) - Cross-platform, free, and open-source game engine. For making 2D and 3D games.
+  * [Love2D](https://love2d.org/) - LÖVE is an open-source cross-platform engine for developing 2D video games.
+  * [ambientCG](https://ambientcg.com/) - Public domain materials and resources, for physically-based rendering.
 
 **[⬆ back to top](#table-of-contents)**
 
