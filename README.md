@@ -385,7 +385,7 @@ Table of Contents
   * [Pendulums](https://pendulums.io/) - Pendulums is a free time tracking tool which helps you to manage your time in a better manner with an easy to use interface and useful statistics.
   * [Raindrop.io](https://raindrop.io) - Private and secure bookmarking app for macOS, Windows, Android, iOS and Web. Free Unlimited Bookmarks and Collaboration.
   * [element.io](https://element.io/) — A decentralized and open source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
-  * [Rocket.Chat](https://rocket.chat/) - Shared inbox for teams, secure, unlimited and open source.
+  * [Rocket.Chat](https://rocket.chat/) - Open-source, secure, and compliant communications platform includes features like: Apps Marketplace, White labeling, Omnichannel features and apps, Matrix Federation, Bridge to Slack, Teams, and others, End-to-end encryption, Unlimited 1:1 and group messaging, Full messaging history, and much more! Free Tier includes several listed features as Unlimited 1:1 and group messaging and Full messaging history.
   * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB
   * [Sema](https://www.semasoftware.com/) - Free developer portfolio tool able to consolidate and snapshot contributions across multiple repositories into a single report.
   * [Slab](https://slab.com/) — A modern knowledge management service for teams. Free for up to 10 users.
