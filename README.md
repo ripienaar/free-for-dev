@@ -638,6 +638,7 @@ Table of Contents
 ## Messaging and Streaming
 
   * [Ably](https://www.ably.com/) - Realtime messaging service with presence, persistence and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections and 100 peak channels.
+  * [Appwrite](https://appwrite.io/) - APIs for Databases, Auth & Users, Storage, Functions, GEO & Localization and API creation. Free, Open-Source and self-hosted, cloud version is under development and it will have a free tier.
   * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
   * [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.
   * [courier.com](https://www.courier.com/) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. Free plan includes 10,000 messages/mo.
@@ -1119,6 +1120,7 @@ Table of Contents
 ## DBaaS
 
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
+   * [Appwrite](https://appwrite.io/) - APIs for Databases, Auth & Users, Storage, Functions, GEO & Localization and API creation. Free, Open-Source and self-hosted, cloud version is under development and it will have a free tier.
    * [Astra](https://www.datastax.com/products/datastax-astra/) — Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)
    * [bit.io](https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst).
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service, up to 1M messages/month and 20 connections free
