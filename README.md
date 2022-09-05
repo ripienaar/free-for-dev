@@ -149,6 +149,15 @@ Table of Contents
     * Availability Monitoring - 3 million data points per month
     * Log Analysis - 500MB of daily log
     * Full, detailed list - https://www.ibm.com/cloud/free/
+   
+   
+  * [ArvanCloud](https://www.arvancloud.com/en/pricing/free/)
+    * [CDN](https://www.arvancloud.com/en/products/cdn/) - Unlimited Traffic, Unlimited Number of Requests, DDoS Protection, 5 Page Rules, 10 Firewall Rules
+    * [S3 Compatible Object Storage](https://www.arvancloud.com/en/products/cloud-storage/) - 5GB Storage, 20GB Traffic, CDN Integrated
+    * [Video Platform](https://www.arvancloud.com/en/products/video-platform/) - 5 hours video storage, 100 hours of watchtime, Secure link, Audio streaming
+    * [Container Service](https://www.arvancloud.com/en/products/paas/) - 0.5 vCPU, 0.5 GB RAM, 0.5 GB Ephemeral Storage, Private Registry, Compatible with Kubernetes Manifest
+    * [24/7 Support](https://www.arvancloud.com/en/pricing/support/) - Ticketing, Email, Documents, Users’ Community
+
 
 **[⬆ back to top](#table-of-contents)**
 
