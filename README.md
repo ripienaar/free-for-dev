@@ -152,7 +152,7 @@ Table of Contents
    
    
   * [ArvanCloud](https://www.arvancloud.com/en/pricing/free/)
-    * [CDN](https://www.arvancloud.com/en/products/cdn/) - Unlimited Traffic, Unlimited Number of Requests, DDoS Protection, 5 Page Rules, 10 Firewall Rules
+    * [CDN](https://www.arvancloud.com/en/products/cdn/) - Authoritative DNS, Unlimited Traffic, Unlimited Number of Requests, DDoS Protection, 5 Page Rules, 10 Firewall Rules
     * [S3 Compatible Object Storage](https://www.arvancloud.com/en/products/cloud-storage/) - 5GB Storage, 20GB Traffic, CDN Integrated
     * [Video Platform](https://www.arvancloud.com/en/products/video-platform/) - 5 Hours Video Storage, 100 Hours of Watchtime, Secure link, Audio streaming
     * [Container Service](https://www.arvancloud.com/en/products/paas/) - 0.5 vCPU, 0.5 GB RAM, 0.5 GB Ephemeral Storage, Private Registry, Compatible with Kubernetes Manifest
