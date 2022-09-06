@@ -523,6 +523,7 @@ Table of Contents
   * [Mergify](https://mergify.io) — workflow automation and merge queue for GitHub — Free for public GitHub repositories
   * [Integromat](https://www.integromat.com) — Workflow automation tool which lets you connect apps and automate workflows using UI, it supports many apps and most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations and 15 minutes of minimum interval.
   * [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0 and access to public worker pools: up to 200 minutes/month
+  * [microtica.com](https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on Kubernetes for free and support your production workloads. Free tier includes 2 services, 100 build minutes/month and 20 deployments/month on a shared Kubernetes Cluster provided by us.
 
 
 **[⬆ back to top](#table-of-contents)**
