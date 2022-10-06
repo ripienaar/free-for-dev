@@ -324,6 +324,7 @@ Table of Contents
   * [huggingface.co](https://huggingface.co) - Build, train and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
   * [vatcheckapi.com](https://vatcheckapi.com) - Simple and free VAT number validation API. 500 free requests per month.
   * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100k free requests / month.
+  * [Volca](https://volca.io#api) - Free API providing lists of technologies such as programming languages and database systems. Unlimited free requests.
 
 **[⬆ back to top](#table-of-contents)**
 
