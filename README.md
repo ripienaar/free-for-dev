@@ -1226,6 +1226,7 @@ Table of Contents
 
 ## Storage and Media Processing
 
+   * [AndroidFileHost](https://androidfilehost.com/) - Free file sharing platform with unlimited speed, bandwidth, file count, download count, etc. Mainly aimed for Android dev related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.
    * [borgbase.com](https://www.borgbase.com/) — Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and 2 repositories.
    * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
    * [sync.com](https://www.sync.com/) - End-to-End cloud storage service. 5 GB free storage
