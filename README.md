@@ -1105,6 +1105,7 @@ Table of Contents
    * [Astra](https://www.datastax.com/products/datastax-astra/) — Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)
    * [bit.io](https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month
    * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service, up to 1M messages/month and 20 connections free
+   * [codehooks.io](https://codehooks.io/) — Fast and simple JavaScript serverless backend and database service for front-end developers and makers. Combines fast serverless functions, HTTP2 API endpoints, a NoSQL document db with Mongdb-like queries, a key/value store, a CRON-like job system and a message queue. First datastore/space free, 5000 data objects/records and 5000 function calls monthly are free, 3 developers included.
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
    * [FaunaDB](https://fauna.com/) — Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 100 MB
    * [HarperDb](https://harperdb.io/) — Serverless cloud database, with dynamic schema based on JSON, 3000 IOPS with 1GB storage
