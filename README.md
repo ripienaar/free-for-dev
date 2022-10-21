@@ -1442,6 +1442,7 @@ Table of Contents
    * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity, using text editor plugins, limited plan for free.
    * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
    * [PHPSandbox](https://phpsandbox.io/) — Online developement environment for PHP.
+   * [Laravel Playground](https://laravelplayground.com/#/) - Laravel Playground is a free services that allows you to run Laravel and PHP code online, right from your browser.
 
 **[⬆ back to top](#table-of-contents)**
 
