@@ -947,9 +947,9 @@ Table of Contents
   * [UNPKG](https://unpkg.com/) — CDN for everything on npm
   * [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on-the-fly with a worldwide cache.
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
-  * [Gcore](https://gcore.com/)
-    * [CDN](https://gcore.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
-    * [DNS Hosting](https://gcore.com/dns/) — Free global DNS hosting without limits. Terraform, Certbot, External DNS, Octodns support.
+  * [Gcore](https://gcorelabs.com/)
+    * [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
+    * [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -1067,7 +1067,6 @@ Table of Contents
   * [duckdns.org](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
   * [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting. Also provide free subdomain based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from "Subdomains" menu after signing up.
-  * [gcore.com]](https://gcore.com/dns/) - Free global DNS hosting without limits. Terraform, Certbot, External DNS, Octodns support.
   * [luadns.com](https://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
   * [nextdns.io](https://nextdns.io) - DNS based firewall, 300K free queries monthly
