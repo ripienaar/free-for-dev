@@ -1652,6 +1652,7 @@ Table of Contents
   * [Cronhooks](https://cronhooks.io/) - Schedule on time or recurring webhooks. Free plan allows 5 ad-hoc schedules.
   * [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
   * [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
+  * [Gerar QR Code PIX](https://www.geradordepix.com) - Free tool to generate QR Code PIX, a popular digital payment method used in Brazil.
 
 **[⬆ back to top](#table-of-contents)**
 
