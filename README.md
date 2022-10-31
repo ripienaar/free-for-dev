@@ -1304,6 +1304,7 @@ Table of Contents
   * [framer.com](https://www.framer.com/) - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, up to 3 projects.
   * [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
   * [Gradientos](https://www.gradientos.app) - Makes choosing a gradient fast and easy.
+  * [Iconfont](https://www.iconfont.cn/) – Download massive custom icons. Translating icons into Fonts. Project Collaboration Tools. Communication Platform.
   * [Icon Horse](https://icon.horse) – Get the highest resolution favicon for any website from our simple API.
   * [Icons8](https://icons8.com) — Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.
   * [Invision App](https://www.invisionapp.com) - UI design and prototyping tool. Desktop and webapp available. Free to use with 1 active prototype.
