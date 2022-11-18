@@ -12,8 +12,18 @@ would find useful.
 This list is the result of more than a thousand people contributing
 to make something useful, we appreciate your efforts.
 
-NOTES:
-  * We do not anymore accept cPanel like PHP+MySQL hosting services.
+### Code of Conduct
+
+We are not here to argue with you. If you are argumentative, abusive,
+lie or missrepresent your service or are otherwise anti-social we will
+block you.
+
+### Services we do not accept
+
+  * cPanel like PHP+MySQL hosting services.
+  * Free dns services that are generic frontends to cloudflare or similar
+  * Services that are verbatim copy pastes of others while adding no value
+
 -->
 
 ### New Submission Check List
