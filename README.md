@@ -957,6 +957,7 @@ Table of Contents
 
 ## PaaS
 
+  * [alwaysdata.com](https://www.alwaysdata.com) - European PaaS with a Free plan. Can host any projects (Node.js, Python, PHP, etc.) and provides automatic SSL, SSH access, MariaDB/PostgreSQL databases, custom domains, CRON jobs, etc.
   * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
