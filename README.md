@@ -86,7 +86,7 @@ Table of Contents
     * BigQuery - 1 TB of querying per month, 10 GB of storage each month
     * Cloud Build - 120 build-minutes per day
     * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-    * [Google Collab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
+    * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     * Full, detailed list - https://cloud.google.com/free
 
 
