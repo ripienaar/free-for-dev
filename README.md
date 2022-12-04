@@ -1090,7 +1090,7 @@ Table of Contents
 
 ## Domain
   * [Freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
-  * [Open Domains](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
+  * [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
   * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
   * [js.cool](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
