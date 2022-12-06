@@ -329,6 +329,7 @@ Table of Contents
   * [vatcheckapi.com](https://vatcheckapi.com) - Simple and free VAT number validation API. 500 free requests per month.
   * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100k free requests / month.
   * [Volca](https://volca.io#api) - Free API providing lists of technologies such as programming languages and database systems. Unlimited free requests.
+  * [Query.me](https://query.me) - Collaborative, Notebook-style IDE that allows to connect SQL databases, send API requests and Emails, use JINJA to build powerful workflows. Free for small Teams.
 
 **[⬆ back to top](#table-of-contents)**
 
