@@ -131,7 +131,7 @@ Table of Contents
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
     * Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
-    * Block Volume - 4 volumes, 200 GB total (used for compute)
+    * Block Volume - 2 volumes, 200 GB total (used for compute)
     * Object Storage - 10 GB
     * Load balancer - 1 instance with 10 Mbps
     * Databases - 2 DBs, 20 GB each
