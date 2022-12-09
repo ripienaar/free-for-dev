@@ -1260,7 +1260,7 @@ Table of Contents
    * [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
    * [filestack.com](https://www.filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
    * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after 1 download. REST API to interact with the storage. Rate limit 1 request/minute.
-   * [Flmngr](https://flmngr.com) — Free JS / PHP file manager / image picker. NPM / React / Vue / Angular / JS snippet. Rich JavaScript and TypeScript API.
+   * [Flmngr](https://flmngr.com) — Free JS/PHP file manager & image picker. NPM / React / Vue / Angular / JS snippet. Rich JavaScript and TypeScript API.
    * [freetools.site](https://freetools.site/) — Free online tools. Convert or edit documents, images, audio, video and more.
    * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform, can be used via web based UI & also API. unlimited file size, bandwidth, download count, etc. But when a file becomes inactive (no download for more than 10 days), it will be deleted.
    * [gumlet.com](https://www.gumlet.com/) — Image resize-as-a-service. It also optimizes images and performs delivery via CDN. Free tier includes 1 GB bandwidth and unlimited number of image processing every month for 1 year.
@@ -1326,7 +1326,7 @@ Table of Contents
   * [Mindmup.com](https://www.mindmup.com/) — Unlimited mind maps for free, and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
   * [Mockplus iDoc](https://www.mockplus.com/idoc) - Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes 3 users and 5 projects with all features available.
   * [mockupmark.com](https://mockupmark.com/create/free) — Create realistic t-shirt and clothing mockups for social media and E-commerce, 40 free mockups.
-  * [N1ED](https://n1ed.com) — free WYSIWYG HTML editor based on TinyMCE/CKEditor (shipped as a plugin). File manager, image editor, Bootstrap 3/4/5 grid & widgets.
+  * [N1ED](https://n1ed.com) — free WYSIWYG HTML editor based on TinyMCE/CKEditor (shipped as a plugin). Composing responsive content with Bootstrap 3/4/5 grid & widgets, file manager and image editor.
   * [Octopus.do](https://octopus.do) — Visual sitemap builder. Build your website structure in real-time and rapidly share it to collaborate with your team or clients.
   * [Pencil](https://github.com/evolus/pencil) - Open source design tool using Electron.
   * [Penpot](https://penpot.app) - Web based, open source design and prototyping tool. Supports SVG. Completely free.
