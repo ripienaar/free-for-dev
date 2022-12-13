@@ -1244,6 +1244,7 @@ Table of Contents
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
    * [Zube](https://zube.io) — Project management with free plan for 4 Projects & 4 users. GitHub integration available.
    * [Toggl](https://toggl.com/) — Provides 2 free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://toggl.com/plan/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.
+   * [Bordio](https://bordio.com/) - Daily task planner & Kanban Calendar. Bordio allows to plan your week in advance and track the progress during the workday. On the main board you can see all your tasks and events together. Also it has a waiting list for someday tasks. Free for private use.
 
 **[⬆ back to top](#table-of-contents)**
 
