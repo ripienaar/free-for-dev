@@ -1103,6 +1103,7 @@ Table of Contents
   * [cluster.ws & wip.la](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
   * [Dee.al](https://domain.dee.al) — Free .dee.al,.gal.aw,.devz.id instant domain for your blog site & Other, ENJOY
   * [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
+  * [DNSExit](https://dnsexit.com/domains/free-second-level-domains/) — Free .run.place, .work.gd, .line.pm, and some other subdomains for a year and can be renewed for free in the last month.
 
 **[⬆ back to top](#table-of-contents)**
 
