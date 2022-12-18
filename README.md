@@ -624,6 +624,7 @@ Table of Contents
   * [SuperTokens](https://supertokens.com/) - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.
   * [Warrant](https://warrant.dev/) — Hosted enterprise-grade authorization and access control service for your apps. Free tier includes 1 million API requests per month and 1,000 authz rules.
   * [ZITADEL Cloud](https://zitadel.com) — A turnkey user and access management that works for you and supports multi tenant (B2B) use cases. Free for up to 25'000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies and so on).
+  * [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
 
 
 **[⬆ back to top](#table-of-contents)**
