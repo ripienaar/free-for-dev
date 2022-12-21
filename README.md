@@ -890,6 +890,7 @@ Table of Contents
   * [Bunny](https://bunny.net)
     * [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.
     * [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
+  * [FontBolt](https://www.fontbolt.com/) - Large database of pop culture fonts
 
 **[⬆ back to top](#table-of-contents)**
 
