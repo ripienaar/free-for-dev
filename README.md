@@ -332,6 +332,8 @@ Table of Contents
   * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100k free requests / month.
   * [Volca](https://volca.io#api) - Free API providing lists of technologies such as programming languages and database systems. Unlimited free requests.
   * [Query.me](https://query.me) - Collaborative data notebooks that execute in a script-like fashion and allow to fetch and send data via SQL, API, and a growing number custom blocks, like Slack and Email. Free for small Teams.
+  * [Zipcodestack](https://zipcodestack.com) - Free Zip Code API, covering postal codes of all countries. 10000 free requests/month.
+
 
 **[⬆ back to top](#table-of-contents)**
 
