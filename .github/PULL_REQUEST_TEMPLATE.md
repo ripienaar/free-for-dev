@@ -20,9 +20,9 @@
 
  ### Services we do not accept
 
-   - cPanel like PHP + MySQL hosting services.
-   - Free dns services that are generic frontends to CloudFlare or similar
-   - Services that are verbatim copy pastes of others while adding no value
+   * cPanel like PHP + MySQL hosting services.
+   * Free dns services that are generic frontends to CloudFlare or similar
+   * Services that are verbatim copy pastes of others while adding no value
 -->
 
 ## Requirements
