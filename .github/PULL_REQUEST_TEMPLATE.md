@@ -30,8 +30,8 @@
 <!-- This is only for new submissions -->
 <!-- Please ensure your submission ticks all of the requirements -->
 
- - [ ] This is Software as a Service not self hosted
- - [ ] It has a free tier not just a free trial
- - [ ] The submission mentions what is free
- - [ ] The submission is not already present in the list
- - [ ] The service has contact details of those running it and a privacy policy
+ * [ ] This is Software as a Service not self hosted
+ * [ ] It has a free tier not just a free trial
+ * [ ] The submission mentions what is free
+ * [ ] The submission is not already present in the list
+ * [ ] The service has contact details of those running it and a privacy policy
