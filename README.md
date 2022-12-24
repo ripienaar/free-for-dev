@@ -1476,7 +1476,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity, using text editor plugins, limited plan for free.
    * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
    * [PHPSandbox](https://phpsandbox.io/) — Online developement environment for PHP.
-
+   * [PHPize.online](https://phpize.online/) — Free online environment for experimenting with and sharing PHP and SQL code (PDO ($pdo), mysqli ($mysqli) & Laravel query builder ($db)). The plattform supports last PHP versions (5.6 - 8.2) and most popular RDBMS such as MySQL (5.7, 8.0), MariaDB 10, SQLite 3, PostgreSQL (11 - 15), MS SQL Server (2017, 2019, 2022), Oracle Database (19c, 21c) 
 **[⬆ back to top](#table-of-contents)**
 
 ## Analytics, Events and Statistics
