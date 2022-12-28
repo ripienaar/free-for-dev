@@ -1533,7 +1533,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [FullStory.com](https://www.fullstory.com) — 1,000 sessions/month with 1 month data retention and 3 user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
    * [hotjar.com](https://www.hotjar.com/) — Per site: 1,050 pages views/month, unlimited heatmaps, data stored for 3 months,...
    * [inspectlet.com](https://www.inspectlet.com/) — 2,500 sessions/month free for 1 website
-   * [livesession.io](https://livesession.io/) — 1,000 sessions free for 1 website
    * [Microsoft Clarity](https://clarity.microsoft.com/) - Session recording completely free with "no traffic limits", no project limits, and no sampling
    * [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for 1 website
    * [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for 1 website
