@@ -749,6 +749,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [stathat.com](https://www.stathat.com/) — Get started with 10 stats for free, no expiration
   * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
   * [statusgator.com](https://statusgator.com/) — Status page monitoring, 3 monitors free
+  * [Testomato.com](https://www.testomato.com/) — Easy-to-use website monitoring and uptime monitoring service in one
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [thundra.io/apm](https://www.thundra.io/apm) — Application monitoring and debugging. Has a free tier up to 250k monthly invocations.
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
