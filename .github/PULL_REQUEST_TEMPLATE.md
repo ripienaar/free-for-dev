@@ -30,8 +30,8 @@
 <!-- This is only for new submissions -->
 <!-- Please ensure your submission ticks all of the requirements -->
 
- * [ ] This is Software as a Service not self hosted
- * [ ] It has a free tier not just a free trial
+ * [X] Deletion of deploy now service down
+ * [X] Update link 4devs in Other Free Resources
  * [ ] The submission mentions what is free
  * [ ] The submission is not already present in the list
  * [ ] The service has contact details of those running it and a privacy policy
