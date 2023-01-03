@@ -31,7 +31,7 @@
 <!-- Please ensure your submission ticks all of the requirements -->
 
  * [X] Deletion of deploy now service down
- * [X] Update link 4devs in Other Free Resources
- * [ ] The submission mentions what is free
- * [ ] The submission is not already present in the list
- * [ ] The service has contact details of those running it and a privacy policy
+ * [X] It has a free tier not just a free trial
+ * [X] Free online tools, cpf generators, bank account, people, cnpj, zip code, rg, validators, encoders and many other useful tools for programmers.
+ * [X] The submission is not already present in the list
+ * [X] The service has contact details of those running it and a privacy policy
