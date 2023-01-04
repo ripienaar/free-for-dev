@@ -1731,8 +1731,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [Utils.fun](https://utils.fun/en) — All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, are completely free and do not upload any data to the cloud for processing.
   * [QR Code Robot](https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video) and also a scan tracking of QR code.
   * [Free Code Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.
-
-  * [regex101](regex101.com) — Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.
+  * [regex101](https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.
 
 
 
