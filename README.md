@@ -1732,6 +1732,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [QR Code Robot](https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video) and also a scan tracking of QR code.
   * [Free Code Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.
   * [regex101](https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.
+* [OpenAI](https://beta.openai.com/examples) — The free website allows different software systems to communicate with each other using the OpenAI APIs. In the context of GPT-3, there are APIs available that allow developers to send requests to the GPT-3 model and receive a generated text as a response see the documentation for more details.
 
 
 
