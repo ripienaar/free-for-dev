@@ -1254,6 +1254,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
    * [Zube](https://zube.io) — Project management with free plan for 4 Projects & 4 users. GitHub integration available.
    * [Toggl](https://toggl.com/) — Provides 2 free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://toggl.com/plan/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.
+   * [Sflow](https://sflow.io) — sflow.io is a project management tool that is built for software agile development, marketing, sales, and customer support, especially for outsourcing project and cross-organization collaboration project. Free plan up to 3 projects and 5 members.
 
 **[⬆ back to top](#table-of-contents)**
 
