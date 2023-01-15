@@ -422,6 +422,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Fleep.io](https://fleep.io/) — Fleep an alternative to Slack. It has a free plan for small teams with full message history, unlimited 1:1 conversations, 1 group conversation and 1 GB file storage.
   * [Chanty.com](https://chanty.com/) — Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10) with unlimited public and private conversations, searchable history, unlimited 1:1 audio calls, unlimited voice messages, 10 integrations and 20 GB storage per team.
   * [ruttl.com](https://ruttl.com/) — The best all-in-one feedback tool to collect digital feedback and review websites, PDF's and images.
+  * [Mattermost](https://mattermost.com/) — Secure collaboration for technical teams. One integrated platform for all of your team messaging, collaborative workflows and project management needs.
 
 **[⬆ back to top](#table-of-contents)**
 
