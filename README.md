@@ -710,7 +710,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 ## Monitoring
 
   * [Airbrake.io](https://www.airbrake.io/) - Get started with Free Forever Error and Performance Monitoring - no credit card required! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2) Projects, 7,500 Errors per month, 50,000 Performance Events, and 7 days data retention.
-  * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10 minutes interval. monitor SSH, HTTP, HTTPS, and any custom TCP ports.
+  * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10 minutes interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
   * [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
   * [appneta.com](https://www.appneta.com/) — Free with 1-hour data retention
   * [appspector.com](https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).
@@ -722,6 +722,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. Free tier with 5 monitors.
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
   * [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up
+  * [downtimemonkey.com](https://downtimemonkey.com/) — 60 uptime monitors, 5 minute interval. Email, Slack alerts.
   * [economize.cloud](https://economize.cloud) — Economize helps demystify cloud infrastructure costs by organizing cloud resources, optimize and report the same. Free for up to $5000 spends on Google Cloud Platform every month.
   * [elastic.co](https://www.elastic.co/solutions/apm) — Instant performance insights for JS developers. Free with 24 hours data retention
   * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects
