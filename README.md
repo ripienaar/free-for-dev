@@ -1314,7 +1314,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 **[⬆ back to top](#table-of-contents)**
 
 ## Design and UI
-
+  * [uxwing.com](https://uxwing.com/) - Exclusive and well optimized free icons SVG and PNG download for commercial projects without attribution
   * [AllTheFreeStock](https://allthefreestock.com) - a curated list of free stock images, audio and videos.
   * [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.
   * [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.Free plan allows up to 3 editors working on 1 design system with unlimited viewers.
