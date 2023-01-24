@@ -445,6 +445,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [GraphCMS](https://graphcms.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
   * [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).
   * [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
+  * [Bagisto](https://bagisto.com/en/) - Bagisto is an open-source e-commerce platform built on Laravel PHP framework.
 
 **[⬆ back to top](#table-of-contents)**
 
