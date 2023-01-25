@@ -24,6 +24,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [CDN and Protection](#cdn-and-protection)
    * [CI and CD](#ci-and-cd)
    * [CMS](#cms)
+   * [Code Generation](#code-generation)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
@@ -445,6 +446,12 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [GraphCMS](https://graphcms.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
   * [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).
   * [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
+
+**[⬆ back to top](#table-of-contents)**
+
+## Code Generation
+
+  * [Codeium](https://www.codeium.com/) — Codeium is the modern coding superpower, a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with your favorite IDEs (VSCode, JetBrains, Vim/Neovim, Jupyter, Colab, etc), with lightning fast speeds and state-of-the-art suggestion quality.
 
 **[⬆ back to top](#table-of-contents)**
 
