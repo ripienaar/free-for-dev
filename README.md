@@ -970,7 +970,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 ## PaaS
 
   * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
-  * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
   * [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
   * [codenameone.com](https://www.codenameone.com/) — Open source, cross platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with unlimited number of projects
   * [Cyclic](https://www.cyclic.sh) - Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits.
