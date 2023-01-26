@@ -24,6 +24,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [CDN and Protection](#cdn-and-protection)
    * [CI and CD](#ci-and-cd)
    * [CMS](#cms)
+   * [Code Generation](#code-generation)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
    * [Crash and Exception Handling](#crash-and-exception-handling)
@@ -448,6 +449,13 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 **[⬆ back to top](#table-of-contents)**
 
+## Code Generation
+
+  * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
+  * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
+
+**[⬆ back to top](#table-of-contents)**
+
 ## Code Quality
 
   * [SoftaCheck](https://www.softacheck.com/) — An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.
@@ -490,7 +498,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Code Search and Browsing
 
-  * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
   * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
   * [Namae](https://namae.dev/) - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
