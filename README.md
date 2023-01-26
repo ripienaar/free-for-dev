@@ -451,7 +451,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Code Generation
 
-  * [Codeium](https://www.codeium.com/) — Codeium is the modern coding superpower, a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with your favorite IDEs (VSCode, JetBrains, Vim/Neovim, Jupyter, Colab, etc), with lightning fast speeds and state-of-the-art suggestion quality.
+  * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
+  * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -497,7 +498,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Code Search and Browsing
 
-  * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
   * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
   * [Namae](https://namae.dev/) - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.
   * [searchcode.com](https://searchcode.com/) — Comprehensive text-based code search, free for Open Source
