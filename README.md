@@ -955,7 +955,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     * Free Unmetered Rate Limiting - 1 rule per domain
     * [Cloudflare Pages](https://pages.cloudflare.com/) — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.
     * [Cloudflare Workers](https://workers.cloudflare.com/) — Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
-    * [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare) — Create a tunnel from your server to a publically accessible, randomly-generated trycloudflare.com domain. No account required.
+    * [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) - Cloudflare Tunnel can connect HTTP web servers, SSH servers, remote desktops, and other protocols safely to your domains on Cloudflare without a publicly routable IP address. Expose your HTTP resources to the Internet via a public hostname using a DNS record. and use private network routes to expose both HTTP and non-HTTP resources. [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare) can expose locally running servers over a tunnel to a random subdomain on trycloudflare.com, No account required.
   * [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
   * [Stellate](https://stellate.co/) - Stellate is blazing fast, reliable CDN for your GraphQL API and Free for 2 services.
   * [jsdelivr.com](https://www.jsdelivr.com/) — A free, fast, and reliable CDN for open source. Supports npm, GitHub, WordPress, Deno, and more.
@@ -1198,7 +1198,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
    * [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.
    * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
-   * [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) - Cloudflare Tunnel can connect HTTP web servers, SSH servers, remote desktops, and other protocols safely to Cloudflare without a publicly routable IP address.
 
 **[⬆ back to top](#table-of-contents)**
 
