@@ -1424,7 +1424,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [geocodify.com](https://geocodify.com/) — Geocoding and Geoparsing via API or CSV Upload. 10k free queries/month.
    * [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
    * [giscloud.com](https://www.giscloud.com/) — Visualize, analyze and share geo data online.
-   * [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data.
    * [graphhopper.com](https://www.graphhopper.com/) A free package for developers is offered for Routing, Route Optimization, Distance Matrix, Geocoding, Map Matching.
    * [here](https://developer.here.com/) — APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
    * [locationiq.com](https://locationiq.com/) — Geocoding, Maps, and Routing APIs. 5000 requests/day for free.
