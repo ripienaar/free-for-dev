@@ -1571,6 +1571,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 ## Payment and Billing Integration
 
   * [Adapty.io](https://adapty.io/) – One-stop solution with open-source SDK for mobile in-app subscriptions integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
+  * [CoinMarketCap](https://coinmarketcap.com/api/) — Provides cryptocurrency market data including latest crypto and fiat currency exchange rates. Free tier offers 10K call credits/month.
   * [CurrencyFreaks](https://currencyfreaks.com/) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
   * [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution.
   * [CurrencyApi](https://currencyapi.net/) — Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.
