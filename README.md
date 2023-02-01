@@ -1402,6 +1402,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Lucide](https://lucide.dev) - Free customizable and consistent SVG icon toolkit.
   * [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
   * [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
+  * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
 
 **[⬆ back to top](#table-of-contents)**
 
