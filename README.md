@@ -520,6 +520,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
   * [buddy.works](https://buddy.works/) — A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
+  * [Buildkite](https://buildkite.com) 
+    * Pipelines: Free developer tier includes unlimited concurrency, up to 3 users, 5k job minutes/month, and 30 day build retention, with more free inclusions for open source projects
+    * [Test Analytics](https://buildkite.com/test-analytics) — Get more out of your test suites, works with any CI platform. Free developer tier includes 100k test executions/month, with more free inclusions for open source projects.
   * [circleci.com](https://circleci.com/) — Free for one concurrent build
   * [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
