@@ -1132,6 +1132,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [cluster.ws & wip.la](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
   * [Dee.al](https://domain.dee.al) — Free .dee.al,.gal.aw,.devz.id instant domain for your blog site & Other, ENJOY
   * [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
+  * [is-really.cool](https://is-really.cool) — Free is-really.cool subdomain for developers.
 
 **[⬆ back to top](#table-of-contents)**
 
