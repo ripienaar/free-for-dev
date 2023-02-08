@@ -830,6 +830,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [fakermail.com](https://fakermail.com/) — Free, temporary email for testing with last 100 email accounts stored.
   * [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
   * [ImprovMX](https://improvmx.com) – Free email forwarding
+  * [EForw](https://www.eforw.com) – Free email forwarding for 1 domain. Receive and send emails from your domain.
   * [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
   * [mailazy.com](https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit).
