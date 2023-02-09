@@ -195,7 +195,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 **[⬆ back to top](#table-of-contents)**
 
 ## APIs, Data and ML
-
+  * [Random Stuff API](https://rapidapi.com/pgamerxdev/api/random-stuff-api) — Free AI chat bot API for discord bots
   * [IP.City](https://ip.city) — 100 free IP geolocation requests per day
   * [A11yWatch](https://a11ywatch.com) - Powerful web accessibility tool at scale. Free site-wide web acessibility testing and beyond that resets daily.
   * [Abstract API](https://www.abstractapi.com) — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.
