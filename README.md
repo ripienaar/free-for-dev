@@ -949,6 +949,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [formpost.app](https://formpost.app) - Free, unlimited Form to Email service. Setup custom redirect, auto response, webhooks etc for free.
   * [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
   * [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.
+  * [Zoho Survey](https://www.zoho.com/survey/) - Zoho Survey is a cloud-based, leading fix of choice for entities looking to amp up their experience management process. A dynamic medium to gauge your customer experience, employee experience and do effective market research
 
 **[⬆ back to top](#table-of-contents)**
 
