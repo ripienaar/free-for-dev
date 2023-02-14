@@ -1,4 +1,9 @@
 commits for branch2:
+1. first
+2. second
+3. third
+
+commits for branch1:
 1) first
 2) second
 3) third
