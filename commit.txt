@@ -9,3 +9,4 @@ commits for branch1:
 
 :this
 :is
+:clone
