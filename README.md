@@ -459,6 +459,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
   * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
   * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
+  * [Code Converter](https://www.codeconverter.com/) - This website can convert code from one language to another, such as JS code to PHP code. It is a paid service, but it has a free quota.
 
 **[⬆ back to top](#table-of-contents)**
 
