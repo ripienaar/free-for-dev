@@ -1134,6 +1134,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Domain
   * [Freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
+  * [Free Domains](https://freesubdomains.org) - Free subdomains on multiple supported domains for personal sites, open-source projects, and more.
   * [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
   * [js.org](https://js.org) - Free js.org subdomains for GitHub Pages for the JavaScript community.
