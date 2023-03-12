@@ -152,14 +152,14 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     * Log Analysis - 500MB of daily log
     * Full, detailed list - https://www.ibm.com/cloud/free/
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Cloud management solutions
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
   * [Pulumi](https://www.pulumi.com/) — Modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
   * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Source Code Repos
 
@@ -192,7 +192,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [savannah.gnu.org](https://savannah.gnu.org/) - Serves as a collaborative software development management system for free Software projects (for GNU Projects)
   * [savannah.nongnu.org](https://savannah.nongnu.org/) - Serves as a collaborative software development management system for free Software projects (for non-GNU projects)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## APIs, Data and ML
 
@@ -340,7 +340,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Query.me](https://query.me) - Collaborative data notebooks that execute in a script-like fashion and allow to fetch and send data via SQL, API, and a growing number custom blocks, like Slack and Email. Free for small Teams.
 * [ERD Lab](https://www.erdlab.io) —  Free cloud based entity relationship diagram (ERD) tool made for developers.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Artifact Repos
 
@@ -353,7 +353,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
  * [repsy.io](https://repsy.io) — 1 GB Free private/public Maven Repository.
  * [Gemfury](https://gemfury.com) — Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, RPM repositories. Free for public projects.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Tools for Teams and Collaboration
 
@@ -433,7 +433,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [ruttl.com](https://ruttl.com/) — The best all-in-one feedback tool to collect digital feedback and review websites, PDF's and images.
   * [Mattermost](https://mattermost.com/) — Secure collaboration for technical teams. Free plan with unlimited channels, playbooks, boards, users, 10GB storage and more.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## CMS
 
@@ -454,14 +454,14 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).
   * [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Generation
 
   * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
   * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Quality
 
@@ -500,7 +500,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different type of advices
   * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Search and Browsing
 
@@ -511,7 +511,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [tickgit.com](https://www.tickgit.com/) — Surfaces `TODO` comments (and other markers) to identify areas of code worth returning to for improvement.
   * [CodeKeep](https://codekeep.io) - Google Keep for Code Snippets. Organize,Discover and share code snippets, featuring a powerful code screenshot tool with preset templates and linking feature.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## CI and CD
 
@@ -543,7 +543,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [microtica.com](https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on AWS for free and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 deployments per month.
 
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Testing
 
@@ -578,7 +578,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL.  Temporary URL and email address is always free.
   * [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components and design system to iterate faster, design better and simplify the development process. Unlimited Projects with 5 years free maintenance.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Security and PKI
 
@@ -628,7 +628,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [FingerprintJS Browser Fingerprinting](https://www.fingerprint.com) - FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged. Free tier version of Pro has 20,000 Requests per month.
 
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Authentication, Authorization and User Management
 
@@ -652,7 +652,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
 
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Management System
 
@@ -664,7 +664,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [runcloud.io](https://runcloud.io/) - Server management focusing mainly on PHP projects. Free for up to 1 server.
   * [ploi.io](https://ploi.io/) - Server management tool to easily manage and deploy your servers & sites. Free for 1 server.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Messaging and Streaming
 
@@ -684,7 +684,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [webpushr](https://www.webpushr.com/) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
   * [Scramjet Cloud Platform Beta](https://www.scramjet.org/#join-beta) - An end-to-end stream processing platform in free beta and offering 15 petabyte-seconds of free compute after the beta ends.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Log Management
 
@@ -702,7 +702,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [logtail.com](https://logtail.com/) — ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, 3 days retention.
   * [logzab.com](https://logzab.com/) — Audit trail management system. Free 1.000 user activity log per month, 1 month retention, for up-to 5 projects.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Translation Management
 
@@ -726,7 +726,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [weblate.org](https://weblate.org/) — It's free for libre projects up to 10,000 string source for the free tier, and Unlimited Self-hosted on-premises.
   * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Monitoring
 
@@ -787,7 +787,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting and status pages in a single product. 10 monitors with 3 min check frequency and status pages are included on the free plan.
   * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months Historical Uptime/Logs, unlimited status pages and custom domains included! For unlimited time and unlimited email alerts for free. No credit card required.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Crash and Exception Handling
 
@@ -801,7 +801,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Search
 
@@ -811,7 +811,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
   * [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Email
 
@@ -906,7 +906,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [EmailJS](https://www.emailjs.com/) – This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
   * [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Font
 
@@ -922,7 +922,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     * [Bunny Fonts](https://fonts.bunny.net/) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.
     * [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Forms
   * [Feathery](https://feathery.io) - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. Free plan allows up to 250 submissions / month and 5 active forms.
@@ -957,7 +957,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
   * [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## CDN and Protection
 
@@ -991,7 +991,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     * [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
     * [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## PaaS
 
@@ -1027,7 +1027,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Doprax Cloud](https://www.doprax.com) — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 * 256MB ram and 2 GB of disk.
   * [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## BaaS
 
@@ -1066,7 +1066,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [zapier.com](https://zapier.com/) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
   * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Low-code Platform
 
@@ -1075,7 +1075,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.
   * [ReTool](https://retool.com/) — Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
   * [DronaHQ](https://www.dronahq.com/) — DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster. 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Web Hosting
 
@@ -1106,7 +1106,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [fleek.co](https://fleek.co/) - Build modern sites and apps on the Open Web and its protocols seamlessly free for, unlimited websites and 50 GB/month bandwidth.
   * [MDB GO](https://mdbgo.com/) - Free hosting for 1 project with 2 weeks Container TTL, 500mb RAM per project, SFTP - 1G disk space.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## DNS
   * [1.1.1.1](https://developers.cloudflare.com/1.1.1.1/) - Free public DNS Resolver which is fast and secure (encrypt your DNS query), provided by CloudFlare. Useful to bypass your internet provider's DNS blocking, prevent DNS query spying, and [to block adult & malware content](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families). Can also be used [via API](https://developers.cloudflare.com/1.1.1.1/encrypted-dns/dns-over-https/make-api-requests). Note: Just a DNS resolver, not a DNS hoster.
@@ -1133,7 +1133,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Domain
   * [Freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
@@ -1149,7 +1149,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Dee.al](https://domain.dee.al) — Free .dee.al,.gal.aw,.devz.id instant domain for your blog site & Other, ENJOY
   * [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## IaaS
 
@@ -1161,7 +1161,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
   * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB download per month.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## DBaaS
 
@@ -1196,7 +1196,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [filess.io](https://filess.io) - filess.io is a platform where you can create 1 database of the following DBMS for free: MySQL, MariaDB, MongoDB, PostgreSQL.
    * [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -1218,7 +1218,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 minutes tunnel life time.
    * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Issue Tracking and Project Management
 
@@ -1291,7 +1291,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Toggl](https://toggl.com/) — Provides 2 free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://toggl.com/plan/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.
    * [Sflow](https://sflow.io) — sflow.io is a project management tool that is built for software agile development, marketing, sales, and customer support, especially for outsourcing project and cross-organization collaboration project. Free plan up to 3 projects and 5 members.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Storage and Media Processing
 
@@ -1339,7 +1339,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity).
 
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Design and UI
 
@@ -1417,7 +1417,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
   * [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Design Inspiration
 
@@ -1432,7 +1432,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [UI Garage](https://uigarage.net/) - [Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.
   * [Refero](https://refero.design/) - [Web screenshots] Tagged and searchable collection of design references from great web applications.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Data Visualization on Maps
 
@@ -1460,7 +1460,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [GeocodeAPI](https://geocodeapi.io) - Geocode API: Address to Coordinate Conversion & Geoparsing based on Pelias. Batch geocoding via CSV. 350000 free requests/month.
    * [Geokeo api](https://geokeo.com) - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Package Build System
 
@@ -1468,7 +1468,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) — Mock-based RPM build service for Fedora and EL.
    * [help.launchpad.net](https://help.launchpad.net/Packaging) — Ubuntu and Debian build service.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## IDE and Code Editing
 
@@ -1516,7 +1516,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
    * [PHPSandbox](https://phpsandbox.io/) — Online developement environment for PHP.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Analytics, Events and Statistics
 
@@ -1559,7 +1559,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
    * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Visitor Session Recording
 
@@ -1577,7 +1577,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
    * [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your web site or app. Free unlimited time for small projects
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## International Mobile Number Verification API and SDK
 
@@ -1585,7 +1585,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
   * [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Payment and Billing Integration
 
@@ -1605,7 +1605,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [Freecurrencyapi.net](https://freecurrencyapi.net/) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Docker Related
 
@@ -1616,14 +1616,14 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [Platform9](https://platform9.com/) - Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Vagrant Related
 
   * [Vagrant Cloud](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
   * [Vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Dev Blogging Sites
 
@@ -1632,7 +1632,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get smarter about what matters to you.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Commenting Platforms
   * [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.
@@ -1640,7 +1640,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
   * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Screenshot APIs
 
@@ -1654,7 +1654,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full page screenshots, adjust viewport, inject custom code. Free tier at 150 images / month.
   * [Screenshots](https://screenshotson.click) — Your API for Screenshots. With highly customizable options for capture. Free 100 screenshots/month.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Flutter Related and Building IOS Apps without Mac
 
@@ -1662,7 +1662,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool. Free tier offers 500 free minutes/month, and Mac Mini instance with 2.3Ghz and 8gb of RAM.
   * [FlutterFlow](https://flutterflow.io/) -  FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Browser based hardware emulation written in Javascript
 
@@ -1670,7 +1670,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  a OpenRISC virtual machine capable of running Linux with network support.
   * [v86](https://copy.sh/v86) — a x86 virtual machine capable of running Linux and other OS directly into the browser.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Privacy Management
   * [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.
@@ -1679,7 +1679,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. Free tier offers a one-time scan and a single banner.
   * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. Free tier offers most features with a limited visitor count.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Miscellaneous
 
@@ -1722,7 +1722,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Remote Desktop Tools
 
@@ -1731,7 +1731,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [RemSupp](https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free)
   * [RustDesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone!
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Game Development
 
@@ -1749,7 +1749,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models made for game development.
   * [Kenney](https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Other Free Resources
 
@@ -1778,4 +1778,4 @@ HTML Themes and UI Kits to create your applications faster!
 
 
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
