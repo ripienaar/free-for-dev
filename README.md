@@ -531,6 +531,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
+  * [deploybot.com](https://www.deploybot.com/) — 1 repository with 10 deployments, free for Open Source
   * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
   * [drone](https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place
   * [LayerCI](https://layerci.com) — CI for full stack projects. 1 full stack preview environment with 5GB memory & 3 CPUs .
