@@ -1628,6 +1628,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience.
   * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
   * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
+  * [Remark42](https://remark42.com/) - Privacy-focused lightweight commenting engine
 
 **[⬆️ Back to Top](#table-of-contents)**
 
