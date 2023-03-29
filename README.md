@@ -1203,7 +1203,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [webhookrelay.com](https://webhookrelay.com) — Manage, debug, fan-out and proxy all your webhooks to public or internal (ie: localhost) destinations. Also, expose servers running in a private network over a tunnel by getting a public HTTP endpoint (`https://yoursubdomain.webrelay.io <----> http://localhost:8080`).
    * [Hookdeck](https://hookdeck.com/pricing) — Develop, test and monitor your webhooks from a single place. 100K requests and 100K attempts per month with 3 days retention.
    * [Xirsys](https://www.xirsys.com) — Global network of STUN / TURN servers with a generous free tier.
-   * [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
+   * [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 25 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
    * [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 minutes tunnel life time.
    * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
 
