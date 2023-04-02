@@ -1107,6 +1107,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
   * [fleek.co](https://fleek.co/) - Build modern sites and apps on the Open Web and its protocols seamlessly free for, unlimited websites and 50 GB/month bandwidth.
   * [MDB GO](https://mdbgo.com/) - Free hosting for 1 project with 2 weeks Container TTL, 500mb RAM per project, SFTP - 1G disk space.
+  * [Oracle](https://www.oracle.com/ca-en/cloud/free/) - Build, test, and deploy applications on Oracle Cloud—for free for ever. 2 AMD based Compute VMs with 1/8 OCPU** and 1 GB memory each, Arm-based Ampere A1 cores and 24 GB of memory usable as 1 VM or up to 4 VMs with 3,000 OCPU hours and 18,000 GB hours per month, NoSQL Database and many more.
+  * [Somee](https://somee.com/) - Free ASP.NET hosting, Free ASP.Net web hosting, 150MB storage, 5GB transfer, ASP.Net 2.0-4.8, Net Core 3-7, 30MB MSSQL 2016/2019/2022, Free third level domain, FTP access
 
 **[⬆️ Back to Top](#table-of-contents)**
 
