@@ -1254,6 +1254,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Plaky](https://plaky.com) - Free task management (kanban) software without any limits. Unlimited users, unlimited projects, free forever.
    * [plan.io](https://plan.io/) — Project Management with Repository Hosting and more options. Free for 2 users with 10 customers and 500MB Storage
    * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
+   * [point.poker](https://www.point.poker/) - Online Planning Poker (consensus-based estimation tool). Free for unlimited users, teams, sessions, rounds and votes. No registration required.
    * [ScrumFast](https://www.scrumfast.com) - Scrum board with a very intuitive interface, free up to 5 users.
    * [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.
    * [Shortcut](https://shortcut.com/) - Project management platform. Free for up to 10 users forever.
