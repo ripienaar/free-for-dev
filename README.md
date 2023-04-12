@@ -1419,6 +1419,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
   * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
   * [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
+  * [Popsy.co](https://popsy.co/) -- No-code website builder with many templates. Also offers free-to-use, multicolor vector illustrations and a free sample of icons.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
