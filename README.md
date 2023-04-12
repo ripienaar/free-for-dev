@@ -812,6 +812,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [memfault.com](https://memfault.com) — Cloud platform for device observability and debugging. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
+  * [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.  
 
 **[⬆️ Back to Top](#table-of-contents)**
 
