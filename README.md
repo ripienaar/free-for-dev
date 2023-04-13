@@ -178,12 +178,12 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
        - [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
        - [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
        - Project Management & Issue Tracking.
+       - [GitHub Copilot](https://github.com/features/copilot) — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.
   * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Also offers the following features :
        - [CI/CD](https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos)
        - Static Sites with [GitLab Pages](https://about.gitlab.com/product/pages).
        - Container Registry with 10 GB limit per repo.
        - Project Management & Issue Tracking.
-       - [GitHub Copilot](https://github.com/features/copilot) — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.
   * [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
   * [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic, also you have an ionic repo
   * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
