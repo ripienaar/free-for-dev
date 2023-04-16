@@ -94,14 +94,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month
     * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and 10 alarms
     * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
-    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month
+    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users, 50GB storage and 10000 request per month
     * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
     * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
-     * [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month
-    * [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
     * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
-    * [RDS](https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups
-    * [Glacier](https://aws.amazon.com/glacier) - 10GB long-term object storage
     * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
     * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
     * [SES](https://aws.amazon.com/ses/) - 62.000 messages per month
@@ -113,8 +109,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day)
     * [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
     * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
-    * [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 objects
-    * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - 50,000 monthly stored users
+    * [Active Directory](https://azure.microsoft.com/services/active-directory/) - 50,000 stored objects.
     * [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 active users, unlimited private Git repos
     * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
     * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
