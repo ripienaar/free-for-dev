@@ -1003,7 +1003,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## PaaS
 
-  * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
+  * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps, 30 second timeouts.
   * [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
   * [codenameone.com](https://www.codenameone.com/) — Open source, cross platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with unlimited number of projects
   * [Cyclic](https://www.cyclic.sh) - Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits.
@@ -1031,7 +1031,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [WayScript](https://www.wayscript.com)- WayScript is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time.  Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).
   * [WunderGraph](https://cloud.wundergraph.com) - An open source platform that allows you to  quickly build, ship and manage modern APIs. Builtin CI/CD, GitHub integration, automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
   * [Doprax Cloud](https://www.doprax.com) — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 * 256MB ram and 2 GB of disk.
-  * [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1114,6 +1113,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
   * [fleek.co](https://fleek.co/) - Build modern sites and apps on the Open Web and its protocols seamlessly free for, unlimited websites and 50 GB/month bandwidth.
   * [MDB GO](https://mdbgo.com/) - Free hosting for 1 project with 2 weeks Container TTL, 500mb RAM per project, SFTP - 1G disk space.
+  * [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers hosting 3 static sites for free.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
