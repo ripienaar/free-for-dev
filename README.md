@@ -1147,7 +1147,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Freenom](https://freenom.com) — Free .tk,.ml,.ga,.cf and .gq domain.
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
-  * [devlopr.site](https://devlopr.site/) — Free .devlopr.site subdomains with DNS access.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
