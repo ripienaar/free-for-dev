@@ -1048,9 +1048,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [hasura.io](https://hasura.io/) — Hasura extends your existing databases wherever it is hosted and provides an instant GraphQL API that can be securely accessed for web, mobile, and data integration workloads. Free for 1GB/month of data pass-through.
   * [iron.io](https://www.iron.io/) — Async task processing (like AWS Lambda) with free tier and 1-month free trial
   * [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
+  * [nudge-hook.net](https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many adhoc/cron/periodic webhook deliveries as you like. Free for everyone (no signup required), but infinite schedules are limited to 500 'nudges' max. Accepts donations.
   * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
   * [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for 1 app, 1GB app data.
-  * [posthook.io](https://posthook.io/) — Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free.
   * [progress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
   * [pubnub.com](https://www.pubnub.com/) — Free push notifications for up to 1 million messages/month and 100 active daily devices
   * [pushbots.com](https://pushbots.com/) — Push notification service. Free for up to 1.5 million pushes/month
