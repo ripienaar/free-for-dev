@@ -1710,6 +1710,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Cronit](https://cronit.app) - Online cronjobs service. Free plan includes 100 job execution per month
   * [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
   * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
+  * [Domain Forward](https://domain-forward.com/) - One simple tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
   * [Elementor](https://elementor.com) — WordPress website builder. Free plan available with 40+ Basic Widgets.
   * [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
   * [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
