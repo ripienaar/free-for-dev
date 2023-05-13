@@ -1650,7 +1650,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get smarter about what matters to you.
-  * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge and stories with the world, in form of Modern multimedia short-format Miniblogs. 
+  * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge and stories with the world for Free, in form of Modern multimedia short-format Miniblogs. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
