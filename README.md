@@ -1429,6 +1429,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [css.glass](https://css.glass/) -- Free web app for creating glassmorphic designs using CSS. 
   * [hypercolor.dev](https://hypercolor.dev/) -- A curated collection of of Tailwind CSS color gradients, also provides a variety of generators to create your own.
   * [iconify.design](https://icon-sets.iconify.design/) -- A collection of more than 100 icon packs with a unified interface. Allows you to search for icons across packs and export individual icons as SVGs or for popular web frameworks.
+  * [NextUI](https://nextui.org/) -- Free. Beautiful, fast and modern React & Nxt.js UI library.
+  * [Glyphs](https://glyphs.fyi/) -- Free, The Mightiest Icons on the Web, Fully editable & truly open source design system.
+  * [ShadcnUI](https://ui.shadcn.com/) -- Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+  * [HyperUI](https://www.hyperui.dev/) -- Free Open Source Tailwind CSS Components.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1646,6 +1650,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get smarter about what matters to you.
+  * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge and stories with the world, in form of Modern multimedia short-format Miniblogs. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
