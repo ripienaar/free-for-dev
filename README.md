@@ -161,7 +161,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
   * [Pulumi](https://www.pulumi.com/) — Modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
   * [Selefra](https://www.selefra.io/) - Selefra free tier offers individual users to scan one single-source connection to discover security and compliance issues on the configurations level of cloud/infra/SaaS.
-  * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
+  * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for up to 500 resources.
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product, used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full support of Terraform CLI, integration with OPA and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs / month for free.
 
 **[⬆️ Back to Top](#table-of-contents)**
