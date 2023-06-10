@@ -1151,6 +1151,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## IaaS
 
+  * [Cloudflare R2](https://www.cloudflare.com/products/r2/) - Free 10GB Object storage with S3-compatible API and Zero egress fee
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for unlimited duration.
   * [scaleway](https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic(credit card required).
