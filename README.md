@@ -760,7 +760,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [downtimemonkey.com](https://downtimemonkey.com/) — 60 uptime monitors, 5 minute interval. Email, Slack alerts.
   * [economize.cloud](https://economize.cloud) — Economize helps demystify cloud infrastructure costs by organizing cloud resources, optimize and report the same. Free for up to $5000 spends on Google Cloud Platform every month.
   * [elastic.co](https://www.elastic.co/solutions/apm) — Instant performance insights for JS developers. Free with 24 hours data retention
-  * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects  
+  * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects
   * [gitential.com](https://gitential.com) — Software Development Analytics platform. Free: unlimited public repositories, unlimited users, free trial for private repos. On-prem version available for enterprise.
   * [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
   * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Free for up to 20 checks.
@@ -782,7 +782,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
   * [pingbreak.com](https://pingbreak.com/) — Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack or email.
   * [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
-  * [robusta.dev](https://home.robusta.dev/) — Powerful Kubernetes monitoring, based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. Free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools. 
+  * [robusta.dev](https://home.robusta.dev/) — Powerful Kubernetes monitoring, based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. Free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.
   * [sematext.com](https://sematext.com/) — Free for 24 hours metrics, unlimited number of servers, 10 custom metrics, 500,000 custom metrics data points, unlimited dashboards, users, etc.
   * [sitemonki.com](https://sitemonki.com/) — Website, domain, Cron & SSL monitoring, 5 monitors in each category for free
   * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
@@ -814,7 +814,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [memfault.com](https://memfault.com) — Cloud platform for device observability and debugging. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
   * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
-  * [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.  
+  * [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -913,7 +913,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
      - [Surveys](https://zoho.com/surveys)
      - [Bookings](https://zoho.com/bookings)
      - [Analytics](https://zoho.com/analytics)
-  
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1078,10 +1078,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [appsmith](https://www.appsmith.com/) — Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
   * [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.
   * [ReTool](https://retool.com/) — Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
-  * [DronaHQ](https://www.dronahq.com/) — DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster. 
+  * [DronaHQ](https://www.dronahq.com/) — DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
   * [ILLA Cloud](https://www.illacloud.com/) — ILLA Cloud - A robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools. Free for 5 team members.
   * [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
-  
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1358,6 +1358,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
   * [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
   * [coolors](https://coolors.co/) - Color palette generator. Free.
+  * [Colors & Fonts](https://colorsandfonts.com/) -- Free. Color and typography resources and inspiration ready to copy paste
+  * [SVG Gradients](https://svggradients.com/) -- Free. A collection of 30 SVG Gradients ready to copy paste
+  * [SVG Dooldes](https://svgdoodles.com/) -- Free. A collection of 208 SVG doodles ready to copy paste
   * [Branition](https://branition.com/colors) - Hand curated color pallets best fitted for brands.
   * [css-gradient.com](https://www.css-gradient.com/) - Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.
   * [designer.io](https://www.designer.io/) — Design tool for UI, illustrations and more. Has a native app. Free.
@@ -1422,8 +1425,11 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
   * [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
   * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
-  * [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
-  * [css.glass](https://css.glass/) -- Free web app for creating glassmorphic designs using CSS. 
+  * [AstroSaas](https://astrosaas.vercel.app/) -- Free. "An open source templates for your next SaaS built with Astro & TailwindCSS"
+  * [Windstatic](https://windstatic.com/) -- Free. "A set of 181 elements & layouts made with Tailwind CSS and Alpine.js.
+  * [Lexington Themes](https://lexingtonthemes.com/free-templates/) -- Free. "Free templates made with Astro js & Tailwind CSS"
+    * [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
+  * [css.glass](https://css.glass/) -- Free web app for creating glassmorphic designs using CSS.
   * [hypercolor.dev](https://hypercolor.dev/) -- A curated collection of of Tailwind CSS color gradients, also provides a variety of generators to create your own.
   * [iconify.design](https://icon-sets.iconify.design/) -- A collection of more than 100 icon packs with a unified interface. Allows you to search for icons across packs and export individual icons as SVGs or for popular web frameworks.
   * [NextUI](https://nextui.org/) -- Free. Beautiful, fast and modern React & Nxt.js UI library.
@@ -1649,7 +1655,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get smarter about what matters to you.
-  * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge and stories with the world for Free, in form of Modern multimedia short-format Miniblogs. 
+  * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge and stories with the world for Free, in form of Modern multimedia short-format Miniblogs.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
