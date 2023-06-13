@@ -1115,6 +1115,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [MDB GO](https://mdbgo.com/) - Free hosting for 1 project with 2 weeks Container TTL, 500mb RAM per project, SFTP - 1G disk space.
   * [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers hosting 3 static sites for free.
   * [Serv00.com](https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.
+  * [somee.com](https://somee.com/default.aspx) — Free ASP.Net web hosting 150MB storage, 5GB transfer, ASP.Net 2.0-4.8, Net Core 3-7, 30MB MSSQL 2016/2019/2022 (Auto Backups), Free third level domain, FTP access.
+
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
