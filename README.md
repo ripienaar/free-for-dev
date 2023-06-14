@@ -913,6 +913,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
      - [Surveys](https://zoho.com/surveys)
      - [Bookings](https://zoho.com/bookings)
      - [Analytics](https://zoho.com/analytics)
+  * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, 1 custom domain.
   
 
 **[⬆️ Back to Top](#table-of-contents)**
