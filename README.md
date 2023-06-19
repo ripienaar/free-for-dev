@@ -471,7 +471,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Code Generation
 
-  * [Appinvento](https://appinvento.io/) — Empower your application’s backend effortlessly with AppInvento. Take full control and ownership of your source code while enjoying unlimited APIs and routes for seamless integration. With our free plan, access three projects, five tables, and a game-changing Google add-on.
+  * [Appinvento](https://appinvento.io/) — AppInvento is a free No code app builder. In the automatically generated backend code, users have complete access to the source code along with unlimited APIs and routes, allowing for extensive integration. The free plan includes three projects, five tables, and a Google add-on.
   * [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
   * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
   * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
