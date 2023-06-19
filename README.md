@@ -1147,6 +1147,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
   * [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
+  * [porkbun.com](https://porkbun.com/) — Free 1 year .app .dev .gay .pro 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
