@@ -1129,6 +1129,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
+  * [Dual.my](https://dual.my/) — Free dynamic/static hosting service offering 5 domains and 10 records each, complete with API support.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
