@@ -1023,6 +1023,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing/).
   * [WunderGraph](https://cloud.wundergraph.com) - An open source platform that allows you to  quickly build, ship and manage modern APIs. Builtin CI/CD, GitHub integration, automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
   * [Doprax Cloud](https://www.doprax.com) — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 * 256MB ram and 2 GB of disk.
+  * [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for 3 services, with US$ 5 free credits per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
