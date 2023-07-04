@@ -1465,6 +1465,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
    * [ipstack](https://ipstack.com/) - Locate and identify Website Visitors by IP Address
    * [Geokeo api](https://geokeo.com) - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries
+   * [Nominatim api](https://nominatim.org) - a tool to search OSM data by name and address and to generate synthetic addresses of OSM points (reverse geocoding).
 
 **[⬆️ Back to Top](#table-of-contents)**
 
