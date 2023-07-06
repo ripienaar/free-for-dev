@@ -873,6 +873,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Sendinblue](https://www.sendinblue.com/) — 9,000 emails/month, 300 emails/day free
   * [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 12,000 emails/month free
   * [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).
+  * [Skiff](https://skiff.com/)- Open source, end-to-end encrypted anonymous email service, no additional details asked at signup, free 10GB drive storage, 1 custom domain for your own website, free 4 aliases for your email address per account. Additional Crypto Wallet support for E2EE environment.
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
   * [Tempmailo](https://tempmailo.com/) - Unlimited free temp email addresses. Autoexpire in two days.
   * [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.
