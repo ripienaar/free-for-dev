@@ -846,7 +846,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [ImprovMX](https://improvmx.com) – Free email forwarding
   * [EForw](https://www.eforw.com) – Free email forwarding for 1 domain. Receive and send emails from your domain.
   * [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.
-  * [Lecturify](https://www.lecturify.net/index.en.html) - Free email addresses for NICK@pomelo.host.lecturify.net with 250MB storage free, with IMAP SMTP access, no webmail.
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [dkimvalidator.com](https://dkimvalidator.com/) - Test if email's dns/spf/dkim/dmarc settings are correct, free service by roundsphere.com
   * [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface
