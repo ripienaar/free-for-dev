@@ -159,6 +159,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Cloud management solutions
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
+  * [Cloud 66](https://www.cloud66.com/) - Free for personal projects. Cloud 66 gives you everything you need to build, deploy and grow your applications on any cloud, without the headache of the “server stuff”.
   * [Pulumi](https://www.pulumi.com/) — Modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
   * [Selefra](https://www.selefra.io/) - Selefra free tier offers individual users to scan one single-source connection to discover security and compliance issues on the configurations level of cloud/infra/SaaS.
   * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for up to 500 resources.
