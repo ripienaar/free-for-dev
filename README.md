@@ -1388,6 +1388,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [storyset.com](https://storyset.com/) — Create awesome free customised illustrations for your project using this tool.
   * [smartmockups.com](https://smartmockups.com/) — Create product mockups, 200 free mockups.
   * [tabler-icons.io](https://tabler-icons.io/) — Over 1500 free copy and paste SVG editable icons.
+  * [tailwindcss animated](https://www.tailwindcss-animated.com/) - Extended animation utilities for Tailwind CSS. Generate animation for tailwind using the configurator(https://www.tailwindcss-animated.com/configurator.html)
   * [UI Avatars](https://ui-avatars.com/) - Generate avatars with initials from names. Which the urls can be directly hotlinked in your web/app. Support config parameters via the url.
   * [unDraw](https://undraw.co/) - A constantly updated collection of beautiful svg images that you can use completely free and without attribution.
   * [unsplash.com](https://unsplash.com/) - Free stock photos for commercial and noncommercial purposes (do-whatever-you-want license).
