@@ -1132,7 +1132,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
   * [nextdns.io](https://nextdns.io) - DNS based firewall, 300K free queries monthly
   * [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
-  * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
   * [sslip.io](https://sslip.io/) — Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
   * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting, free for 5 domains.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
