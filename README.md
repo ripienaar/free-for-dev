@@ -844,6 +844,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails per day.
   * [EmailOctopus](https://emailoctopus.com) - Up to 2,500 subscribers and 10,000 emails per month free
   * [EmailJS](https://www.emailjs.com/) – This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
+  * [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
   * [Emailvalidation.io](https://emailvalidation.io) - 100 free email verifications per month
   * [fakermail.com](https://fakermail.com/) — Free, temporary email for testing with last 100 email accounts stored.
   * [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
