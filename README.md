@@ -296,6 +296,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Orchest](https://orchest.io) — Visual pipeline editor and workflow orchestrator for data science, 1 instance for free, open source version available.
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.
   * [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert html or urls to pdf wit a simple API. 100 conversions per month for free.
+  * [PDF Factory](https://pdf-factory.com) - PDF Automation API, visual template editor, dynamic data integration and PDF rendering with an API. Free plan comes with 1 template, 100 PDFs/month.
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [Postbacks](https://postbacks.io/) - Request HTTP callbacks for a later time. 8,000 free requests on signup.
   * [Postman](https://postman.com) — Simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
