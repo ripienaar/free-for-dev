@@ -1003,6 +1003,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Gcore](https://gcorelabs.com/)
     * [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
     * [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
+  * [LightCDN](https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S) requests.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
