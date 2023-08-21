@@ -1717,7 +1717,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
   * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.
   * [Cronhooks](https://cronhooks.io/) - Schedule on time or recurring webhooks. Free plan allows 5 ad-hoc schedules.
-  * [Cronit](https://cronit.app) - Online cronjobs service. Free plan includes 100 job execution per month
+  * [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs free of charge.
   * [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
   * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
   * [Domain Forward](https://domain-forward.com/) - One simple tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
