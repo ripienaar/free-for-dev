@@ -1806,6 +1806,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [AdminMart](https://adminmart.com/) — High Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJs and NuxtJs!
   * [Glob tester](https://globster.xyz/) — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
   * [OpenUtils](https://openutils.org/) - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.
+  * [MeteorOps](https://meteorops.com/) - Free DevOps consultations and project estimations.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
