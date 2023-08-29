@@ -706,7 +706,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 ## Log Management
 
   * [bugfender.com](https://bugfender.com/) — Free up to 100k log lines/day with 24 hours retention
-  * [humio.com](https://www.humio.com/) — Free up to 16 GB/day with 7 days retention
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, 200MB/day with 7 days retention
   * [logz.io](https://logz.io/) — Free up to 1 GB/day, 1 days retention
