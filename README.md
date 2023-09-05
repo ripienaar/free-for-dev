@@ -445,7 +445,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Pullflow](https://pullflow.com) — Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.
   * [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
   * [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
-  * [Whereby](https://whereby.com/) — Video meetings:1 room,100 attendees per meeting,Unlimited one-on-one meetings,Group meetings for up to 45 minutes;Video call API:2000 participant minutes monthly
 
 **[⬆️ Back to Top](#table-of-contents)**
 
