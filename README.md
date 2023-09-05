@@ -443,6 +443,8 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Mattermost](https://mattermost.com/) — Secure collaboration for technical teams. Free plan with unlimited channels, playbooks, boards, users, 10GB storage and more.
   * [Webvizio](https://webvizio.com) — Website feedback tool, website review software, and bug reporting tool for streamlining web development collaboration on tasks directly on live websites and web apps, images, PDFs, and design files.
   * [Pullflow](https://pullflow.com) — Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.
+  * [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
+  * [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1230,6 +1232,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 minutes tunnel life time.
    * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
    * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. Free plan includes EU Server, Random subdomains and Single user.
+   * [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
