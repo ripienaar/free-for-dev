@@ -864,7 +864,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Mailcheck.ai](https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)
   * [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free
   * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
-  * [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 12,000 emails/month free for transactional emails
+  * [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 3,000 emails/month free for transactional emails
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
   * [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
