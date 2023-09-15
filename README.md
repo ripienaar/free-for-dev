@@ -801,6 +801,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [RoboMiri.com](https://robomiri.com/) - RoboMiri is a stable uptime monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
   * [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting and status pages in a single product. 10 monitors with 3 min check frequency and status pages are included on the free plan.
   * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months Historical Uptime/Logs, unlimited status pages and custom domains included! For unlimited time and unlimited email alerts for free. No credit card required.
+  * [Wachete](https://www.wachete.com) - monitor 5 pages, checks every 24 hours.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
