@@ -1442,6 +1442,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Glyphs](https://glyphs.fyi/) -- Free, The Mightiest Icons on the Web, Fully editable & truly open source design system.
   * [ShadcnUI](https://ui.shadcn.com/) -- Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
   * [HyperUI](https://www.hyperui.dev/) -- Free Open Source Tailwind CSS Components.
+  * [Reshaped](https://reshaped.so) -- Free React library. Professionally crafted design system in React & Figma for building products of any scale and complexity.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
