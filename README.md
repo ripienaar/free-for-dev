@@ -37,6 +37,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Docker Related](#docker-related)
    * [Domain](#domain)
    * [Email](#email)
+   * [Feature Toggles Management Platforms](#feature-toggles-management-platforms)
    * [Font](#font)
    * [Forms](#forms)
    * [IaaS](#iaas)
@@ -929,6 +930,16 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Feature Toggles Management Platforms
+   
+   * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.
+   * [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.
+   * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
+   * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
+   * [Toggled.dev](https://www.toggled.dev) - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.
+     
+**[⬆️ Back to Top](#table-of-contents)**
+   
 ## Font
 
   * [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property, and are either freeware, shareware, demo versions or public domain.
@@ -1594,16 +1605,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Feature Toggles Management Platforms
-   
-   * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.
-   * [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.
-   * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
-   * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
-   * [Toggled.dev](https://www.toggled.dev) - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.
-     
-**[⬆️ Back to Top](#table-of-contents)**
-   
 ## Visitor Session Recording
 
    * [Visualime.com](https://www.visualime.com/) — Free and unlimited session recordings, no traffic limits
