@@ -810,6 +810,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting and status pages in a single product. 10 monitors with 3 min check frequency and status pages are included on the free plan.
   * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months Historical Uptime/Logs, unlimited status pages and custom domains included! For unlimited time and unlimited email alerts for free. No credit card required.
   * [Wachete](https://www.wachete.com) - monitor 5 pages, checks every 24 hours.
+  * [Levitate](https://last9.io/levitate-tsdb/) - Levitate is a Time Series Data Warehouse, with warehousing capabilities baked-in, to mitigate the problems faced by time series databases — of high cardinality and concurrent access while providing highly available storage, faster queries, and proactive alerting. Start using Levitate with your first 1 Billion samples ingested for free.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
