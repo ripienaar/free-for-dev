@@ -215,6 +215,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.
   * [Beeceptor](https://beeceptor.com) - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone having link to the dashboard can view requests and responses).
   * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
+  * [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 50 credits per month for free.
   * [Bruzu](https://bruzu.com/) — Automate Image production. Generate tons of Image variants with API, Integrations or nocode sheet. API is FREE with watermark.
   * [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month.
   * [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
@@ -321,6 +322,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [ScraperBox](https://scraperbox.com/) — Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month.
   * [ScrapingDog](https://scrapingdog.com/) — Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demand. Free plans available.
   * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server.
+  * [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. Free plan includes 100 cloud scrape credits.
   * [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and up to 10 Users.
   * [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into RESTful API. Free plan available.
   * [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
@@ -807,6 +809,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [RoboMiri.com](https://robomiri.com/) - RoboMiri is a stable uptime monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
   * [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting and status pages in a single product. 10 monitors with 3 min check frequency and status pages are included on the free plan.
   * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months Historical Uptime/Logs, unlimited status pages and custom domains included! For unlimited time and unlimited email alerts for free. No credit card required.
+  * [Wachete](https://www.wachete.com) - monitor 5 pages, checks every 24 hours.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1092,6 +1095,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Supabase](https://supabase.com) — The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
   * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
   * [zapier.com](https://zapier.com/) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
+  * [IFTTT](https://ifttt.com) — Automate your favorite apps and devices. Free 2 Applets
+  * [Integrately](https://integrately.com) — Automate your tedious tasks with a single click. Free 100 Tasks, 15 Minute
+Update Time, 5 active automations, webhooks.
   * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
 
 **[⬆️ Back to Top](#table-of-contents)**
