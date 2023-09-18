@@ -52,6 +52,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [PaaS](#paas)
    * [Package Build System](#package-build-system)
    * [Payment and Billing Integration](#payment-and-billing-integration)
+   * [Personalization](#personalization)
    * [Privacy Management](#privacy-management)
    * [Screenshot APIs](#screenshot-apis)
    * [Flutter Related and Building IOS Apps without Mac](#flutter-related-and-building-ios-apps-without-mac)
@@ -473,6 +474,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+## Personalization
+
+  * [croct.com](https://croct.com) — Personalization platform focused on developer experience, data privacy, and performance. Build native personalization experiences with JavaScript, React, and Next.js. Free plan includes unlimited users, API access, AB testing, and more. 
 
 ## Code Generation
 
