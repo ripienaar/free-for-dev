@@ -1565,7 +1565,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Panelbear.com](https://panelbear.com/) — Blazingly fast and private, free tier includes 5,000 pageviews per month for unlimited websites
    * [Hitsteps.com](https://hitsteps.com/) — 2,000 pageviews per month for 1 website
    * [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
-   * [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise
    * [GoatCounter](https://www.goatcounter.com/) — GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. Free tier is for non-commerical use and includes unlimited number of sites, 6 months of data retention, and 100k pageviews/month.
    * [Google Analytics](https://analytics.google.com/) — Google Analytics
    * [Expensify](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
@@ -1576,7 +1575,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Yandex.Metrica](https://metrica.yandex.com/) — Unlimited free analytics
    * [Mixpanel](https://mixpanel.com/) — 100,000 monthly tracked users, unlimited data history and seats, US or EU data residency
    * [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
-   * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
    * [optimizely.com](https://www.optimizely.com) — A/B Testing solution, free starter plan, 1 website, 1 iOS and 1 Android app
    * [Microsoft PowerBI](https://powerbi.com) — Business Insights & Analytics by Microsoft. Free Plan offers limited use with 1 Million User licenses.
    * [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
@@ -1592,11 +1590,20 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Uptrace](https://uptrace.dev) - Distributed Tracing Tool that helps developers pinpoint failures and find performance bottlenecks. Has a free plan, offers a free Personal subscription for open source projects, and has an open source version.
    * [Microsoft Clarity](https://clarity.microsoft.com/) - Clarity is a free, easy-to-use tool that captures how real people actually use your site.
    * [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
-   * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
    * [Aptabase](https://aptabase.com) — Open Source, Privacy-Friendly and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron and many others. Free for up to 20.000 events per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Feature Toggles Management Platforms
+   
+   * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.
+   * [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.
+   * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
+   * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.
+   * [Toggled.dev](https://www.toggled.dev) - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.
+     
+**[⬆️ Back to Top](#table-of-contents)**
+   
 ## Visitor Session Recording
 
    * [Visualime.com](https://www.visualime.com/) — Free and unlimited session recordings, no traffic limits
@@ -1729,7 +1736,6 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Code Time](https://www.software.com/code-time) - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.
   * [Codepng](https://www.codepng.app) - Create awesome snapshots from your source code that you can share on social media.
   * [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
-  * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.
   * [Cronhooks](https://cronhooks.io/) - Schedule on time or recurring webhooks. Free plan allows 5 ad-hoc schedules.
   * [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs free of charge.
   * [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
