@@ -543,7 +543,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     * Pipelines: Free developer tier includes unlimited concurrency, up to 3 users, 5k job minutes/month, and 30 day build retention, with more free inclusions for open source projects
     * [Test Analytics](https://buildkite.com/test-analytics) — Get more out of your test suites, works with any CI platform. Free developer tier includes 100k test executions/month, with more free inclusions for open source projects.
   * [bytebase.com](https://www.bytebase.com/) — Database CI/CD and DevOps. Free under 20 users and 10 database instances
-  * [circleci.com](https://circleci.com/) — Free for one concurrent build
+  * [CircleCI](https://circleci.com/) — Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, and ARM executors as well as local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, and up to 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
   * [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month
