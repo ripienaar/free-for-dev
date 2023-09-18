@@ -524,6 +524,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [tickgit.com](https://www.tickgit.com/) — Surfaces `TODO` comments (and other markers) to identify areas of code worth returning to for improvement.
   * [CodeKeep](https://codekeep.io) - Google Keep for Code Snippets. Organize,Discover and share code snippets, featuring a powerful code screenshot tool with preset templates and linking feature.
+  * [grep.app](https://grep.app) - Search across a half million git repos. It allows you to use advanced searching backed by elasticsearch.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
