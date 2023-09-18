@@ -156,6 +156,16 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
     * Log Analysis - 500MB of daily log
     * Full, detailed list - https://www.ibm.com/cloud/free/
 
+  * [Cloudflare](https://www.ibm.com/cloud/free/)
+    * [Application Services](https://www.cloudflare.com/plans/) - DDoS Protection, CDN, SSL, WAF, Bot Mitigation
+    * [Zero Trust & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - Up to 50 Users, 24 hours of activity logging, 3 network locations
+    * [Workers](https://developers.cloudflare.com/workers/) - 100k requests per day
+    * [Workers KV](https://developers.cloudflare.com/kv) - 100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data
+    * [R2](https://developers.cloudflare.com/r2/) - 10 GB per month, 1 million Class A operations per month, 10 million Class B operations per month
+    * [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
+    * [Pages](https://developers.cloudflare.com/pages/) - 500 builds per month, 100 custom domains, unlimited preview deployments
+    * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Cloud management solutions
@@ -1131,6 +1141,7 @@ Update Time, 5 active automations, webhooks.
   * [Lecturify](https://www.lecturify.net/index.en.html) - Web hosting with sftp access for file upload and download, php available.
   * [Neocities](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
   * [Netlify](https://www.netlify.com/) — Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.
+  * [Cloudflare Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Integrated SSL, unlimited free seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
   * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies. No custom domain.
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
   * [render.com](https://render.com) — Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
