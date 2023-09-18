@@ -1571,7 +1571,7 @@ Update Time, 5 active automations, webhooks.
 
 ## Analytics, Events and Statistics
 
-   * [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake)
+   * [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
    * [Hightouch](https://hightouch.com/) - Hightouch is a Reverse ETL platform that helps you sync your customer data from your data warehouse to your CRM, marketing, and support tools. Free tier that offers you one destination to sync data to.
    * [Avo](https://avo.app/) — Simplified analytics release workflow. Single-source-of-truth tracking plan, type safe analytics tracking library, in-app debuggers, data observability to catch all data issues before you release. Free for 2 workspace members and 1 hour data observability lookback.
    * [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.
