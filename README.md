@@ -593,6 +593,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL.  Temporary URL and email address is always free.
   * [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components and design system to iterate faster, design better and simplify the development process. Unlimited Projects with 5 years free maintenance.
   * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks, http requests during integration with a unique URL. Completely free, can create unlimited number of URLs and receive requests.
+  * [welltested.ai](https://welltested.ai) - Generate unit and integration tests within minutes for mobile languages like Flutter. Free forever for developers.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
