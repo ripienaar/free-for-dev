@@ -471,6 +471,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Hygraph](https://hygraph.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
   * [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).
   * [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
+  * [Webiny](https://www.webiny.com) - Highly customizable, scalable, open source serverless CMS that you can host on your own AWS account. It offers enterprise-grade functionality while keeping your data within the secure perimeter of your own infrastructure. Webiny includes a headless CMS, page builder, form builder, and file manager.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
