@@ -669,6 +669,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [ZITADEL Cloud](https://zitadel.com) — A turnkey user and access management that works for you and supports multi tenant (B2B) use cases. Free for up to 25'000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies and so on).
   * [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
   * [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
+  * [Kinde](https://kinde.com/) - Hosted authentication, authorization, SSO, custom domain, unlimited social providers, 3 enterprise connections. Free up to 7500 monthly active users. Additional feature included - feature flagging, connected apps, 2 environments, 2000 M2M tokens.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
