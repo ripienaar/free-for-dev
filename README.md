@@ -1116,7 +1116,7 @@ Update Time, 5 active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Low-code Platform
-
+  * [MarsX](https://www.marsx.dev/) - AI-powered dev tool  for building web and mobile apps out of micro-apps combining no-code and code interfaces.
   * [BudiBase](https://budibase.com/) — Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s
   * [appsmith](https://www.appsmith.com/) — Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
   * [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.
@@ -1395,7 +1395,7 @@ Update Time, 5 active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Design and UI
-
+  * [FloatUI](https://floatui.com/) - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers.
   * [AllTheFreeStock](https://allthefreestock.com) - a curated list of free stock images, audio and videos.
   * [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.
   * [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.Free plan allows up to 3 editors working on 1 design system with unlimited viewers.
@@ -1535,7 +1535,7 @@ Update Time, 5 active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## IDE and Code Editing
-
+   * [MarsX](https://www.marsx.dev/) - AI-powered dev tool  for building web and mobile apps out of micro-apps combining no-code and code interfaces.
    * [3v4l](https://3v4l.org/) - Free online PHP shell and snippet sharing site, runs your code in 300+ PHP versions
    * [Android Studio](https://d.android.com/studio) — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE, free for everyone and the best to develop Android apps. Available for Windows,Mac,Linux and even ChromeOS!
    * [Apache Netbeans](https://netbeans.apache.org/) — Development Environment, Tooling Platform and Application Framework.
@@ -1821,7 +1821,8 @@ Update Time, 5 active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Other Free Resources
-
+  * [DevHunt](https://devhunt.org/) - A launchpad for dev tools, built by developers for developers, open source, and fair.
+  * [SEObot](https://seobotai.com/) - The Ultimate AI SEO Solution for Busy Makers.
   * [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
   * [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
   * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
