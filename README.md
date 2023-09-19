@@ -45,6 +45,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
    * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
    * [Log Management](#log-management)
+   * [Mobile App Distribution and Feedback](#mobile-app-distribution-and-feedback)
    * [Management Systems](#management-system)
    * [Messaging and Streaming](#messaging-and-streaming)
    * [Miscellaneous](#miscellaneous)
@@ -678,6 +679,16 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
   * [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
 
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Mobile App Distribution and Feedback
+
+* [TestApp.io](https://testapp.io) - Your go-to platform for making sure your mobile apps work like they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.
+* [Diawi](https://www.diawi.com) - Deploy iOS & Android apps directly to devices. Free plan: app uploads, password-protected links, 1-day expiration, 10 installations.
+* [InstallOnAir](https://www.installonair.com) - Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.
+* [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. Free plan includes: 1 app project, 3 app versions, 500 MB storage, and 100 app installations per month.
+* [Appho.st](https://appho.st) - Mobile app hosting platform. Free plan includes: 5 apps, 50 monthly downloads, and a maximum file size of 100MB.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
