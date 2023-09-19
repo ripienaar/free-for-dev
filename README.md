@@ -479,7 +479,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Appinvento](https://appinvento.io/) — AppInvento is a free No code app builder. In the automatically generated backend code, users have complete access to the source code along with unlimited APIs and routes, allowing for extensive integration. The free plan includes three projects, five tables, and a Google add-on.
   * [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
   * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
-  * [Metalama](https://www.postsharp.net/metalama) - With Metalama, you can generate C# code either on the fly, during compilation, or within the IDE as code fixes. 
+  * [Metalama](https://www.postsharp.net/metalama) - With Metalama, you can generate C# code either on the fly, during compilation, or within the IDE as code fixes. The commercial-friendly free tier includes 3 aspects, and there are no limitations for open-source products.
   * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
 
 
@@ -508,7 +508,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
   * [houndci.com](https://houndci.com/) — Comments on GitHub commits about code quality, free for Open Source
-  * [Metalama](https://www.postsharp.net/metalama) - Metalama focuses on architecture-as-code and lets you verify your C# code against your own architecture rules. It shows warnings rights inside the IDE as you type.
+  * [Metalama](https://www.postsharp.net/metalama) - Metalama focuses on architecture-as-code and lets you verify your C# code against your own architecture rules. It shows warnings rights inside the IDE as you type. The commercial-friendly free tier includes 3 validation attributes, and the fluent validation API is not available, but there are no limitations for open-source products.
   * [Moderne.io](https://app.moderne.io) — Automatic source code refactoring. Moderne offers framework migrations, code analysis with remediation, and unrivaled code transformation at scale, so developers can spend their time building new things instead of maintaining the old. Free for Open Source.
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
   * [parsers.dev](https://parsers.dev/) - Abstract syntax tree parsers and intermediate representation compilers as a service
