@@ -480,7 +480,9 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Appinvento](https://appinvento.io/) — AppInvento is a free No code app builder. In the automatically generated backend code, users have complete access to the source code along with unlimited APIs and routes, allowing for extensive integration. The free plan includes three projects, five tables, and a Google add-on.
   * [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
   * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
+  * [Metalama](https://www.postsharp.net/metalama) - Only for C#. Metalama generates the boilerplate the code on the fly, during compilation, so that your source code remains clean. It is completely free for open-source projects, and their commercial-friendly free tier includes 3 aspects.
   * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
