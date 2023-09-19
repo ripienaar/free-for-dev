@@ -219,6 +219,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 50 credits per month for free.
   * [Bruzu](https://bruzu.com/) — Automate Image production. Generate tons of Image variants with API, Integrations or nocode sheet. API is FREE with watermark.
   * [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month.
+  * [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month.
   * [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
   * [Cloudmersive](https://cloudmersive.com/) — Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.
   * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
