@@ -32,6 +32,7 @@
 
  * [ ] This is Software as a Service not self hosted
  * [ ] It has a free tier not just a free trial
+ * [ ] Pricing information is clearly visible without signup or phone calls
  * [ ] The submission mentions what is free
  * [ ] The submission is not already present in the list
  * [ ] The service has contact details of those running it and a privacy policy
