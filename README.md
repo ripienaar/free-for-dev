@@ -990,6 +990,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Forms
+  * [Form2Channel](https://form2channel.com) - Send form submissions to Google Sheets, Email, Email, Slack, Telegram or Webhooks. Unlimited and totally free. Features include multiple recipients, custom thank you pages, file uploads and more. 
   * [Feathery](https://feathery.io) - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. Free plan allows up to 250 submissions / month and 5 active forms.
   * [Form-Data](https://form-data.com) - No-code forms backend. Spam filter, email notification and auto-respond, webhooks, zapier, redirects, AJAX or POST and more. Free plan offers unlimited forms, 20 submissions/month and additional 2000 submissions with Form-Data badge.
   * [FabForm](https://fabform.io/) - Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email and others.
