@@ -822,7 +822,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 ## Search
 
-  * [algolia.com](https://www.algolia.com/) — Hosted, highly efficient search solution, with typo-tolerance and relevance. Provides UI libraries to easily create search experiences. Free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.
+  * [algolia.com](https://www.algolia.com/) — Hosted search solution, with typo-tolerance, relevance, and UI libraries to easily create search experiences. Free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.
   * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
   * [CommandBar](https://www.commandbar.com/) - Unified Search Bar as-a-service, web based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up-to 1000 Monthly Active Users, unlimited commands.
   * [Magny](https://magny.io) - SaaS service that helps implement command palettes (e.g in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.
