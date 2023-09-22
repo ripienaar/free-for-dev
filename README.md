@@ -1489,6 +1489,7 @@ Update Time, 5 active automations, webhooks.
   * [HyperUI](https://www.hyperui.dev/) -- Free Open Source Tailwind CSS Components.
   * [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
   * [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools
+  * [Webstudio](https://webstudio.is/) -- Open-source alternative to Webflow. Free plan offers unlimited websites on their domain. 5 websites with custom domain. 10,000 page views/month. 2 GB asset storage.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
