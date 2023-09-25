@@ -366,6 +366,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 * [ERD Lab](https://www.erdlab.io) —  Free cloud based entity relationship diagram (ERD) tool made for developers.
 * [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (~10 PRs).
 * [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. 10000 free requests/month.
+* [Zuplo](https://zuplo.com/) - Add API Key authentication, rate limiting and developer documentation to any API in minutes. The free plan offers up to 10 projects, unlimited production edge environments, up to 250 API keys, 100K requests per month, 1GB egress per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
