@@ -872,6 +872,12 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Education and Career Development
+
+  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free and Open Source Career Development. Certificates in Data Analysis, InfoSec, Web Development, and more.
+  * [Ladderly.io](https://ladderly.io/) - Free and Open Source Career Development. Includes a social network and job search tools.
+  * [The Odin Project](https://www.theodinproject.com/) - Free and Open Source Career Development. Focus on JavaScript and Ruby.
+
 ## Email
 
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
