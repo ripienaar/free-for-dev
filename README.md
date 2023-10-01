@@ -781,6 +781,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [webtranslateit.com](https://webtranslateit.com/) — Free up to 500 strings
   * [weblate.org](https://weblate.org/) — It's free for libre projects with up to 10,000 string sources for the free tier and Unlimited Self-hosted on-premises.
   * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
+  * [locize.com](https://locize.com/) — Free for non-profit [open source](https://locize.com/open-source.html) projects
 
 **[⬆️ Back to Top](#table-of-contents)**
 
