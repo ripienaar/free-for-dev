@@ -36,6 +36,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
    * [DNS](#dns)
    * [Docker Related](#docker-related)
    * [Domain](#domain)
+   * [Education and Career Development](#education-and-career-development)
    * [Email](#email)
    * [Feature Toggles Management Platforms](#feature-toggles-management-platforms)
    * [Font](#font)
@@ -878,6 +879,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Ladderly.io](https://ladderly.io/) - Free and Open Source Career Development. Includes a social network and job search tools.
   * [The Odin Project](https://www.theodinproject.com/) - Free and Open Source Career Development. Focus on JavaScript and Ruby.
 
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Email
 
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
@@ -966,7 +969,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
      - [Bookings](https://zoho.com/bookings)
      - [Analytics](https://zoho.com/analytics)
   * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
-
 
 **[⬆️ Back to Top](#table-of-contents)**
 
