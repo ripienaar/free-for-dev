@@ -878,9 +878,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 ## Education and Career Development
 
-  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free and Open Source Career Development. Certificates in Data Analysis, InfoSec, Web Development, and more.
-  * [Ladderly.io](https://ladderly.io/) - Free and Open Source Career Development. Includes a social network and job search tools.
-  * [The Odin Project](https://www.theodinproject.com/) - Free and Open Source Career Development. Focus on JavaScript and Ruby.
+  * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
+  * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
