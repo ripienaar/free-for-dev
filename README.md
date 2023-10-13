@@ -1153,6 +1153,7 @@ Update Time, five active automations, webhooks.
 
 ## Web Hosting
 
+  * [4EVERLAND](https://www.4everland.org/) — In-built development and deployment tools(e.g., visual and command line) to build, deploy and host decentralised websites/applications with consensus-driven Swarm network, free SSL, global CDN, and preview URLs. The gateway node includes dynamic DNS, Data l/0, and CertManager modules. Registered users can get free 6 GB IPFS storage, 300MB Arweve storage and 100 GB/month bandwidth.
   * [Alwaysdata](https://www.alwaysdata.com/) — 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
   * [Awardspace.com](https://www.awardspace.com) — Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
   * [Bohr](https://bohr.io) — Free for non commercial projects + Developer-First Deployment and Development Platform that minimizes infrastructure hassle and speed up setup.
@@ -1221,6 +1222,7 @@ Update Time, five active automations, webhooks.
 
 ## IaaS
 
+  * [4EVERLAND](https://www.4everland.org/) — Compatible with AWS S3 - APIs, interface operations, CLI, andother upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
   * [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. The free plan provides 1 Project, 25 GB storage, and 25 GB monthly bandwidth.
@@ -1373,6 +1375,7 @@ Update Time, five active automations, webhooks.
 
 ## Storage and Media Processing
 
+   * [4EVERLAND](https://www.4everland.org/) — User-friendly upload and management interface compatible with AWS S3 and supports Arweave/IPFS decentralised file storage. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
    * [AndroidFileHost](https://androidfilehost.com/) - Free file-sharing platform with unlimited speed, bandwidth, file count, download count, etc. It is mainly aimed for Android dev-related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.
    * [borgbase.com](https://www.borgbase.com/) — Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and two repositories.
    * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
