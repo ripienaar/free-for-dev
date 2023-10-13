@@ -1174,6 +1174,7 @@ Update Time, five active automations, webhooks.
   * [SourceForge](https://sourceforge.net/) — Find, Create, and Publish Open Source software for free
   * [Stormkit](https://stormkit.io/) — Integrate building, deploying, and hosting seamlessly with the git flow of your JAMStack or Node.JS app. 50 GB bandwidth and 10m monthly requests for free, including free SSL.
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
+  * [Taipy Cloud](https://www.taipy.io/get-started-with-taipy-cloud/) - Provides the most suitable cloud tool to host, deploy, and share your Taipy applications easily. In addition, this platform provides the ability to manage, store, and maintain the various states of your backend.
   * [telegra.ph](https://telegra.ph/) Easily create web page using Quill
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon, and no custom domain
   * [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
