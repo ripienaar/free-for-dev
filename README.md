@@ -671,6 +671,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Virgil Security](https://virgilsecurity.com/) — Tools and services for implementing end-to-end encryption, database protection, IoT security, and more in your digital solution. Free for applications with up to 250 users.
   * [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. It is possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
   * [Escape GraphQL Quickscan](https://escape.tech/) - One-click security scan of your GraphQL endpoints. Free, no login required.
+  * [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
 
 
 **[⬆️ Back to Top](#table-of-contents)**
