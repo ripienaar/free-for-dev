@@ -1497,7 +1497,7 @@ Update Time, five active automations, webhooks.
   * [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
   * [Lucide](https://lucide.dev) - Free customizable and consistent SVG icon toolkit.
   * [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & colossal community.
-  * [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
+  * [TW Elements](https://tw-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
   * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
   * [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
   * [css.glass](https://css.glass/) -- Free web app for creating glassmorphic designs using CSS.
