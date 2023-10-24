@@ -629,8 +629,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 ## Security and PKI
 
-  * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your network
-  * [Atom](https://atom.io/) - Atom is a free and open-source text editor developed by GitHub. 
+  * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your network 
   * [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate various development tasks. Now in beta.
   * [Bridgecrew](https://bridgecrew.io/) — Infrastructure as code (IaC) security powered by the open source tool - [Checkov](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services (AWS) security and compliance auditing and monitoring
