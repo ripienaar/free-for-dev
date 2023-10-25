@@ -1196,6 +1196,7 @@ Update Time, five active automations, webhooks.
 
 ## DNS
 
+  * [ns1.com](https://ns1.com/) — [NS1 Connect Free Developer Account](https://ns1.com/signup) offers 5 million queries ,500 DNS records , 1 Filter Chain ,1 Monitor . (No credit Card required)
   * [1.1.1.1](https://developers.cloudflare.com/1.1.1.1/) - Free public DNS Resolver, which is fast and secure (encrypt your DNS query), provided by Cloudflare. Useful to bypass your internet provider's DNS blocking, prevent DNS query spying, and [to block adult & malware content](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families). It can also be used [via API](https://developers.cloudflare.com/1.1.1.1/encrypted-dns/dns-over-https/make-api-requests). Note: Just a DNS resolver, not a DNS hoster.
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API and lots of other free DNS features included.
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
