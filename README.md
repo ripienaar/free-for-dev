@@ -1068,7 +1068,13 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
     * [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
     * [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
   * [LightCDN](https://www.lightcdn.com) - Free 100GB CDN with eight international Pop. Unlimited HTTP(S) requests.
-
+  * [ArvanCloud](https://www.arvancloud.ir/en/pricing/free)
+    * Content Delivery Network: Unlimited Traffic ,SSL Certificate + DNS Management +   DDoS Attack Protection
+    * Object Storage :5 GB Storage ,20 GB Traffic + Custom Domain + Static Website
+    * Video Platform:5 Hours Video Storage ,10 hrs Audio Storage + Secure Link + 100 hrs Watch Time + Unauthorized Download Prevention
+    * Cloud Server : 2 Hours of Usage (Per Month) ,Free Building a server in a Sandbox environment with Different Linux Distributions
+    * Full, detailed list - https://www.arvancloud.ir/en/pricing/free
+    
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## PaaS
