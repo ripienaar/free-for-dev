@@ -496,6 +496,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 ## Code Generation
 
+  * [ChatGPT](https://chat.openai.com/) - ChatGPT is a large language model-based chatbot. ChatGPT is free to use, regardless of what you use it for, including writing, coding, and much more.
   * [Appinvento](https://appinvento.io/) — AppInvento is a free No code app builder. In the automatically generated backend code, users have complete access to the source code and unlimited APIs and routes, allowing for extensive integration. The free plan includes three projects, five tables, and a Google add-on.
   * [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
   * [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all significant standalone and web IDEs.
