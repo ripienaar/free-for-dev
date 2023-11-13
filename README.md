@@ -1519,6 +1519,7 @@ Update Time, five active automations, webhooks.
   * [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
   * [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira, and more tools
   * [Webstudio](https://webstudio.is/) -- Open-source alternative to Webflow. The free plan offers unlimited websites on their domain. Five websites with custom domains. Ten thousand page views/month. 2 GB asset storage.
+  * [VeilMail](https:/veilmail.io) -- Protect a website email address from getting web scraped and spammed. Hide your email address behind a captcha form to make sure the user is a human and not a computer bot.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
