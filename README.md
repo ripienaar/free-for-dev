@@ -149,7 +149,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
   * [IBM Cloud](https://www.ibm.com/cloud/free/)
-    * Cloud Functions - 5 million executions per month
     * Object Storage - 25GB per month
     * Cloudant database - 1 GB of data storage
     * Db2 database - 100MB of data storage
