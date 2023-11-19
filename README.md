@@ -1625,6 +1625,8 @@ Update Time, five active automations, webhooks.
    * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.
    * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories, and tests.
    * [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP
+   * [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
