@@ -218,7 +218,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 ## APIs, Data, and ML
 
   * [IP.City](https://ip.city) — 100 Free IP geolocation requests per day
-  * [A11yWatch](https://a11ywatch.com) - Powerful web accessibility tool at scale. Free site-wide web accessibility testing and beyond that resets daily.
   * [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
   * [Apify](https://www.apify.com/) — Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
   * [API Mocha](https://apimocha.com) - Completely free online API mocking for testing and prototyping.  Make up to 500 daily requests, fully customizable API responses, and download mock rules as a Postman collection.
