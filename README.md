@@ -1069,6 +1069,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
     * [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
     * [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
   * [LightCDN](https://www.lightcdn.com) - Free 100GB CDN with eight international Pop. Unlimited HTTP(S) requests.
+  * [CacheFly](https://portal.cachefly.com/signup/free2023) - Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
