@@ -1520,6 +1520,7 @@ Update Time, five active automations, webhooks.
   * [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
   * [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira, and more tools
   * [Webstudio](https://webstudio.is/) -- Open-source alternative to Webflow. The free plan offers unlimited websites on their domain. Five websites with custom domains. Ten thousand page views/month. 2 GB asset storage.
+  * [EarlyBird](https://earlybird.im) -- No-code landing page builder designed for product idea validation. The free plan includes one landing page and up to 1,000 visits per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1841,6 +1842,8 @@ Update Time, five active automations, webhooks.
   * [Tiledesk](https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget) to WhatsApp. Free plan with unlimited chatbots.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
+  * [TinySnap](https://tinysnap.app) - A tiny screenshot extension that effortlessly transforms screenshots, text, and code into stunning images.
+  * [Jingle Bio](https://jingle.bio) - Create an impressive developer portfolio by featuring your projects, repositories, and skills all in one concise bio page.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
