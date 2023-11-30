@@ -1148,7 +1148,7 @@ Update Time, five active automations, webhooks.
 
 ## Low-code Platform
 
-  * [Basedash](https://www.basedash.com/?ref=free-for-dev) — Low-code platform for building internal admin panels and dashboards. Supports SQL databases and REST APIs.
+  * [Basedash](https://www.basedash.com) — Low-code platform for building internal admin panels and dashboards. Supports SQL databases and REST APIs.
   * [BudiBase](https://budibase.com/) — Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s
   * [appsmith](https://www.appsmith.com/) — Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
   * [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc., and build apps using drag-and-drop application builder.
