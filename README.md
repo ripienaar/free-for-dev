@@ -107,7 +107,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
     * [Glacier](https://aws.amazon.com/glacier) - 10GB long-term object storage
     * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
     * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
-    * [SES](https://aws.amazon.com/ses/) - 62.000 messages per month
+    * [SES](https://aws.amazon.com/ses/) - 3.000 messages per month (12mo)
     * [SQS](https://aws.amazon.com/sqs/) - 1 million messaging queue requests
     * Full, detailed list - https://aws.amazon.com/free/
 
