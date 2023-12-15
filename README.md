@@ -1885,7 +1885,7 @@ Update Time, five active automations, webhooks.
   * [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL, OpenShift, CodeReady, etc. exclusively for developers. Individual plan only. Free e-books are also offered for reference.
   * [smsreceivefree.com](https://smsreceivefree.com/) — Provides free temporary and disposable phone numbers.
   * [sandbox.httpsms.com](https://sandbox.httpsms.com) — Send and receive test SMS messages for free.
-  * [simplebackups.io](https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
+  * [SimpleBackups.com](https://simplebackups.com/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
   * [SnapShooter](https://snapshooter.com/) — Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
   * [Themeselection](https://themeselection.com/) — Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
 HTML Themes and UI Kits to create your applications faster!
@@ -1901,6 +1901,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [AdminMart](https://adminmart.com/) — High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
   * [Glob tester](https://globster.xyz/) — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
   * [OpenUtils](https://openutils.org/) - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converters, encoders/decoder,s and many others.
+  * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
