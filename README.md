@@ -490,6 +490,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source and based on event sourcing (versing every change automatically).
   * [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
   * [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, ten sources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
+  * [PayloadCMS](https://payloadcms.com/) - a free and open-source headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
