@@ -644,6 +644,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [GitGuardian](https://www.gitguardian.com) — Keep secrets out of your source code with automated secrets detection and remediation. Scan your git repos for 350+ types of secrets and sensitive files – Free for individuals and teams of 25 developers or less.
   * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
   * [hostedscan.com](https://hostedscan.com) — Online vulnerability scanner for web applications, servers, and networks. Ten free scans per month.
+  * [hudsonrock.com](https://cavalier.hudsonrock.com/docs) — Free cybercrime intelligence API calls (free tier) using a free key, supporting use cases such as End User Protection, External Attack Surface Discovery, Assets Intelligence and Domain Intelligence.
   * [Infisical](https://infisical.com/) — Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.
   * [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
   * [keychest.net](https://keychest.net) - SSL expiry management and cert purchase with an integrated CT database
