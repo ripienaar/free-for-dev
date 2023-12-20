@@ -766,7 +766,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Translation Management
-
+  * [VideoDubber.ai](https://videodubber.ai/) — Video Translation through UI and API, Subtitles Generation and Translation, free for first 30 minutes of subtitles generation and 5 minutes of video translation for 150+ languages and accents.
   * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings, and collaborators for Open Source
   * [gitlocalize.com](https://gitlocalize.com) - Free and unlimited for both private and public repositories
   * [Lecto](https://lecto.ai/) - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request). Integrated with the Loco Translate Wordpress plugin.
