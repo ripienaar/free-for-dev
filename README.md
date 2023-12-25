@@ -1767,6 +1767,7 @@ Update Time, five active automations, webhooks.
   * [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides website screenshots and domain intelligence API services. Free 100 requests/month.
   * [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
   * [Screenshots](https://screenshotson.click) — Your API for Screenshots. With highly customizable options for capture. Free 100 screenshots/month.
+  * [Crawlbase Screenshots API ](https://crawlbase.com/screenshots-api) — Experience the future of visual data extraction with Crawlbase Screenshots API. Get 5000 free requests using code SDNT2023. Elevate your projects with precision and efficiency today
 
 **[⬆️ Back to Top](#table-of-contents)**
 
