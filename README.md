@@ -1181,7 +1181,6 @@ Update Time, five active automations, webhooks.
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation, and more
   * [render.com](https://render.com) — Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
   * [SourceForge](https://sourceforge.net/) — Find, Create, and Publish Open Source software for free
-  * [Stormkit](https://stormkit.io/) — Integrate building, deploying, and hosting seamlessly with the git flow of your JAMStack or Node.JS app. 50 GB bandwidth and 10m monthly requests for free, including free SSL.
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [telegra.ph](https://telegra.ph/) Easily create web page using Quill
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon, and no custom domain
