@@ -1056,7 +1056,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 * [Portkey](https://portkey.ai/) - Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.
 * [OpenPipe](https://openpipe.ai) - Fully managed fine-tuning for developers. Free plan lets you fine-tune one model with upto 2,000 rows per dataset.
-* [Gradient AI](https://gradient.ai/) - Customize and deploy AI systems from a single platform. Free plan offers fine-tuning on select base models with a token limit of 500.
+* [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
