@@ -41,6 +41,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
    * [Feature Toggles Management Platforms](#feature-toggles-management-platforms)
    * [Font](#font)
    * [Forms](#forms)
+   * [Generative AI](#generative-ai)
    * [IaaS](#iaas)
    * [IDE and Code Editing](#ide-and-code-editing)
    * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
@@ -1048,6 +1049,14 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. The free plan allows unlimited PDFs with three submissions per PDF.
   * [forms.app](https://forms.app/) — Create online forms with powerful features like conditional logic, automatic score calculator, and AI. Collect up to 100 responses with a free plan, embed your forms on a website, or use them with a link.
   * [Qualli](https://usequalli.com) - In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers.
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Generative AI
+
+* [Portkey](https://portkey.ai/) - Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.
+* [OpenPipe](https://openpipe.ai) - Fully managed fine-tuning for developers. Free plan lets you fine-tune one model with upto 2,000 rows per dataset.
+* [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
