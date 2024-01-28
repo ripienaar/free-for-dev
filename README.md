@@ -883,6 +883,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Magny](https://magny.io) - SaaS service that helps implement command palettes (e.g. in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
   * [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1,000 Documents and 50,000 searches. Larger free decks are possible for worthwhile projects.
+  * [documind.chat](https://documind.chat/) - AI based vector search for documents. Chat with pdf developer docs, summarize developer docs. Free tier includes 100 Documents and 50 searches. Developers can contact for extra chat credits for free.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
