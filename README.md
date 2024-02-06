@@ -1763,6 +1763,25 @@ Update Time, five active automations, webhooks.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
   * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
+  * [ArticlePlanet](https://articleplanet.vercel.app/) - An open platform for users to publish articles on any topic, connect with other writers, and build an audience. It aims to democratize content creation. Save data on Gists
+  * - Write articles on any subject you want
+- Integrated markdown editor with live preview
+- Spelling and grammar checking
+- Import/export articles in markdown format
+- Reader friendly view mode
+- Dark mode
+- Download articles as markdown files
+- Articles support text, images, embeds and more
+- Login and sync using your GitHub account  
+- Articles are saved as gists on GitHub with metadata
+- Posts are synced and fetched from your connected gists
+- New posts are automatically posted to your connected gists
+- Edit and delete posts from ArticlePlanet or GitHub
+- Clean, modern UI with markdown support
+- Follow and network with other writers
+- Join groups and discussions around shared interests
+- Customizable profile pages for writers
+- Open source project actively developed on GitHub
 
 **[⬆️ Back to Top](#table-of-contents)**
 
