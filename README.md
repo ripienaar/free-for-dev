@@ -1061,6 +1061,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 * [OpenPipe](https://openpipe.ai) - Fully managed fine-tuning for developers. Free plan lets you fine-tune one model with upto 2,000 rows per dataset.
 * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
 * [Findr](https://www.usefindr.com/) - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.
+* [Auto 1111 SDK](https://github.com/saketh12/Auto1111SDK) - Open source Python library to run Generative Image AI models. Completely free and runs on local infrastructure.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
