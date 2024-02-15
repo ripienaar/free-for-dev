@@ -1412,7 +1412,7 @@ Update Time, five active automations, webhooks.
    * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
    * [freetools.site](https://freetools.site/) — Free online tools. Convert or edit documents, images, audio, video, and more.
    * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
-   * [gumlet.com](https://www.gumlet.com/) — Image resize-as-a-service. It also optimizes images and performs delivery via CDN. The free tier includes 1 GB of bandwidth and unlimited monthly image processing for one year.
+   * [gumlet.com](https://www.gumlet.com/) — Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
    * [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
    * [Imgbot](https://github.com/marketplace/imgbot) — Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
    * [imgen](https://www.jitbit.com/imgen/) - Free unlimited social cover image generation API, no watermark
