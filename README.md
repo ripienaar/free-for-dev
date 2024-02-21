@@ -1,4 +1,4 @@
-![4aj1lOXp](https://github.com/amortka/free-for-dev/assets/8505274/a4c818b0-5d8f-4cae-b25b-4df95705054b)# free-for.dev
+# free-for.dev
 
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
