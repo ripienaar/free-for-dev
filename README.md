@@ -1213,6 +1213,7 @@ Update Time, five active automations, webhooks.
   * [MDB GO](https://mdbgo.com/) - Free hosting for one project with two weeks Container TTL, 500 MB RAM per project, SFTP - 1G disk space.
   * [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers to host three static sites for free.
   * [Serv00.com](https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.
+  * [Deta Space](https://deta.space/) - Unlimited apps with scheduled actions, an unlimited number of custom domains with SSL support, 512MB RAM allocation, and read-only filesystems within sandboxed Linux VMs. Users can securely use unlimited storage and database capabilities in their self-created systems, akin to Firestore.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
