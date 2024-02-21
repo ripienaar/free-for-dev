@@ -1,4 +1,4 @@
-# free-for.dev
+![4aj1lOXp](https://github.com/amortka/free-for-dev/assets/8505274/a4c818b0-5d8f-4cae-b25b-4df95705054b)# free-for.dev
 
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
@@ -1052,7 +1052,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. The free plan allows unlimited PDFs with three submissions per PDF.
   * [forms.app](https://forms.app/) — Create online forms with powerful features like conditional logic, automatic score calculator, and AI. Collect up to 100 responses with a free plan, embed your forms on a website, or use them with a link.
   * [Qualli](https://usequalli.com) - In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers.
-  * [Hotjar](https://www.hotjar.com/product/surveys) - In App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1669,7 +1668,7 @@ Update Time, five active automations, webhooks.
    * [Expensify](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 5k events/month.
    * [heap.io](https://heap.io) — Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month
-   * [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members.
+   * [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
    * [Keen](https://keen.io/) — Custom Analytics for data collection, analysis and visualization. 1,000 events/month free
    * [Yandex.Datalens](https://datalens.yandex.com/) — Yandex Cloud data visualization and analysis service. The service is provided free of charge. No restrictions on the number of users and requests.
    * [Yandex.Metrica](https://metrica.yandex.com/) — Unlimited free analytics
