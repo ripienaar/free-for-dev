@@ -1900,7 +1900,7 @@ Update Time, five active automations, webhooks.
   * [Buff.tools](https://buff.tools/) - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.
   * [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
   * [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
-  * [Framacloud](https://degooglisons-internet.org/en/list/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
+  * [Framacloud](https://degooglisons-internet.org/en/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
   * [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
   * [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
