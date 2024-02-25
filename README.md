@@ -169,7 +169,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
     * [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Cloud management solutions
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
@@ -178,7 +178,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for up to 500 resources.
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Source Code Repos
 
@@ -212,7 +212,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [savannah.gnu.org](https://savannah.gnu.org/) - Serves as a collaborative software development management system for free Software projects (for GNU Projects)
   * [savannah.nongnu.org](https://savannah.nongnu.org/) - Serves as a collaborative software development management system for free Software projects (for non-GNU projects)
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## APIs, Data, and ML
 
@@ -371,7 +371,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 * [OpenWeb Ninja](https://www.openwebninja.com/) - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.
 * [Tavily AI](https://tavily.com/) - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Artifact Repos
 
@@ -385,7 +385,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
  * [Gemfury](https://gemfury.com) — Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, and RPM repositories. Free for public projects.
  * [paperspace](https://www.paperspace.com/) — Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Tools for Teams and Collaboration
 
@@ -472,7 +472,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
   * [GitBook](https://www.gitbook.com/) — Platform for capturing and documenting technical knowledge — from product docs to internal knowledge bases and APIs. Free plan for individual developers.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## CMS
 
@@ -495,7 +495,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, ten sources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
   * [WPJack](https://wpjack.com) - Set up WordPress on any cloud in less than 5 minutes! The free tier includes 1 server, 2 sites, free SSL certificates, and unlimited cron jobs. No time limits or expirations—your website, your way.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Code Generation
 
@@ -507,7 +507,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Code Quality
 
@@ -546,7 +546,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different types of devices
   * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Code Search and Browsing
 
@@ -557,7 +557,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [tickgit.com](https://www.tickgit.com/) — Surfaces `TODO` comments (and other markers) to identify areas of code worth returning to for improvement.
   * [CodeKeep](https://codekeep.io) - Google Keep for Code Snippets. Organize, Discover, and share code snippets, featuring a powerful code screenshot tool with preset templates and a linking feature.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## CI and CD
 
@@ -590,7 +590,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [microtica.com](https://microtica.com/) - Startup environments with ready-made infrastructure components, deploy apps on AWS for free, and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 monthly deployments.
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Testing
 
@@ -630,7 +630,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
   * [welltested.ai](https://welltested.ai) - Generate unit and integration tests using AI for mobile languages like Flutter within minutes. Free forever for developers.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Security and PKI
 
@@ -681,7 +681,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Authentication, Authorization, and User Management
 
@@ -711,7 +711,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Mobile App Distribution and Feedback
 
@@ -721,7 +721,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 * [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. The free plan includes one app project, three app versions, 500 MB storage, and 100 app installations per month.
 * [Appho.st](https://appho.st) - Mobile app hosting platform. The free plan includes five apps, 50 monthly downloads, and a maximum file size of 100 MB.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Management System
 
@@ -733,7 +733,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [runcloud.io](https://runcloud.io/) - Server management focusing mainly on PHP projects. Free for up to 1 server.
   * [ploi.io](https://ploi.io/) - Server management tool to easily manage and deploy your servers & sites. Free for one server.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Messaging and Streaming
 
@@ -755,7 +755,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Scramjet Cloud Platform Beta](https://www.scramjet.org/#join-beta) - An end-to-end stream processing platform in free beta and offering 15 petabyte-seconds of free compute after the beta ends.
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Log Management
 
@@ -771,7 +771,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [logtail.com](https://logtail.com/) — ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.
   * [logzab.com](https://logzab.com/) — Audit trail management system. Free 1,000 user activity logs per month, 1-month retention, for up to 5 projects.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Translation Management
 
@@ -795,7 +795,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [weblate.org](https://weblate.org/) — It's free for libre projects with up to 10,000 string sources for the free tier and Unlimited Self-hosted on-premises.
   * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Monitoring
 
@@ -857,7 +857,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
   * [Xitoring.com](https://xitoring.com/) — Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Crash and Exception Handling
 
@@ -874,7 +874,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30-day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
   * [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Search
 
@@ -885,14 +885,14 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
   * [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1,000 Documents and 50,000 searches. Larger free decks are possible for worthwhile projects.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Education and Career Development
 
   * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Email
 
@@ -982,7 +982,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
      - [Bookings](https://zoho.com/bookings)
      - [Analytics](https://zoho.com/analytics)
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Feature Toggles Management Platforms
 
@@ -992,7 +992,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with five feature flags each.
   * [Toggled.dev](https://www.toggled.dev) - Enterprise-ready, scalable multi-regional feature toggles management platform. Free plan up to 10 flags, two environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications, and all other features are included in the endless free plan.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Font
 
@@ -1009,7 +1009,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
     * [Bunny DNS](https://bunny.net/dns/) - DNS hosting, 20 million free queries
   * [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Forms
 
@@ -1052,7 +1052,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Sprig](https://sprig.com/) - 1 In-Product Survey or Survey with Replay per month, with GPT-powered AI Analysis.
   * [feedback.fish](https://feedback.fish/) - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Generative AI
 
@@ -1061,7 +1061,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
 * [Findr](https://www.usefindr.com/) - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## CDN and Protection
 
@@ -1086,7 +1086,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [LightCDN](https://www.lightcdn.com) - Free 100GB CDN with eight international Pop. Unlimited HTTP(S) requests.
   * [CacheFly](https://portal.cachefly.com/signup/free2023) - Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## PaaS
 
@@ -1121,7 +1121,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for three services, with US$ 5 free credits per month.
   * [mogenius](https://mogenius.com) - Easily build, deploy, and run services on Kubernetes. The free tier supports connecting a local Kubernetes with mogenius, enabling individual developers to create a production-like test environment on their machine.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## BaaS
 
@@ -1162,7 +1162,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 Update Time, five active automations, webhooks.
   * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, and 10K pushes/day are free. (API is very similar to Parse Platform)
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Low-code Platform
 
@@ -1176,7 +1176,7 @@ Update Time, five active automations, webhooks.
   * [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Web Hosting
 
@@ -1211,7 +1211,7 @@ Update Time, five active automations, webhooks.
   * [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers to host three static sites for free.
   * [Serv00.com](https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## DNS
 
@@ -1236,14 +1236,14 @@ Update Time, five active automations, webhooks.
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Domain
 
   * [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## IaaS
 
@@ -1256,7 +1256,7 @@ Update Time, five active automations, webhooks.
   * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB downloads per month.
   * [Spheron](https://spheron.network/) — From Decentralised Cloud Storage and web Hosting to Decentralised Compute for Apps and developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain and projects, $5 worth of Compute resources (Worth $50 w.r.t AWS).
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Managed Data Services
 
@@ -1294,7 +1294,7 @@ Update Time, five active automations, webhooks.
 
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -1320,7 +1320,7 @@ Update Time, five active automations, webhooks.
    * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
    * [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Issue Tracking and Project Management
 
@@ -1395,7 +1395,7 @@ Update Time, five active automations, webhooks.
    * [Sflow](https://sflow.io) — sflow.io is a project management tool built for agile software development, marketing, sales, and customer support, especially for outsourcing and cross-organization collaboration projects. Free plan up to 3 projects and five members.
    * [Pulse.red](https://pulse.red) — Free Minimalistic Time Tracker and Timesheet app for projects.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Storage and Media Processing
 
@@ -1442,7 +1442,7 @@ Update Time, five active automations, webhooks.
    * [MConverter.eu](https://mconverter.eu/) – Convert files in bulk. Supports many file formats, including new ones like [AVIF](https://mconverter.eu/convert/to/avif/). Extract all image frames from videos. Free for up to ten 100MB-files per day, processed in batches of two.
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Design and UI
 
@@ -1537,7 +1537,7 @@ Update Time, five active automations, webhooks.
   * [Webstudio](https://webstudio.is/) -- Open-source alternative to Webflow. The free plan offers unlimited websites on their domain. Five websites with custom domains. Ten thousand page views/month. 2 GB asset storage.
   * [Nappy](https://nappy.co/) -- Beautiful photos of Black and Brown people, for free. For commercial and personal use.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Design Inspiration
 
@@ -1554,7 +1554,7 @@ Update Time, five active automations, webhooks.
   * [Refero](https://refero.design/) - [Web screenshots] Tagged and searchable collection of design references from great web applications.
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Data Visualization on Maps
 
@@ -1583,7 +1583,7 @@ Update Time, five active automations, webhooks.
    * [ipstack](https://ipstack.com/) - Locate and identify Website Visitors by IP Address
    * [Geokeo api](https://geokeo.com) - Geocoding API with language correction and more. Worldwide coverage. 2,500 free daily queries
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Package Build System
 
@@ -1591,7 +1591,7 @@ Update Time, five active automations, webhooks.
    * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) — Mock-based RPM build service for Fedora and EL.
    * [help.launchpad.net](https://help.launchpad.net/Packaging) — Ubuntu and Debian build service.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## IDE and Code Editing
 
@@ -1647,7 +1647,7 @@ Update Time, five active automations, webhooks.
    * [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Analytics, Events and Statistics
 
@@ -1693,7 +1693,7 @@ Update Time, five active automations, webhooks.
    * [LogSpot](https://logspot.io) - Full unified web and product analytics platform, including embeddable analytics widgets and automated robots (slack, telegram, and webhooks). Free plan includes 10,000 events per month.
    * [Umami](https://umami.is/) - Simple, fast, privacy-focused, open-source alternative to Google Analytics.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Visitor Session Recording
 
@@ -1711,14 +1711,14 @@ Update Time, five active automations, webhooks.
    * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
    * [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your website or app. Free unlimited time for small projects
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## International Mobile Number Verification API and SDK
 
   * [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 100 API requests/month
   * [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Payment and Billing Integration
 
@@ -1739,7 +1739,7 @@ Update Time, five active automations, webhooks.
   * [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [Currencyapi](https://currencyapi.com) — Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Docker Related
 
@@ -1750,14 +1750,14 @@ Update Time, five active automations, webhooks.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [Platform9](https://platform9.com/) - Managed Kubernetes plane. The free plan offers management capabilities for up to 3 clusters & 20 nodes. Just so you know, you must provide cluster infrastructure by yourself.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Vagrant Related
 
   * [Vagrant Cloud](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
   * [Vagrantbox.es](https://www.vagrantbox.es/) — An alternative public box index
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Dev Blogging Sites
 
@@ -1767,7 +1767,7 @@ Update Time, five active automations, webhooks.
   * [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
   * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Commenting Platforms
   * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from the website’s audience.
@@ -1776,7 +1776,7 @@ Update Time, five active automations, webhooks.
   * [Remarkbox](https://www.remarkbox.com/) - Open source hosted comments platform, pay what you can for "One moderator on a few domains with complete control over behavior & appearance"
   * [IntenseDebate](https://intensedebate.com/) - A feature-rich comment system for WordPress, Tumblr, Blogger, and many other website platforms.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Screenshot APIs
 
@@ -1790,7 +1790,7 @@ Update Time, five active automations, webhooks.
   * [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
   * [Screenshots](https://screenshotson.click) — Your API for Screenshots. With highly customizable options for capture. Free 100 screenshots/month.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Flutter Related and Building IOS Apps without Mac
 
@@ -1798,7 +1798,7 @@ Update Time, five active automations, webhooks.
   * [CodeMagic](https://codemagic.io/) - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, and deploy with a GUI-based CI/CD tool. The free tier offers 500 free minutes/month and a Mac Mini instance with 2.3 GHz and 8 GB of RAM.
   * [FlutterFlow](https://flutterflow.io/) -  FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Browser-based hardware emulation written in Javascript
 
@@ -1806,7 +1806,7 @@ Update Time, five active automations, webhooks.
   * [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  an OpenRISC virtual machine capable of running Linux with network support.
   * [v86](https://copy.sh/v86) — an x86 virtual machine capable of running Linux and other OS directly into the browser.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Privacy Management
   * [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. The free tier is limited to smaller teams and the SaaS version only.
@@ -1816,7 +1816,7 @@ Update Time, five active automations, webhooks.
   * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. The free tier offers most features with a limited visitor count.
   * [Concord](https://www.concord.tech/) - Full data privacy platform, including consent management, privacy request handling (DSARs), and data mapping. Free tier includes core consent management features and they also provide a more advanced plan for free to verified open source projects.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Miscellaneous
 
@@ -1861,7 +1861,7 @@ Update Time, five active automations, webhooks.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Remote Desktop Tools
 
@@ -1870,7 +1870,7 @@ Update Time, five active automations, webhooks.
   * [RemSupp](https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free)
   * [RustDesk](https://rustdesk.com/) - Open source virtual/remote desktop infrastructure for everyone!
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Game Development
 
@@ -1888,7 +1888,7 @@ Update Time, five active automations, webhooks.
   * [Kenney](https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.
   * [Poliigon](https://www.poliigon.com/) - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
 ## Other Free Resources
 
@@ -1923,4 +1923,4 @@ HTML Themes and UI Kits to create your applications faster!
   * [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
   * [QRCodeBest](https://qrcode.best/) - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.
 
-**[⬆️ Back to Top](#table-of-contents)**
+[![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
