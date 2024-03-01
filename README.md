@@ -78,7 +78,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 ## Major Cloud Providers
 
-   * [Catalyst by Zoho](https://catalyst.zoho.com/serverless/functions.html?src=free-for-dev)
+   * [Catalyst by Zoho](https://catalyst.zoho.com?src=free-for-dev)
 	   * [Functions](https://docs.catalyst.zoho.com/en/serverless/help/functions/introduction?src=free-for-dev) - 25k GB-seconds free requests per month
 	   * API Gateway - 100,000 APIs free per month.
 	   * [Circuits](https://catalyst.zoho.com/cloud-scale/circuits.html?src=free-for-dev) - 2000 state transitions free per month
