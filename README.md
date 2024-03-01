@@ -78,17 +78,17 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
 ## Major Cloud Providers
 
-   * [Catalyst by Zoho](https://catalyst.zoho.com?src=free-for-dev)
-	   * [Functions](https://docs.catalyst.zoho.com/en/serverless/help/functions/introduction?src=free-for-dev) - 25k GB-seconds free requests per month
+   * [Catalyst by Zoho](https://catalyst.zoho.com)
+	   * [Functions](https://catalyst.zoho.com/serverless/functions.html) - 25k GB-seconds free requests per month
 	   * API Gateway - 100,000 APIs free per month.
-	   * [Circuits](https://catalyst.zoho.com/cloud-scale/circuits.html?src=free-for-dev) - 2000 state transitions free per month
-	   * [AppSail](https://catalyst.zoho.com/app-sail.html?src=free-for-dev) - 15 GB-hours free per month
-	   * [Web Client Hosting](https://catalyst.zoho.com/cloud-scale/web-client-hosting.html?src=free-for-dev) - 300,000 requests free per month
-	   * [Data Store](https://catalyst.zoho.com/cloud-scale/data-store.html?src=free-for-dev) - (Storage: 2GB , Select: 10000 requests, Update:1000 requests, Insert: 5000 requests, Delete: 1000 requests) free per month.
-	   * [File Store](https://catalyst.zoho.com/cloud-scale/file-store.html?src=free-for-dev) - (Storage: 5GB ,Download: 10000 requests ,Upload: 2000 requests) free per month.
-	   * [Cache](https://catalyst.zoho.com/cloud-scale/cache.html?src=free-for-dev) - (GET: 1000 requests, PUT: 5000 requests, UPDATE: 5000 requests) free per month.
-	   * [SmartBrowz](https://catalyst.zoho.com/smartbrowz.html?src=free-for-dev) - (Headless Browser: 5 hours,  PDF Conversions: 50 ) free per month.
-	   * For other components and detailed list - refer [here](https://catalyst.zoho.com/free-tier.html?src=free-for-dev).
+	   * [Circuits](https://catalyst.zoho.com/cloud-scale/circuits.html) - 2000 state transitions free per month
+	   * [AppSail](https://catalyst.zoho.com/app-sail.html) - 15 GB-hours free per month
+	   * [Web Client Hosting](https://catalyst.zoho.com/cloud-scale/web-client-hosting.html) - 300,000 requests free per month
+	   * [Data Store](https://catalyst.zoho.com/cloud-scale/data-store.html) - (Storage: 2GB , Select: 10000 requests, Update:1000 requests, Insert: 5000 requests, Delete: 1000 requests) free per month.
+	   * [File Store](https://catalyst.zoho.com/cloud-scale/file-store.html) - (Storage: 5GB ,Download: 10000 requests ,Upload: 2000 requests) free per month.
+	   * [Cache](https://catalyst.zoho.com/cloud-scale/cache.html) - (GET: 1000 requests, PUT: 5000 requests, UPDATE: 5000 requests) free per month.
+	   * [SmartBrowz](https://catalyst.zoho.com/smartbrowz.html) - (Headless Browser: 5 hours,  PDF Conversions: 50 ) free per month.
+	   * For other components and detailed list - refer [here](https://catalyst.zoho.com/free-tier.html).
 
   * [Google Cloud Platform](https://cloud.google.com)
     * App Engine - 28 frontend instance hours per day, nine backend instance hours per day
