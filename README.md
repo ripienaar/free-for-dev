@@ -1,4 +1,4 @@
-# free-for.dev
+#a free-for.dev
 
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
