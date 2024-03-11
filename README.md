@@ -1061,6 +1061,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 * [OpenPipe](https://openpipe.ai) - Fully managed fine-tuning for developers. Free plan lets you fine-tune one model with upto 2,000 rows per dataset.
 * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
 * [Findr](https://www.usefindr.com/) - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.
+* [ReportGPT](https://report-gpt.marvinvr.ai) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 
 [![Back to Top](assets/Back-To-Top.svg)](#table-of-contents)
 
