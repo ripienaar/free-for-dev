@@ -3,7 +3,7 @@
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 1
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
-
+2
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
 This list results from Pull Requests, reviews, ideas, and work done by 1100+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
