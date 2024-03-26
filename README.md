@@ -894,6 +894,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
   * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
+  * [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - In this free course, learn to build modern software with LLMs using the newest tools and techniques in the field.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
