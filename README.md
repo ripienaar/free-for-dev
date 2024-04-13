@@ -1187,7 +1187,7 @@ Update Time, five active automations, webhooks.
   * [ILLA Cloud](https://www.illacloud.com/) — ILLA Cloud - A robust open-source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools. Free for 5 team members.
   * [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
   * [UI Bakery](https://uibakery.io) — Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.
-  * [Sling.biz](https://sling.biz) — Open source alternative to Builder.io - A Low-code platform and CMS to create and modify frontend on the fly in NextJS. Free forever drag and drop UI widget editor and open sourced project.
+  * [Sling.biz](https://sling.biz) — Open source alternative to Builder.io - A Low-code platform and CMS to create and modify frontend on the fly in NextJS. Free forever drag and drop UI widget editor and open sourced project. Offers a SaaS option with free drag and drop editor and allowing unlimited creation of custom page templates, widgets, and routing."
 
 
 **[⬆️ Back to Top](#table-of-contents)**
