@@ -902,6 +902,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
   * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
+  * [Free ATS Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.
+  * [Free Professional Resume Templates & Edtior](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
