@@ -939,7 +939,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
   * [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface.
   * [Mailcheck.ai](https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)
-  * [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free.
+  * [Mailchimp](https://mailchimp.com/) — 100 subscribers and 1,000 emails/month free.
   * [Maildroppa](https://maildroppa.com) - Up to 500 subscribers and unlimited emails as well as automations for free.
   * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
   * [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 3,000 emails/month free for transactional emails
