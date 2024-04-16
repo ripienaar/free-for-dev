@@ -200,10 +200,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
        - Static Sites with [GitLab Pages](https://about.gitlab.com/product/pages).
        - Container Registry with a 10 GB limit per repo.
        - Project Management and issue Tracking.
-  * [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software. :
-       - [CI/CD]([https://about.gitlab.com/product/continuous-integration] (Free for Public Repos, 400 mins/month for private repos)
-       - Static Sites with [FramaPages](https://about.gitlab.com/product/pages)).
-       - Project Management and issue Tracking.
+  * [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.
   * [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
   * [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic; also you have an ionic repo
   * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
