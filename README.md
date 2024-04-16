@@ -200,7 +200,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
        - Static Sites with [GitLab Pages](https://about.gitlab.com/product/pages).
        - Container Registry with a 10 GB limit per repo.
        - Project Management and issue Tracking.
-  [[framagit.com](https://framagit.org/)](https://framagit.org/) — Framagit est la forge logicielle de Framasoft reposant sur le logiciel Gitlab. :
+  [[framagit.com](https://framagit.org/)](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software. :
        - [CI/CD]([[https://about.gitlab.com/product/continuous-integration](https://docs.gitlab.com/ce/ci/README.html)](https://docs.gitlab.com/ce/ci/README.html)) (Free for Public Repos, 400 mins/month for private repos)
        - Static Sites with [FramaPages]([https://about.gitlab.com/product/pages](https://docs.gitlab.com/ce/user/project/pages/index.html)).
        - Project Management and issue Tracking.
