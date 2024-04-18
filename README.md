@@ -1177,6 +1177,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Integrately](https://integrately.com) — Automate tedious tasks with a single click. Free 100 Tasks, 15 Minute
 Update Time, five active automations, webhooks.
   * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, and 10K pushes/day are free. (API is very similar to Parse Platform)
+  * [MemFire Cloud](https://cloud.memfiredb.com/auth/login?from=1HdvKv&utm_source=githubfree) - A one-stop backend service built on Supabase and MemFireDB, providing developers with cloud databases, cloud storage, auto-generated APIs, user authentication and authorization, static hosting, and more, to accelerate the development of mobile/web/IoT/games, and reduce operational costs. Free tier available for individual app developers.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
