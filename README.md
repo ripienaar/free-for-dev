@@ -1944,7 +1944,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
   * [QRCodeBest](https://qrcode.best/) - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.
-  * [PythonAnywhere](https://www.pythonanywhere.com/) - PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web-based editor or just run a console session
+  * [PythonAnywhere](https://www.pythonanywhere.com/) - PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web editor or simply start a console session. The platform provides one low powered CPU web app at your-username.pythonanywhere.com for free
   * [Glitch](https://glitch.com/) - Glitch is the friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR
 
   * **[⬆️ Back to Top](#table-of-contents)**
