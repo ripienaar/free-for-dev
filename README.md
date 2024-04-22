@@ -894,6 +894,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
   * [Free ATS Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.
   * [Free Professional Resume Templates & Edtior](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
+  * [CodeCrafters](https://codecrafters.io/) - Get really good at your craft by building dev tools from scratch (Build your own Redis, Git, Docker, SQLite)   
 
 **[⬆️ Back to Top](#table-of-contents)**
 
