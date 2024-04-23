@@ -874,6 +874,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time and has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
   * [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30-day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
   * [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
+  * [Jam](https://jam.dev) - Developer friendly bug reports in one click. Free plan with unlimited jams.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
