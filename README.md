@@ -1868,6 +1868,7 @@ Update Time, five active automations, webhooks.
 
 ## Remote Desktop Tools
 
+  * [ZAssist](https://zoho.com/assist) — Zoho Assist's forever free plan includes one technician and 5 URS computer licenses, enabling you to manage your assets remotely.
   * [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
   * [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
   * [RemSupp](https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free)
