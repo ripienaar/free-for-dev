@@ -692,7 +692,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Corbado](https://www.corbado.com/) — Add passkey-first authentication to new or existing apps. Free for unlimited MAUs.
   * [Descope](https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
   * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free for ten users, all authentication methods, unlimited, integrations, hardware tokens.
-  * [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.
   * [Kinde](https://kinde.com/) - Simple, robust authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
   * [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for ten users, VPN, Websites, and SSH
   * [MojoAuth](https://mojoauth.com/) - MojoAuth makes it easy to implement Passwordless authentication on your web, mobile, or any application in minutes.
@@ -1470,7 +1469,6 @@ Update Time, five active automations, webhooks.
   * [Icon Horse](https://icon.horse) – Get the highest resolution favicon for any website from our simple API.
   * [Iconoir](https://iconoir.com) – An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
   * [Icons8](https://icons8.com) — Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.
-  * [Invision App](https://www.invisionapp.com) - UI design and prototyping tool. Desktop and web apps are available. Free to use with one active prototype.
   * [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
   * [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
