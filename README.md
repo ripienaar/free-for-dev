@@ -1891,6 +1891,7 @@ Update Time, five active automations, webhooks.
   * [3Dassets.one](https://3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
   * [Kenney](https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.
   * [Poliigon](https://www.poliigon.com/) - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.
+  * [Freesound](https://freesound.org/) - Free collaborative sound library offerer with different CC licenses.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
