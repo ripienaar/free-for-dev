@@ -1896,7 +1896,6 @@ Update Time, five active automations, webhooks.
 
 ## Other Free Resources
 
-  * [Smart Notes](https://smart-notes.sg-app.com) - Free cloud-based notepad with advanced features like Collaborative Editing, Nearby Sharing, Rich Text Support, and much more!
   * [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
   * [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
   * [Framacloud](https://degooglisons-internet.org/en/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
