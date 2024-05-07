@@ -1012,6 +1012,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
   * [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
   * [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
+  * [fonts.xz.style](https://fonts.xz.style/) free and open source service for delivering font families to websites using CSS. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
