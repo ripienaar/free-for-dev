@@ -1532,6 +1532,7 @@ Update Time, five active automations, webhooks.
   * [okso.app](https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).
   * [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
   * [Lucide](https://lucide.dev) - Free customizable and consistent SVG icon toolkit.
+  * [Logo.dev](https://www.logo.dev) - Company logo API with 44M+ brands that's as easy as calling a URL.
   * [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & colossal community.
   * [TW Elements](https://tw-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
   * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
