@@ -929,6 +929,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Imitate Email](https://imitate.email) - Sandbox Email Server for testing email functionality across build/qa and ci/cd. Free accounts get 15 emails a day forever.
   * [ImprovMX](https://improvmx.com) – Free email forwarding.
   * [EForw](https://www.eforw.com) – Free email forwarding for one domain. Receive and send emails from your domain.
+  * [Inboxes App](https://inboxesapp.com) — A quick and easy Chrome Extension to create temporary emails, then delete them when you're done. Perfect for testing mail flows.
+     - [SPF, DKIM and DMARC check tool](https://inboxesapp.com/simple-dmarc-spf-dkim-checker/) Quickly check the SPF, DKIM and DMARC is set up
   * [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up to 3-day email auto-deletes. Open source and can be self-hosted.
   * [mail-tester.com](https://www.mail-tester.com) — Test if the email's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month.
   * [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
