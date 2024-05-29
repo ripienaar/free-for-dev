@@ -880,6 +880,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30-day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
   * [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
   * [Jam](https://jam.dev) - Developer friendly bug reports in one click. Free plan with unlimited jams.
+  * [Whitespace](https://whitespace.dev) – One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
