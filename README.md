@@ -909,6 +909,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 ## Email
 
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
+  * [yopmail](https://yopmail.com/) - Free, temporary inboxes of your choice instantaneously.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
   * [Brevo](https://www.brevo.com/) — 9,000 emails/month, 300 emails/day free
