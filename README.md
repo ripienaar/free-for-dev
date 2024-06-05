@@ -471,6 +471,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
   * [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
   * [GitBook](https://www.gitbook.com/) — Platform for capturing and documenting technical knowledge — from product docs to internal knowledge bases and APIs. Free plan for individual developers.
+  * [transfernow](https://www.transfernow.net/) — simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.
+  * [paste.sh](https://paste.sh/) — This is a JavaScript and the Crypto based simple paste site.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
