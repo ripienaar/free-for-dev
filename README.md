@@ -1881,7 +1881,7 @@ Update Time, five active automations, webhooks.
   * [snappify](https://snappify.com) - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations. The free plan includes up to 3 snaps at once with unlimited downloads and 5 AI-powered code explanations per month.
   * [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
   * [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
-  * [Survicate](https://survicate.com/) — Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations. 
+  * [Survicate](https://survicate.com/) — Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations.
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
   * [Tiledesk](https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget) to WhatsApp. Free plan with unlimited chatbots.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
