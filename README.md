@@ -209,7 +209,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## APIs, Data, and ML
 
-  * [Gradient](https://synccomputing.com/) —  ML-Powered cluster management for Databricks. Gain full visibility into cost and performance of your databricks clusters, and reduce compute costs by 50% while meeting SLAs. The free plan includes $100 free core hours.
+  * [Gradient](https://synccomputing.com/) —  ML-Powered cluster management for Databricks. Gain full visibility into cost and performance of your databricks clusters, and reduce compute costs by 50% while meeting SLAs. The free plan includes 10,000 free core hours.
   * [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
   * [IP.City](https://ip.city) — 100 Free IP geolocation requests per day
   * [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
