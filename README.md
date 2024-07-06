@@ -1802,6 +1802,7 @@ Update Time, five active automations, webhooks.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
   * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
+  * [OpenBlog](https://openblog.dev) - Free and open blogging app for developers, powered by Markdown.  You don't even need to have an account to use it.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
