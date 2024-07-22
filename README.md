@@ -1252,10 +1252,12 @@ Update Time, five active automations, webhooks.
   * [Zonomi](https://zonomi.com/) — Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name) with up to 10 DNS records.
   * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
   * [duckdns.org](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
+  * [Dynv6.com](https://dynv6.com/) — Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting. Also, provide free subdomains based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from the "Subdomains" menu after signing up.
   * [luadns.com](https://www.luadns.com/) — Free DNS hosting, three domains, all features with reasonable limits
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on the number of domains
   * [nextdns.io](https://nextdns.io) - DNS-based firewall, 300K free queries monthly
+  * [noip.at](https://noip.at/) — Free DDNS service without registration, tracking, logging or advertising. No limit to domains.
   * [noip](https://www.noip.com/) — a dynamic DNS service that allows up to 3 hostnames free with confirmation every 30 days
   * [sslip.io](https://sslip.io/) — Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
   * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting for 5 domains.
