@@ -811,7 +811,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Monitoring
 
   * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
-  * [alerty.ai](https://www.alerty.ai/?utm_source=github&utm_medium=rm&utm_campaign=awesome-developer-first) - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.
+  * [alerty.ai](https://www.alerty.ai) - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.
   * [appdynamics.com](https://www.appdynamics.com/) — Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
   * [appneta.com](https://www.appneta.com/) — Free with 1-hour data retention
   * [appspector.com](https://appspector.com/) - Mission control for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).
