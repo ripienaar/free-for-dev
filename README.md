@@ -1484,6 +1484,7 @@ Update Time, five active automations, webhooks.
 
 ## Design and UI
 
+  * [WebCurate](https://webcurate.co/c/design) - 190+ Hand-curated best design tools and resources.
   * [AllTheFreeStock](https://allthefreestock.com) - a curated list of free stock images, audio and videos.
   * [Float UI](https://floatui.com/) - free web development tool for quickly creating modern, responsive websites with sleek design, even for non-designers.
   * [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.
