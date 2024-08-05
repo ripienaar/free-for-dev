@@ -476,6 +476,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [GitBook](https://www.gitbook.com/) — Platform for capturing and documenting technical knowledge — from product docs to internal knowledge bases and APIs. Free plan for individual developers.
   * [transfernow](https://www.transfernow.net/) — simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.
   * [paste.sh](https://paste.sh/) — This is a JavaScript and the Crypto based simple paste site.
+  * [BlackTwist](https://blacktwist.app/) — Easily grow your audience on Threads. The free plan allows you to save and collect post drafts and check Threads' last 7-day analytics per account anytime.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
