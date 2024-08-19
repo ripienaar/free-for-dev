@@ -1278,6 +1278,7 @@ Update Time, five active automations, webhooks.
   * [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
+  * [getfreedomain.name](https://www.getfreedomain.name/) - Free domain names and free short subdomains with no ads & full DNS support!
 
 **[⬆️ Back to Top](#table-of-contents)**
 
