@@ -967,6 +967,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar.
   * [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
   * [pepipost.com](https://pepipost.com) — 30k emails free for the first month, then the first 100 emails/day free.
+  * [Plunk](https://useplunk.com) - 3K emails/month for free
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
   * [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blocklists, Logging, Tracking, Webhooks, and more.
