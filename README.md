@@ -700,6 +700,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Authgear](https://www.authgear.com) - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.
   * [Authress](https://authress.io/) — Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. The first 1000 API calls are free.
   * [Authy](https://authy.com) - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator. Free for up to 100 successful authentications.
+  * [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.
   * [Clerk](https://clerk.com) — User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free up to 10,000 monthly active users.
   * [Cloud-IAM](https://www.cloud-iam.com/) — Keycloak Identity and Access Management as a Service. Free up to 100 users and one realm.
   * [Corbado](https://www.corbado.com/) — Add passkey-first authentication to new or existing apps. Free for unlimited MAUs.
