@@ -1359,6 +1359,7 @@ Update Time, five active automations, webhooks.
   * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
   * [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
   * [btunnel](https://www.btunnel.in/) — Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.
+  * [wmWebStack](https://webstack.wikimint.com) — A powerful and lightweight development environment designed to ease web development with features like integrated PHP, MySQL, and Apache. It offers a standout feature: live publishing using built-in Serveo integration in one-click. This allows developers to instantly deploy and preview changes, streamlining the process of building and managing dynamic websites and applications.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
