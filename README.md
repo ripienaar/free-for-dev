@@ -984,6 +984,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Tempmailo](https://tempmailo.com/) - Unlimited free temp email addresses. Autoexpire in two days.
   * [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails easy. Five hundred transactional emails/month free.
   * [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
+  * [faxmail.co](https://faxmail.co) — Professional and legit looking free temporary emails.
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [Touchlead](https://touchlead.app) - A multi-purpose marketing automation tool, with lead management, form builder, and automation. Free for limited number of leads and automations
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
