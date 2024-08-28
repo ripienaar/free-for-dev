@@ -46,6 +46,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IDE and Code Editing](#ide-and-code-editing)
   * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
+  * [LLM Observability](#llm-observability)
   * [Log Management](#log-management)
   * [Mobile App Distribution and Feedback](#mobile-app-distribution-and-feedback)
   * [Management Systems](#management-system)
@@ -721,6 +722,15 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
   * [WorkOS](https://workos.com/) - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.
 
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+
+## LLM Observability
+
+  * [Arize AI](https://arize.com/) — AI Observability and Evaluation Platform for AI engineers. Free up to 1k logs/month. 
+  * [Helicone.ai](https://helicone.ai/) — Open-source LangSmith alternaive for logging, debugging and improving AI apps. Free up to 100k logs/month.
+  * [Langfuse](https://langfuse.com/) — Open-source LLM Engineering Platform. Free up to 50k observations/month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
