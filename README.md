@@ -46,6 +46,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IDE and Code Editing](#ide-and-code-editing)
   * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
+  * [LLM Observability](#llm-observability)
   * [Log Management](#log-management)
   * [Mobile App Distribution and Feedback](#mobile-app-distribution-and-feedback)
   * [Management Systems](#management-system)
@@ -769,6 +770,15 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+## LLM Observability
+
+  * [Arize AI](https://arize.com/) — AI Observability and Evaluation Platform for AI engineers. Free up to 1k logs/month. 
+  * [Helicone.ai](https://helicone.ai/) — Open-source LangSmith alternaive for logging, debugging and improving AI apps. Free up to 100k logs/month.
+  * [Langfuse](https://langfuse.com/) — Open-source LLM Engineering Platform. Free up to 50k observations/month.
+
+**[⬆️ Back to Top](#table-of-contents)**
+
 
 ## Log Management
 
