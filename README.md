@@ -46,6 +46,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IDE and Code Editing](#ide-and-code-editing)
   * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
+  * [LLM Observability](#llm-observability)
   * [Log Management](#log-management)
   * [Mobile App Distribution and Feedback](#mobile-app-distribution-and-feedback)
   * [Management Systems](#management-system)
@@ -767,6 +768,12 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [webpushr](https://www.webpushr.com/) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
   * [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## LLM Observability
+
+  * [Helicone.ai](https://helicone.ai/) — Open-source LangSmith alternaive for logging, debugging and improving your AI apps. Free up to 100k logs/month. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
