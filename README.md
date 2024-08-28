@@ -725,6 +725,15 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+
+## LLM Observability
+
+  * [Arize AI](https://arize.com/) — AI Observability and Evaluation Platform for AI engineers. Free up to 1k logs/month. 
+  * [Helicone.ai](https://helicone.ai/) — Open-source LangSmith alternaive for logging, debugging and improving AI apps. Free up to 100k logs/month.
+  * [Langfuse](https://langfuse.com/) — Open-source LLM Engineering Platform. Free up to 50k observations/month.
+
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Mobile App Distribution and Feedback
 
   * [TestApp.io](https://testapp.io) - Your go-to platform for ensuring your mobile apps work as they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.
