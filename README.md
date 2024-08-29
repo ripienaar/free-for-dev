@@ -173,9 +173,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Cloud Platforms
-  * [Openstack](https://www.openstack.org) - OpenStack is an open-source cloud platform that enables users to build and manage private and public clouds with flexibility and scalability, providing a foundation for Infrastructure-as-a-Service (IaaS) solutions.
-  * [Proxmox](https://www.proxmox.com/) - Proxmox VE is an open-source virtualization platform that simplifies the deployment and management of virtual machines and containers, acting as a cost-effective cloud platform for small to medium-sized businesses.
-  * [Warren Cloud Platform](https://warren.io/) - Managed cloud platform that delivers CI upgrades with no downtime ~twice a week. They offer Free Tier for private cloud deployments smaller than 256 GB RAM.
+  * [Warren Cloud Platform](https://warren.io/) - Managed cloud platform that delivers CI upgrades with no downtime ~twice a week. They offer Free Tier for managed private cloud deployments smaller than 256 GB RAM.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
