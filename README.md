@@ -15,7 +15,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 # Table of Contents
 
   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
-  * [Cloud management solutions](#cloud-management-solutions)
+  * [Cloud management Solutions](#cloud-management-solutions)
+  * [Cloud Platforms](#cloud-platforms)
   * [Analytics, Events, and Statistics](#analytics-events-and-statistics)
   * [APIs, Data and ML](#apis-data-and-ml)
   * [Artifact Repos](#artifact-repos)
@@ -168,6 +169,13 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
     * [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Cloud Platforms
+  * [Openstack](https://www.openstack.org) - OpenStack is an open-source cloud platform that enables users to build and manage private and public clouds with flexibility and scalability, providing a foundation for Infrastructure-as-a-Service (IaaS) solutions.
+  * [Proxmox](https://www.proxmox.com/) - Proxmox VE is an open-source virtualization platform that simplifies the deployment and management of virtual machines and containers, acting as a cost-effective cloud platform for small to medium-sized businesses.
+  * [Warren Cloud Platform](https://warren.io/) - Managed cloud platform that delivers CI upgrades with no downtime ~twice a week. They offer Free Tier for private cloud deployments smaller than 256 GB RAM.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
