@@ -1801,7 +1801,7 @@ Update Time, five active automations, webhooks.
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive, fun playground to learn Docker.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
-  * [ttl.sh][https://ttl.sh/] - Anonymous & ephemeral Docker image registry
+  * [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral Docker image registry
 
 **[⬆️ Back to Top](#table-of-contents)**
 
