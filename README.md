@@ -903,6 +903,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CommandBar](https://www.commandbar.com/) - Unified Search Bar as-a-service, web-based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up to 1,000 Monthly Active Users, unlimited commands.
   * [Magny](https://magny.io) - SaaS service that helps implement command palettes (e.g. in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
+  * [Typesense.org](https://typesense.org/) - Open Source Alternative to Algolia + Pinecone & Elasticsearch. Completely for free. As fast as Algolia, As good as Elasticsearch, as simple as Pinecone. 
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
