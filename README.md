@@ -1598,6 +1598,7 @@ Update Time, five active automations, webhooks.
   * [scrnshts](https://scrnshts.club/) - [Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
   * [UI Garage](https://uigarage.net/) - [Mobile / web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.
   * [Refero](https://refero.design/) - [Web screenshots] Tagged and searchable collection of design references from great web applications.
+  * [Vidclue](https://vidclue.com) - [Short-form videos] The largest video inspiration library for businesses.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
