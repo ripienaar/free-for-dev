@@ -1136,6 +1136,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provides one free instance that never sleeps and a free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups for Elixir/Phoenix apps.
   * [Glitch](https://glitch.com/) — Free public hosting with code sharing and real-time collaboration features. The free plan has a 1000-hours/month limit.
   * [Hop](https://hop.io/) — Web services hosting platform without configs. Free tier with 1x Shared CPU, 512MB RAM and 3GB Storage.
+  * [Lade](https://www.lade.io/) - Lade is a cloud platform built for developers. The free tier includes five services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.
   * [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.
   * [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. The free tier provides enough to run five services and collaborate with others.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
