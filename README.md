@@ -1278,8 +1278,17 @@ Update Time, five active automations, webhooks.
 ## Domain
 
   * [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
+  * [getlocalcert.net](https://www.getlocalcert.net) — Free subdomains for private network use.
+  * [is-a.dev](https://www.is-a.dev) — Free is-a.dev subdomain for developers.
+  * [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
+  * [js.org](https://js.org) — Free js.org subdomains for GitHub Pages for the JavaScript community.
+  * [ngo.us](https://nic.ngo.us) — Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives.
+  * [nyc.mn](https://dot.nyc.mn) — Free subdomains for individuals and businesses related to New York City. New York City IP address required for application.
+  * [obl.ong](https://obl.ong) — Free, quality subdomains for all, backed by a nonprofit.
+  * [Open Domains](https://open-domains.net) — Free subdomains for personal sites, open-source projects, and more.
+  * [OpenHost](https://registry.openhost.uk) — A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it` with Mozilla PSL support, and on `pride.moe`, `pride.ngo` without Mozilla PSL support.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
-  * [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
+  * [us.kg](https://nic.us.kg/) — Free us.kg subdomains.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
