@@ -478,6 +478,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [paste.sh](https://paste.sh/) — This is a JavaScript and the Crypto based simple paste site.
   * [Revolt.chat](https://revolt.chat/) — An OpenSource alternative for[Discord](https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial) plugins support unlike most main-stream chatting applications.
   * [Tencent RTC](https://trtc.io/) — Tencent Real-Time Communication (TRTC) offers solutions for group audio/video calls.10,000 free minutes/month for the first year.
+  * [Pastefy](https://pastefy.app/) - Beautiful and simple Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
