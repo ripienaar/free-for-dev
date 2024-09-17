@@ -1012,6 +1012,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
      - [Sign](https://zoho.com/sign) - Paperless Signatures
      - [Surveys](https://zoho.com/surveys) - Online Surveys
      - [Bookings](https://zoho.com/bookings) - Appointment Scheduling
+  * [Maileroo](https://maileroo.com) - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
