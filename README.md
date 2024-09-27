@@ -168,6 +168,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
     * [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
+    * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
