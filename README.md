@@ -1147,6 +1147,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for three services, with US$ 5 free credits per month.
   * [mogenius](https://mogenius.com) - Easily build, deploy, and run services on Kubernetes. The free tier supports connecting a local Kubernetes with mogenius, enabling individual developers to create a production-like test environment on their machine.
   * [genezio](https://genezio.com/) - A serverless function provider offers 1 million function calls, 100GB of bandwidth, and 10 cron jobs per month for free, exclusively for non-commercial or academic use.
+  * [shuttle](https://shuttle.rs) - A deployment provider for Rust web services that uses Infrastructure from Code to provide infra from annotations. Three projects (each able to provision 1 Postgres instance) on the Free tier.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
