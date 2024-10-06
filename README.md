@@ -96,7 +96,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [Amazon Web Services](https://aws.amazon.com)
     * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month and 2M Function invocations per month
-    * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and ten alarms
+    * [CloudWatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and ten alarms
     * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
     * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage, and 10000 requests per month
     * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
@@ -104,8 +104,9 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month
     * [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
     * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
-    * [RDS](https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups
-    * [Glacier](https://aws.amazon.com/glacier) - 10GB long-term object storage
+    * [RDS](https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo)
+    * [S3](https://aws.amazon.com/s3/) - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo)
+    * [Glacier](https://aws.amazon.com/glacier/) - 10GB long-term object storage
     * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
     * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
     * [SES](https://aws.amazon.com/ses/) - 3.000 messages per month (12mo)
