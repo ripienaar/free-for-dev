@@ -96,7 +96,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [Amazon Web Services](https://aws.amazon.com)
     * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month and 2M Function invocations per month
-    * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and ten alarms
+    * [CloudWatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and ten alarms
     * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
     * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage, and 10000 requests per month
     * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
