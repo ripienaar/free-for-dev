@@ -1581,6 +1581,8 @@ Update Time, five active automations, webhooks.
   * [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira, and more tools
   * [Webstudio](https://webstudio.is/) -- Open-source alternative to Webflow. The free plan offers unlimited websites on their domain. Five websites with custom domains. Ten thousand page views/month. 2 GB asset storage.
   * [Nappy](https://nappy.co/) -- Beautiful photos of Black and Brown people, for free. For commercial and personal use.
+  * [UnaUI](https://unaui.com/) -- The Atomic UI Framework for Nuxt, A technology that helps you build fast, modern, and lightweight web applications with the power of Unocss Engine.
+    
 
 **[⬆️ Back to Top](#table-of-contents)**
 
