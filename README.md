@@ -1042,6 +1042,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
   * [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
   * [fonts.xz.style](https://fonts.xz.style/) free and open source service for delivering font families to websites using CSS.
+  * [Fontsensei](https://fontsensei.com/) Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese,Korean) font tags.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
