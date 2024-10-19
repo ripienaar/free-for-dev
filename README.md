@@ -1915,6 +1915,7 @@ Update Time, five active automations, webhooks.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
   * [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
+  * [TrackSub](https://tracksub.io/) - Manage all your subscriptions in one place. Easily view all your recurring expenses, forecast future spending and receive helpful alerts before payment dates via Slack or Email. Track up to 10 subscriptions on the free plan.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
