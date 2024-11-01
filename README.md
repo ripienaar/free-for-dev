@@ -170,6 +170,12 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
     * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
+  
+  * [Gcore](https://gcore.com/)
+    * [CDN](https://gcore.com/cdn/) - 1 TB traffic volume, 1 million requests, 100,000 image optimization requests, L3-4 DDos protection and basic WAF
+    * [FastEdge](https://gcore.com/fastedge/) - Deploy serverless apps, 1,000,000 calls, 50 MB memory and 100 ms runtime duration per call
+    * [DNS](https://gcore.com/dns) - Free advanced Geo DNS with unlimited requests/domains/zones, 1 dynamic RRset per zone, 3 records - Dynamic RRset size, 120s minimum TTL, DNSSEC included, without FULL technical support
+    * [WAAP](https://gcore.com/web-app-and-api-protection) - 1 domain, 1 million plan traffic, 2 Custom Rules, 5 Advanced WAF Rules, 2 firewall rulles for IPs
 
 **[⬆️ Back to Top](#table-of-contents)**
 
