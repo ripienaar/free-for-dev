@@ -826,6 +826,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Monitoring
 
+  * [UptimeObserver.com](https://uptimeobserver.com) - Get 20 uptime monitors with 5-minute intervals and a customizable status page—even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
   * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
   * [alerty.ai](https://www.alerty.ai) - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.
   * [appdynamics.com](https://www.appdynamics.com/) — Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
