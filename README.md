@@ -1118,6 +1118,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles.
   * [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse)
   * [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)
+  * * [MyStoryElf for Developers](https://mystoryelf.com/en/api) - Easy-to-use AI story generator with a free API tier for developers, where developers get 100 free stories a month through the API. Generate stories in any language and each story has 5 - 10 AI image generations and multiple illustration styles.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
