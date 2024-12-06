@@ -448,6 +448,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Rocket.Chat](https://rocket.chat/) - Open-source communication platform with Omnichannel features, Matrix Federation, Bridge with others apps, Unlimited messaging, and Full messaging history.
   * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. The cloud version has just 1 GB
   * [Sema](https://www.semasoftware.com/) - Free developer portfolio tool able to consolidate and snapshot contributions across multiple repositories into a single report.
+  * [Screen Sharing via Browser](https://screensharing.net) - Free screen sharing tool, share your screen with collabrators right from your browser, no download or registration needed. For free.
   * [Slab](https://slab.com/) — A modern knowledge management service for teams. Free for up to 10 users.
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
   * [Spectrum](https://spectrum.chat/) - Create public or private communities for free.
