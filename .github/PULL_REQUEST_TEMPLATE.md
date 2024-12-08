@@ -37,4 +37,4 @@
  * [ ] The submission mentions what is free
  * [ ] The submission is not already present in the list
  * [ ] The service has contact details of those running it and a privacy policy
-
+ * [ ] The service you have added is ordered alphabetically in the list (a-z)
