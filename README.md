@@ -1508,7 +1508,8 @@ Update Time, five active automations, webhooks.
   * [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.
   * [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a complete coding platform where teams build, document, publish, scale, and maintain Design Systems. The free plan allows up to 3 editors to work on one design system with unlimited viewers.
   * [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
-  * [ByteDance IconPark](https://iconpark.oceanengine.com) - Free icons available under the Apache License 2.0.
+  * [ByteDance IconPark](https://iconpark.oceanengine.com) - Free icons [available under the Apache License 2.0](https://github.com/bytedance/iconpark?tab=Apache-2.0-1-ov-file).
+  * [TDesign Icons](https://tdesign.tencent.com/design/icon) - Free icons [available under the MIT License](https://github.com/Tencent/tdesign-icons?tab=MIT-1-ov-file).
   * [Carousel Hero](https://carouselhero.com/) - Free online tool to create social media carousels.
   * [Circum Icons](https://circumicons.com) - Consistent open-source icons such as SVG for React, Vue, and Svelte.
   * [clevebrush.com](https://www.cleverbrush.com/) — Free Graphics Design / Photo Collage App. Also, they offer paid integration of it as a component.
