@@ -92,6 +92,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * Cloud Build - 120 build-minutes per day
     * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
+    * [idx.dev](https://idx.dev) Google Project IDX. Online VSCode running on Google Cloud.
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
