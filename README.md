@@ -454,7 +454,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Spectrum](https://spectrum.chat/) - Create public or private communities for free.
   * [StatusPile](https://www.statuspile.com/) - A status page of status pages. Could you track the status pages of your upstream providers?
   * [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, and 1 GB storage.
-  * [Stacks](https://betterstacks.com/) - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan. 
+  * [Stacks](https://betterstacks.com/) - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan.
   * [talky.io](https://talky.io/) — Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
   * [Teamhood](https://teamhood.com/) - Free Project, Task, and Issue-tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for five users and three project portfolios.
   * [Teamplify](https://teamplify.com) - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small groups of up to 5 users.
@@ -732,7 +732,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Okta](https://developer.okta.com/signup/) — User management, authentication and authorization. Free for up to 100 monthly active users.
   * [onelogin.com](https://www.onelogin.com/) — Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, three company apps, and five personal apps, unlimited users
   * [Ory](https://ory.sh/) - AuthN/AuthZ/OAuth2.0/Zero Trust managed security platform. Forever free developer accounts with all security features, unlimited team members, 200 daily active users, and 25k/mo permission checks.
-  * [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier. 
+  * [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.
   * [Phase Two](https://phasetwo.io) - Keycloak Open Source Identity and Access Management. Free realm up to 1000 users, up to 10 SSO connections, leveraging Phase Two's Keycloak enhanced container which includes the [Organization](https://phasetwo.io/product/organizations/) extension.
   * [Stytch](https://www.stytch.com/) - An all-in-one platform that provides APIs and SDKs for authentication and fraud prevention. The free plan includes 10,000 monthly active users, unlimited organizations, 5 SSO or SCIM connections, and 1,000 M2M tokens.
   * [Stack Auth](https://stack-auth.com) — Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
@@ -887,7 +887,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [statusgator.com](https://statusgator.com/) — Status page monitoring, 3 monitors free
   * [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) — Server monitoring, uptime monitoring, DNS & domain monitoring. Monitor 10 server, 10 uptime, and 10 domain for free.
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
-  * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
   * [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for five websites, 60-second intervals, public statuspage.
   * [zenduty.com](https://www.zenduty.com/) — End-to-end incident management, alerting, on-call management, and response orchestration platform for network operations, site reliability engineering, and DevOps teams. Free for up to 5 users.
   * [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
