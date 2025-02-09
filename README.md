@@ -1718,7 +1718,9 @@ Update Time, five active automations, webhooks.
   * [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP
   * [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
   * [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
+  * [OneCompiler](https://onecompiler.com/) - A free online compiler that helps over 12.8 million users worldwide write, run, and share code online.  
+  OneCompiler supports more than 70 programming languages and databases, including popular ones like Java, Python, MySQL, C, C++, NodeJS, JavaScript, Groovy, and HTML.
+  
 
 **[⬆️ Back to Top](#table-of-contents)**
 
