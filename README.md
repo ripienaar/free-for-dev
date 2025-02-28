@@ -174,7 +174,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Cloud management solutions
+## Cloud management solutions | Решения для управления облаком
 
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
   * [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes one deployment server, one static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
