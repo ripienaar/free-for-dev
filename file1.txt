@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 br2 comm
 br2 comm2
 br2 comm3
+=======
+br1 comm
+br1 comm2
+br1 comm3
+>>>>>>> branch1
