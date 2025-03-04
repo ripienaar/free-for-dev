@@ -1613,6 +1613,7 @@ Update Time, five active automations, webhooks.
   * [Webstudio](https://webstudio.is/) -- Open-source alternative to Webflow. The free plan offers unlimited websites on their domain. Five websites with custom domains. Ten thousand page views/month. 2 GB asset storage.
   * [Nappy](https://nappy.co/) -- Beautiful photos of Black and Brown people, for free. For commercial and personal use.
   * [Tailkits](https://tailkits.com/) -- A curated collection of Tailwind templates, components, and tools, plus useful generators for code, grids, box shadows, and more.
+  * [ImageDiff](https://compresto.app/image-diff) -- A free macOS application that helps you compare images effortlessly.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
