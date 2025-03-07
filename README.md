@@ -1019,6 +1019,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [Touchlead](https://touchlead.app) - A multi-purpose marketing automation tool, with lead management, form builder, and automation. Free for limited number of leads and automations
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
+  * [Trueguard](htts://trueguard.io) - Trueguard offers API for detecting temporary emails, free-tier abusers and automated bots. 200 verifications per month for free.
   * [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota), so you can self-host.
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
