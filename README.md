@@ -934,6 +934,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Magny](https://magny.io) - SaaS service that helps implement command palettes (e.g. in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.
   * [Orama Cloud](https://orama.com/pricing) — Free 3 indexes, 100K docs/index, unlimited full-text/vector/hybrid searches, 60 days analytics
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
+  * [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1872,7 +1873,6 @@ Update Time, five active automations, webhooks.
   * [screenshotmachine.com](https://www.screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
   * [PhantomJsCloud](https://PhantomJsCloud.com) — Browser automation and page rendering.  Free Tier offers up to 500 pages/day.  Free Tier since 2017.
   * [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides website screenshots and domain intelligence API services. Free 100 requests/month.
-  * [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
   * [Screenshots](https://screenshotson.click) — Your API for Screenshots. With highly customizable options for capture. Free 100 screenshots/month.
 
 **[⬆️ Back to Top](#table-of-contents)**
