@@ -152,7 +152,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * Full, detailed list - https://www.oracle.com/cloud/free/
 
   * [IBM Cloud](https://www.ibm.com/cloud/free/)
-    * Object Storage - 25GB per month
     * Cloudant database - 1 GB of data storage
     * Db2 database - 100MB of data storage
     * API Connect - 50,000 API calls per month
