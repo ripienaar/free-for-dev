@@ -1121,6 +1121,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Qualli](https://usequalli.com) - In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers.
   * [Sprig](https://sprig.com/) - 1 In-Product Survey or Survey with Replay per month, with GPT-powered AI Analysis.
   * [feedback.fish](https://feedback.fish/) - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.
+  * [Vidhook](https://vidhook.io/) - Collect feedback using delightful surveys with high response rates. Free plan includes 1 active survey, 25 responses per survey and customizable templates.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
