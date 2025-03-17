@@ -1621,6 +1621,7 @@ Update Time, five active automations, webhooks.
   * [Nappy](https://nappy.co/) -- Beautiful photos of Black and Brown people, for free. For commercial and personal use.
   * [Tailkits](https://tailkits.com/) -- A curated collection of Tailwind templates, components, and tools, plus useful generators for code, grids, box shadows, and more.
   * [Tailcolors](https://tailcolors.com/) -- A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.
+  * [Tailcolors](https://excalidraw.com/) -- An online drawing document web page, support free save to local and export
 
 **[⬆️ Back to Top](#table-of-contents)**
 
