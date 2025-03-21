@@ -535,6 +535,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Supermaven](https://www.supermaven.com/) — Supermaven is a fast AI code completion plugin for VSCode, JetBrains, and Neovim. Free tier provides unlimited inline completions.
   * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software faster by providing insights learned from all the code in the world. Plugin available.
   * [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
+  * [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code generation. 
 
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -576,6 +577,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [SourceLevel](https://sourcelevel.io/) — Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different types of devices
   * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
+  * [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews.
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
