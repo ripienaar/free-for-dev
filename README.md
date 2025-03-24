@@ -665,6 +665,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
   * [webhookbeam.com](https://webhookbeam.com) - Set up webhooks and monitor them via push notifications and emails.
+  * [NativeBridge](https://nativebridge.io/) - Turn any browser into your mobile app review platform. Showcase native apps, collect feedback, and secure approvals—all without device installations. 2 active device parallely, 30 minutes per month is free.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
