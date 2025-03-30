@@ -1322,6 +1322,7 @@ Update Time, five active automations, webhooks.
 
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
+  * [femboyz.online](https://femboyz.online/fsd/) - Free femboyz.online subdomains.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
