@@ -959,7 +959,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Email
-
+  * [Quick Inbox](https://www.quick-inbox.com/) – Get instant, free disposable email addresses for hassle-free testing and sign-ups. Keep your inbox spam-free. No credit card or payment required for usage.
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
