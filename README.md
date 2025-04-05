@@ -957,6 +957,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [W3Schools](https://www.w3schools.com/) - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.
   * [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.
   * [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
+  * [Chatmagic.app](https://www.chatmagic.app) - Coding interview AI assistant to help you solve questions in seconds to get job offers, with 2 free interview answers to start.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
