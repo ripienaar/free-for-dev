@@ -842,7 +842,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [webtranslateit.com](https://webtranslateit.com/) — Free up to 500 strings
   * [weblate.org](https://weblate.org/) — It's free for libre projects with up to 10,000 string sources for the free tier and Unlimited Self-hosted on-premises.
   * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
-  * [Lingo.dev](https://lingo.dev) – ⚡️ Open-source AI-powered CLI for web & mobile localization. Bring your own LLM for free or use Lingo.dev-managed localization engine, right from CI/CD
+  * [Lingo.dev](https://lingo.dev) – Open-source AI-powered CLI for web & mobile localization. Bring your own LLM, or use 10,000 free words every month via Lingo.dev-managed localization engine.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
