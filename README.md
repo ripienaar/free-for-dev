@@ -1256,6 +1256,7 @@ Update Time, five active automations, webhooks.
   * [Superblocks](https://superblocks.com/) — Open enterprise application platform designed for developers and semi-technical teams. Use AI to generate, edit visually and extend with code. Govern centrally with integrations, authentication, permissions & audit logs. 
   * [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc., and build apps using drag-and-drop application builder.
   * [UI Bakery](https://uibakery.io) — Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.
+  * [manubes](https://www.manubes.com) - Powerful no-code cloud platform with a focus on industrial production management. Free for one user with 1 million workflow activities a month ([also available in german](https://www.manubes.de)).
 
 **[⬆️ Back to Top](#table-of-contents)**
 
