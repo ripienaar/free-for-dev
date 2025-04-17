@@ -1476,6 +1476,7 @@ Update Time, five active automations, webhooks.
   * [Toggl](https://toggl.com/) — Provides two free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed with freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting, and more. And [Toggl Plan](https://toggl.com/plan/) for task planning with a free plan for solo developers with unlimited tasks, milestones, and timelines.
   * [Sflow](https://sflow.io) — sflow.io is a project management tool built for agile software development, marketing, sales, and customer support, especially for outsourcing and cross-organization collaboration projects. Free plan up to 3 projects and five members.
   * [Pulse.red](https://pulse.red) — Free Minimalistic Time Tracker and Timesheet app for projects.
+  * [time-to-decimal.org](https://time-to-decimal.org/) — A free comprehensive time conversion platform that transforms various time formats into decimal hours or convert decimal time back to standard formats.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
