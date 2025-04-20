@@ -963,6 +963,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Email
 
+  * [Temp Mail Generator](https://tempmailgenerator.org) - Free temporary email address generator.
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
