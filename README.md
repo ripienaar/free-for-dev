@@ -615,6 +615,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [deployhq.com](https://www.deployhq.com/) — 1 project with ten daily deployments (30 build minutes/month)
   * [drone](https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32-bit and 64-bit) - all in one place
   * [LayerCI](https://layerci.com) — CI for full stack projects. One full stack preview environment with 5GB memory & 3 CPUs.
+  * [LocalOps](https://localops.co) - Deploy to any cloud account right from your GitHub with no devops overhead. Integrated CI/CD. You can also deploy your apps to customer cloud. Each environment is battery packed with features. With free plan you can spin up 1 environment without adding any credit card.
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
   * [Squash Labs](https://www.squash.io/) — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
