@@ -2033,6 +2033,6 @@ HTML Themes and UI Kits to create your applications faster!
   * [PageTools](https://pagetools.co/) - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.
   * [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
   * [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
-  * [Holopin badges](https://www.holopin.io/opensource) - Digital badges system for large communities that can produce badges for sponsors, mentees, and contributors .
+  * [Holopin badges](https://www.holopin.io/opensource) - Digital badges system for large communities that can produce badges for sponsors, mentees, and contributors. Holopin offers dedicated free plan for open source projects.
 
 **[⬆️ Back to Top](#table-of-contents)**
