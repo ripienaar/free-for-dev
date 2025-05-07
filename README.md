@@ -960,6 +960,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.
   * [Full Stack Open](https://fullstackopen.com/en/) – Free university-level course on modern web development with React, Node.js, GraphQL, TypeScript, and more. Fully online and self-paced.
   * [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
+  * [Cover Letter Generator](https://www.wfhalert.com/tools/cover-letter-generator/) – Free AI‑powered cover‑letter generator. No sign‑up required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
