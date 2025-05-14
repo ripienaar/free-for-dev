@@ -2034,6 +2034,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
   * [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
   * [Axonomy App](https://axonomy-app.com/) - A free tool to create, manage and share your invoices with your clients. 10 free invoices per month.
+  * [Crafted Agencies - App Cost Calculator](https://craftedagencies.com/tools/app-cost-calculator) - A free tool to help you estimate how many hours and how much money it will cost to build an app idea.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
