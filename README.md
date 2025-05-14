@@ -1871,6 +1871,7 @@ Update Time, five active automations, webhooks.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
   * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
+  * [TheoSoti](https://theosoti.com/) - A blog about new features of HTML and CSS
 
 **[⬆️ Back to Top](#table-of-contents)**
 
