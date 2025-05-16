@@ -720,7 +720,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Vulert](https://vulert.com) - Vulert continuously monitors your open-source dependencies for new vulnerabilities, recommends fixes, without requiring installation or access to your codebase. Free for open-source projects.
   * [Escape GraphQL Quickscan](https://escape.tech/) - One-click security scan of your GraphQL endpoints. Free, no login required.
   * [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
-  * [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records. 
+  * [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1018,7 +1018,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector, and more.
   * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
   * [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
-  * [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
   * [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 15,000 emails/month free
   * [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (student, researcher, etc.).
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
@@ -1184,7 +1183,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provides one free instance that never sleeps and a free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups for Elixir/Phoenix apps.
   * [Glitch](https://glitch.com/) — Free public hosting with code sharing and real-time collaboration features. The free plan has a 1000-hours/month limit.
   * [Lade](https://www.lade.io/) - Lade is a cloud platform built for developers. The free tier includes three services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.
-  * [leapcell](https://leapcell.io/) - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands. 
+  * [leapcell](https://leapcell.io/) - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
   * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [ampt.dev](https://getampt.com/) - Ampt lets teams build, deploy, and scale JavaScript apps on AWS without complicated configs or managing infrastructure. Free Preview plan includes 500 invocations hourly, 2,500 invocations daily and 50,000 invocations monthly. Custom domains are allowed only in the paid plans.
@@ -1255,7 +1254,7 @@ Update Time, five active automations, webhooks.
   * [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.
   * [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
   * [ReTool](https://retool.com/) — Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can make it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
-  * [Superblocks](https://superblocks.com/) — Open enterprise application platform designed for developers and semi-technical teams. Use AI to generate, edit visually and extend with code. Govern centrally with integrations, authentication, permissions & audit logs. 
+  * [Superblocks](https://superblocks.com/) — Open enterprise application platform designed for developers and semi-technical teams. Use AI to generate, edit visually and extend with code. Govern centrally with integrations, authentication, permissions & audit logs.
   * [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc., and build apps using drag-and-drop application builder.
   * [UI Bakery](https://uibakery.io) — Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.
   * [manubes](https://www.manubes.com) - Powerful no-code cloud platform with a focus on industrial production management. Free for one user with 1 million workflow activities a month ([also available in german](https://www.manubes.de)).
@@ -1746,7 +1745,7 @@ Update Time, five active automations, webhooks.
   * [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
   * [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
   * [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
-  
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
