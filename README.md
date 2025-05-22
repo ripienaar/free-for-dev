@@ -1295,6 +1295,7 @@ Update Time, five active automations, webhooks.
   * [Patr Cloud](https://patr.cloud/) — An easy-to-use cloud platform, among its paid services it offers to host three static sites for free.
   * [Serv00.com](https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.
   - [Sevalla](https://sevalla.com/) - Hosting platform designed to simplify the deployment and management of applications, databases, and static websites - 1GB site limit, 100GB free bandwidth, 600 free build minutes, 100 sites per account.
+  - [Webhostmost](https://www.webhostmost.com/free-web-hosting) — 125MB free storage, 1 email account, monthly login, 1 parked domain**, 1 database. Python, Redis, PHP, Node.js, WordPress.  
 
 **[⬆️ Back to Top](#table-of-contents)**
 
