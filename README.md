@@ -220,7 +220,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [APIToolkit.io](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
   * [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month.
   * [Arize AI](https://arize.com/) - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
-  * [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby.
   * [Beeceptor](https://beeceptor.com) - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone with a dashboard link can view submissions and answers).
   * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
   * [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. Fifty credits per month for free.
@@ -391,7 +390,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Zuplo](https://zuplo.com/) - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
   * [Amazon SageMaker](https://studiolab.sagemaker.aws/) — A cloud-based ML platform with JupyterLab and terminal access. The free tier includes 8 hours of CPU (max 4 hours per session) or 4 hours of GPU per day.
   * [FormatJSONOnline.com](https://formatjsononline.com) - A free, browser-based tool to format, validate,compare and minify JSON data instantly.
-    
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Artifact Repos
