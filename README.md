@@ -1318,6 +1318,7 @@ Update Time, five active automations, webhooks.
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
+  * [VolaryDDNS](https://ddns.volary.cloud) - Free high-performant DDNS with no subscriptions or advertisements
 
 **[⬆️ Back to Top](#table-of-contents)**
 
