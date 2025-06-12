@@ -2004,6 +2004,7 @@ Update Time, five active automations, webhooks.
 
 ## Other Free Resources
 
+  * [SaaS Explainer Videos](https://saasexplainervideos.com/) - Improve your product storytelling by learning from top SaaS videos.
   * [Wikimint Developer](https://developer.wikimint.com/p/tools.html) - Always free tools for web developers that includes CSS minify unminify, image optimizer, image resizer, case convertor, CSS validator, JavaScript compiler, HTML editor, etc.
   * [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
   * [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
