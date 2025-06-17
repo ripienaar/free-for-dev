@@ -357,6 +357,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
   * [SmartParse](https://smartparse.io) - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes 300 Processing Units per month, Browser uploads, Data quarantining, Circuit breakers, and Job Alerts.
   * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
+  * [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
   * [Sqlable](https://sqlable.com/) - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.
   * [Stoplight](https://stoplight.io/) - Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.
   * [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
@@ -965,6 +966,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [W3Schools](https://www.w3schools.com/) - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.
   * [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.
   * [Full Stack Open](https://fullstackopen.com/en/) – Free university-level course on modern web development with React, Node.js, GraphQL, TypeScript, and more. Fully online and self-paced.
+  * [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
   * [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1588,6 +1590,7 @@ Update Time, five active automations, webhooks.
   * [storyset.com](https://storyset.com/) — Create incredible free customized illustrations for your project using this tool.
   * [smartmockups.com](https://smartmockups.com/) — Create product mockups, 200 free mockups.
   * [Shadcn Studio](https://shadcnstudio.com/theme-editor) — Preview your theme changes across different components and layouts.
+  * [Tailark](https://tailark.com/) - A collection of modern, responsive, pre-built UI blocks designed for marketing websites.
   * [tabler-icons.io](https://tabler-icons.io/) — Over 1500 free copy-and-paste SVG editable icons.
   * [tweakcn](https://tweakcn.com/) — Beautiful themes for shadcn/ui. Customize colors, typography, and more in real-time.
   * [UI Avatars](https://ui-avatars.com/) - Generate avatars with initials from names. The URLs can be directly hot-linked in your web/app. Support config parameters via the URL.
