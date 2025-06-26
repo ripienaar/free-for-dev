@@ -502,6 +502,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [InstaWP](https://instawp.com/) - Launch a WordPress site in a few seconds. A free tier with 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.
   * [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, ten sources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
   * [WPJack](https://wpjack.com) - Set up WordPress on any cloud in less than 5 minutes! The free tier includes 1 server, 2 sites, free SSL certificates, and unlimited cron jobs. No time limits or expirations—your website, your way.
+  * [Pages CMS](https://pagescms.org/) - Tired of juggling Git and YAML to update your Next.js, Astro, Hugo or Nuxt website? Pages CMS is a Github based opensource CMS (entirely free).
 
 **[⬆️ Back to Top](#table-of-contents)**
 
