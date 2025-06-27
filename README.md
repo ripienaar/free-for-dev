@@ -856,6 +856,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [letsmonitor.org](https://letsmonitor.org) - SSL monitoring, free for up to 5 monitors
   * [linkok.com](https://linkok.com) - Online broken link checker, free for small websites up to 100 pages, completely free for open-source projects.
   * [loader.io](https://loader.io/) — Free load testing tools with limitations
+  * [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
   * [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open-source tool to collect real-time metrics. It's a growing product and can also be found on GitHub!
   * [newrelic.com](https://www.newrelic.com) — New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything and then analyze, troubleshoot, and optimize your entire software stack. The free tier offers 100GB/month of free data ingest, one free full-access user, and unlimited free primary users.
   * [Middleware.io](https://middleware.io/) -  Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for up to 1M log events, Infrastructure monitoring & APM for up to 2 hosts.
