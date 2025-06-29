@@ -1304,6 +1304,7 @@ Update Time, five active automations, webhooks.
 
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
+  * [is-a.dev](https://is-a.dev/) - Free is-a.dev subdomains.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
