@@ -950,6 +950,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Email
 
+  * [TmpMails](https://tmpmails.com/) - No registration required, get a temporary email address instantly. Protect your privacy and stay away from spam.
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
