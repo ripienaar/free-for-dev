@@ -544,6 +544,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
   * [gocover.io](https://gocover.io/) — Code coverage for any [Go](https://golang.org/) package
   * [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
+  * [greptile.com](https://www.greptile.com/) — AI's code review bot with full context of codebase, which is free for non-commercial open-source projects
   * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
   * [houndci.com](https://houndci.com/) — Comments on GitHub commits about code quality, free for Open Source
