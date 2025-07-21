@@ -950,6 +950,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
+  * [AzulMailbox](https://AzulMailbox.org) - Free, temporary email for testing that support webhooks
   * [Brevo](https://www.brevo.com/) — 9,000 emails/month, 300 emails/day free
   * [OneSignal](https://onesignal.com/) — 10,000 emails/month,No Credit Cards are required.
   * [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
