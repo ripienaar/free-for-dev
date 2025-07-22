@@ -1905,6 +1905,8 @@ Update Time, five active automations, webhooks.
   * [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. The free tier offers a one-time scan and a single banner.
   * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. The free tier offers most features with a limited visitor count.
   * [Concord](https://www.concord.tech/) - Full data privacy platform, including consent management, privacy request handling (DSARs), and data mapping. Free tier includes core consent management features and they also provide a more advanced plan for free to verified open source projects.
+  * [Superset](https://www.trustsuperset.com/) - AI-enabled privacy plaform to automate Data Subject Requests (DSARs), privacy policy reviews, data mapping, and Data Broker Registrations. Free tier available for startups.
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
