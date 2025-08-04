@@ -1742,6 +1742,7 @@ Update Time, five active automations, webhooks.
 
 ## Analytics, Events and Statistics
 
+  * [Userbird](https://userbird.com) - Google Analytics alternative with heatmaps, session recordings and revenue tracking.
   * [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
   * [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
   * [Hightouch](https://hightouch.com/) - Hightouch is a Reverse ETL platform that helps you sync customer data from your data warehouse to your CRM, marketing, and support tools. The free tier offers you one destination to sync data to.
