@@ -518,7 +518,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Supermaven](https://www.supermaven.com/) — Supermaven is a fast AI code completion plugin for VSCode, JetBrains, and Neovim. Free tier provides unlimited inline completions.
   * [tabnine.com](https://www.tabnine.com/) — Tabnine helps developers create better software faster by providing insights learned from all the code in the world. Plugin available.
   * [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
-
+  * [jokers.pub](https://jokers.pub) - Joker Intelligent Development Platform is a cloud-based IDE integrating visual development tools and AI Coding, incorporating AI code assistance and component logic capabilities. As an efficient low-code solution, it enhances development productivity through intuitive operations.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
