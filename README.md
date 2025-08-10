@@ -870,6 +870,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution, including alerting, strong visualization capabilities, and basic reporting. Free up to 100 sensors.
   * [pagecrawl.io](https://pagecrawl.io/) -  Monitor website changes, free for up to 6 monitors with daily checks.
   * [pagerly.io](https://pagerly.io/) -  Manage on-calls on Slack  (integrates with Pagerduty, OpsGenie). Free up to 1 team (one team refers to one on call)
+  * [pageradar.io](https://pageradar.io/) — Monitor Core Web Vitals, SEO changes, and uptime for your websites. Free plan includes 5 URLs, daily Core Web Vitals monitoring, 10 HTML/SEO change monitors, 167-country affiliate link monitoring, and email alerts.
   * [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
   * [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projets and unlimited status pages.
   * [pingbreak.com](https://pingbreak.com/) — Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack, or email.
