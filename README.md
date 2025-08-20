@@ -1136,6 +1136,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Othor AI](https://othor.ai/) - An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. The Free Forever plan provides one workspace with five datasource connections for one user, with no limits on analytics. [#opensource](https://github.com/othorai/othor.ai)
   * [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
   * [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.
+  * [Agenta](https://agenta.ai/) - Open-source LLMOps platform for building, evaluating, and monitoring LLM applications. Free tier includes unlimited local usage and generous cloud limits for collaborative prompt engineering and evaluation. [#opensource](https://github.com/agenta-ai/agenta)
 
 **[⬆️ Back to Top](#table-of-contents)**
 
