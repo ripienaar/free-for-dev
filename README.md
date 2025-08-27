@@ -603,6 +603,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [blacksmith](https://www.blacksmith.sh/) - Managed performance runners for GitHub Actions that provides 3,000 free minutes per month, with no credit card needed.
   * [Terramate](https://terramate.io/) - Terramate is an orchestration and management platform for Infrastructure as Code (IaC) tools such as Terraform, OpenTofu, and Terragrunt. Free up to 2 users including all features.
   * [Terrateam](https://terrateam.io) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
+  * [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time. Freemium Version. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
