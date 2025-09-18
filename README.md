@@ -170,6 +170,19 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
     * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
+   
+  * [StateMesh](https://statemesh.net/)
+    * [Applications](https://docs.statemesh.net/applications/intro) - Free tier to deploy containerized web apps and APIs with 1 CPU, 512MB RAM, and autoscaling support.
+    * [Storage Providers](https://docs.statemesh.net/applications/storage-providers) - Attach persistent encrypted & replicated storage; options include built-in StateMesh volumes, block storage on the network, or your own S3-compatible bucket
+    * [Blockchain](https://docs.statemesh.net/blockchain/info) - EVM-compatible Layer 1 chain utilizing Fantom's Lachesis DAG consensus for high throughput and fast finality; supports MESH staking, cross-chain stablecoin bridging, and decentralized node state validation via Time Towers
+    * [Databases](https://docs.statemesh.net/databases/intro) - Free managed PostgreSQL instances (Early Access), includes storage and connection pooling.
+    * [Virtual Machines](https://docs.statemesh.net/vms/intro) - Early Access VMs with free compute resources on the StateMesh testnet.
+    * [Deploy Button](https://docs.statemesh.net/deployment/button) - One-click deployment from GitHub repositories, ideal for testing and demos.
+    * [CLI](https://docs.statemesh.net/command-line/install) - Free CLI for managing apps, services, and infrastructure directly from your terminal.
+    * [Logging](https://docs.statemesh.net/applications/manage#container-logs) - Built-in logs viewer with free access to recent logs for deployed apps and services.
+    * [Monitoring](https://docs.statemesh.net/applications/manage#resource-usage) - Free real-time metrics and health checks for apps, databases, and infrastructure.
+    * [Marketplace](https://docs.statemesh.net/applications/marketplace) - Browse and deploy open-source templates and services with one click.
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
