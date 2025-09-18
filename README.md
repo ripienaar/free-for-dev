@@ -171,19 +171,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
     * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
    
-  * [StateMesh](https://statemesh.net/)
-    * [Applications](https://docs.statemesh.net/applications/intro) - Free tier to deploy containerized web apps and APIs with 1 CPU, 512MB RAM, and autoscaling support.
-    * [Storage Providers](https://docs.statemesh.net/applications/storage-providers) - Attach persistent encrypted & replicated storage; options include built-in StateMesh volumes, block storage on the network, or your own S3-compatible bucket
-    * [Blockchain](https://docs.statemesh.net/blockchain/info) - EVM-compatible Layer 1 chain utilizing Fantom's Lachesis DAG consensus for high throughput and fast finality; supports MESH staking, cross-chain stablecoin bridging, and decentralized node state validation via Time Towers
-    * [Databases](https://docs.statemesh.net/databases/intro) - Free managed PostgreSQL instances (Early Access), includes storage and connection pooling.
-    * [Virtual Machines](https://docs.statemesh.net/vms/intro) - Early Access VMs with free compute resources on the StateMesh testnet.
-    * [Deploy Button](https://docs.statemesh.net/deployment/button) - One-click deployment from GitHub repositories, ideal for testing and demos.
-    * [CLI](https://docs.statemesh.net/command-line/install) - Free CLI for managing apps, services, and infrastructure directly from your terminal.
-    * [Logging](https://docs.statemesh.net/applications/manage#container-logs) - Built-in logs viewer with free access to recent logs for deployed apps and services.
-    * [Monitoring](https://docs.statemesh.net/applications/manage#resource-usage) - Free real-time metrics and health checks for apps, databases, and infrastructure.
-    * [Marketplace](https://docs.statemesh.net/applications/marketplace) - Browse and deploy open-source templates and services with one click.
-
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Cloud management solutions
@@ -194,6 +181,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for up to 500 resources.
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
   * [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 20 job executions free per month with previews and auto-deploys included in the free tier.
+  * [StateMesh](https://statemesh.net/) - StateMesh helps developers deploy containerized web apps and APIs on a decentralized cloud. On the free tier, a developer can run apps with 1 CPU and 512MB RAM, use managed PostgreSQL databases, attach persistent storage, launch virtual machines, and [deploy from GitHub with one click](https://console.cloud.statemesh.net/deploy?appname=sample&repository=https://github.com/state-mesh/samples.git). The free tier also includes CLI management, logging, monitoring, and access to open-source marketplace templates.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
