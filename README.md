@@ -170,6 +170,16 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
     * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
+   
+  * [StateMesh](https://www.statemesh.net/)
+    
+StateMesh is the world's first decentralized cloud infrastructure that replaces traditional data centers with a global network of crowd-sourced node operators, maintaining functionality, security, and resilience similar to AWS/GCP/Azure. StateMesh is up to 10x cheaper than traditional cloud providers, with no hidden fees or lock-in contracts. Pay only for what you use. Our dynamic price algorithm ensures that you always get the best price. You can run a workload for a few minutes and only pay for that actual usage, but smaller apps that are deployed can benefit of a free plan.
+
+If you are looking for more architectural flexibility and distributing computing, while mentaining high-performance and low latency, you can try to deploy on StateMesh. In order to do so, click the button below.
+
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](https://console.cloud.statemesh.net/deploy?appname={application-name}&repository={repository})
+
+For more information you can read the [official documentation](https://docs.statemesh.net/).
 
 **[⬆️ Back to Top](#table-of-contents)**
 
