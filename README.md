@@ -187,7 +187,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Source Code Repos
 
   * [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
-  * [Capawesome](https://capawesome.io) — Enterprise-grade solutions and services for teams developing cross-platform applications with Capacitor.
+  * [Capawesome Cloud](https://cloud.capawesome.io) — Enterprise-grade solutions and services for teams developing cross-platform applications with Capacitor.
   * [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and two users
   * [Codeberg](https://codeberg.org/) — Unlimited public and private Git repos for free and open-source projects (with unlimited collaborators). Powered by [Forgejo](https://forgejo.org/). Static website hosting with [Codeberg Pages](https://codeberg.page/). CI/CD hosting with [Codeberg's CI](https://docs.codeberg.org/ci/). Translating hosting with [Codeberg Translate](https://translate.codeberg.org/). Includes Package and Container hosting, Project management, and Issue Tracking
