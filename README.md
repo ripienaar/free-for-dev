@@ -226,6 +226,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [BigDataCloud](https://www.bigdatacloud.com/) - Provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
   * [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 1k credits per month for free, equals 1k concurrent requests.
   * [BrowserCat](https://www.browsercat.com) - Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. Free plan with 1k requests per month.
+  * [CarAPI.dev](https://carapi.dev) — Comprehensive automotive data API with VIN decoding, stolen vehicle checks, vehicle valuation, inspection data, and more. Free tier includes 100 requests/month across all 9 endpoints.
   * [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. The free plan includes 500 calls per month.
   * [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.
   * [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. The free plan has 1,000 calls per month.
