@@ -1967,6 +1967,7 @@ Update Time, five active automations, webhooks.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
   * [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
+  * [Volume Shader BM](https://volumeshaderbm.org) — Free browser-based GPU benchmark (WebGL). Helps developers test and compare shader performance reproducibly across browsers and devices.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
