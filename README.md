@@ -329,6 +329,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [PrefectCloud](https://www.prefect.io/cloud/) — A complete platform for dataflow automation. Free plan includes 5 deployed workflows and 500 minutes of serverless compute credits per month.
   * [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
   * [PromptLoop](https://www.promptloop.com/) - PromptLoop delivers 10X easier AI web scraping with near-zero adoption time, 85%+ time saved on existing workflows, and operates 4X faster than manual research without compromise and includes a REST API endpoint for all research tasks. The first 1,000 credits are free each month.
+  * [ProxySentry](https://proxysentry.io/) - IP API that detects residential proxies and VPNs. ProxySentry.io offers a free tier with 10k requests per month on rapidapi.com.
   * [Public-Apis Github Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.
   * [Rapidapi](https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
   * [Rendi](https://rendi.dev) - FFmpeg API - A REST API for FFmpeg, run FFmpeg online without handling the infrastructure. Free tier with monthly processing quota and 4 vCPUs available.
