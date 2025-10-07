@@ -290,6 +290,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IPinfo](https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.
   * [IPQuery](https://ipquery.io) — Unlimited IP API for developers, no ratelimits, or pricing.
   * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.
+  * [JMESPath Free API](https://noteapiconnector.com/jmespath-free-api) — Run JMESPath queries on JSON data for filtering, transforming, and extracting results.
   * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
   * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
   * [JSON Serve](https://jsonserve.com/) — A free service that helps developers to store JSON objects and use that JSON as a REST API in their app.
