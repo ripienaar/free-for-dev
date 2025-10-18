@@ -2005,7 +2005,7 @@ Update Time, five active automations, webhooks.
   * [ElevateAI](https://www.elevateai.com) - Get up to 200 hours of audio transcription for free every month.
   * [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
   * [Framacloud](https://degooglisons-internet.org/en/) — A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
-  * [Freehosts](https://freehosts.pro) - Is a server we post list of free hosts for developers.
+  * [Freehosts](https://freehosts.space) - A community-driven platform that helps developers discover and compare free hosting providers.
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
   * [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
   * [Markdown Tools](https://markdowntools.com) - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown
