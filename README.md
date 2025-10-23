@@ -1050,6 +1050,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
      - [Surveys](https://zoho.com/surveys) - Online Surveys
      - [Bookings](https://zoho.com/bookings) - Appointment Scheduling
   * [Maileroo](https://maileroo.com) - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.
+  * [Temp-Mail.work](https://temp-mail.work) - Free Temp Mail, Secure Temporary Email Service.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1475,6 +1476,7 @@ Update Time, five active automations, webhooks.
   * [Toggl](https://toggl.com/) — Provides two free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed with freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting, and more. And [Toggl Plan](https://toggl.com/plan/) for task planning with a free plan for solo developers with unlimited tasks, milestones, and timelines.
   * [Sflow](https://sflow.io) — sflow.io is a project management tool built for agile software development, marketing, sales, and customer support, especially for outsourcing and cross-organization collaboration projects. Free plan up to 3 projects and five members.
   * [Pulse.red](https://pulse.red) — Free Minimalistic Time Tracker and Timesheet app for projects.
+  * [Network Diagram](https://network-diagram.net) — Create Network Diagram - Free Online Visualization Tool.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
