@@ -212,6 +212,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## APIs, Data, and ML
 
   * [JSONGrid](https://jsongrid.com) - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.
+  * [Livedocs](https://livedocs.com) - AI-native data notebook for analysts and data scientists. Write SQL and Python side-by-side, visualize data instantly, and build interactive dashboards powered by DuckDB & Polars. Free tier with AI credits included.
   * [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
   * [JSON to Table](https://jsontotable.org) - Convert JSON into an interactive table for quick viewing, editing, and sharing online.
   * [IP.City](https://ip.city) — 100 Free IP geolocation requests per day
