@@ -1527,6 +1527,8 @@ Update Time, five active automations, webhooks.
   * [VaocherApp QR Code Generator](https://www.vaocherapp.com/qr-code-generator) – Easily create custom QR codes for gift cards, gift vouchers, and promotions. Support custom styling, color, logo...
   * [LibreQR](https://libreqr.com) — Free QR code generator focused on privacy and no tracking. Free to use with no data collection.
   * [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
+  * [QRCodeGenerator](https://thetoolverge.com/tools/qrcode/) — Create professional QR codes instantly - Free, unlimited, no signup required!
+  * [ImageResizer](https://thetoolverge.com/tools/imageresizer/) — Image Resize - Resize and compress unlimited images in your browser. Complete privacy with client-side processing
 
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1971,6 +1973,7 @@ Update Time, five active automations, webhooks.
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
   * [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
   * [Volume Shader BM](https://volumeshaderbm.org) — Free browser-based GPU benchmark (WebGL). Helps developers test and compare shader performance reproducibly across browsers and devices.
+  * [PasswordGenerator](https://thetoolverge.com/tools/passwordgen/passwordgen) — 100% Private - All generation happens in your browser. We never see or store your passwords. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
