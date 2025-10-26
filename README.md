@@ -1050,6 +1050,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
      - [Surveys](https://zoho.com/surveys) - Online Surveys
      - [Bookings](https://zoho.com/bookings) - Appointment Scheduling
   * [Maileroo](https://maileroo.com) - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.
+  * [Notifuse](https://github.com/Notifuse/notifuse) — Open-source self-hosted email platform for newsletters & transactional email; free-to-use with full code.  
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
