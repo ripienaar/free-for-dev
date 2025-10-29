@@ -938,7 +938,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CommandBar](https://www.commandbar.com/) - Unified Search Bar as-a-service, web-based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up to 1,000 Monthly Active Users, unlimited commands.
   * [Orama Cloud](https://orama.com/pricing) — Free 3 indexes, 100K docs/index, unlimited full-text/vector/hybrid searches, 60 days analytics
   * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
-  * [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
