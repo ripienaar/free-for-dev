@@ -1050,6 +1050,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
      - [Surveys](https://zoho.com/surveys) - Online Surveys
      - [Bookings](https://zoho.com/bookings) - Appointment Scheduling
   * [Maileroo](https://maileroo.com) - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.
+  * [ChatTempMail](https://chat-tempmail.com) - Free temporary email service with AI features: 20 temporary email addresses, 5 permanent email addresses, 50 daily API calls, and 10 daily AI feature uses (translation, summarization, Q&A, code extraction).
 
 **[⬆️ Back to Top](#table-of-contents)**
 
