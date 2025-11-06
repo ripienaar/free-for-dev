@@ -1003,7 +1003,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
-  * [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
+  * [Mailtrap.io](https://mailtrap.io/) — Email API, SMTP, 3,500 emails/month free for transactional and marketing emails. Email Sandbox - fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
   * [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
   * [Momentary Email](https://www.momentaryemail.com/) — Free Temporary Email Addresses. Read incoming emails on the website or by RSS feed.
   * [Mutant Mail](https://www.mutantmail.com/) – Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
@@ -1472,6 +1472,7 @@ Update Time, five active automations, webhooks.
   * [Toggl](https://toggl.com/) — Provides two free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed with freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting, and more. And [Toggl Plan](https://toggl.com/plan/) for task planning with a free plan for solo developers with unlimited tasks, milestones, and timelines.
   * [Sflow](https://sflow.io) — sflow.io is a project management tool built for agile software development, marketing, sales, and customer support, especially for outsourcing and cross-organization collaboration projects. Free plan up to 3 projects and five members.
   * [Pulse.red](https://pulse.red) — Free Minimalistic Time Tracker and Timesheet app for projects.
+  * [titanapps.io](https://titanapps.io/) — productivity tools for Jira and monday.com offering structured checklists, templates, and approvals inside issues/tasks. Free plan available for small teams.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
