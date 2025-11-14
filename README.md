@@ -1638,6 +1638,7 @@ Update Time, five active automations, webhooks.
   * [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
   * [Lunacy](https://icons8.com/lunacy) -- Free graphic design tool with offline support, built-in assets (icons, photos, illustrations), and real-time collaboration. The free tier includes 10 cloud documents, a 30-day history, low-res assets, and basic design tools.
   * [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
+  * [SVG Converter](https://svgconverter.online/) -- Free JPG/PNG to SVG converter with color palette customization
 
 **[⬆️ Back to Top](#table-of-contents)**
 
