@@ -1321,6 +1321,7 @@ Update Time, five active automations, webhooks.
 
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
+  * [is-a.fun](https://is-a.fun/) - Free subdomain service for everyone. Easily register a free subdomain for your project, website, or app via GitHub.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
