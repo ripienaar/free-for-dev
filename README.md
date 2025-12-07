@@ -1980,6 +1980,7 @@ Update Time, five active automations, webhooks.
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
   * [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
   * [Volume Shader BM](https://volumeshaderbm.org) — Free browser-based GPU benchmark (WebGL). Helps developers test and compare shader performance reproducibly across browsers and devices.
+  * [XKit](https://xkit.io) — A collection of free online tools designed to make life easier for developers, students, and everyday users. Include a wide range of Developer tools, Diff/Compare tools, Calculators, Converters and Generators. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
