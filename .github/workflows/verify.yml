@@ -1,0 +1,30 @@
+name: Verify URLs
+
+on:
+  workflow_dispatch: # Manual trigger
+  schedule:
+    - cron: "0 0 * * *" # Every day at 00:00 UTC
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    container:
+      image: rust:1.91-slim
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Build Rust "Verify" Program
+        working-directory: verify
+        run: cargo build
+
+      - name: Execute Rust "Verify" Program
+        working-directory: verify
+        run: cargo run
+
+      - name: Upload Updated "README.md" file
+        uses: actions/upload-artifact@v4
+        with:
+          name: verification-results
+          path: README.md
