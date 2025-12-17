@@ -489,7 +489,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [SiteDots](https://sitedots.com/) - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.
 
   * [Cushion](https://cushion.so/) - Async-friendly alternative to Slack. built for small, distributed teams who are productive. Free tier with 30 posts, 5 members and unlimited guests.
-  * [Fizzy](https://www.fizzy.do/) - Kanban-based platform for project management and issue tracking, with public boards, webhooks, card stamping, and no user limits.
+  * [Fizzy](https://www.fizzy.do/) - Kanban-based platform for project management and issue tracking. Create public boards, set up webhooks, use card stamping, and track unlimited users — free for up to 1000 items.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
