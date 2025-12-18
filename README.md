@@ -2057,6 +2057,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [Axonomy App](https://axonomy-app.com/) - A free tool to create, manage and share your invoices with your clients. 10 free invoices per month.
   * [Table Format Converter](https://www.tableformatconverter.com) - A free tool to convert table data to different formats, such as CSV, HTML, JSON, Markdown and more.
   * [JSON Viewer Tool](https://jsonviewertool.com/) – View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
+  * [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
