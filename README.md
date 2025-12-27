@@ -392,6 +392,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Tools for Teams and Collaboration
+  * [Reminde](https://reminde.app) – Cross-platform bookmarking and save-for-later app for iOS, Android, and Web, allowing users to organize content into collections with tagging and reminders. Supports shared read-only lists (e.g., public wishlists) and collaborative spaces where teams can contribute using web clipper and write permissions.
   * [3Cols](https://3cols.com/) - A free cloud-based code snippet manager for personal and collaborative code.
   * [Bitwarden](https://bitwarden.com) — The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
   * [Braid](https://www.braidchat.com/) — Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also, it provides a self-hostable open-source version.
