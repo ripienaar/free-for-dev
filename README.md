@@ -1147,6 +1147,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
   * [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.
   * [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) — AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
+  * [Havoptic](https://havoptic.com/) — Free, open-source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Gemini CLI, and more. Auto-updated daily. [#opensource](https://github.com/scotthavird/havoptic.com)
 
 **[⬆️ Back to Top](#table-of-contents)**
 
