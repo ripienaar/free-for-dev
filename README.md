@@ -1380,7 +1380,7 @@ Update Time, five active automations, webhooks.
 
 ## Tunneling, WebRTC, Web Socket Servers and Other Routers
 
-  * [Holesail.io](https://holesail.io/) — Share localhost and local tcp/udp server over P2P tunnels that bypass any firewall and works with CGNAT. No tunnel timeouts, no bandwidth restriction and zero config required.
+  * [Holesail.io](https://holesail.io/) — Share localhost and local tcp/udp server over P2P tunnels that bypass any firewall and works with CGNAT. No tunnel timeouts, no bandwidth restriction and zero config required - It's completely free and also open source.
   * [Pinggy](https://pinggy.io) — Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
   * [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
   * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with a free plan that allows unlimited networks with up to 5 people
