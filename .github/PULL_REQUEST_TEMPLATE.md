@@ -1,3 +1,19 @@
+<!-- Describe the change and why it is needed. -->
+## Summary
+
+<!-- Short description of changes -->
+
+## Checklist
+- [ ] I have read and followed the [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [ ] The changes are limited to a single logical area
+- [ ] Documentation has been updated (if applicable)
+- [ ] Any added/changed links were verified
+
+## Related issues
+- Fixes #<!-- issue number -->
+
+## Notes for reviewers
+<!-- Anything specific reviewers should look at -->
 <!--
  ### Free SaaS Offering Submission
 
