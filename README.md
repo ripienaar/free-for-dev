@@ -1725,6 +1725,7 @@ Update Time, five active automations, webhooks.
   * [GitHub Education](https://education.github.com/pack) — Collection of free services for students. Registration required.
   * [Glob tester](https://globster.xyz/) — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
   * [It tools](https://it-tools.tech/) - Useful tools for developer and people working in IT.
+  * [It tools（sharevb）](https://sharevb-it-tools.vercel.app/) - A fork of [it-tools.tech](https://it-tools.tech/) that is more actively maintained, featuring additional utilities such as SSL/CSR management, certificate parsing, and more frequent bug fixes.
   * [JSON Viewer Tool](https://jsonviewertool.com/) – View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
   * [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
   * [Kody Tools](https://www.kodytools.com/dev-tools) — 100+ dev tools including formatter, minifier, and converter.
