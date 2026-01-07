@@ -1102,6 +1102,7 @@ Update Time, five active automations, webhooks.
 
 ## Domain
 
+  * [DigitalPlat](https://domain.digitalplat.org) — Up to 2 free subdomains.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
   * [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
 
