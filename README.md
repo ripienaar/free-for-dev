@@ -565,7 +565,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
   * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
-  * [kogiQA](https://kogiqa.com) — A web automation tool that functions without the need for selectors and provides a generous free tier.
+  * [kogiQA](https://kogiqa.com) — A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
