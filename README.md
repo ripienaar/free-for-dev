@@ -1746,6 +1746,7 @@ Update Time, five active automations, webhooks.
   * [Utils.fun](https://utils.fun/en) — All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption, and code formatting, are completely free and do not upload any data to the cloud for processing.
   * [Wikimint Developer](https://developer.wikimint.com/p/tools.html) - Always free tools for web developers that includes CSS minify unminify, image optimizer, image resizer, case convertor, CSS validator, JavaScript compiler, HTML editor, etc.
   * [WrapPixel](https://www.wrappixel.com/) — Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS!
+  *  [PayPal fee Calculator](https://www.paypalgsfee.com/) — PayPal Goods and Services Fee Calculator
 HTML Themes and UI Kits to create your applications faster!
 
 **[⬆️ Back to Top](#table-of-contents)**
