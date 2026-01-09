@@ -535,6 +535,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Testing
 
+  * [Address Generator](https://rjl.io/address-generator/) -- Generate realistic fake US addresses for testing, development, and form validation. Includes customizable fields like name, phone, and email. Perfect for database population, QA testing, and demos.
   * [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.
   * [Argos](https://argos-ci.com) - Open Source visual testing for developers. Unlimitedprojects, with 5,000 screenshots per month. Free for open-source projects.
   * [Bencher](https://bencher.dev/) - A continuous benchmarking tool suite to catch CI performance regressions. Free for all public projects.
@@ -542,9 +543,11 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [checkbot.io](https://www.checkbot.io/) — Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
   * [Checkly](https://checklyhq.com) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright. Generous free tier for devs.
   * [CORS-Tester](https://cors-error.dev/cors-tester/) - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.
+  * [Credit Card Generator](https://rjl.io/credit-card-generator/) -- Generate up to 100 valid-looking test credit card numbers for payment form testing, database population, and development environments. For use for testing payment forms and processing systems. Supports Visa, MasterCard, American Express, Discover, and JCB. Randomizer to set expiration date range, CVV/CVS code, Cardholder Name, Billing Address. Output in txt, json, xml, csv.
   * [cypress.io](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open-source with no restrictions and limitations. Cypress Dashboard is free for open-source projects for up to 5 users.
   * [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts, free with fewer options
   * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
+  * [Ip Address Generator](https://rjl.io/ip-generator/) -- Generate random IPv4 and IPv6 addresses for network testing, firewall rules, application development, and security testing. Supports custom IP ranges, bulk generation, and multiple output formats.
   * [katalon.com](https://katalon.com) - Provides a testing platform that can help teams of all sizes at different levels of testing maturity, including  Katalon Studio, TestOps (+ Visual Testing free), TestCloud, and Katalon Recorder.
   * [Keploy](https://keploy.io/) - Keploy is a functional testing toolkit for developers. Recording API calls generates E2E tests for APIs (KTests) and mocks or stubs(KMocks). It is free for Open Source projects.
   * [loadmill.com](https://www.loadmill.com/) - Automatically create API and load tests by analyzing network traffic. Simulate up to 50 concurrent users for up to 60 minutes for free monthly.
@@ -554,6 +557,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.
   * [Repeato](https://repeato.app/) No-code mobile app test automation tool built on top of computer vision and AI. Works for native apps, flutter, react-native, web, ionic, and many more app frameworks. The free plan is limited to 10 tests for iOS and 10 for Android, but includes most of the features of the paid plans, including unlimited test runs.
   * [Requestly](https://requestly.com/) Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests. Featuring [Debugger](https://requestly.com/products/web-debugger/), [Mock Server](https://requestly.com/products/mock-server/), [API Client](https://requestly.com/products/api-client/) and [Session Recording](https://requestly.com/products/session-book/).  Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests, Generate Mock API Endpoints, Record session with Network & Console Logs. Create upto 10 rules in Free Tier. Free for open-source.
+  * [SEO Analyzer](https://rjl.io/seo-analyzer/) -- Audit Your Site's SEO & Performance. The best tool for analyzing any URL for SEO issues, deprecated meta tags, and head tag ordering for optimal performance. Instant AI-powered SEO fixes. After analysis, download a perfectly structured markdown file designed for AI coding assistants like Claude, ChatGPT, Copilot, or Cursor.Comprehensive site-wide SEO audit. Don't just analyze one page - crawl your entire website.
   * [seotest.me](https://seotest.me/) — Free on-page SEO website tester. 10 free website crawls per day. Useful SEO learning resources and recommendations on how to improve the on-page SEO results for any website regardless of technology.
   * [snippets.uilicious.com](https://snippets.uilicious.com) - It's like CodePen but for cross-browser testing. UI-licious lets you write tests like user stories and offers a free platform - UI-licious Snippets - that allows you to run unlimited tests on Chrome with no sign-up required for up to 3 minutes per test run. Found a bug? You can copy the unique URL to your test to show your devs exactly how to reproduce the bug.
   * [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
@@ -721,6 +725,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [bleemeo.com](https://bleemeo.com) - Free for 3 servers, 5 uptime monitors, unlimited users, unlimited dashboards, unlimited alerting rules.
   * [checklyhq.com](https://checklyhq.com) - Open source E2E / Synthetic monitoring and deep API monitoring for developers. Free plan with one user and 10k API & network / 1.5k browser check runs.
   * [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - Find Core Web Vitals history for a url or a website.
+  * [Cron Expression Generator](https://rjl.io/cron-generator/) -- Visual Cron Builder. Build cron schedules visually. Generate human-readable descriptions and preview next execution times. Schedule daily backups at 2 AM when server load is lowest. Use "0 2 * * *" for reliable nightly database snapshots. Sync data between systems every 15 minutes. Use "*/15 * * * *" for frequent, reliable data replication.
   * [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
   * [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up
@@ -1055,6 +1060,7 @@ Update Time, five active automations, webhooks.
   * [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.
   * [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.
   * [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
+  * [htaccess Generator](https://rjl.io/htaccess-generator/) -- Generate Apache .htaccess rules visually. Redirects, rewrites, caching, security headers, and more - all without memorizing complex syntax.
   * [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) — Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
   * [MDB GO](https://mdbgo.com/) - Free hosting for one project with two weeks Container TTL, 500 MB RAM per project, SFTP - 1G disk space.
   * [Neocities](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
@@ -1268,6 +1274,7 @@ Update Time, five active automations, webhooks.
   * [Pinata IPFS](https://pinata.cloud) — Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface and IPFS API make Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free, along with access to API.
   * [plot.ly](https://plot.ly/) — Graph and share your data. The free tier includes unlimited public files and ten private files
   * [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
+  * [QR Code Generator](https://rjl.io/qr-generator/) -- by RJL.io this user-friendly QR generator with smart defaults (US +1 for phone numbers), complete color customization - including logo/image. Create for URLs, WiFi, vCards, SMS, email, events, and more. Downloads can be MASSIVE (up to 10,000px for billboard-quality printing). Full customization, 100% offline, privacy-first.
   * [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator – no login, no watermark, no ads. Up to 100 URLs per bulk export.
   * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
   * [redbooth.com](https://redbooth.com) — P2P file syncing, free for up to 2 users
@@ -1299,18 +1306,23 @@ Update Time, five active automations, webhooks.
   * [CMYK Pantone](https://www.cmyktopantone.com/) - Easily convert CMYK values to the closest Pantone colors and other color models in seconds for free.
   * [CodedThemes](https://codedthemes.com/) - Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.
   * [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
+  * [Color Palette](https://rjl.io/color-palette/) -- Design Made Easy! Create harmonious color schemes, extract palettes from images, and check accessibility contrast. Export palettes as CSS, SCSS, Tailwind config, or JSON for quick integration. Verify WCAG contrast requirements for text and background color combinations.
   * [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
   * [colorr.me](https://colorr.me/) - Color & Gradient Generator
   * [coolors](https://coolors.co/) - Color palette generator. Free.
   * [css-gradient.com](https://www.css-gradient.com/) - Free tool to quickly generate custom cross-browser CSS gradients. In RGB and HEX format.
   * [css.glass](https://css.glass/) -- Free web app for creating glassmorphic designs using CSS.
+  * [CSS Rem Converter](https://rjl.io/rem-converter/) -- Convert CSS units instantly. Type in REM or PX and automatically calculate EM, VW, VH, PT, Inches, CM, MM, PC, and Percentage. Perfect for responsive design, typography scales, and cross-device development. Customizable base font size and viewport dimensions with localStorage persistence.
   * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
   * [easyvectors.com](https://easyvectors.com/) — EasyVectors.com is a free SVG vector art stock. Download the best vector graphics absolutely for free.
   * [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
+  * [Favicon Checker](https://rjl.io/favicon-checker/) -- Stop guessing. Start knowing. Checks 66+ favicon patterns - from essential modern standards to deprecated Windows 8 tiles, UX hazards like black-translucent, and syntax errors. Get a detailed score, actionable fixes, and a downloadable report.
+  * [Favicon Generator](https://rjl.io/favicon-generator/) -- Generate a complete favicon package for all browsers and platforms. ICO, PNG, SVG, Apple Touch Icon, and Android Chrome. Added PWE support for generating actual PWA screenshots from your website.
   * [figma.com](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.
   * [Float UI](https://floatui.com/) - free web development tool for quickly creating modern, responsive websites with sleek design, even for non-designers.
   * [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
   * [Flyon UI](https://flyonui.com/)- The Easiest Components Library For Tailwind CSS.
+  * [Font Awesome Free Icon Validator](https://rjl.io/font-awesome-free/) -- Advanced Font Awesome validator with AI-powered migration guides. Validate icons from code OR public URLs - auto-detect from live websites. Export AI-ready fix guides (Markdown, JSON, CSV) for Claude, ChatGPT, Gemini. Supports FA 4.7.0, 5.15.4, 6.0.0, 6.7.2, 7.1.0.
   * [framer.com](https://www.framer.com/) - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, and up to 3 projects.
   * [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
   * [Glyphs](https://glyphs.fyi/) -- Free, The Mightiest Icons on the Web, Fully editable & truly open source design system.
@@ -1324,9 +1336,11 @@ Update Time, five active automations, webhooks.
   * [Iconoir](https://iconoir.com) – An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
   * [Icons8](https://icons8.com) — Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.
   * [Image BG Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira, and more tools
+  * [Image Compressor](https://rjl.io/image-compressor/) -- Compress JPEG, PNG, and WebP images instantly. Adjust quality, resize dimensions, convert formats. See before/after comparisons and file size savings.
   * [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
   * [Logo.dev](https://www.logo.dev) - Company logo API with 44M+ brands that's as easy as calling a URL. First 10,000 API calls are free.
+  * [Lorem Ipsum Generator](https://rjl.io/lorem-ipsum/) -- Generate placeholder text in 9 unique flavors. Choose from Classic Lorem, NSFW Ipsum, Filthy Ipsum, Bacon, Pirate, Corporate BS, Swear Ipsum, or others. Perfect for mockups, wireframes, and design prototypes.
   * [Lorem Picsum](https://picsum.photos/) - A Free tool, easy to use, stylish placeholders. After our URL, add your desired image size (width & height), and you'll get a random image.
   * [LottieFiles](https://lottiefiles.com/) - The world’s largest online platform for the world’s most miniature animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
   * [Lucide](https://lucide.dev) - Free customizable and consistent SVG icon toolkit.
@@ -1336,6 +1350,7 @@ Update Time, five active automations, webhooks.
   * [Mastershot](https://mastershot.app) - Completely free browser-based video editor. No watermark, up to 1080p export options.
   * [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & colossal community.
   * [Mindmup.com](https://www.mindmup.com/) — Unlimited mind maps for free and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
+  * [Meta Tag Generator](https://rjl.io/meta-tag-generator/) -- Optimize Your SEO & Social Sharing. Test your Live site URL. Generate complete meta tags for SEO and social media. Create Open Graph, Twitter Cards, and standard meta tags. Live preview and character count validation.
   * [Mockplus iDoc](https://www.mockplus.com/idoc) - Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes three users and five projects with all features available.
   * [mockupmark.com](https://mockupmark.com/create/free) — Create realistic t-shirt and clothing mockups for social media and E-commerce, 40 free mockups.
   * [Modeldraw.com](https://modeldraw.com) — Complete diagramming platform with UML, system architecture, flowcharts, mind maps, and Agile workflows. Real-time collaboration with unlimited team members, no credit card required.
@@ -1353,6 +1368,7 @@ Update Time, five active automations, webhooks.
   * [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
   * [Pixelixe](https://pixelixe.com/) — Create and edit engaging, unique graphics and images online.
   * [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.
+  * [Placeholder Image Creator](https://rjl.io/placeholder-image/) -- Generate custom placeholder images instantly. Set dimensions, colors, text, and download as PNG or JPEG. Perfect for mockups, wireframes, and prototypes.
   * [Plasmic](https://www.plasmic.app/) - A fast, easy-to-use, robust web design tool and page builder that integrates into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps.
   * [PNG to WebP Converter](https://pngtowebpconverter.com/) - Convert PNG images to WebP images directly in your browser. No upload required, fully client-side processing for maximum privacy and security.
   * [Pravatar](https://pravatar.cc/) - Generate a random/placeholder fake avatar whose URL can be directly hot-linked in your web/app.
@@ -1369,6 +1385,7 @@ Update Time, five active automations, webhooks.
   * [storyset.com](https://storyset.com/) — Create incredible free customized illustrations for your project using this tool.
   * [Superdesigner](https://superdesigner.co) - A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.
   * [SVG Converter](https://svgconverter.online/) -- Free JPG/PNG to SVG converter with color palette customization
+  * [SVG URL Encoder](https://rjl.io/svg-url-encoder/) -- Encode and decode SVG code for use in CSS background-image property. Better UX than other tools - instant encoding, one-click copy, file size comparison, and live preview.
   * [SVGmix.com](https://www.svgmix.com/) - Massive repository of 300K+ of free SVG icons, collections, and brand logos. It has a simple vector editing program right in the browser for quick file editing.
   * [svgrepo.com](https://www.svgrepo.com/) - Explore, search, and find the best-fitting icons or vectors for your projects using various vector libraries. Download free SVG Vectors for commercial use.
   * [tabler-icons.io](https://tabler-icons.io/) — Over 1500 free copy-and-paste SVG editable icons.
@@ -1383,6 +1400,7 @@ Update Time, five active automations, webhooks.
   * [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. One website for free.
   * [unsplash.com](https://unsplash.com/) - Free stock photos for commercial and noncommercial purposes (do-whatever-you-want license).
   * [Updrafts.app](https://updrafts.app) - WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.
+  * [UUID Generator](https://rjl.io/uuid-generator/) -- Generate universally unique identifiers instantly. Supports UUID v1 (timestamp), v3 (MD5), v4 (random), and v5 (SHA-1). RFC4122 Compliant. Perfect for database keys, API resources, distributed systems, and microservices.
   * [vector.express](https://vector.express) — Convert your AI, CDR, DWG, DXF, EPS, HPGL, PDF, PLT, PS and SVG vector fast and easily.
   * [vectr.com](https://vectr.com/) — Free Design App for Web + Desktop.
   * [Vertopal](https://www.vertopal.com) - Vertopal is a free online platform for converting files to various formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML, etc.
@@ -1520,6 +1538,7 @@ Update Time, five active automations, webhooks.
   * [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
   * [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.
   * [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
+  * [Robots.txt Generator](https://rjl.io/robots-txt-generator/) -- Control How Search Engines Crawl Your Site. Create robots.txt files visually. Define crawl rules for search engines, specify sitemaps, and control bot access - all without memorizing syntax.
   * [Row Zero](https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. Three free (forever) workbooks.
   * [Rybbit](https://rybbit.io) - Open-source and cookieless alternative to Google Analytics that is 10x more intuitive. Free plans has 3,000 monthly events.
   * [Seline](https://seline.so) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
@@ -1673,6 +1692,7 @@ Update Time, five active automations, webhooks.
   * [redirection.io](https://redirection.io/) — SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
   * [Renamer.ai](https://renamer.ai) — AI-powered file renaming tool with OCR, metadata extraction, and automation for 20+ languages. Free tier: 15 files/month, including desktop app, batch rename, auto-rename, and normal support.
   * [ReqBin](https://reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
+  * [RJL.io](https://rjl.io/) - A collection of free online developer/designer tools for various tasks including JSON formatting, URL encoding/decoding, JWT decoding, Base64 encoding/decoding, SEO Analysis, Favicon Checker, Password Generator, Hash Generator and more.
   * [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
   * [snappify](https://snappify.com) - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations. The free plan includes up to 3 snaps at once with unlimited downloads and 5 AI-powered code explanations per month.
   * [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
