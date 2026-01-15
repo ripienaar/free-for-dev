@@ -1387,6 +1387,7 @@ Update Time, five active automations, webhooks.
   * [vector.express](https://vector.express) — Convert your AI, CDR, DWG, DXF, EPS, HPGL, PDF, PLT, PS and SVG vector fast and easily.
   * [vectr.com](https://vectr.com/) — Free Design App for Web + Desktop.
   * [Vertopal](https://www.vertopal.com) - Vertopal is a free online platform for converting files to various formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML, etc.
+  * [Volume](https://volumecolor.io) — OKLCH color picker and color palette generator.
   * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan three walk-thru up to 5 steps/walk.
   * [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
   * [Webflow](https://webflow.com) - WYSIWYG website builder with animations and website hosting. Free for two projects.
