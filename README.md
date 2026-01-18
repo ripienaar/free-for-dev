@@ -1593,6 +1593,7 @@ Update Time, five active automations, webhooks.
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
+  * [JustBlogged](https://justblogged.com) — Free blogging platform with custom domain support, and fast global performance.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
