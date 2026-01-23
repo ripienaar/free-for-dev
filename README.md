@@ -648,6 +648,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Management System
 
+  * [ShiftAI](https://www.useshiftai.com) — AI-powered staff scheduling with natural language processing and lifetime pricing.
+
   * [bitnami.com](https://bitnami.com/) — Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
   * [Esper](https://esper.io) — MDM and MAM for Android Devices with DevOps. One hundred devices free with one user license and 25 MB Application Storage.
   * [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones, and Macs, three devices free
