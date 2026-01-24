@@ -1494,6 +1494,7 @@ Update Time, five active automations, webhooks.
   * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.
   * [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.
   * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories, and tests.
+  * [XSLT Playground](https://xsltplayground.com) - XSLT Playground is an online and open-source XSLT Code editor & IDE
   * [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 **[⬆️ Back to Top](#table-of-contents)**
