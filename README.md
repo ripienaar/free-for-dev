@@ -1396,6 +1396,7 @@ Update Time, five active automations, webhooks.
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at https://github.com/xlayers/xlayers)
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets, and style guides. Free for one project.
+  * [Bulk YouTube Thumbnail Downloader](https://www.yt-thumbnail-downloader.org) - Download YouTube thumbnails in HD quality with bulk processing. Extract multiple thumbnails at once as ZIP file. Supports videos, Shorts, playlists, and live streams. Completely free, no registration required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
