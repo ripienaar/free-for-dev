@@ -872,6 +872,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota), so you can self-host.
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
+  * [Wraps](https://wraps.dev) - email automation workflows, 5k tracked events and unlimited contacts free.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
