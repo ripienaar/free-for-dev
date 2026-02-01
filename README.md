@@ -1108,6 +1108,7 @@ Update Time, five active automations, webhooks.
 ## Domain
 
   * [DigitalPlat](https://domain.digitalplat.org) — Free subdomains.
+  * [isroot.in](https://isroot.in) — Free isroot.in subdomains.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
 
 **[⬆️ Back to Top](#table-of-contents)**
