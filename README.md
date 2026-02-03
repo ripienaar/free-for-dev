@@ -863,6 +863,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
   * [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
   * [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 15,000 emails/month free
+  * [SendStreak](https://www.sendstreak.com/) - Email framework as a service, that adds templates, automations, history, etc to your own SMTP server (E.g. AWS, Maileroo, Gmail). Free up to 100 emails/day, no time limit.
   * [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 10 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (student, researcher, etc.).
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
   * [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 100 emails/day free.
