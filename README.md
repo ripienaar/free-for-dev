@@ -1758,5 +1758,6 @@ Update Time, five active automations, webhooks.
   * [Wikimint Developer](https://developer.wikimint.com/p/tools.html) - Always free tools for web developers that includes CSS minify unminify, image optimizer, image resizer, case convertor, CSS validator, JavaScript compiler, HTML editor, etc.
   * [WrapPixel](https://www.wrappixel.com/) — Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS!
 HTML Themes and UI Kits to create your applications faster!
+  * [Nyx Development](https://nyx-development.uk/) - 25 free developer tools (JSON formatter, JWT decoder, regex tester, Base64/URL encoders, hash generators, password generator, and more) that run entirely in your browser. No server processing, no tracking, no signup required. 
 
 **[⬆️ Back to Top](#table-of-contents)**
