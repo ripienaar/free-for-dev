@@ -1623,6 +1623,7 @@ Update Time, five active automations, webhooks.
   * [screenshotbase.com](https://screenshotbase.com) - 300 free screenshots / month. Take screenshots from any url. Fast, free & scalable.
   * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
   * [screenshotmachine.com](https://www.screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
+  * [ShotOG](https://shotog.2214962083.workers.dev) — Open-source OG image generation API on Cloudflare Workers. 8 templates, custom fonts, batch generation. Free tier: 500 images/month.
   * [thumbnail.ws](https://thumbnail.ws) — API for generating thumbnails of websites. Free 1,000 requests/month.
 
 **[⬆️ Back to Top](#table-of-contents)**
