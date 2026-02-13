@@ -1299,6 +1299,7 @@ Update Time, five active automations, webhooks.
   * [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a complete coding platform where teams build, document, publish, scale, and maintain Design Systems. The free plan allows up to 3 editors to work on one design system with unlimited viewers.
   * [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
   * [Branition](https://branition.com/colors) - Hand-curated color pallets best fitted for brands.
+  * [BulkPicTools](https://bulkpictools.com) — Browser-based bulk image compression and conversion tool using WASM. 100% private, no server uploads, and completely free.
   * [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
   * [Canva](https://canva.com) - Free online design tool to create visual content.
   * [Carousel Hero](https://carouselhero.com/) - Free online tool to create social media carousels.
