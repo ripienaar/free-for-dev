@@ -1695,6 +1695,14 @@ Update Time, five active automations, webhooks.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
   * [Volume Shader BM](https://volumeshaderbm.org) — Free browser-based GPU benchmark (WebGL). Helps developers test and compare shader performance reproducibly across browsers and devices.
+  * [Namso Tools](https://namso.io/) — Free credit card validator, BIN lookup, and test card number generator for developers and QA teams. Runs entirely in-browser.
+  * [Random IMEI Generator](https://randomimei.com/) — Generate valid random IMEI numbers with correct check digits for mobile app testing. Free, no signup required.
+  * [Random IBAN Generator](https://randomiban.co/) — Generate valid test IBAN numbers for any supported country. Useful for payment integration development and QA testing.
+  * [JSON Format](https://jsonformat.co/) — Fast JSON formatter, validator, and editor with syntax highlighting, tree view, minification, and JSON-to-CSV conversion. No tracking, no ads.
+  * [Hash Generator](https://hashgenerator.co/) — Generate MD5, SHA-256, SHA-512, and more cryptographic hashes for text or files. All processing happens client-side.
+  * [Password Generator](https://password-generator.co/) — Cryptographically secure random password generator. 100% client-side — no passwords ever leave your device.
+  * [Hex to ASCII](https://hextoascii.co/) — Bidirectional hex/ASCII converter with support for various formats. Includes binary and decimal conversion modes.
+  * [Make Lorem](https://makelorem.com/) — Lorem ipsum placeholder text generator with multiple styles. Output as plain text, HTML, or Markdown.
   * [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
   * [XKit](https://xkit.io) — A collection of free online tools designed to make life easier for developers, students, and everyday users. Include a wide range of Developer tools, Diff/Compare tools, Calculators, Converters and Generators.
   performance and security
