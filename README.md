@@ -1315,6 +1315,7 @@ Update Time, five active automations, webhooks.
   * [css.glass](https://css.glass/) -- Free web app for creating glassmorphic designs using CSS.
   * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
   * [easyvectors.com](https://easyvectors.com/) — EasyVectors.com is a free SVG vector art stock. Download the best vector graphics absolutely for free.
+  * [EnigmaEasel](https://enigmaeasel.com) — AI color palette generator from text for web designers and developers. 100% free with no account required.
   * [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
   * [figma.com](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.
   * [Float UI](https://floatui.com/) - free web development tool for quickly creating modern, responsive websites with sleek design, even for non-designers.
