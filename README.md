@@ -1470,7 +1470,7 @@ Update Time, five active automations, webhooks.
   * [Brackets](http://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
   * [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages.
   * [cocalc.com](https://cocalc.com/) — (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
-  * [SpicyChai LaTeX](https://latex.spicychai.com/) — Online LaTeX editor and compiler with AI-powered template population, real-time PDF preview, and pre-built templates. The free tier includes 500 credits on signup (1 credit per rendered page) and free anonymous renders without an account.
+  * [SpicyChai LaTeX](https://latex.spicychai.com/) — Online LaTeX editor and compiler with AI-powered template population, real-time PDF preview, and pre-built templates. The free tier includes 100 credits per month (1 credit per rendered page) and free anonymous renders without an account.
   * [code.cs50.io](https://code.cs50.io/) - Visual Studio Code for CS50 is a web app at code.cs50.io that adapts GitHub Codespaces for students and teachers.
   * [Code::Blocks](https://codeblocks.org) — Free Fortran & C/C++ IDE. Open Source and runs on Windows,macOS & Linux.
   * [codepen.io](https://codepen.io/) — CodePen is a playground for the front-end side of the web.
