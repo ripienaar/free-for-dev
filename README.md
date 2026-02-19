@@ -1625,6 +1625,7 @@ Update Time, five active automations, webhooks.
   * [screenshotbase.com](https://screenshotbase.com) - 300 free screenshots / month. Take screenshots from any url. Fast, free & scalable.
   * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
   * [screenshotmachine.com](https://www.screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
+  * [Screenshot Scout](https://screenshotscout.com/) — Screenshot API for developers. Clean, production-ready screenshots from any URL in one request. Free plan includes 200 screenshots per month, forever.
   * [SnapAPI](https://snapapi.pics) — Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
   * [thumbnail.ws](https://thumbnail.ws) — API for generating thumbnails of websites. Free 1,000 requests/month.
 
