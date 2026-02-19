@@ -1375,6 +1375,8 @@ Update Time, five active automations, webhooks.
   * [Shadcn Studio](https://shadcnstudio.com/theme-editor) — Preview your theme changes across different components and layouts.
   * [ShadcnUI](https://ui.shadcn.com/) -- Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
   * [smartmockups.com](https://smartmockups.com/) — Create product mockups, 200 free mockups.
+  * [Shadcn Space](https://shadcnspace.com/) — Beautifully crafted, open-source Shadcn UI components, blocks, and templates to copy or install via CLI for your React & Tailwind CSS projects.
+  * [Tailwindadmin](https://tailwind-admin.com/) — Free Shadcn dashboard built with React & Tailwind CSS, with multi-framework support for modern web apps.
   * [storyset.com](https://storyset.com/) — Create incredible free customized illustrations for your project using this tool.
   * [Superdesigner](https://superdesigner.co) - A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.
   * [SVG Converter](https://svgconverter.online/) -- Free JPG/PNG to SVG converter with color palette customization
