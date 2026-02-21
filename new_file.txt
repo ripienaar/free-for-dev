@@ -1,2 +1,3 @@
 text in branch1 branch
 text in branch2 branch
+new text from new directory
