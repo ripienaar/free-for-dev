@@ -443,6 +443,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing add-ons available. The free plan is limited to 40 minutes.
   * [Zulip](https://zulip.com/) — Real-time chat with a unique email-like threading model. The free plan includes 10,000 messages of search history and File storage up to 5 GB. also, it provides a self-hostable open-source version.
   * [RightFeature](https://rightfeature.com/) — Easily collect feedback from your customers, turn customer feedback into your product roadmap. Collect, prioritize, and ship features that actually matter to your users.
+- [IndieStack](https://indiestack.fly.dev/) - Free directory of indie-built SaaS alternatives. Discover 100+ tools across analytics, email, hosting, payments, and more — all built by solo developers or small teams.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
