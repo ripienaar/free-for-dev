@@ -1,1 +1,1 @@
-curl -s https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md | sed '/\* \[pagegym\.com\]/a \  * [PageBolt](https://pagebolt.dev) - Screenshot, PDF, video recording, and page inspection API. Free tier: 100 requests/month, no credit card required.' > /tmp/readme_updated.txt && cat /tmp/readme_updated.txt
+$(cat /tmp/updated_readme.txt)
