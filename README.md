@@ -1256,6 +1256,7 @@ Update Time, five active automations, webhooks.
   * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
   * [freetools.site](https://freetools.site/) — Free online tools. Convert or edit documents, images, audio, video, and more.
   * [getpantry.cloud](https://getpantry.cloud/) — A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
+  * [GifConvert](https://gifconvert.io/) — Free browser-based GIF converter. Convert videos and images to GIF format, or GIFs to other formats. No signup or server uploads required.
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
   * [gumlet.com](https://www.gumlet.com/) — Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
   * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
@@ -1279,6 +1280,7 @@ Update Time, five active automations, webhooks.
   * [plot.ly](https://plot.ly/) — Graph and share your data. The free tier includes unlimited public files and ten private files
   * [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
   * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
+  * [QRCodeGen](https://qrcodegen.ai/) — Free QR code generator with customization options. Create QR codes for URLs, text, Wi-Fi, and more. No signup required.
   * [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator – no login, no watermark, no ads. Up to 100 URLs per bulk export.
   * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
   * [redbooth.com](https://redbooth.com) — P2P file syncing, free for up to 2 users
