@@ -13,7 +13,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
 
 # Table of Contents
-
+h
   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
   * [Cloud management solutions](#cloud-management-solutions)
   * [Analytics, Events, and Statistics](#analytics-events-and-statistics)
@@ -304,7 +304,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 50 requests per day, every day free.
   * [Mintlify](https://mintlify.com) — Modern standard for API documentation. Beautiful and easy-to-maintain UI components, in-app search, and interactive playground. Free for 1 editor.
   * [MockAPI](https://www.mockapi.io/) — MockAPI is a simple tool that lets you quickly mock up APIs, generate custom data, and perform operations using a RESTful interface. MockAPI is meant to be a prototyping/testing/learning tool. One project/2 resources per project for free.
-  * [Mockerito](https://mockerito.com/) — Free mock REST API service providing realistic data across 9 domains (e-commerce, finance, healthcare, education, recruitment, social media, stock markets, weather, and aviation). No mandatory signup, no API keys, unlimited requests. Perfect for frontend prototyping, API testing, learning and teaching web development.
+    * [Minecraft Server Status API](https://minecraft-serverhub.com) — Free API for checking Minecraft server status (Java and Bedrock). Returns real-time player counts, version, MOTD, and generates SVG/PNG status badges. No authentication required, no rate limits, CORS enabled.
+    * * [Mockerito](https://mockerito.com/) — Free mock REST API service providing realistic data across 9 domains (e-commerce, finance, healthcare, education, recruitment, social media, stock markets, weather, and aviation). No mandatory signup, no API keys, unlimited requests. Perfect for frontend prototyping, API testing, learning and teaching web development.
   * [Mockfly](https://www.mockfly.dev/) — Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.
   * [Mocko.dev](https://mocko.dev/) — Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
   * [Multi-Exit IP Address Checker](https://ip.alstra.ca/) —  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
