@@ -1375,6 +1375,7 @@ Update Time, five active automations, webhooks.
   * [Rive](https://rive.app) — Create and ship beautiful animations to any platform. Free forever for Individuals. The service is an editor that also hosts all the graphics on their servers. They also provide runtimes for many platforms to run representations made using Rive.
   * [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
   * [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
+  * [Shadcnblocks](https://www.shadcnblocks.com) -- Thousands of new blocks, components and templates for shadcn/ui.
   * [Shadcn Studio](https://shadcnstudio.com/theme-editor) — Preview your theme changes across different components and layouts.
   * [ShadcnUI](https://ui.shadcn.com/) -- Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
   * [smartmockups.com](https://smartmockups.com/) — Create product mockups, 200 free mockups.
