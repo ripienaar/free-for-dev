@@ -880,6 +880,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Feature Toggles Management Platforms
+- [Anchor Browser](https://anchorbrowser.io) - Browser infrastructure for AI agents
 
   * [Abby](https://www.tryabby.com) - Open-Source feature flags & A/B testing. Configuration as Code & Fully Typed Typescript SDKs. Strong integration with Frameworks such as Next.js & React. Generous free tier and cheap scaling options.
   * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, excellent support, and a reasonable price tag. Free plan up to 10 flags, two environments, 1 product, and 5 Million requests per month.
