@@ -1645,6 +1645,7 @@ Update Time, five active automations, webhooks.
 
 ## Browser-based hardware emulation written in Javascript
 
+- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
   * [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  an OpenRISC virtual machine capable of running Linux with network support.
   * [JsLinux](https://bellard.org/jslinux) — a really fast x86 virtual machine capable of running Linux and Windows 2k.
   * [v86](https://copy.sh/v86) — an x86 virtual machine capable of running Linux and other OS directly into the browser.
