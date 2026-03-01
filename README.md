@@ -568,6 +568,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
   * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
+  * [Webhook Debugger](https://webhook-debugger.autocompany.workers.dev) - Free webhook debugging tool. Capture, inspect, and replay webhooks in real-time. No signup required.
   * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
   * [kogiQA](https://kogiqa.com) — A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
 
@@ -768,6 +769,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for five websites, 60-second intervals, public statuspage.
   * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
   * [Xitoring.com](https://xitoring.com/) — Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
+  * [SSL Certificate Monitor](https://ssl-certificate-monitor.autocompany.workers.dev) - Free SSL certificate monitoring and expiry alerts. Monitor certificate validity, expiration dates, and certificate chain health. No signup required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
