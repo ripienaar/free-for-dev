@@ -225,6 +225,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## APIs, Data, and ML
 
   * [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
+  * [Agent Gateway](https://agent-gateway-kappa.vercel.app) - 34+ AI agent infrastructure services. Free tier: 200 credits per API key + 50 requests/day without key. Services include memory, scheduling, code execution, wallets, and more.
   * [Apify](https://www.apify.com/) — Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
   * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
   * [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month. (Possibly taken down, 2025-06-25)
@@ -270,6 +271,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FormatJSONOnline.com](https://formatjsononline.com) - A free, browser-based tool to format, validate,compare and minify JSON data instantly.
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
   * [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
+  * [Frostbyte Wallet](https://frostbyte-landing.vercel.app) - Multi-chain HD wallet API. Free tier: 10 transactions. 9 chains including Ethereum, Base, Solana.
   * [Geolocated.io](https://geolocated.io) — IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
   * [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
   * [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
