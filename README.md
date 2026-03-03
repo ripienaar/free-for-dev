@@ -805,6 +805,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Education and Career Development
 
   * [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
+  * [CiteMe](https://citeme.app) — AI-powered academic citation generator. Search 11+ databases (OpenAlex, PubMed, Semantic Scholar), format in 40+ styles (APA, ABNT, MLA, Chicago). Free tier: 20 citations/month, 50 library items. Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
   * [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Free short courses from industry-leading experts to get hands-on experience with the latest generative AI tools and techniques in an hour or less.
   * [DevNet Academy](https://devnet-academy.com/) – Free, self-paced training for the Cisco DevNet Expert / CCIE Automation certification. Covers Python Click and Flask-RESTx.
   * [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
