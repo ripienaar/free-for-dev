@@ -1674,6 +1674,7 @@ Update Time, five active automations, webhooks.
   * [Bricks Note Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.
   * [Carbon.now.sh](https://carbon.now.sh) - create and share code snippets in an aesthetic screenshot-like image format. Usually used to aesthetically share/show off code snippets on Twitter or blog posts.
   * [Code Time](https://www.software.com/code-time) - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.
+  * [CodeNeat](https://codeneat.dev) — Free, privacy-first developer tools suite (JSON formatter, Base64 encoder, regex tester, diff checker, JWT decoder, SQL formatter, hash generator). 100% client-side processing — your data never leaves the browser.
   * [Codepng](https://www.codepng.app) - Create excellent snapshots from your source code to share on social media.
   * [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
   * [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs are free of charge.
