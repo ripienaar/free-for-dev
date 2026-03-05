@@ -293,6 +293,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.
   * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
   * [JSON to Table](https://jsontotable.org) - Convert JSON into an interactive table for quick viewing, editing, and sharing online.
+  * [JSON Web Tools](https://jsonwebtools.com) - Free client-side toolkit with 18+ JSON tools: formatter, validator, diff, JWT decoder, repair, JSONPath evaluator, mock data generator, convert to TypeScript/Python/Java/Go/C#/PHP/Kotlin/Ruby/Rust, CSV/YAML/XML/SQL converters. No login, no tracking.
   * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
   * [JSONGrid](https://jsongrid.com) - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.
   * [JSONing](https://jsoning.com/api/) — Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
