@@ -1629,6 +1629,7 @@ Update Time, five active automations, webhooks.
 ## Screenshot APIs
 
   * [ApiFlash](https://apiflash.com) — A screenshot API based on Aws Lambda and Chrome. Handles full page, captures timing, and viewport dimensions.
+  * [Hermes Screenshot API](https://51-68-119-197.sslip.io/tools/screenshot) — Free screenshot API with no signup required. Supports PNG, JPEG, and WebP formats, full-page capture, ad/tracker blocking, and custom JavaScript injection. Unlimited free tier (rate-limited to 5 req/min).
   * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 250 requests/day every day free.
   * [PhantomJsCloud](https://PhantomJsCloud.com) — Browser automation and page rendering.  Free Tier offers up to 500 pages/day.  Free Tier since 2017.
   * [screenshotbase.com](https://screenshotbase.com) - 300 free screenshots / month. Take screenshots from any url. Fast, free & scalable.
