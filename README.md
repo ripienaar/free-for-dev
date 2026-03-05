@@ -433,6 +433,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [transfernow](https://www.transfernow.net/) — simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.
   * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
   * [twist.com](https://twist.com) — An asynchronous-friendly team communication app where conversations stay organized and on-topic. Free and Unlimited plans are available. Discounts are provided for eligible teams.
+  * [Tymeslot](https://tymeslot.app) — Open-source meeting scheduling platform. Connect Google Calendar, Outlook, CalDAV, and Nextcloud; auto-create video rooms via Google Meet, Teams, or MiroTalk; send calendar invites by email. Core scheduling is free forever; Pro (€5/mo) adds white-label branding.
   * [userforge.com](https://userforge.com/) - Interconnected online personas, user stories and context mapping.  Helps keep design and dev in sync free for up to 3 personas and two collaborators.
   * [Visual Debug](https://visualdebug.com) - A Visual feedback tool for better client-dev communication
   * [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
