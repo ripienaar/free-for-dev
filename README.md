@@ -1412,6 +1412,7 @@ Update Time, five active automations, webhooks.
   * [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
   * [Webflow](https://webflow.com) - WYSIWYG website builder with animations and website hosting. Free for two projects.
   * [Webstudio](https://webstudio.is/) -- Open-source alternative to Webflow. The free plan offers unlimited websites on their domain. Five websites with custom domains. Ten thousand page views/month. 2 GB asset storage.
+  * [Woopicx](https://woopicx.com/) — AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets across 80+ categories. Free to search and download.
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at https://github.com/xlayers/xlayers)
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets, and style guides. Free for one project.
