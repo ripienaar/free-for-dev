@@ -1663,6 +1663,7 @@ Update Time, five active automations, webhooks.
   * [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. The free tier offers a one-time scan and a single banner.
   * [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies and consent management. The free tier offers limited privacy and cookie policy as well as cookie banners.
   * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. The free tier offers most features with a limited visitor count.
+  * [PolicyForge](https://policyforge-one.vercel.app/) - Privacy compliance scanner that checks websites across 10 GDPR/CCPA categories. The free tier includes unlimited URL scans, a compliance score with grade, and a free API endpoint for automated checks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
