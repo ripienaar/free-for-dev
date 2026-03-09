@@ -1,4 +1,4 @@
-# Contributiing to this repository
+# Contributing to this repository
 
 This repository does not accept AI edited contributions.
 
