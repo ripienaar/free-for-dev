@@ -192,7 +192,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Surveys](https://zoho.com/surveys) - Online Surveys
      * [Bookings](https://zoho.com/bookings) - Appointment Scheduling
 
-* [Catalyst by Zoho](https://catalyst.zoho.com) —  PaaS & full-stack cloud development platform 
+* [Catalyst by Zoho](https://catalyst.zoho.com) —  PaaS & full-stack cloud development platform.
 
   * [Slate](https://catalyst.zoho.com/slate/index.html) - 500 MB CDN storage, 300,000 requests, 100,000 ISR reads, 50,000 ISR writes, 25,000 GB-seconds function invocations, 72,000 GB-seconds build compute free per month
   * [Stratus](https://catalyst.zoho.com/stratus.html) - 5 GB storage, 10,000 downloads, 1,000 uploads, 1,000 updates free per month
