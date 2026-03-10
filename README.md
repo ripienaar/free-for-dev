@@ -203,8 +203,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Pulumi](https://www.pulumi.com/) — Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
 
-
-
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Source Code Repos
