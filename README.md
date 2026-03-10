@@ -191,6 +191,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Sign](https://zoho.com/sign) - Paperless Signatures
     * [Surveys](https://zoho.com/surveys) - Online Surveys
      * [Bookings](https://zoho.com/bookings) - Appointment Scheduling
+    * [Catalyst by Zoho](https://catalyst.zoho.com) —  PaaS/full-stack cloud platform with a generous [free tier](https://catalyst.zoho.com/free-tier.html)
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -201,6 +202,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 10 job executions free per month with previews and auto-deploys included in the free tier.
   * [Pulumi](https://www.pulumi.com/) — Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
+
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
