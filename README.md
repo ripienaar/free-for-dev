@@ -192,6 +192,29 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Surveys](https://zoho.com/surveys) - Online Surveys
      * [Bookings](https://zoho.com/bookings) - Appointment Scheduling
 
+* [Catalyst by Zoho](https://catalyst.zoho.com) — BaaS and full-stack serverless platform. 
+
+  * [Slate](https://catalyst.zoho.com/slate/index.html) - 500 MB CDN storage, 300,000 requests, 100,000 ISR reads, 50,000 ISR writes, 25,000 GB-seconds function invocations, 72,000 GB-seconds build compute free per month
+  * [Stratus](https://catalyst.zoho.com/stratus.html) - 5 GB storage, 10,000 downloads, 1,000 uploads, 1,000 updates free per month
+  * [AppSail](https://catalyst.zoho.com/app-sail.html) - 15 GB-hours free per month
+  * [ZiaServices](https://catalyst.zoho.com/zia-services.html) - 100 API calls free per month
+  * [QuickML](https://catalyst.zoho.com/quickml.html) - 500 model prediction calls/month, 1 GB model storage, 1,800 vCPU seconds and 1,800 GB-seconds training compute per month
+  * [ConvoKraft](https://catalyst.zoho.com/convokraft.html) - 1,000 messages free per month
+  * [SmartBrowz](https://catalyst.zoho.com/smartbrowz.html) - 5 hours headless browsing and 50 PDF conversions free per month
+  * Functions - 25,000 GB-seconds free per month
+  * Circuits - 2,000 state transitions free per month
+  * Web Client Hosting - 300,000 requests free per month
+  * API Gateway - 100,000 API calls free per month
+  * Data Store - 2 GB storage, 10,000 selects, 5,000 inserts, 1,000 updates, 1,000 deletes free per month
+  * File Store - 5 GB storage, 10,000 downloads, 2,000 uploads free per month
+  * Cache - 1,000 GETs, 5,000 PUTs, 5,000 UPDATEs free per month
+  * Mail - 100 emails free per month
+  * Push Notifications - 500 notifications free per month
+  * Search - 1,000 queries free per month
+  * APM - 5,000 requests free per month
+  * Automation Testing - 100 test cases free per month
+  * Application Alerts - 100 alerts free per month
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Cloud management solutions
@@ -201,6 +224,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 10 job executions free per month with previews and auto-deploys included in the free tier.
   * [Pulumi](https://www.pulumi.com/) — Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
+
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
