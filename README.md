@@ -1613,10 +1613,11 @@ Update Time, five active automations, webhooks.
 
   * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
   * [BearBlog](https://bearblog.dev/) - Minimalist, Markdown-powered blog and website builder.
+  * [daily.dev](https://daily.dev/) — Personalized developer news feed aggregating content from 1,000+ tech sources with community discussion, squads, and bookmarks. Free forever for individual developers.
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
-  * [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
   * [JustBlogged](https://justblogged.com) — Free blogging platform with custom domain support, and fast global performance.
+  * [Medium](https://medium.com/) — Get more thoughtful about what matters to you.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
