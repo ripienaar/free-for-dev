@@ -192,7 +192,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Surveys](https://zoho.com/surveys) - Online Surveys
      * [Bookings](https://zoho.com/bookings) - Appointment Scheduling
     * [Catalyst by Zoho](https://catalyst.zoho.com) —  PaaS/full-stack cloud platform with a generous [free tier](https://catalyst.zoho.com/free-tier.html)
-      
 
 **[⬆️ Back to Top](#table-of-contents)**
 
