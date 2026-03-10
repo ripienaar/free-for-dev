@@ -171,6 +171,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
 
   * [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :
+    * [Catalyst by Zoho](https://catalyst.zoho.com) —  PaaS/full-stack cloud platform with a generous [free tier](https://catalyst.zoho.com/free-tier.html)
     * [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.
     * [Zoho Assist](https://www.zoho.com/assist) — Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.
     * [Sprints](https://zoho.com/sprints) Free for 5 users,5 Projects & 500MB storage.
@@ -191,7 +192,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Sign](https://zoho.com/sign) - Paperless Signatures
     * [Surveys](https://zoho.com/surveys) - Online Surveys
      * [Bookings](https://zoho.com/bookings) - Appointment Scheduling
-    * [Catalyst by Zoho](https://catalyst.zoho.com) —  PaaS/full-stack cloud platform with a generous [free tier](https://catalyst.zoho.com/free-tier.html)
 
 **[⬆️ Back to Top](#table-of-contents)**
 
