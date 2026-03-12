@@ -511,6 +511,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CodeKeep](https://codekeep.io) - Google Keep for Code Snippets. Organize, Discover, and share code snippets, featuring a powerful code screenshot tool with preset templates and a linking feature.
   * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
   * [Namae](https://namae.dev/) - Search various websites like GitHub, Gitlab, Heroku, Netlify, and many more for the availability of your project name.
+  * [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
   * [tickgit.com](https://www.tickgit.com/) — Surfaces `TODO` comments (and other markers) to identify areas of code worth returning to for improvement.
 
 **[⬆️ Back to Top](#table-of-contents)**
