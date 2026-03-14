@@ -1596,6 +1596,7 @@ Update Time, five active automations, webhooks.
   * [Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
   * [RevenueCat](https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.
   * [vatlayer](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
+  * [ZapInvoice](https://zapinvoice.web.app) — Free invoice generator for freelancers. Create, download PDF, and email invoices. No signup required for basic use.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1715,6 +1716,7 @@ Update Time, five active automations, webhooks.
   * [XKit](https://xkit.io) — A collection of free online tools designed to make life easier for developers, students, and everyday users. Include a wide range of Developer tools, Diff/Compare tools, Calculators, Converters and Generators.
   performance and security
   * [Dadroit V Web](https://dadroit.com/vweb/) — In-browser JSON viewer for large files. Tree view, RegEx search, export, and URL loading with Bearer/Basic auth. Fully client-side, no data uploaded. Free.
+  * [ZapTools](https://zaptools.web.app) — 114+ free browser-based developer tools (JSON formatter, regex tester, Base64 encoder, CSS generators, code formatters, hash generators, and more). No signup required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
