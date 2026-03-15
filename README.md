@@ -865,6 +865,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
   * [Mailtrap.io](https://mailtrap.io/) — Email API, SMTP, 3,500 emails/month free for transactional and marketing emails. Email Sandbox - fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
   * [Mutant Mail](https://www.mutantmail.com/) – Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
+  * [Nubo Email](https://nubo.email) — Privacy-first email platform with calendar, drive, video meetings, and team chat. Built on JMAP protocol. Organization-based pricing (unlimited users). 23 free email tools (SPF/DKIM/DMARC checkers, header analyzer, blacklist checker). GDPR and India DPDP compliant.
   * [OneSignal](https://onesignal.com/) — 10,000 emails/month,No Credit Cards are required.
   * [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
   * [Plunk](https://useplunk.com) - 3K emails/month for free
