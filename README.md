@@ -1713,6 +1713,7 @@ Update Time, five active automations, webhooks.
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
   * [Volume Shader BM](https://volumeshaderbm.org) — Free browser-based GPU benchmark (WebGL). Helps developers test and compare shader performance reproducibly across browsers and devices.
   * [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
+  * [FreeToolBox](https://www.freetoolbox.site/) — A collection of 60+ free browser-based tools for developers and everyday users, including PDF compression, image processing, JSON formatting, and more. All processing happens locally in the browser with no file uploads.
   * [XKit](https://xkit.io) — A collection of free online tools designed to make life easier for developers, students, and everyday users. Include a wide range of Developer tools, Diff/Compare tools, Calculators, Converters and Generators.
   performance and security
   * [Dadroit V Web](https://dadroit.com/vweb/) — In-browser JSON viewer for large files. Tree view, RegEx search, export, and URL loading with Bearer/Basic auth. Fully client-side, no data uploaded. Free.
