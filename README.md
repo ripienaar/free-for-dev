@@ -999,6 +999,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## PaaS
 
   * [ampt.dev](https://getampt.com/) - Ampt lets teams build, deploy, and scale JavaScript apps on AWS without complicated configs or managing infrastructure. Free Preview plan includes 500 invocations hourly, 2,500 invocations daily and 50,000 invocations monthly. Custom domains are allowed only in the paid plans.
+  * [AZIN](https://azin.run) — BYOC deployment platform that deploys to your own GCP account. Free tier includes unlimited projects, git-push deploys, preview environments, and autoscaling on GKE Autopilot. You only pay your cloud provider for actual resource usage.
   * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps and 30-second timeouts.
   * [Apply.build](https://apply.build/) — Build and deploy your GitHub app for free with 0.5 vCPUs / 512 MiB RAM, European servers, automatic firewall, real-time performance metrics. Run Node.js, Python, Go, Java, static sites, microservices, and more.
   * [appwrite](https://appwrite.io) - Unlimited projects with no project pausing (supports websockets) and authentication service. 1 Database, 3 Buckets, 5 Functions per project in free tier.
