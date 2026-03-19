@@ -75,6 +75,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Game Development](#game-development)
   * [Other Free Resources](#other-free-resources)
 
+| [PixelAPI](https://pixelapi.dev) | AI image API - background removal, generation, upscaling. Free tier: 100 credits on signup, no credit card | | |
 ## Major Cloud Providers
 
   * [Google Cloud Platform](https://cloud.google.com)
