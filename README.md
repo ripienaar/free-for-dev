@@ -539,6 +539,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Squash Labs](https://www.squash.io/) — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
   * [Terramate](https://terramate.io/) - Terramate is an orchestration and management platform for Infrastructure as Code (IaC) tools such as Terraform, OpenTofu, and Terragrunt. Free up to 2 users including all features.
   * [Terrateam](https://terrateam.io) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
+  * [GitHub Actions Cost Calculator](https://www.githubactionscost.online) — Free tool to calculate and optimize GitHub Actions workflow costs. Compare Ubuntu, Windows, macOS runner prices with AI suggestions. No signup required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
