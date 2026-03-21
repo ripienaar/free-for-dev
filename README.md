@@ -1688,6 +1688,7 @@ Update Time, five active automations, webhooks.
   * [Cronhooks](https://cronhooks.io/) - Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.
   * [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
   * [Domain Forward](https://domain-forward.com/) - A straightforward tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
+  * [DevToolbox](https://dannycranmer.github.io/devtoolbox/) - Free browser-based developer tools including JWT decoder, Base64 encoder/decoder, JSON formatter, regex tester, hash generator, and more. All processing happens client-side — no data sent to servers.
   * [Exif Editor](https://exifeditor.io/) — View, Edit, Scrub, Analyze image/photo metadata in-browser instantly - including GPS location and metadata.
   * [Format Express](https://www.format-express.dev) - Instant online format for JSON / XML / SQL.
   * [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
@@ -1696,6 +1697,7 @@ Update Time, five active automations, webhooks.
   * [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord, and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
   * [OnlineExifViewer](https://onlineexifviewer.com/) — View EXIF data online instantly for a photo including GPS location and metadata.
   * [PDFMonkey](https://www.pdfmonkey.io/) — Manage PDF templates in a dashboard, call the API with dynamic data, and download your PDF. Offers 300 free documents per month.
+  * [Parchment](https://dannycranmer.github.io/parchment/) — Free, privacy-first PDF tools (merge, split, compress, convert, watermark, sign). Runs entirely in the browser with no file uploads or server processing. Completely free with no limits.
   * [Pika Code Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using the extension.
   * [QuickType.io](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
   * [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool that offers a variety of randomly generated keys and passwords you can use to secure any application, service, or device.
