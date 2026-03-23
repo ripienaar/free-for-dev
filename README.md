@@ -1458,6 +1458,7 @@ Update Time, five active automations, webhooks.
   * [IP Geolocation](https://ipgeolocation.io/) — Free DEVELOPER plan available with 30K requests/month.
   * [ipstack](https://ipstack.com/) - Locate and identify Website Visitors by IP Address
   * [locationiq.com](https://locationiq.com/) — Geocoding, Maps, and Routing APIs. Five thousand requests/day for free.
+  * [MapAtlas](https://mapatlas.eu/) — Geocoding, routing, map tiles, search/autocomplete, directions, and route optimization APIs. EU-hosted and GDPR-compliant. 10k free map loads, 10k geocodes, and 100k routes per month.
   * [mapbox.com](https://www.mapbox.com/) — Maps, geospatial services and SDKs for displaying map data.
   * [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
   * [maptiler.com](https://www.maptiler.com/cloud/) — Vector maps, map services and SDKs for map visualization. Free vector tiles with weekly updates and four map styles.
