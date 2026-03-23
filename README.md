@@ -225,6 +225,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## APIs, Data, and ML
 
+  * [QRMint](https://qrmint.dev) — Free styled QR code generator API with customization options. No authentication required. Free forever.
   * [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
   * [Apify](https://www.apify.com/) — Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
   * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
