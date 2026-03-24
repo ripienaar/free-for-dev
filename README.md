@@ -712,6 +712,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [AutoLocalise.com](https://www.autolocalise.com/) — Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
   * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings, and collaborators for Open Source
+  * [i18n Agent](https://i18nagent.ai) — AI-powered translation management via MCP protocol. Free tier with pay-per-use translation. Supports JSON, YAML, Markdown, PO files. Works with Claude Code, Cursor, VS Code.
   * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
   * [Lingo.dev](https://lingo.dev) – Open-source AI-powered CLI for web & mobile localization. Bring your own LLM, or use 10,000 free words every month via Lingo.dev-managed localization engine.
   * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
