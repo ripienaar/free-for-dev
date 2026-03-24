@@ -1270,6 +1270,7 @@ Update Time, five active automations, webhooks.
   * [freetools.site](https://freetools.site/) — Free online tools. Convert or edit documents, images, audio, video, and more.
   * [getpantry.cloud](https://getpantry.cloud/) — A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
+  * [ImgTools](https://imgtools.davrapps.dev) — Free online image processing tools: compress (MozJPEG, up to 80% reduction), resize, crop, rotate, format convert (JPEG/PNG/WebP/AVIF), watermark, and AI background removal. The free plan includes 5 operations per day.
   * [gumlet.com](https://www.gumlet.com/) — Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
   * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
   * [image-charts.com](https://www.image-charts.com/) — Unlimited image chart generation with a watermark
@@ -1689,6 +1690,7 @@ Update Time, five active automations, webhooks.
   * [Cronhooks](https://cronhooks.io/) - Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.
   * [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
   * [Domain Forward](https://domain-forward.com/) - A straightforward tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
+  * [DevTools](https://devtools.davrapps.dev) — Free online developer utilities: JSON formatter, Base64 encoder/decoder, JWT decoder, hash generator, UUID generator, regex tester, text diff, and more. All tools run 100% client-side — nothing is sent to a server. The free plan includes 5 operations per day per tool.
   * [Exif Editor](https://exifeditor.io/) — View, Edit, Scrub, Analyze image/photo metadata in-browser instantly - including GPS location and metadata.
   * [Format Express](https://www.format-express.dev) - Instant online format for JSON / XML / SQL.
   * [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
