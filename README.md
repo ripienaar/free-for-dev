@@ -13,7 +13,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
 
 # Table of Contents
-
+  * [Mini-Tools Image Utilities](https://mini-tools.uk/color-picker.html) - A 100% free, client-side suite featuring an advanced Color Picker, Palette Generator, and lossless Screenshot Cropper. Zero server uploads,      completely offline-capable, and privacy-first.
   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
   * [Cloud management solutions](#cloud-management-solutions)
   * [Analytics, Events, and Statistics](#analytics-events-and-statistics)
