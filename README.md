@@ -1316,7 +1316,6 @@ Update Time, five active automations, webhooks.
   * [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.
   * [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a complete coding platform where teams build, document, publish, scale, and maintain Design Systems. The free plan allows up to 3 editors to work on one design system with unlimited viewers.
   * [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
-  * [Branition](https://branition.com/colors) - Hand-curated color pallets best fitted for brands.
   * [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
   * [Canva](https://canva.com) - Free online design tool to create visual content.
   * [Carousel Hero](https://carouselhero.com/) - Free online tool to create social media carousels.
