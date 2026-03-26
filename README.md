@@ -1380,6 +1380,7 @@ Update Time, five active automations, webhooks.
   * [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has a free API that allows you to search photos by keywords.
   * [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
   * [Pixelixe](https://pixelixe.com/) — Create and edit engaging, unique graphics and images online.
+  * [PixelSwift](https://pixelswift.site) — Free browser-based image compressor, converter, and resizer powered by WebAssembly. No server uploads, all processing happens locally. Supports JPG, PNG, WebP, and 7+ input formats.
   * [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.
   * [Plasmic](https://www.plasmic.app/) - A fast, easy-to-use, robust web design tool and page builder that integrates into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps.
   * [PNG to WebP Converter](https://pngtowebpconverter.com/) - Convert PNG images to WebP images directly in your browser. No upload required, fully client-side processing for maximum privacy and security.
