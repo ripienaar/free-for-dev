@@ -1424,6 +1424,7 @@ Update Time, five active automations, webhooks.
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at https://github.com/xlayers/xlayers)
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets, and style guides. Free for one project.
+  * [useLayouts](https://uselayouts.com) — Free premium animated React components and micro-interactions built with Framer Motion and Tailwind CSS. Designed to integrate seamlessly with Shadcn UI, it helps you bring your interfaces to life with ease.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
