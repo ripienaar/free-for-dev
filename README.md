@@ -1589,6 +1589,8 @@ Update Time, five active automations, webhooks.
 
   * [Adapty.io](https://adapty.io/) – One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
   * [CoinMarketCap](https://coinmarketcap.com/api/) — Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
+  * [CoinPaprika](https://api.coinpaprika.com) — Cryptocurrency market data API with 12,000+ coins, 350+ exchanges, tickers, OHLCV, and historical prices. The free tier offers 20K calls/month with no API key required.
+  * [DexPaprika](https://api.dexpaprika.com) — Free DEX data API across 34 blockchains with 30M+ liquidity pools, 27M+ tokens, OHLCV, and real-time SSE streaming. 10K requests/day, no API key required.
   * [Currencyapi](https://currencyapi.com) — Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
   * [CurrencyApi](https://currencyapi.net/) — Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
   * [CurrencyFreaks](https://currencyfreaks.com/) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
