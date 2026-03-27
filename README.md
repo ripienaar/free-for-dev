@@ -452,6 +452,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+  * [QuickFnd](https://quickfnd.com) — 130+ free browser-based tools: JSON formatter, regex tester, password generator, calculators and more. No signup required.
+
 ## CMS
 
   * [Contentful](https://www.contentful.com/) — Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes five users, 25K records, 48 Content Types, 2 locales.
