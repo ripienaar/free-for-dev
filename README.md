@@ -576,6 +576,9 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
   * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
   * [kogiQA](https://kogiqa.com) — A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
+  * [RandTap](https://randtap.com) - Free random data generator tools 
+  for developers. Generate phone numbers, addresses, passwords, colors, 
+  and more. No sign-up required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
