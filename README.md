@@ -1400,6 +1400,7 @@ Update Time, five active automations, webhooks.
   * [Superdesigner](https://superdesigner.co) - A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.
   * [SVG Converter](https://svgconverter.online/) -- Free JPG/PNG to SVG converter with color palette customization
   * [SVGmix.com](https://www.svgmix.com/) - Massive repository of 300K+ of free SVG icons, collections, and brand logos. It has a simple vector editing program right in the browser for quick file editing.
+  * [svg.new](https://svg.new) — AI-powered image-to-SVG converter with a built-in SVG editor, recoloring, and background removal. Three free vectorizations per day, no signup required. Also offers a free MCP server for AI coding assistants.
   * [svgrepo.com](https://www.svgrepo.com/) - Explore, search, and find the best-fitting icons or vectors for your projects using various vector libraries. Download free SVG Vectors for commercial use.
   * [tabler-icons.io](https://tabler-icons.io/) — Over 1500 free copy-and-paste SVG editable icons.
   * [Tailark](https://tailark.com/) - A collection of modern, responsive, pre-built UI blocks designed for marketing websites.
