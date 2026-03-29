@@ -1721,6 +1721,9 @@ Update Time, five active automations, webhooks.
   * [XKit](https://xkit.io) — A collection of free online tools designed to make life easier for developers, students, and everyday users. Include a wide range of Developer tools, Diff/Compare tools, Calculators, Converters and Generators.
   performance and security
   * [Dadroit V Web](https://dadroit.com/vweb/) — In-browser JSON viewer for large files. Tree view, RegEx search, export, and URL loading with Bearer/Basic auth. Fully client-side, no data uploaded. Free.
+  * [DevTools](https://devtools.davrapps.dev) — 24 free online developer utilities: JSON formatter, Base64 encoder, JWT decoder, hash generator, regex tester, cron expression builder, number base converter, image to Base64, and more. 100% client-side, no signup.
+  * [ImgTools](https://imgtools.davrapps.dev) — Free online image utilities: compress, resize, convert, crop, watermark, and view metadata for images. All processing happens in-browser. No signup, no upload limits.
+  * [PDFKit](https://pdfkit.davrapps.dev) — Free online PDF tools: merge, split, compress, rotate PDFs and convert between PDF and images. 100% client-side — files never leave your browser.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
