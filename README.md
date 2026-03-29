@@ -723,6 +723,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Loco](https://localise.biz/) — Free up to 2000 translations, Unlimited translators, ten languages/project, 1000 translatable assets/project
   * [POEditor](https://poeditor.com/) — Free up to 1000 strings
   * [SimpleLocalize](https://simplelocalize.io/) - Free up to 100 translation keys, unlimited strings, unlimited languages, startup deals
+  * [SocketsIO](https://socketsio.com) — Translation API supporting 195 languages with a Google Translate v2 compatible interface. Free tier includes 500K characters per month.
   * [Texterify](https://texterify.com/) - Free for a single user
   * [Tolgee](https://tolgee.io) - Free SaaS offering with limited translations, forever-free self-hosted version
   * [transifex.com](https://www.transifex.com/) — Free for Open Source
