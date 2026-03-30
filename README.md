@@ -917,10 +917,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
   * [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
   * [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
-  * [fonts.xz.style](https://fonts.xz.style/) - free and open source service for delivering font families to websites 
-    using CSS.
-  * [Fontsensei](https://fontsensei.com/) - Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese,
-    Korean) font tags.
+  * [fonts.xz.style](https://fonts.xz.style/) - free and open source service for delivering font families to websites using CSS.
+  * [Fontsensei](https://fontsensei.com/) - Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese, Korean) font tags.
   * [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
   * [Google Fonts](https://fonts.google.com/) - Many free fonts are easy and quick to install on a website via a download or a link to Google's CDN.
 
@@ -1282,9 +1280,8 @@ Update Time, five active automations, webhooks.
   * [image-charts.com](https://www.image-charts.com/) - Unlimited image chart generation with a watermark
   * [ImageEngine](https://imageengine.io/) - ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
   * [imagekit.io](https://imagekit.io) - Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. The free plan includes up to 20GB of bandwidth per month.
-  * [ImgBB](https://imgbb.com/) - ImgBB is an unlimited image hosting servce. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
+  * [ImgBB](https://imgbb.com/) - ImgBB is an unlimited image hosting service. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
   * [Imgbot](https://github.com/marketplace/imgbot) - Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
-  * [imgen](https://www.jitbit.com/imgen/) - Free unlimited social cover image generation API, no watermark
   * [imgix](https://www.imgix.com/) - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth
   * [internxt.com](https://internxt.com) - Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
   * [kraken.io](https://kraken.io/) - Image optimization for website performance as a service, free plan up to 1 MB file size
@@ -1311,9 +1308,8 @@ Update Time, five active automations, webhooks.
   * [tinypng.com](https://tinypng.com/) - API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
   * [transloadit.com](https://transloadit.com/) - Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 2 GB free for test driving
   * [twicpics.com](https://www.twicpics.com) - Responsive images as a service. It provides an image CDN, a media processing API, and a frontend library to automate image optimization. The service is free for up to 3GB of traffic/per month.
-  * [uploadcare.com](https://uploadcare.com/hub/developers/) - Uploadcare provides the media pipeline  with the ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery, and Smart Compression. The free tier has 3000 uploads, 3 GB traffic, and 3 GB storage.
+  * [uploadcare.com](https://uploadcare.com/hub/developers/) - Uploadcare provides the media pipeline with the ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery, and Smart Compression. The free tier has 3000 uploads, 3 GB traffic, and 3 GB storage.
   * [VaocherApp QR Code Generator](https://www.vaocherapp.com/qr-code-generator) - Easily create custom QR codes for gift cards, gift vouchers, and promotions. Support custom styling, color, logo...
-  * [AdminMart](https://adminmart.com/) - High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1348,6 +1344,7 @@ Update Time, five active automations, webhooks.
   * [Zeplin](https://zeplin.io/) - Designer and developer collaboration platform. Show designs, assets, and style guides. Free for one project.
   * [WrapPixel](https://www.wrappixel.com/) - Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS! HTML Themes and UI Kits to create your applications faster!
   * [Themeselection](https://themeselection.com/) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
+  * [AdminMart](https://adminmart.com/) - High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1360,8 +1357,7 @@ Update Time, five active automations, webhooks.
   * [geocodify.com](https://geocodify.com/) - Geocoding and Geoparsing via API or CSV Upload. 10k free queries/month.
   * [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
   * [Geokeo api](https://geokeo.com) - Geocoding API with language correction and more. Worldwide coverage. 2,500 free daily queries
-  * [graphhopper.com](https://www.graphhopper.com/) - A free developer package is offered for Routing, Route 
-    Optimization, Distance Matrix, Geocoding, and Map Matching.
+  * [graphhopper.com](https://www.graphhopper.com/) - A free developer package is offered for Routing, Route Optimization, Distance Matrix, Geocoding, and Map Matching.
   * [here](https://developer.here.com/) - APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
   * [IP Geolocation](https://ipgeolocation.io/) - Free DEVELOPER plan available with 30K requests/month.
   * [ipstack](https://ipstack.com/) - Locate and identify Website Visitors by IP Address
@@ -1394,14 +1390,10 @@ Update Time, five active automations, webhooks.
   * [BBEdit](https://www.barebones.com/) - BBEdit is a popular and extensible editor for macOS. Free Mode provides a [powerful core feature set](https://www.barebones.com/products/bbedit/comparison.html) and an upgrade path to advanced features.
   * [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks. It is a free public service.
   * [BlueJ](https://bluej.org) - A free Java Development Environment designed for beginners, used by millions worldwide. Powered by Oracle & simple GUI to help beginners.
-  * [Bootify.io](https://bootify.io/) - Spring Boot app generator with custom database and REST API.
   * [Brackets](http://brackets.io/) - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.
   * [cacher.io](https://www.cacher.io) - Code snippet organizer with labels and support for 100+ programming languages.
   * [cocalc.com](https://cocalc.com/) - Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
-  * [code.cs50.io](https://code.cs50.io/) - Visual Studio Code for CS50 is a web app at code.cs50.io that adapts GitHub Codespaces for students and teachers.
   * [Code::Blocks](https://codeblocks.org) - Free Fortran & C/C++ IDE. Open Source and runs on Windows,macOS & Linux.
-  * [codepen.io](https://codepen.io/) - CodePen is a playground for the front-end side of the web.
-  * [codesandbox.io](https://codesandbox.io/) - Online Playground for React, Vue, Angular, Preact, and more.
   * [codiga.io](https://codiga.io/) - Coding Assistant that lets you search, define, and reuse code snippets directly in your IDE. Free for individual and small organizations.
   * [Components.studio](https://webcomponents.dev/) - Code components in isolation, visualize them in stories, test them, and publish them on npm.
   * [Eclipse Che](https://www.eclipse.org/che/) - Web-based and Kubernetes-Native IDE for Developer Teams with multi-language support. Open Source and community-driven. An online instance hosted by Red Hat is available at [workspaces.openshift.com](https://workspaces.openshift.com/).
@@ -1409,8 +1401,7 @@ Update Time, five active automations, webhooks.
   * [GetVM](https://getvm.io) - Instant free Linux and IDEs chrome sidebar. The free tier includes 5 VMs per day.
   * [JDoodle](https://www.jdoodle.com) - Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
   * [jetbrains.com](https://jetbrains.com/products.html) - Productivity tools, IDEs and deploy tools (aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), etc). Free license for students, teachers, Open Source and user groups.
-  * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Some REST API endpoints that return some fake data in 
-    JSON format. The source code is also available if you would like to run the server locally.
+  * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Some REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.
   * [Lazarus](https://www.lazarus-ide.org/) - Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.
   * [MarsCode](https://www.marscode.com/) - A free AI-powered cloud-based IDE.
   * [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
