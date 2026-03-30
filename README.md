@@ -1660,6 +1660,7 @@ Update Time, five active automations, webhooks.
 ## Other Free Resources
 
   * [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
+  * [FreeDevKit](https://freedevkit.com/): A collection of 39+ free developer and business tools including JSON formatters, SEO checkers, and text tools with no signup required.
   * [AdminMart](https://adminmart.com/) - High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
   * [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - 100+ buttons you can use in your project.
   * [Framacloud](https://degooglisons-internet.org/en/) - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).
