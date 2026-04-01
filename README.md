@@ -1190,6 +1190,7 @@ Update Time, five active automations, webhooks.
   * [LocalXpose](https://localxpose.io) - Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
   * [ngrok.com](https://ngrok.com/) - Expose locally running servers over a tunnel to a public URL.
   * [Pinggy](https://pinggy.io) - Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
+  * [Pipepie](https://github.com/pipepie/pipepie) — Self-hosted encrypted tunnel for exposing localhost with Noise NK encryption, webhook inspection, AI pipeline tracing, and web dashboard. Open source, single Go binary.
   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
   * [serveo](https://serveo.net/) - Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.
   * [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) - Twilio STUN
