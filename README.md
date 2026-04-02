@@ -1132,9 +1132,13 @@ Update Time, five active automations, webhooks.
 
 ## Domain
 
-  * [DigitalPlat](https://domain.digitalplat.org) - Free subdomains.
+  * [DigitalPlat](https://domain.digitalplat.org) - Free subdomains for (`us.kg`, `qzz.io`, `dpdns.org` & `xx.kg`).
   * [isroot.in](https://isroot.in) - Free isroot.in subdomains.
+  * [is-a-dev](https://is-a.dev) - Free `is-a.dev` subdomain for Developer.
+  * [Open-Domains](https://open-domains.net/) - Free subdomains for personal sites, open-source projects, and more.
   * [pp.ua](https://nic.ua/) - Free pp.ua subdomains.
+  * [stackryze](https://domain.stackryze.com/) - Free subdomains for `indevs.in`
+  * [Zone.ID](https://www.zone.id/) - Free subdomain for `zone.id` & `nett.to`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
