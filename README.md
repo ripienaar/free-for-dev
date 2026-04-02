@@ -1138,7 +1138,7 @@ Update Time, five active automations, webhooks.
   * [Open-Domains](https://open-domains.net/) - Free subdomains for personal sites, open-source projects, and more.
   * [pp.ua](https://nic.ua/) - Free pp.ua subdomains.
   * [stackryze](https://domain.stackryze.com/) - Free subdomains for `indevs.in`
-  * [Zone.ID](https://www.zone.id/) - Free subdomain for `zone.id` & `nett.to`
+  * [Zone.ID](https://www.zone.id/) - Free subdomain for `zone.id` & `nett.to`, Managed by PT`P` [Geksa](https://gx1.org).
 
 **[⬆️ Back to Top](#table-of-contents)**
 
