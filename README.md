@@ -1619,6 +1619,8 @@ Update Time, five active automations, webhooks.
   * [sandbox.httpsms.com](https://sandbox.httpsms.com) - Send and receive test SMS messages for free.
   * [SimpleBackups.com](https://simplebackups.com/) - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
-  * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
+  * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application
+  *  backups to s3 based storage. Provides a free plan with daily backups for one resource.
+  * [ToolsForCode](https://toolsforcode.com) - 71 free online developer tools including JSON formatter, JWT decoder, PDF tools, regex tester, and more. No signup required.
 
 **[⬆️ Back to Top](#table-of-contents)**
