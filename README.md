@@ -1573,6 +1573,7 @@ Update Time, five active automations, webhooks.
 ## Miscellaneous
 
   * [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
+  * [Utilko](https://utilko.com) - 250+ free online tools including JSON formatter, image compressor, calculators, PDF tools, password generator, and more. All tools run client-side in the browser with no signup required.
   * [Blynk](https://blynk.io) - A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
   * [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs are free of charge.
   * [Cronhooks](https://cronhooks.io/) - Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.
