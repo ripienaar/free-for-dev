@@ -545,6 +545,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Testing
 
+  * [AEO Scanner](https://aeo.codecity.com.tw/) - Free website AEO (Answer Engine Optimization) scoring tool. Scans any URL across 9 AI-friendliness metrics and generates fix code for JSON-LD, FAQ Schema, and llms.txt. REST API included, no auth required.
   * [Appetize](https://appetize.io) - Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.
   * [Argos](https://argos-ci.com) - Open Source visual testing for developers. Unlimitedprojects, with 5,000 screenshots per month. Free for open-source projects.
   * [Bencher](https://bencher.dev/) - A continuous benchmarking tool suite to catch CI performance regressions. Free for all public projects.
