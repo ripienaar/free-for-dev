@@ -342,6 +342,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [TemplateFox](https://pdftemplateapi.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
   * [The IP API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
+  * [ToolPipe](https://toolpipe.dev) - Free developer utility API with 120+ endpoints including QR codes, PDF processing, JSON/CSV/XML conversion, text analysis, hashing, UUID generation, DNS lookup, and more. Also available as an MCP server for AI agents. The free plan includes 100 calls per day with no signup required.
   * [Tomorrow.io Weather API](https://www.tomorrow.io/weather-api/) - Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.
   * [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
   * [UniRateAPI](https://unirateapi.com) - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
