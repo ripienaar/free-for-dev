@@ -275,6 +275,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
   * [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
   * [huggingface.co](https://huggingface.co) - Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
+  * [India PreValidate API](https://india-prevalidate-api-production.up.railway.app/) - Offline validation API for Indian financial identifiers (PAN, GST, IFSC, Aadhaar, UPI, Pincode, and more). 178K+ IFSC codes, 155K+ pincodes. Free tier available on RapidAPI with no credit card required.
   * [Insomnia](https://insomnia.rest) - Open-source API client for designing and testing APIs, it supports REST and GraphQL
   * [Invantive Cloud](https://cloud.invantive.com/) - Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
   * [IP Geolocation API by ipwho.org](https://ipwho.org/) - 2,000 free requests per day. Fast, enterprise grade API at non-enterprise prices. Trusted by developers, corporate, government and education clients. Servers in 12+ regions.
