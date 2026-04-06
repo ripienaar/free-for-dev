@@ -1339,6 +1339,7 @@ Update Time, five active automations, webhooks.
   * [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. The free tier is available when the free trial ends. The free tier includes one user, one project, five prototypes, 100MB of online storage, and a preview of the proto.io app.
   * [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
   * [Shadcn Studio](https://shadcnstudio.com/theme-editor) - Preview your theme changes across different components and layouts.
+  * [Mockup Freak](https://mockupfreak.com) - Browser-based phone mockup generator. Free 4K mockups with commercial license, no account required. Screen replacement in the browser, no Photoshop needed.
   * [smartmockups.com](https://smartmockups.com/) - Create product mockups, 200 free mockups.
   * [TeleportHQ](https://teleporthq.io/) - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to instantly create and publish headless static websites. Three free projects, unlimited collaborators, and free code export.
   * [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. One website for free.
