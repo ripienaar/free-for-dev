@@ -584,6 +584,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Security and PKI
 
   * [aikido.dev](https://www.aikido.dev) - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.
+  * [asqav](https://asqav.com) - Open-source AI compliance scanner for CI/CD pipelines. Detects EU AI Act violations, prompt injection risks, and missing guardrails in AI agent code. Free and open source, available as a GitHub Action and Python SDK (`pip install asqav`).
   * [CertKit](https://www.certkit.io/certificate-management) - Manage SSL Certificate issuance, renewal, and monitoring. Search the Certificate Transparency Logs. Free for 3 certificates and 1 user after the beta.
   * [Corgea](https://corgea.com/) - Free autonomous security platform that finds, validates and fixes insecure code and packages across +20 languages and frameworks. Free plan includes 1 user and 2 repos.
   * [crypteron.com](https://www.crypteron.com/) - Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
