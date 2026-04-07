@@ -223,6 +223,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## APIs, Data, and ML
 
+  * [99Tools JSON Patch Generator](https://99tools.net/json-patch-generator/) - An online utility to compare JSON documents and generate RFC 6902 compliant patch operations for API and infrastructure workflows.
   * [Abstract API](https://www.abstractapi.com) - API suite for various use cases, including IP geolocation, phone number validation, or email validation.
   * [Apify](https://www.apify.com/) - Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
   * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
