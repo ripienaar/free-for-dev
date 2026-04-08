@@ -1349,6 +1349,7 @@ Update Time, five active automations, webhooks.
   * [WrapPixel](https://www.wrappixel.com/) - Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS! HTML Themes and UI Kits to create your applications faster!
   * [Themeselection](https://themeselection.com/) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
   * [AdminMart](https://adminmart.com/) - High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
+  * [HTML Design](https://html.design) - 800+ free HTML, Bootstrap, and PSD website templates across 40+ categories. All templates are free to download without registration for personal and commercial use.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
