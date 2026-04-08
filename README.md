@@ -250,6 +250,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CustomJS](https://www.customjs.io) - HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.
   * [Data Fetcher](https://datafetcher.com) - Connect Airtable to any application or API with no code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.
   * [Data Miner](https://dataminer.io/) - A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month.
+  * [Deckaura Horoscope](https://horoscope.deckaura.com) - Free daily horoscope JSON API for all 12 zodiac signs (overview, love, career, lucky number) updated daily at 00:00 UTC. No API key, no rate limits, HTTPS, CORS-enabled.
   * [Dataimporter.io](https://www.dataimporter.io) - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.
   * [Datalore](https://datalore.jetbrains.com) - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.
   * [DB Designer](https://www.dbdesigner.net/) - Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and ten tables per model.
