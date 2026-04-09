@@ -1146,6 +1146,7 @@ Update Time, five active automations, webhooks.
   * [backblaze.com](https://www.backblaze.com/b2/) - Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB downloads per month.
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
+  * [Gozunga Cloud](https://gozunga.com/) - Offers the first 100GB of S3-compatible storage for free, plus $100 in credits for the first 60 days.
   * [Modal](https://modal.com) - AI-driven IaaS with generous compute, storage; offers $30 (might be limited to $5 on certain accounts) of free monthly credits
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1173,7 +1174,7 @@ Update Time, five active automations, webhooks.
   * [skyvia.com](https://skyvia.com/) - Cloud Data Platform offers a free tier and all plans are completely free while in beta
   * [StackBy](https://stackby.com/) - One tool that combines spreadsheets' flexibility, databases' power, and built-in integrations with your favorite business apps. The free plan includes unlimited users, ten stacks, and a 2GB attachment per stack.
   * [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and lets you publish SQL queries as managed HTTP APIs. There is no time limit on free-tier, 10GB storage + 1000 API requests per day.
-  * [Turso by ChiselStrike](https://turso.tech/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
+  * [Turso by ChiselStrike](https://turso.tech/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 5 GB of total storage, Up to 100 databases, Up to 3 locations, 100M row reads per month, and Local development support with SQLite.
   * [Upstash](https://upstash.com/) - Serverless Redis with free tier up to 500K monthly commands, 256MB max database size, and 20 concurrent connections
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1399,6 +1400,7 @@ Update Time, five active automations, webhooks.
   * [cacher.io](https://www.cacher.io) - Code snippet organizer with labels and support for 100+ programming languages.
   * [cocalc.com](https://cocalc.com/) - Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
   * [Code::Blocks](https://codeblocks.org) - Free Fortran & C/C++ IDE. Open Source and runs on Windows,macOS & Linux.
+  * [CodeSandbox](https://codesandbox.io/) - Code in either the local browser or a VM in the cloud (400 monthly credits) with hibernation support.
   * [codiga.io](https://codiga.io/) - Coding Assistant that lets you search, define, and reuse code snippets directly in your IDE. Free for individual and small organizations.
   * [Components.studio](https://webcomponents.dev/) - Code components in isolation, visualize them in stories, test them, and publish them on npm.
   * [Eclipse Che](https://www.eclipse.org/che/) - Web-based and Kubernetes-Native IDE for Developer Teams with multi-language support. Open Source and community-driven. An online instance hosted by Red Hat is available at [workspaces.openshift.com](https://workspaces.openshift.com/).
@@ -1408,7 +1410,6 @@ Update Time, five active automations, webhooks.
   * [jetbrains.com](https://jetbrains.com/products.html) - Productivity tools, IDEs and deploy tools (aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), etc). Free license for students, teachers, Open Source and user groups.
   * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Some REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.
   * [Lazarus](https://www.lazarus-ide.org/) - Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.
-  * [MarsCode](https://www.marscode.com/) - A free AI-powered cloud-based IDE.
   * [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
   * [mockable.io](https://www.mockable.io/) - Mockable is a simple configurable service to mock out RESTful API or SOAP web services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.
   * [mockaroo](https://mockaroo.com/) - Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
@@ -1417,7 +1418,8 @@ Update Time, five active automations, webhooks.
   * [OnlineGDB](https://onlinegdb.com) - A free online ide thats supports 40+ languages and is pre installed with tons of libraries; and also has a debugging option, flags, tutorials, and a QNA page!
   * [Paiza](https://paiza.cloud/en/) - Develop Web apps in Browser without needing to set up anything. Free Plan offers one server with 24 24-hour lifetime and 4 hours of running time per day with 2 CPU cores, 2 GB RAM, and 1 GB storage.
   * [PHPSandbox](https://phpsandbox.io/) - Online development environment for PHP
-  * [Replit](https://replit.com/) - A cloud coding environment for various program languages.
+  * [Qubide](https://qubide.cloud/) - IDE running on top of a container, 1 app per user
+  * [Replit](https://replit.com/) - A cloud coding environment for various program languages, plus native GCP-based object storage, Postgres DBs, etc.
   * [RunMat](https://runmat.com/sandbox) - GPU-accelerated numerical computing IDE in the browser. Write and run MATLAB-syntax .m files with automatic GPU acceleration via WebAssembly and WebGPU. No install, no account, no license fees. Open source runtime with CLI, NPM package, and Jupyter kernel support.
   * [SoloLearn](https://code.sololearn.com) - A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration is required for running code, but it is necessary when saving code on their platform. Also offers free courses for beginners and intermediate-level coders.
   * [stackblitz.com](https://stackblitz.com/) - Online/Cloud Code IDE to create, edit, & deploy full-stack apps. Support any popular NodeJs-based frontend & backend frameworks. Shortlink to create a new project: [https://node.new](https://node.new).
