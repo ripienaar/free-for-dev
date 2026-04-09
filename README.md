@@ -861,6 +861,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ImprovMX](https://improvmx.com) - Free email forwarding.
   * [Inboxes App](https://inboxesapp.com) - Create up to 3 temporary emails a day, then delete them when you're done from within a handy Chrome extension. Perfect for testing signup flows.
   * [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up to 3-day email auto-deletes. Open source and can be self-hosted.
+  * [KaiMail](https://kaimail.net) - Email forwarding for custom domains with ARC/DKIM signing. Free plan includes 1 domain, 1 mailbox, 300 emails/month, and up to 1MB message size. Email receiving webhook also available. Special plans for open-source projects.
   * [mail-tester.com](https://www.mail-tester.com) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month.
   * [Maileroo](https://maileroo.com) - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.
   * [mailcatcher.me](https://mailcatcher.me/) - Catches mail and serves it through a web interface.
