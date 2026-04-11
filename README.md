@@ -1501,6 +1501,7 @@ Update Time, five active automations, webhooks.
   * [CurrencyFreaks](https://currencyfreaks.com/) - Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
   * [currencylayer](https://currencylayer.com/) - Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.
   * [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.
+  * [UniRateAPI](https://unirateapi.com) - Comprehensive currency conversion API with 57 years of historical data (1967-present). The free tier includes 2,000 requests per day, 593 currencies including crypto and precious metals.
   * [FraudLabsPRO](https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
   * [FxRatesAPI](https://fxratesapi.com) - Provides real-time and historical exchange rates. The free tier requires attribution.
   * [Moesif API Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. The free tier offers 30,000 events/month.
