@@ -718,6 +718,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [AutoLocalise.com](https://www.autolocalise.com/) - Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
   * [crowdin.com](https://crowdin.com/) - Unlimited projects, unlimited strings, and collaborators for Open Source
+  * [doloc.io](https://doloc.io/) - API-first localization for XLIFF, JSON, ARB, Android XML, and Properties. Free forever for up to 200 source texts, with unlimited target languages and translation requests.
   * [Free PO editor](https://pofile.net/free-po-editor) - Free for everybody
   * [Lingo.dev](https://lingo.dev) - Open-source AI-powered CLI for web & mobile localization. Bring your own LLM, or use 10,000 free words every month via Lingo.dev-managed localization engine.
   * [lingohub.com](https://lingohub.com/) - Free up to 3 users, always free for Open Source
