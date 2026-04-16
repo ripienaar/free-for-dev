@@ -87,9 +87,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * Google Kubernetes Engine - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
     * BigQuery - 1 TB of querying per month, 10 GB of storage each month
     * Cloud Build - 120 build-minutes per day
-    * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
-    * [Firebase Studio](https://firebase.studio) Google Firebase Studio (formerly Project IDX). Online VSCode running on Google Cloud.
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
