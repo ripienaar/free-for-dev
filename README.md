@@ -1573,6 +1573,7 @@ Update Time, five active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Miscellaneous
+n*   [Face-Efface Photo](https://xipinocode.github.io/face-efface-photo/) - A 100% private, browser-based AI tool to automatically detect and blur faces in photos locally.
 
   * [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
   * [Blynk](https://blynk.io) - A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
