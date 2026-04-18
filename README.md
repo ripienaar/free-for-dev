@@ -709,6 +709,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) - Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
   * [openobserve.ai](https://openobserve.ai/) - 200 GB Ingestion/month free, 15 Days Retention
   * [Smart Grow Logs](https://logs.smart-grow.app/) - Centralized log management platform with end-to-end encryption, real-time alerts, and multi-platform SDKs. Free tier includes up to 3.000 logs per day.
+  * [LogLens](https://runloglens.vercel.app/) — Free, open-source, browser-based log analyzer. Paste or upload logs to group errors, detect 17 log levels, HTTP codes, and get AI-powered fix suggestions. Integrates with      OpenAI, Google Gemini, and Anthropic Claude (BYOK). No upload, no signup, fully client-side. [[Source Code]](https://github.com/SunilAngadala/LogLens)
 
 **[⬆️ Back to Top](#table-of-contents)**
 
