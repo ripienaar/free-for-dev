@@ -983,6 +983,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Portkey](https://portkey.ai/) - Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.
   * [ReportGPT](https://ReportGPT.app) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
   * [Zenable](https://zenable.io) - Instantly auto-fix outputs from tools like Cursor, Windsurf, and Copilot to meet your company's quality and compliance standards using guardrails built with Policy as Code. The free tier includes 100 tools calls per day to the MCP server and 25 free automated pull request reviews per day via the GitHub App.
+  * [grugbot420](https://github.com/grug-group420/grugbot420) - Open-source neuromorphic cognitive engine in Julia for multi-model AI orchestration. Deploy domain-expert AI specimens through architectural configuration. Completely free and MIT licensed. [#opensource](https://github.com/grug-group420/grugbot420)
 
 **[⬆️ Back to Top](#table-of-contents)**
 
