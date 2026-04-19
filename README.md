@@ -1457,7 +1457,7 @@ Update Time, five active automations, webhooks.
   * [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
   * [Row Zero](https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. Three free (forever) workbooks.
   * [Rybbit](https://rybbit.io) - Open-source and cookieless alternative to Google Analytics that is 10x more intuitive. Free plans has 3,000 monthly events.
-  * [Sleek Analytics](https://getsleek.io) - Sleek is a Privacy-focused, cookieless web analytics with real-time dashboard, AI-powered insights, and Web Vitals tracking. Free plan includes 50,000 events/month and 3 sites.
+  * [Sleek Analytics](https://getsleek.io) - Sleek Analytics is a privacy-focused, cookieless web analytics platform with a real-time dashboard, AI-powered insights, and Web Vitals tracking. Free plan includes 50,000 events/month and 3 sites.
   * [Seline](https://seline.so) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
   * [StatCounter](https://statcounter.com/) - Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.
   * [Statsig](https://statsig.com) - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.
