@@ -779,6 +779,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [syagent.com](https://syagent.com/) - Noncommercial free server monitoring service, alerts and metrics.
   * [UptimeObserver.com](https://uptimeobserver.com) - Get 20 uptime monitors with 5-minute intervals and a customizable status page-even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
   * [uptimetoolbox.com](https://uptimetoolbox.com/) - Free monitoring for five websites, 3-minute intervals, public statuspage.
+  * [uptrack.app](https://uptrack.app) - 50 free monitors — 10 at 30-second checks, 40 at 1-minute checks. Consecutive-check alert confirmation (reduces false positives), hosted status pages, email/Slack/Discord/Telegram alerts, and a built-in MCP server for AI agents. Free forever, no credit card.
   * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
   * [Xitoring.com](https://xitoring.com/) - Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
 
