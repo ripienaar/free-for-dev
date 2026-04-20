@@ -473,7 +473,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [Karbon Sites](https://www.karbonsites.space) - An AI-powered site builder and editor that generates production-ready frontend code from text prompts, sketches, or resumes. Features include native Android (APK) export and a free tier with 5 generations per month (unlimited via custom Gemini API key).
 * [Metalama](https://www.postsharp.net/metalama) - A C#-specific tool that generates boilerplate code on the fly during compilation to keep source code clean. It is free for open-source projects; its commercial-friendly free tier includes up to three aspects.
 * [Supermaven](https://www.supermaven.com/) - A high-speed AI code completion plugin for VS Code, JetBrains, and Neovim. The free tier provides unlimited inline completions with a focus on ultra-low latency.
-* [JSON2TS](https://genesisaiservices.github.io/json2ts/) - Instantly convert JSON to TypeScript interfaces. Free tool for developers — paste JSON and get typed interfaces with nested types, arrays, and optional fields. No signup required.
 * [v0.dev](https://v0.dev/) - Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. It uses a credit system, providing 1,200 starting credits and 200 free credits monthly.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -490,10 +489,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [coveralls.io](https://coveralls.io/) - Display test coverage reports, free for Open Source
   * [deepscan.io](https://deepscan.io) - Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source
   * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
-  * [BashExplain](https://genesisaiservices.github.io/bashexplain/) - Explains any bash/shell command in plain English, with per-flag breakdowns and safety warnings. Free tool, no signup required.
-  * [CronExplain](https://genesisaiservices.github.io/cronexplain/) - Instantly explain any cron expression in plain English, with next run times and visual field breakdown. Free tier; Pro adds timezone support and history.
   * [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
-  * [RegExplain](https://genesisaiservices.github.io/regexplain/) - Paste any regular expression and get a plain-English explanation with interactive match highlighting and test cases. Free tool, no signup required.
   * [eversql.com](https://www.eversql.com/) - EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries automatically.
   * [gerrithub.io](https://review.gerrithub.io/) - Gerrit code review for GitHub repositories for free
   * [goreportcard.com](https://goreportcard.com/) - Code Quality for Go projects, free for Open Source
@@ -1619,6 +1615,9 @@ Update Time, five active automations, webhooks.
   * [get.localhost.direct](https://get.localhost.direct) - A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
   * [GitHub Education](https://education.github.com/pack) - Collection of free services for students. Registration required.
   * [Glob tester](https://globster.xyz/) - A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
+  * [CronExplain](https://genesisaiservices.github.io/cronexplain/) - Free, client-side tool that converts any cron expression into a plain-English description. No signup required.
+  * [JSON2TS](https://genesisaiservices.github.io/json2ts/) - Free, client-side tool that converts JSON payloads into TypeScript interfaces. Handles nested objects, arrays, and null inference. No signup required.
+  * [RegExplain](https://genesisaiservices.github.io/regexplain/) - Free, client-side tool that explains regex patterns in plain English. No signup required.
   * [Killer Coda](https://killercoda.com/) -  Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
   * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) - Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
   * [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
