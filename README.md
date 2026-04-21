@@ -490,6 +490,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [coveralls.io](https://coveralls.io/) - Display test coverage reports, free for Open Source
   * [deepscan.io](https://deepscan.io) - Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source
   * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
+  * [Accessalyze](https://accessalyze.com) - Free WCAG 2.1 AA web accessibility scanner with AI-powered fix code suggestions. No signup required, scan any website instantly.
   * [BashExplain](https://genesisaiservices.github.io/bashexplain/) - Explains any bash/shell command in plain English, with per-flag breakdowns and safety warnings. Free tool, no signup required.
   * [CronExplain](https://genesisaiservices.github.io/cronexplain/) - Instantly explain any cron expression in plain English, with next run times and visual field breakdown. Free tier; Pro adds timezone support and history.
   * [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
