@@ -474,6 +474,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [Karbon Sites](https://www.karbonsites.space) - An AI-powered site builder and editor that generates production-ready frontend code from text prompts, sketches, or resumes. Features include native Android (APK) export and a free tier with 5 generations per month (unlimited via custom Gemini API key).
 * [Metalama](https://www.postsharp.net/metalama) - A C#-specific tool that generates boilerplate code on the fly during compilation to keep source code clean. It is free for open-source projects; its commercial-friendly free tier includes up to three aspects.
 * [Supermaven](https://www.supermaven.com/) - A high-speed AI code completion plugin for VS Code, JetBrains, and Neovim. The free tier provides unlimited inline completions with a focus on ultra-low latency.
+* [JSON2TS](https://genesisaiservices.github.io/json2ts/) - Instantly convert JSON to TypeScript interfaces. Free tool for developers — paste JSON and get typed interfaces with nested types, arrays, and optional fields. No signup required.
 * [v0.dev](https://v0.dev/) - Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. It uses a credit system, providing 1,200 starting credits and 200 free credits monthly.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -490,7 +491,11 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [coveralls.io](https://coveralls.io/) - Display test coverage reports, free for Open Source
   * [deepscan.io](https://deepscan.io) - Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source
   * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
+  * [Accessalyze](https://accessalyze.com) - Free WCAG 2.1 AA web accessibility scanner with AI-powered fix code suggestions. No signup required, scan any website instantly.
+  * [BashExplain](https://genesisaiservices.github.io/bashexplain/) - Explains any bash/shell command in plain English, with per-flag breakdowns and safety warnings. Free tool, no signup required.
+  * [CronExplain](https://genesisaiservices.github.io/cronexplain/) - Instantly explain any cron expression in plain English, with next run times and visual field breakdown. Free tier; Pro adds timezone support and history.
   * [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
+  * [RegExplain](https://genesisaiservices.github.io/regexplain/) - Paste any regular expression and get a plain-English explanation with interactive match highlighting and test cases. Free tool, no signup required.
   * [eversql.com](https://www.eversql.com/) - EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries automatically.
   * [gerrithub.io](https://review.gerrithub.io/) - Gerrit code review for GitHub repositories for free
   * [goreportcard.com](https://goreportcard.com/) - Code Quality for Go projects, free for Open Source
