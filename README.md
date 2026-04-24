@@ -600,6 +600,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Infisical](https://infisical.com/) - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.
   * [Internet.nl](https://internet.nl) - Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
   * [IntoDNS.ai](https://intodns.ai) - DNS and email security analyzer that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered explanations and fix suggestions. 100% free, no signup required.
+  * [IPASIS](https://ipasis.com) - Real-time bot detection and fraud prevention API combining IP reputation, VPN/proxy/Tor detection, and email validation in a single call. Returns an Interaction Trust Score (0-100). Free tier includes 1,000 requests/day with no credit card required.
   * [letsencrypt.org](https://letsencrypt.org/) - Free SSL Certificate Authority with certs trusted by all major browsers
   * [meterian.io](https://www.meterian.io/) - Monitor Java, Javascript, .NET, Scala, Ruby, and NodeJS projects for security vulnerabilities in dependencies. Free for one private project, unlimited projects for open source.
   * [Mozilla Observatory](https://observatory.mozilla.org/) - Find and fix security vulnerabilities in your site.
