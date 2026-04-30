@@ -1396,6 +1396,7 @@ Update Time, five active automations, webhooks.
 
 ## IDE and Code Editing
 
+  * [Pterocos](https://pterocos.eu.org) - A Free Opensource Browser-based coding environment for front-end developers. Write HTML, CSS, and JS with a VS Code-grade editor (Monaco), live preview, SCSS/TypeScript/Babel support, and an AI chat assistant for debugging and suggestions. All projects save to local storage. Free forever – no account needed.
   * [Android Studio](https://developer.android.com/studio) - Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!
   * [AndroidIDE](https://m.androidide.com/) - An Open Source IDE to develop real, Gradle-based Android applications on Android devices.
   * [Apache Netbeans](https://netbeans.apache.org/) - Development Environment, Tooling Platform and Application Framework.
