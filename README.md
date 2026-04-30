@@ -1396,7 +1396,7 @@ Update Time, five active automations, webhooks.
 
 ## IDE and Code Editing
 
-  * [pterocos](https://pterocos.eu.org) - a free opensource browser-based coding environment for front-end developers. write html, css and js with a vs code-grade editor (monaco), live preview, scss/typeScript/babel support, and an ai chat assistant for debugging and suggestions. all projects save to local storage. free forever – no account needed.
+
   * [Android Studio](https://developer.android.com/studio) - Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!
   * [AndroidIDE](https://m.androidide.com/) - An Open Source IDE to develop real, Gradle-based Android applications on Android devices.
   * [Apache Netbeans](https://netbeans.apache.org/) - Development Environment, Tooling Platform and Application Framework.
@@ -1424,6 +1424,7 @@ Update Time, five active automations, webhooks.
   * [Mocklets](https://mocklets.com) - an HTTP-based mock API simulator that helps simulate APIs for faster parallel development and more comprehensive testing, with a lifetime free tier.
   * [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
   * [OnlineGDB](https://onlinegdb.com) - A free online ide thats supports 40+ languages and is pre installed with tons of libraries; and also has a debugging option, flags, tutorials, and a QNA page!
+  * [pterocos](https://pterocos.eu.org) - a free opensource browser-based coding environment for front-end developers. write html, css and js with a vs code-grade editor (monaco), live preview, scss/typeScript/babel support, and an ai chat assistant for debugging and suggestions. all projects save to local storage. free forever – no account needed.
   * [Paiza](https://paiza.cloud/en/) - Develop Web apps in Browser without needing to set up anything. Free Plan offers one server with 24 24-hour lifetime and 4 hours of running time per day with 2 CPU cores, 2 GB RAM, and 1 GB storage.
   * [PHPSandbox](https://phpsandbox.io/) - Online development environment for PHP
   * [Replit](https://replit.com/) - A cloud coding environment for various program languages.
