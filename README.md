@@ -424,7 +424,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [slack.com](https://slack.com/) - Free for unlimited users with some feature limitations
   * [StatusPile](https://www.statuspile.com/) - A status page of status pages. Could you track the status pages of your upstream providers?
   * [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, and 1 GB storage.
-  * [StreamBackdrops](https://streambackdrops.com) - Free HD virtual backgrounds for video calls and team meetings. Professional backgrounds for Zoom, Teams, and Google Meet. No signup required, free for personal use.
+  * [MeetBackdrops](https://meetbackdrops.com) - Free HD virtual backgrounds for video calls on Zoom, Microsoft Teams, and Google Meet. 1,000+ studio-designed environments with no signup required.
   * [talky.io](https://talky.io/) - Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
   * [Teamcamp](https://www.teamcamp.app) - All-in-one project management application for software development companies.
   * [Teamhood](https://teamhood.com/) - Free Project, Task, and Issue-tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for five users and three project portfolios.
