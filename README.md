@@ -853,6 +853,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
   * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
   * [EmailGuard](https://emailguard.lazrek.net/) - Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
+  * [EmailHealth](https://emailhealth.app) - Free email deliverability checker. Instantly check SPF, DKIM, DMARC, MX records, blacklist status,
+  SSL/TLS, and BIMI for any domain. No account needed.
   * [EmailJS](https://www.emailjs.com/) - This is not an entire email server; this is just an email client that you can use to send emails right from the client without exposing your credentials, the free tier has 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
   * [EmailLabs.io](https://emaillabs.io/en) - Send up to 9,000 Emails for free every month, up to 300 emails daily.
   * [EmailQo Email Infrastructure Grader](https://emailqo.com/email-grader) - Free email infrastructure grader that checks SPF, DKIM, DMARC and mail server configuration. Scores any domain out of 100. No signup required.
