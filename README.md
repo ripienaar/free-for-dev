@@ -772,6 +772,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months of historical Uptime/Logs, unlimited status pages, and custom domains included! For infinite time and unlimited email alerts for free. You don't need a credit card.
   * [robusta.dev](https://home.robusta.dev/) - Powerful Kubernetes monitoring based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. The free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.
   * [Servervana](https://servervana.com) - Advanced uptime monitoring with support for large projects and teams. Provides HTTP monitoring, Browser based monitoring, DNS monitoring, domain monitoring, status pages and more. The free tier includes 10 HTTP monitors, 1 DNS monitor and one status page.
+  * [SchemaWatch](https://schemawatch.tuvia.nl) - API schema monitoring and quality scoring for OpenAPI specs. Detect breaking changes, get A-F quality grades, and track schema versions over time. Free tier includes monitoring for 3 APIs.
   * [Simple Observability](https://simpleobservability.com) - Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. Free for one server.
   * [sitesure.net](https://sitesure.net) - Website and cron monitoring - 2 monitors free
   * [skylight.io](https://www.skylight.io/) - Free for first 100,000 requests (Rails only)
