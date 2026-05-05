@@ -394,6 +394,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [flock.com](https://flock.com) - A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
   * [GitBook](https://www.gitbook.com/) - Platform for capturing and documenting technical knowledge - from product docs to internal knowledge bases and APIs. Free plan for individual developers.
   * [GitDailies](https://gitdailies.com) - Daily reports of your team's Commit and Pull Request activity on GitHub. Includes Push visualizer, peer recognition system, and custom alert builder. The free tier has unlimited users, three repos, and 3 alert configs.
+  * [Gitchat](https://gitchat.sh) - Chat with developers you already follow on GitHub, right inside VS Code, Cursor, or Windsurf. GitHub identity is your login — no new account needed. DMs, group chats, and repo channels. VS Code extension at https://github.com/GitchatSH/gitchat_extension. Free for individuals.
   * [gitter.im](https://gitter.im/) - Chat, for GitHub. Unlimited public and private rooms, free for teams of up to 25
   * [gokanban.io](https://gokanban.io) - Syntax-based, no registration Kanban Board for fast use. Free with no limitations.
   * [Hackmd.io](https://hackmd.io/) - Real time collaboration & writing tool for markdown format docs/files. Like Google Docs but for markdown files. Free unlimited number of "notes", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).
