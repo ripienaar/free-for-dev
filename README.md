@@ -1297,6 +1297,7 @@ Update Time, five active automations, webhooks.
   * [imagekit.io](https://imagekit.io) - Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. The free plan includes up to 20GB of bandwidth per month.
   * [ImgBB](https://imgbb.com/) - ImgBB is an unlimited image hosting service. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
   * [Imgbot](https://github.com/marketplace/imgbot) - Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
+  * [imgen](https://www.jitbit.com/imgen/) - On the fly image generation API (text over background, logo) for opengraph images, free, no watermark, CDN
   * [imgix](https://www.imgix.com/) - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth
   * [internxt.com](https://internxt.com) - Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
   * [kraken.io](https://kraken.io/) - Image optimization for website performance as a service, free plan up to 1 MB file size
