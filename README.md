@@ -713,6 +713,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) - Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
   * [openobserve.ai](https://openobserve.ai/) - 200 GB Ingestion/month free, 15 Days Retention
   * [Smart Grow Logs](https://logs.smart-grow.app/) - Centralized log management platform with end-to-end encryption, real-time alerts, and multi-platform SDKs. Free tier includes up to 3.000 logs per day.
+  * [Middleware](https://middleware.io/product/log-monitoring/) - Middleware Log Monitoring provides centralized, cost-effective log management that's easy to search and filter, giving complete visibility across your infrastructure and applications for faster troubleshooting. 14 days free trial and Free access to all features.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
