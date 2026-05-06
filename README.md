@@ -1093,6 +1093,7 @@ Update Time, five active automations, webhooks.
   * [Alwaysdata](https://www.alwaysdata.com/) - 1 GB free web hosting with support for MySQL, PostgreSQL, RabbitMQ, .NET, Deno, Elixir, Go, Java, Lua, Node.js, PHP, Python, Ruby, Rust. Custom web servers, access via FTP, WebDAV and SSH. Mailbox, mailing list and app installer included. No custom domain on free plan.
   * [Awardspace.com](https://www.awardspace.com) - Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
   * [Bubble](https://bubble.io/) - Visual programming to build web and mobile apps without code, free with Bubble branding.
+  * [BrewPage](https://brewpage.app) - Free instant hosting for HTML, Markdown, JSON, and files. No signup, no credit card. Permanent shareable HTTPS URLs. HTML 5 MB, JSON 1 MB, files 5 MB (video 20 MB), site bundle 20 MB, 15-day default TTL, 30-day max. Rate limits: 60 uploads/hr/IP, 300 reads/min/IP.
   * [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.
   * [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.
   * [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
