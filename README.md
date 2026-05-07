@@ -256,6 +256,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, unlimited basic machines with 5GB RAM and 2vCPU, and teams with up to 3 editors.
   * [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
   * [Disease.sh](https://disease.sh/) - A free API providing accurate data for building the Covid-19 related useful Apps.
+  * [DocKit](https://www.geekfun.club/dockit/) - Free and open-source NoSQL GUI client for DynamoDB, Elasticsearch, and OpenSearch. AI-assisted querying, multi-tab support, import/export, and DynamoDB Local support. Apache 2.0 license.
   * [Doczilla](https://www.doczilla.app/) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
   * [Doppio](https://doppio.sh/) - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
   * [drawDB](https://drawdb.app/) - Free and open-source online database diagram editor with no signup required.
