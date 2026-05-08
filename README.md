@@ -1092,6 +1092,7 @@ Update Time, five active automations, webhooks.
 
   * [Alwaysdata](https://www.alwaysdata.com/) - 1 GB free web hosting with support for MySQL, PostgreSQL, RabbitMQ, .NET, Deno, Elixir, Go, Java, Lua, Node.js, PHP, Python, Ruby, Rust. Custom web servers, access via FTP, WebDAV and SSH. Mailbox, mailing list and app installer included. No custom domain on free plan.
   * [Awardspace.com](https://www.awardspace.com) - Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
+  * [BrewPage](https://brewpage.app) - Free hosting for HTML pages, JSON, key-value pairs, files, and multi-file sites. Short URLs, 15-30 day TTL, owner-token updates, public OpenAPI and MCP server. No account required.
   * [Bubble](https://bubble.io/) - Visual programming to build web and mobile apps without code, free with Bubble branding.
   * [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.
   * [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.
