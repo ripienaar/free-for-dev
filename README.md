@@ -1226,6 +1226,7 @@ Update Time, five active automations, webhooks.
   * [Cloudcraft](https://cloudcraft.co/) - Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with intelligent components that show live data too. Free plan has unlimited private diagrams for single user.
   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool is used to help teams collaborate and share knowledge efficiently. Free plan for up to 10 users.
   * [Crosswork](https://crosswork.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
+  * [DeskLeap](https://deskleap.io/) - Help desk and customer support platform with ticket management, live chat widget, knowledge base, and canned responses. The free plan includes 2 agents and 50 tickets per month.
   * [diagrams.net](https://app.diagrams.net/) - Online diagrams stored locally in Google Drive, OneDrive, or Dropbox. Free for all features and storage levels
   * [easyretro.io](https://www.easyretro.io/) - Simple and intuitive sprint retrospective tool. The free plan has three public boards and one survey per board per month.
   * [freedcamp.com](https://freedcamp.com/) - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users, and file storage.
