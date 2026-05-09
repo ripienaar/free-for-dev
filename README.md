@@ -342,6 +342,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [The IP API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
   * [Tomorrow.io Weather API](https://www.tomorrow.io/weather-api/) - Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.
+  * [ToolZip JSON Formatter](https://toolzip.xyz/developer-tools/json-formatter) - Free online JSON formatter, validator, and explorer with tree view, JSONPath query, and error highlighting. Runs entirely in the browser with no data sent to servers. Unlimited usage, no sign-up required.
   * [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
   * [Trophy](https://trophy.so) - API infrastructure for building gamification features like achievements, streaks, points and leaderboards in web and mobile apps. Free for 100 monthly active users.
   * [UniRateAPI](https://unirateapi.com) - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
@@ -505,6 +506,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [semanticdiff.com](https://app.semanticdiff.com/) - Programming language aware diff for GitHub pull requests and commits, free for public repositories
   * [shields.io](https://shields.io) - Quality metadata badges for open source projects
   * [sonarcloud.io](https://sonarcloud.io) - Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
+  * [ToolZip Regex Tester](https://toolzip.xyz/developer-tools/regex-tester) - Free online regex tester with live pattern highlighting, match group extraction, and plain-English explanations. Supports JavaScript regex syntax. 100% client-side, no sign-up, unlimited usage.
+
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1614,6 +1617,7 @@ Update Time, five active automations, webhooks.
   * [superfeedr.com](https://superfeedr.com/) - Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
   * [SurveyMonkey.com](https://www.surveymonkey.com) - Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
   * [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
+  * [ToolZip](https://toolzip.xyz) - 35+ free browser-based developer tools including JSON formatter, regex tester, Base64 encoder/decoder, hash generator (MD5/SHA-256/SHA-512), color converter, UUID/ULID generator, cron expression builder, and more. All tools run 100% client-side, no data sent to servers. No sign-up, no usage limits, unlimited requests.
   * [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
   * [Versionfeeds](https://versionfeeds.com) - Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
 
