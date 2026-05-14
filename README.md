@@ -76,6 +76,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Major Cloud Providers
 
   * [Google Cloud Platform](https://cloud.google.com)
+- [Google Cloud Free Tier](https://cloud.google.com/free) - Google Cloud free tier with always-free products and 90-day trial.
     * App Engine - 28 frontend instance hours per day, nine backend instance hours per day
     * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
     * Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
