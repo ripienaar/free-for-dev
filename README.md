@@ -1446,8 +1446,9 @@ Update Time, five active automations, webhooks.
   * [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
   * [wakatime.com](https://wakatime.com/) - Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.
   * [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.
+  * [WebIDE] -WebIDE is an offline HTML/CSS/JS with website preveiw built-in, available to my(Em776102) knowledge only on Amazon Appstore.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](ttable-of-contents)**
 
 ## Analytics, Events and Statistics
 
