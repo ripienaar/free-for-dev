@@ -1450,6 +1450,7 @@ Update Time, five active automations, webhooks.
 
 ## Analytics, Events and Statistics
 
+- [WebCoreLab](https://webcorelab.com) — Free tier: 272-check SEO audit + AI visibility score. For developers and small teams.
   * [amplitude.com](https://amplitude.com/) - 1 million monthly events, up to 2 apps
   * [AppFit](https://appfit.io) - AppFit is a comprehensive analytics and product management tool designed to facilitate seamless, cross-platform management of analytics and product updates. Free plan includes 10,000 events per month, product journal and weekly insights.
   * [Aptabase](https://aptabase.com) - Open Source, Privacy-Friendly, and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron, and many others. Free for up to 20,000 events per month.
