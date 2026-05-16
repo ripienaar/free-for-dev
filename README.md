@@ -863,6 +863,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [EmailLabs.io](https://emaillabs.io/en) - Send up to 9,000 Emails for free every month, up to 300 emails daily.
   * [EmailQo Email Infrastructure Grader](https://emailqo.com/email-grader) - Free email infrastructure grader that checks SPF, DKIM, DMARC and mail server configuration. Scores any domain out of 100. No signup required.
   * [EmailOctopus](https://emailoctopus.com) - Up to 2,500 subscribers and 10,000 emails per month free
+  * [Sequenzy](https://www.sequenzy.com/) - Email marketing and transactional email platform for SaaS teams. Free plan includes 2,500 emails/month.
   * [Emailvalidation.io](https://emailvalidation.io) - 100 free email verifications per month
   * [Emitlo](https://emitlo.com) - free 12,000 emails/month, Email API and SMTP, SPF/DKIM/DMARC support, No Credit Cards are required.
   * [EtherealMail](https://ethereal.email) - Ethereal is a fake SMTP service, mainly aimed at Nodemailer and EmailEngine users (but not limited to). It's an entirely free anti-transactional email service where messages never get delivered.
