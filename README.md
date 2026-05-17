@@ -746,6 +746,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - Find Core Web Vitals history for a url or a website.
   * [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.
   * [datadoghq.com](https://www.datadoghq.com/) - Free for up to 5 nodes
+  * [devhelm.io](https://devhelm.io/) - Uptime monitoring, incident management, and third-party dependency tracking. The free plan includes 5 monitors with 60-second checks, alerts via email, Slack, and webhooks, and a public status page.
   * [deadmanssnitch.com](https://deadmanssnitch.com/) - Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up
   * [downtimemonkey.com](https://downtimemonkey.com/) - 60 uptime monitors, 5-minute interval. Email, Slack alerts.
   * [economize.cloud](https://economize.cloud) - Economize helps demystify cloud infrastructure costs by organizing cloud resources to optimize and report the same. Free for up to $5,000 spent on Google Cloud Platform every month.
