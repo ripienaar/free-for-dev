@@ -1330,6 +1330,7 @@ Update Time, five active automations, webhooks.
   * [tinypng.com](https://tinypng.com/) - API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
   * [transloadit.com](https://transloadit.com/) - Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 2 GB free for test driving
   * [twicpics.com](https://www.twicpics.com) - Responsive images as a service. It provides an image CDN, a media processing API, and a frontend library to automate image optimization. The service is free for up to 3GB of traffic/per month.
+  * [UPCGen](https://upcgen.com) - Free UPC barcode generator for B2B
   * [uploadcare.com](https://uploadcare.com/hub/developers/) - Uploadcare provides the media pipeline with the ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery, and Smart Compression. The free tier has 3000 uploads, 3 GB traffic, and 3 GB storage.
   * [VaocherApp QR Code Generator](https://www.vaocherapp.com/qr-code-generator) - Easily create custom QR codes for gift cards, gift vouchers, and promotions. Support custom styling, color, logo...
 
