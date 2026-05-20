@@ -453,6 +453,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [RightFeature](https://rightfeature.com/) - Easily collect feedback from your customers, turn customer feedback into your product roadmap. Collect, prioritize, and ship features that actually matter to your users.
 
 **[⬆️ Back to Top](#table-of-contents)**
+- [Ano](https://ano.chat/) — Collaborative team chat and developer workspace featuring a native in-app terminal, integrated AI (like Claude Code), and native MCP support. Completely free during its active beta period.
 
 ## CMS
 
