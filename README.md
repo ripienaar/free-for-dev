@@ -1641,6 +1641,7 @@ Update Time, five active automations, webhooks.
   * [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
   * [RedHat for Developers](https://developers.redhat.com) - Free access to Red Hat products including RHEL, OpenShift, CodeReady, etc. exclusively for developers. Individual plan only. Free e-books are also offered for reference.
   * [sandbox.httpsms.com](https://sandbox.httpsms.com) - Send and receive test SMS messages for free.
+  * [UtlKit](https://utlkit.com/) - 100+ free online developer tools (JSON/XML/SQL formatter, Base64, regex tester, hash generator, password tools, image utilities, and more). Runs entirely client-side in the browser with no sign-up, no tracking, and no data leaving your device. Bilingual (EN/ZH-CN).
   * [SimpleBackups.com](https://simplebackups.com/) - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
