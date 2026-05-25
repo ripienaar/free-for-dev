@@ -20,6 +20,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [APIs, Data and ML](#apis-data-and-ml)
   * [Artifact Repos](#artifact-repos)
   * [BaaS](#baas)
+* [WebExtract](https://scrapersaas.surge.sh) — AI-powered web scraping API. Turn any URL into structured JSON. Free tier: 500 pages/month.
   * [Low-code Platform](#low-code-platform)
   * [CDN and Protection](#cdn-and-protection)
   * [CI and CD](#ci-and-cd)
