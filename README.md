@@ -1359,6 +1359,7 @@ Update Time, five active automations, webhooks.
   * [Shadcn Studio](https://shadcnstudio.com/theme-editor) - Preview your theme changes across different components and layouts.
   * [smartmockups.com](https://smartmockups.com/) - Create product mockups, 200 free mockups.
   * [TeleportHQ](https://teleporthq.io/) - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to instantly create and publish headless static websites. Three free projects, unlimited collaborators, and free code export.
+  * [ToolKnit](https://toolknit.com) - A 100% browser-based online toolkit offering 65+ free utilities for PDF editing, image optimization, audio/video conversion, and text formatting. No registration required and data is processed locally.
   * [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. One website for free.
   * [Updrafts.app](https://updrafts.app) - WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.
   * [Webflow](https://webflow.com) - WYSIWYG website builder with animations and website hosting. Free for two projects.
