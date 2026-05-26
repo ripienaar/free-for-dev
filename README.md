@@ -1299,6 +1299,7 @@ Update Time, five active automations, webhooks.
   * [getpantry.cloud](https://getpantry.cloud/) - A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
   * [gumlet.com](https://www.gumlet.com/) - Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
+  * [hyperserve.io](https://hyperserve.io/) - Video backend API for developers: upload any format, transcode to MP4, deliver via CDN. The free tier includes 10 videos, 300 MB per file, and 50 GB bandwidth per month.
   * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
   * [image-charts.com](https://www.image-charts.com/) - Unlimited image chart generation with a watermark
   * [ImageEngine](https://imageengine.io/) - ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
