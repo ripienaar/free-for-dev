@@ -530,7 +530,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
   * [bytebase.com](https://www.bytebase.com/) - Database CI/CD and DevOps. Free under 20 users and ten database instances
   * [CircleCI](https://circleci.com/) - Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, ARM executors, local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
-  * [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
   * [cirun.io](https://cirun.io) - Free for public GitHub repositories
   * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month
   * [deployhq.com](https://www.deployhq.com/) - 1 project with ten daily deployments (30 build minutes/month)
