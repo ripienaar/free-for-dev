@@ -1608,6 +1608,8 @@ Update Time, five active automations, webhooks.
   * [redirs.com](https://www.redirs.com/) — Easy domain redirects with auto-SSL, analytics, and URL path forwarding. Free for basic use (up to 5 domains).
   * [RedirHub](https://www.redirhub.com/) - API-first URL redirect infrastructure with custom nameservers, edge network, HTTPS, and proactive link monitoring. Free plan includes 2 hostnames, 100K requests per month, auto-SSL, path forwarding, and REST API access.
   * [ReqBin](https://reqbin.com/) - Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
+  * [SlugGenerator.app](https://sluggenerator.app) - Free client-side URL slug generator with bulk mode,
+accent/CJK transliteration, and 8 case-conversion variants (kebab, snake, camel, title). No signup, no tracking.
   * [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
   * [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
   * [superfeedr.com](https://superfeedr.com/) - Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
