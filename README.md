@@ -1278,6 +1278,7 @@ Update Time, five active automations, webhooks.
 
 ## Storage and Media Processing
 
+* [bulkconvert](https://www.bulkconvert.io) - Privacy-first file conversion API. 32 format pairs, EU-hosted, free tier (3/day) on every account, Bearer-token HTTP API.
   * [AndroidFileHost](https://androidfilehost.com/) - Free file-sharing platform with unlimited speed, bandwidth, file count, download count, etc. It is mainly aimed for Android dev-related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.
   * [anon.li Drop](https://anon.li/drop) - Zero-knowledge E2EE file sharing with client-side AES-256-GCM encryption and zero server-side data access. Free uploads for files up to 5GB with max expiry up to 3 days through the website, CLI or API.
   * [borgbase.com](https://www.borgbase.com/) - Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and two repositories.
