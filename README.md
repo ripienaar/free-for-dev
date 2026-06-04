@@ -1639,3 +1639,4 @@ Update Time, five active automations, webhooks.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
 
 **[⬆️ Back to Top](#table-of-contents)**
+  * [BreakShield CI](https://breakshield-ci.vercel.app) — GitHub App that detects breaking API changes in PRs using AST analysis. AI auto-fix with /fix command. Free and open-source.
