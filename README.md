@@ -591,6 +591,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [crypteron.com](https://www.crypteron.com/) - Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [CyberChef](https://gchq.github.io/CyberChef/) - A simple, intuitive web app for analyzing and decoding/encoding data without dealing with complex tools or programming languages. Like a Swiss army knife of cryptography & encryption. All features are free to use, with no limit. Open source if you wish to self-host.
   * [Datree](https://www.datree.io/) - Open Source CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
+  * [decode64](https://decode64.com) - Free online Base64 decoder and encoder. Runs entirely in the browser using native browser APIs — no server, no uploads. Useful for inspecting JWT tokens, API keys, and auth headers safely.
   * [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, JavaScript, Python, PHP, Elixir, 
     Rust, Java (Maven and Gradle), .NET, Go, Elm, Docker, Terraform, Git Submodules, and GitHub Actions.
   * [DJ Checkup](https://djcheckup.com) - Scan your Django site for security flaws with this free, automated checkup tool. Forked from the Pony Checkup site.
