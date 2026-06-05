@@ -1507,7 +1507,7 @@ Update Time, five active automations, webhooks.
 ## Payment and Billing Integration
 
   * [Adapty.io](https://adapty.io/) - One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
-  * [Churnkey SDK](https://sdk.churnkey.co) - An open-source cancel flow for React by the Churnkey team. Survey, offers, feedback, and confirmation in one component. Free forever.
+  * [Churnkey SDK](https://sdk.churnkey.co?intent=sdk&utm_source=free-for-dev-repo&utm_medium=free-for-dev-repo&utm_campaign=free-for-dev-repo) - An open-source cancel flow for React by the Churnkey team. Survey, offers, feedback, and confirmation in one component. Optionally, [sign up](https://app.churnkey.co/register?intent=sdk&utm_source=free-for-dev-repo&utm_medium=free-for-dev-repo&utm_campaign=free-for-dev-repo) for free Churnkey account for revenue-based cancel flow analytics and [churn metrics](https://churnkey.co/churn-metrics?intent=sdk&utm_source=free-for-dev-repo&utm_medium=free-for-dev-repo&utm_campaign=free-for-dev-repo). 
   * [CoinMarketCap](https://coinmarketcap.com/api/) - Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
   * [Currencyapi](https://currencyapi.com) - Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
   * [CurrencyApi](https://currencyapi.net/) - Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
