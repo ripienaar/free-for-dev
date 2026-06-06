@@ -338,6 +338,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Sqlable](https://sqlable.com/) - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.
   * [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
   * [Tavily AI](https://tavily.com/) - API for online search and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
+  * [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native x402 MCP server for AI agent trust scoring. 4 free tools (`resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`) score any Solana wallet: on-chain activity, tx patterns, network age, recurring behavior. Zero-install Streamable HTTP. `claude mcp add twzrd-agent-intel --transport http https://intel.twzrd.xyz/mcp`
   * [TemplateFox](https://pdftemplateapi.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
   * [The IP API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
