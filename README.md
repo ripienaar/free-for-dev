@@ -1516,6 +1516,7 @@ Update Time, five active automations, webhooks.
   * [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.
   * [FraudLabsPRO](https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
   * [FxRatesAPI](https://fxratesapi.com) - Provides real-time and historical exchange rates. The free tier requires attribution.
+  * [InvoiceFree](https://invoicefree.org) — Free invoice generator with no signup, no watermarks, and no limits. Create professional PDF invoices instantly. Supports 50+ currencies and 8 languages.
   * [Moesif API Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. The free tier offers 30,000 events/month.
   * [ParityVend](https://www.ambeteco.com/ParityVend/) - Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month.
   * [Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
