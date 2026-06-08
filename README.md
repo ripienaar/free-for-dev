@@ -758,6 +758,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [isitdownstatus.com](https://isitdownstatus.com) – Free public JSON API returning real-time status for 500+ popular services (GitHub, Stripe, AWS, etc.). No auth required, CORS enabled.
   * [linkok.com](https://linkok.com) - Online broken link checker, free for small websites up to 100 pages, completely free for open-source projects.
   * [loader.io](https://loader.io/) - Free load testing tools with limitations
+  * [MarionetteOps.com](https://www.marionetteops.com/) - Server monitoring, public status pages, server monitoring, and service uptime monitoring.
   * [Middleware.io](https://middleware.io/) -  Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for up to 1M log events, Infrastructure monitoring & APM for up to 2 hosts.
   * [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
   * [netdata.cloud](https://www.netdata.cloud/) - Netdata is an open-source tool to collect real-time metrics. It's a growing product and can also be found on GitHub!
