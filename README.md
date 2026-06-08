@@ -339,6 +339,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Tavily AI](https://tavily.com/) - API for online search and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
   * [TemplateFox](https://pdftemplateapi.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
   * [The IP API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.
+  * [TimeZoneMeet](https://timezonemeet.app/api.html) - Convert a UTC timestamp to any IANA time zone (DST-aware): local time, ISO-8601, UTC offset, and day-of-week. The free tier includes 1,000 requests/day.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
   * [Tomorrow.io Weather API](https://www.tomorrow.io/weather-api/) - Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.
   * [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
