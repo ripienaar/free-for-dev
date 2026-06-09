@@ -933,6 +933,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Bunny](https://fonts.bunny.net) - Privacy oriented Google Fonts
   * [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property and are either freeware, shareware, demo versions, or public domain.
   * [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
+  * [FontBoxDL](https://fontboxdl.com/) - Free font library with 60,000+ typefaces (instant download, no signup), plus a free webfont generator that converts TTF/OTF to WOFF2 with ready-to-use @font-face CSS.
   * [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
   * [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
   * [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
