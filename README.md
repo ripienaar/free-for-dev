@@ -312,6 +312,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100 free requests / month.
   * [OCR.Space](https://ocr.space/) - An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.
   * [OpenAPI3 Designer](https://openapidesigner.com/) - Visually create Open API 3 definitions for free.
+   * [OpenChainBench](https://openchainbench.com) - Live, reproducible benchmarks for crypto infrastructure (L1 finality, RPC latency, bridge fees, gas estimation accuracy). Free JSON API per benchmark (https://openchainbench.com/api/stat/l1-finality), no key required, CC-BY licensed data.
   * [Parseur](https://parseur.com) - 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
