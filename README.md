@@ -1377,6 +1377,7 @@ Update Time, five active automations, webhooks.
   * [here](https://developer.here.com/) - APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
   * [IP Geolocation](https://ipgeolocation.io/) - Free DEVELOPER plan available with 30K requests/month.
   * [ipstack](https://ipstack.com/) - Locate and identify Website Visitors by IP Address
+  * [LatLng](https://www.latlng.work) - Geocoding, reverse geocoding, places, static maps, and vector map tiles APIs. Free tier includes 3,000 geocoding requests/day, 300 reverse geocoding requests/day, and 100 static map images/day.
   * [locationiq.com](https://locationiq.com/) - Geocoding, Maps, and Routing APIs. Five thousand requests/day for free.
   * [mapbox.com](https://www.mapbox.com/) - Maps, geospatial services and SDKs for displaying map data.
   * [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
