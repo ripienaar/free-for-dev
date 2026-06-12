@@ -1501,6 +1501,7 @@ Update Time, five active automations, webhooks.
 
   * [numverify](https://numverify.com/) - Global phone number validation and lookup JSON API. 100 API requests/month
   * [veriphone](https://veriphone.io/) - Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
+  * [VeriRoute Intel](https://verirouteintel.com/) - CNAM caller ID, carrier/LRN lookup and spam scoring for US/Canada phone numbers. Free carrier (LRN) lookups on unfunded accounts
 
 **[⬆️ Back to Top](#table-of-contents)**
 
