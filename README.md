@@ -280,6 +280,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) - IP Geolocation API from Abstract - Allows 1,000 free requests.
   * [IP Geolocation](https://ipgeolocation.io/) - IP Geolocation API - Forever free plan for developers with a 1,000 requests per day limit.
   * [ip-api](https://ip-api.com) - IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
+  * [IP-API.io](https://ip-api.io) - IP geolocation with VPN/proxy/Tor detection, IP reputation, risk scoring and email validation. Free tier: 200 IP lookups and 10 email validations per day with a free API key.
   * [IP.City](https://ip.city) - 100 Free IP geolocation requests per day
   * [IP2Location.io](https://www.ip2location.io/) - Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, ASN, AS data and more. The free plan includes 50k credits per month. IP2Location.io also offers 500 free WHOIS and hosted domain lookups per month. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.
   * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API to convert IP addresses into location data including city, country, timezone, ASN, and currency. The free plan includes 1,000 requests per month.
