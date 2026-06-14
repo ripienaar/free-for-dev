@@ -135,7 +135,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Oracle Cloud](https://www.oracle.com/cloud/)
     * Compute
        - 2 AMD-based Compute VMs with 1/8 OCPU and 1 GB memory each
-       - 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
+       - 2 Arm-based Ampere A1 cores and 12 GB of memory usable as one VM or up to 2 VMs
        - Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
     * Block Volume - 2 volumes, 200 GB total (used for compute)
     * Object Storage - 10 GB
