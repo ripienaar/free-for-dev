@@ -1630,6 +1630,8 @@ Update Time, five active automations, webhooks.
 
 ## Other Free Resources
 
+  * [Mini Tools Free Image Hosting](https://mini-tools.uk/upload) - Free image hosting for GitHub README, Markdown and HTML outputs.
+
   * [get.localhost.direct](https://get.localhost.direct) - A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
   * [GitHub Education](https://education.github.com/pack) - Collection of free services for students. Registration required.
   * [Glob tester](https://globster.xyz/) - A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
