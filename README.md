@@ -62,6 +62,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Authentication, Authorization, and User Management](#authentication-authorization-and-user-management)
   * [Source Code Repos](#source-code-repos)
   * [Storage and Media Processing](#storage-and-media-processing)
+  * [RatPDF](https://ratpdf.com/) - Browser-based PDF toolkit: compress, merge, split, convert PDF↔Word/Excel, OCR, sign, and watermark. Free tier: 3 uses per tool per day, 200 MB per file, no signup required.
   * [Tunneling, WebRTC, Web Socket Servers and Other Routers](#tunneling-webrtc-web-socket-servers-and-other-routers)
   * [Testing](#testing)
   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
