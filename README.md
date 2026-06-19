@@ -1045,6 +1045,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [pythonanywhere.com](https://www.pythonanywhere.com/) - Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to  quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
+  * [Zerops](https://zerops.io) — Developer cloud with full Linux containers and managed databases. Try Zerops without installing or forking anything, deploy one of our curated recipes, examples are covering the full development lifecycle from local dev through staging to production, with built-in seeding, migrations, backups and scaling.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
