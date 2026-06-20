@@ -749,6 +749,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [datadoghq.com](https://www.datadoghq.com/) - Free for up to 5 nodes
   * [deadmanssnitch.com](https://deadmanssnitch.com/) - Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up
   * [downtimemonkey.com](https://downtimemonkey.com/) - 60 uptime monitors, 5-minute interval. Email, Slack alerts.
+  * [drumbeats.io](https://drumbeats.io/) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors with 1-min interval and unlimited team seats.
   * [economize.cloud](https://economize.cloud) - Economize helps demystify cloud infrastructure costs by organizing cloud resources to optimize and report the same. Free for up to $5,000 spent on Google Cloud Platform every month.
   * [fivenines.io](https://fivenines.io/) - Linux server monitoring with real‑time dashboards and alerting - free forever for up to 5 monitored servers at 60-seconds interval. No credit card required.
   * [FlareWarden](https://flarewarden.com) - Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
