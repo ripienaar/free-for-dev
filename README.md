@@ -40,6 +40,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Feature Toggles Management Platforms](#feature-toggles-management-platforms)
   * [Font](#font)
   * [Forms](#forms)
+  * [GeneTech Knowledge Engine](https://genetech.tools) - 12 domain science knowledge base API with 4,000+ structured entities (genes, quantum, nuclear, brain, deep-sea, etc.). Free tier: 30 calls/hour, no signup. MCP-compatible.
   * [Generative AI](#generative-ai)
   * [IaaS](#iaas)
   * [IDE and Code Editing](#ide-and-code-editing)
