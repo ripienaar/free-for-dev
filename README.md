@@ -1642,5 +1642,7 @@ Update Time, five active automations, webhooks.
   * [SimpleBackups.com](https://simplebackups.com/) - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
+  * [ToolsNova](https://toolsnova.net) - 154 free browser-based tools for developers, students and traders. Includes JSON formatter, regex tester, base64 encoder, calculators, converters and more. Works offline as a PWA, no signup needed, 100% client-side.
 
 **[⬆️ Back to Top](#table-of-contents)**
+
