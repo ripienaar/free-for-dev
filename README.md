@@ -2,7 +2,7 @@
 
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
-This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
+This is a list of software (SaaS, PaaS, IaaS, etc.) and hother offerings with free developer tiers.
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
@@ -1511,6 +1511,7 @@ Update Time, five active automations, webhooks.
   * [Adapty.io](https://adapty.io/) - One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
   * [AllRatesToday](https://allratestoday.com) - Real-time mid-market exchange rates for 150+ currencies with official JavaScript, Python, and PHP SDKs. Free tier includes 300 requests/month over HTTPS.
   * [Churnkey](https://churnkey.co) - Cancel flows (open-sourced), churn metrics, and revenue analytics for subscription businesses. Free forever.
+  * [ClearlyLedger](https://clearlyledger.com) - Free bank statement converter that transforms PDF bank statements into balance-verified Excel or CSV files. First conversion free, no signup required, supports 350+ banks across 50+ countries.
   * [CoinMarketCap](https://coinmarketcap.com/api/) - Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
   * [Currencyapi](https://currencyapi.com) - Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
   * [CurrencyApi](https://currencyapi.net/) - Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
