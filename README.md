@@ -1336,6 +1336,7 @@ Update Time, five active automations, webhooks.
 ## Design and UI
 
   * [BoxySVG](https://boxy-svg.com) - A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
+  * [BrandIcons](https://brandicons.dev) - Brand/favicon icon for any domain from a single URL, with an AI fallback for brands that have no live site. Free tier: 500,000 requests/month.
   * [Calendar Icons Generator](https://calendariconsgenerator.app/) - Generate an entire year's worth of unique icons in a single click, absolutely FREE
   * [Canva](https://canva.com) - Free online design tool to create visual content.
   * [CodedThemes](https://codedthemes.com/) - Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.
