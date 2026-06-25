@@ -222,6 +222,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## APIs, Data, and ML
 
   * [Abstract API](https://www.abstractapi.com) - API suite for various use cases, including IP geolocation, phone number validation, or email validation.
+  * [Almanac.tools](https://almanac.tools) - Deterministic reference & validation APIs behind one key: VAT/IBAN/BIC validation, business-day & holiday calendars, ISO 4217 currencies, country/industry/tariff codes, and identifier checksums. Free tier available, no credit card required.
   * [Apify](https://www.apify.com/) - Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
   * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
   * [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month. (Possibly taken down, 2025-06-25)
