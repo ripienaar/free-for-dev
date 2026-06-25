@@ -362,6 +362,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+- [DomainIntel API](https://domainintel.onrender.com) — Free domain intelligence API: RDAP registration data, DNS records, certificate transparency logs, and bulk parallel lookups.
 ## Artifact Repos
 
   * [Gemfury](https://gemfury.com) - Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, and RPM repositories. Free for public projects.
