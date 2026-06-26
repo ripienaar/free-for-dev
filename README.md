@@ -1315,6 +1315,7 @@ Update Time, five active automations, webhooks.
   * [packagecloud.io](https://packagecloud.io/) - Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
   * [pcloud.com](https://www.pcloud.com/) - Cloud storage service. Up to 10 GB of free storage
   * [Pinata IPFS](https://pinata.cloud) - Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface and IPFS API make Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free, along with access to API.
+  * [PixelVault](https://pixelvault.dev) - Agent-first image hosting for developers and AI agents. Upload via REST API or a remote MCP server and get instant CDN URLs. Free tier includes 200 MB storage, 500 uploads/month, 1 GB bandwidth/month, and a 5 MB max file size.
   * [plot.ly](https://plot.ly/) - Graph and share your data. The free tier includes unlimited public files and ten private files
   * [podio.com](https://podio.com/) - You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
   * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
