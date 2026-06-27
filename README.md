@@ -1637,6 +1637,7 @@ Update Time, five active automations, webhooks.
   * [Glob tester](https://globster.xyz/) - A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
   * [Killer Coda](https://killercoda.com/) -  Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
   * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) - Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
+  * [DevLab](https://devlab.tools/) - 20+ free browser-based developer tools including regex tester, JSON formatter/validator/minifier, JWT decoder, Base64 encoder, URL encoder, SHA hash generator, text diff, and more. All tools run client-side, no account needed.
   * [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
   * [RedHat for Developers](https://developers.redhat.com) - Free access to Red Hat products including RHEL, OpenShift, CodeReady, etc. exclusively for developers. Individual plan only. Free e-books are also offered for reference.
   * [sandbox.httpsms.com](https://sandbox.httpsms.com) - Send and receive test SMS messages for free.
