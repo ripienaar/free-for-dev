@@ -281,7 +281,9 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IP Geolocation](https://ipgeolocation.io/) - IP Geolocation API - Forever free plan for developers with a 1,000 requests per day limit.
   * [ip-api](https://ip-api.com) - IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
   * [IP.City](https://ip.city) - 100 Free IP geolocation requests per day
-  * [IP2Location.io](https://www.ip2location.io/) - Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, ASN, AS data and more. The free plan includes 50k credits per month. IP2Location.io also offers 500 free WHOIS and hosted domain lookups per month. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.
+  * [IP2Location.io](https://www.ip2location.io/) - Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, ASN, AS data and more. The free plan includes 50k credits per month. IP2Location.io also offers 
+  500 free WHOIS and hosted domain lookups per month. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.
+  * [GeoIPHub](https://geoiphub.com) - Fast, accurate, and free (up to 100k/month) IP intelligence API. Covers geolocation, VPN/proxy/Tor detection, threat scoring, ASN, carrier, and abuse data — with explainable fraud signals and no field paywalls. Paid plans include active port probing and higher rate limits.
   * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API to convert IP addresses into location data including city, country, timezone, ASN, and currency. The free plan includes 1,000 requests per month.
   * [ipaddress.sh](https://ipaddress.sh) - Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
   * [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
