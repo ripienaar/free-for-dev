@@ -89,6 +89,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * Cloud Build - 120 build-minutes per day
     * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     * [Kaggle](https://www.kaggle.com/) - Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification - 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.
+    * [Google Gemini API](https://ai.google.dev/) - Get free access to Gemini 1.5 Pro and Gemini 1.5 Flash models. The free tier offers 15 requests per minute, 1,500 requests per day, and 1 million tokens per minute.
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
@@ -269,7 +270,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FraudLabs Pro](https://www.fraudlabspro.com) - Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
   * [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
   * [Geolocated.io](https://geolocated.io) - IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
-  * [Google Gemini API](https://ai.google.dev/) - Get free access to Gemini 1.5 Pro and Gemini 1.5 Flash models. The free tier offers 15 requests per minute, 1,500 requests per day, and 1 million tokens per minute.
   * [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
   * [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
   * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
