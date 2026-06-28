@@ -791,6 +791,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [uptimetoolbox.com](https://uptimetoolbox.com/) - Free monitoring for five websites, 3-minute intervals, public statuspage.
   * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
   * [Xitoring.com](https://xitoring.com/) - Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
+  * [UptimeRobot](https://uptimerobot.com/) - Free uptime monitoring for hobby projects. Includes 50 monitors with 5-minute check intervals, supports HTTP, ping, port, and keyword monitoring. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
