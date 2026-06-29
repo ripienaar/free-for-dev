@@ -673,7 +673,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Esper](https://esper.io) - MDM and MAM for Android Devices with DevOps. One hundred devices free with one user license and 25 MB Application Storage.
   * [jamf.com](https://www.jamf.com/) -  Device management for iPads, iPhones, and Macs, three devices free
   * [Miradore](https://miradore.com) - Device Management service. Stay up-to-date with your device fleet and secure unlimited devices for free. The free plan offers basic features.
-  * [moss.sh](https://moss.sh) - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
   * [ploi.io](https://ploi.io/) - Server management tool to easily manage and deploy your servers & sites. Free for one server.
   * [runcloud.io](https://runcloud.io/) - Server management focusing mainly on PHP projects. Free for up to 1 server.
   * [serveravatar.com](https://serveravatar.com) - Manage and monitor PHP-based web servers with automated configurations. Free for one server.
