@@ -1,0 +1,37 @@
+name: generate-json
+
+on:
+  push:
+    branches: [master, stable]
+    paths: [README.md]
+  pull_request:
+    paths: [README.md, generate-json.py]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate JSON from README
+        run: python3 generate-json.py --input README.md --output-dir .
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet free-for-dev.json free-for-dev.min.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      - name: Commit changes
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add free-for-dev.json free-for-dev.min.json
+          git commit -m "Auto-generate free-for-dev.json from README.md"
+          git push

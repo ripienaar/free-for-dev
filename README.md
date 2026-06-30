@@ -12,6 +12,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
 
+> **Machine-readable data:** This repo also provides [`free-for-dev.json`](free-for-dev.json) — a structured JSON export of the same data, auto-generated from the README. See [`free-for-dev.min.json`](free-for-dev.min.json) for a compact version. Regenerate with `python3 generate-json.py`.
+
 # Table of Contents
 
   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
