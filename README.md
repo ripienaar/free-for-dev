@@ -1531,6 +1531,7 @@ Update Time, five active automations, webhooks.
   * [ParityVend](https://www.ambeteco.com/ParityVend/) - Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month.
   * [Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
   * [RevenueCat](https://www.revenuecat.com/) - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.
+  * [Shieldz](https://shieldz.cash) - Non-custodial crypto payment gateway and API. Accept USDC, USDT, Bitcoin and Zcash directly to your own wallet with $0 platform fees and no KYC to start.
   * [vatlayer](https://vatlayer.com/) - Instant VAT number validation and EU VAT rates API, free 100 API requests/month
 
 **[⬆️ Back to Top](#table-of-contents)**
