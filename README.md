@@ -603,6 +603,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Guardfos Scanner](https://guardfos.com/scanner) - Free online WordPress security scanner. No credit card or account required. Results are available instantly.
   * [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
   * [Have I been pwned?](https://haveibeenpwned.com) - REST API for fetching the information on the breaches.
+  * [HimitsuShell](https://himitsushell.com) - A shell script DRM compiler that converts shell scripts into obfuscated binaries using an embedded shell interpreter and anti-debugging (alternative to shc). Free unlimited web edition.
   * [hostedscan.com](https://hostedscan.com) - Online vulnerability scanner for web applications, servers, and networks. Ten free scans per month.
   * [Infisical](https://infisical.com/) - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.
   * [Internet.nl](https://internet.nl) - Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
