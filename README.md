@@ -800,6 +800,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+- [sunwatch](https://sunwatch.sunfamily.xyz) — Uptime monitoring with 3 free monitors, 1-minute checks, and webhook alerts. Paid extras at $1/monitor/month via USDC on Base; no account or KYC required.
+
 ## Crash and Exception Handling
 
   * [Axiom](https://axiom.co/) - Store up to 0.5 TB of logs with 30-day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
