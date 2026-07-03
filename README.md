@@ -1538,6 +1538,7 @@ Update Time, five active automations, webhooks.
   * [Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
   * [RevenueCat](https://www.revenuecat.com/) - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.
   * [vatlayer](https://vatlayer.com/) - Instant VAT number validation and EU VAT rates API, free 100 API requests/month
+  * [GenerateSEPA](https://generatesepa.com/) - A cloud service with a simple REST API that turns Excel, CSV or JSON input into bank-ready SEPA XML files (pain.001 credit transfers and pain.008 direct debits), validates IBANs/BICs, and issues mandate PDFs, so developers can integrate European batch payments into their ERP, billing or SaaS systems without hand-crafting the XML or tracking schema changes.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
