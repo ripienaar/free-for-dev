@@ -794,6 +794,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [supaguard.app](https://supaguard.app/) - Synthetic monitoring from 20+ global regions. The free tier includes 1,000 browser checks/mo with AI-driven self-healing and automated test generation.
   * [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) - Server monitoring, uptime monitoring, DNS & domain monitoring. Monitor 10 server, 10 uptime, and 10 domain for free.
   * [syagent.com](https://syagent.com/) - Noncommercial free server monitoring service, alerts and metrics.
+  * [System Status](https://status.silinode.in/) - Free for commercial and hobby use website monitoring and SSL expiry alert service.
   * [UptimeObserver.com](https://uptimeobserver.com) - Get 20 uptime monitors with 5-minute intervals and a customizable status page-even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
   * [uptimetoolbox.com](https://uptimetoolbox.com/) - Free monitoring for five websites, 3-minute intervals, public statuspage.
   * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
