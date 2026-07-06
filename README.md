@@ -1139,6 +1139,7 @@ Update Time, five active automations, webhooks.
   * [cloudns.net](https://www.cloudns.net/) - Free DNS hosting up to 1 domain with 50 records
   * [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).
   * [dns.he.net](https://dns.he.net/) - Free DNS hosting service with Dynamic DNS Support
+  * [DNSai](https://dnsai.com/dns-tools/) - Free DNS lookup and email-authentication checking tools (DNS/WHOIS, SPF, DKIM, DMARC, blacklists) with no signup, plus a free API tier (100 lookups/day with a free key).
   * [dnspod.com](https://www.dnspod.com/) - Free DNS hosting.
   * [duckdns.org](https://www.duckdns.org/) - Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
   * [Dynv6.com](https://dynv6.com/) - Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).
