@@ -264,6 +264,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Disease.sh](https://disease.sh/) - A free API providing accurate data for building the Covid-19 related useful Apps.
   * [Doczilla](https://www.doczilla.app/) - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
   * [Doppio](https://doppio.sh/) - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
+  * [DocPenny](https://docpenny.com) - HTML to PDF document generation with templates, webhook delivery, and credit-based pricing. Free plan with 50 monthly credits, no credit card required.
   * [Doqlo](https://doqlo.com/) - Bulk fill and mail merge PDF forms from CSV using the web app or Public API. The free plan includes 100 output PDFs/month.
   * [drawDB](https://drawdb.app/) - Free and open-source online database diagram editor with no signup required.
   * [DynamicDocs](https://advicement.io) - Generate PDF documents with JSON to PDF API based on LaTeX templates. The free plan allows 50 API calls per month and access to a library of templates.
