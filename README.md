@@ -421,6 +421,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [paste.sh](https://paste.sh/) - This is a JavaScript and the Crypto based simple paste site.
   * [Pastefy](https://pastefy.app/) - Beautiful and simple Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more.
   * [Pendulums](https://pendulums.io/) - Pendulums is a free time tracking tool that helps you manage your time in a better manner with an easy-to-use interface and valuable statistics.
+  * [PRFlow](https://prflow.dev/) - GitLab and GitHub pull request notifications in Slack. Free for teams of up to 3 developers.
   * [Proton Pass](https://proton.me/pass) - Password manager with built-in email aliases, 2FA authenticator, sharing and passkeys. Available on web, browser extension, and mobile app and desktop.
   * [Pullflow](https://pullflow.com) - Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.
   * [Pumble](https://pumble.com) - Free team chat app. Unlimited users and message history, free forever.
