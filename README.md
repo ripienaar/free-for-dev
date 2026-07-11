@@ -6,7 +6,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with fre
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrators, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
-This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
+This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests]f(https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
@@ -276,8 +276,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FormatJSONOnline.com](https://formatjsononline.com) - A free, browser-based tool to format, validate,compare and minify JSON data instantly.
   * [FraudLabs Pro](https://www.fraudlabspro.com) - Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
   * [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
-  * Funding Signals - Scored, enriched API of companies that just raised funding, sourced from public SEC Form D filings. Filters out noise (amendments,investment funds) and scores each lead 0-100. Free tier includes up to 1,500 calls/month, no card required.
-  * [Geolocated.io](https://geolocated.io) - IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
+* [Funding Signals](https://funding-signals-api.onrender.com) - Scored, enriched API of companies that just raised funding, sourced from public SEC Form D filings. Filters out noise (amendments, investment funds) and scores each lead 0-100. Free tier includes up to 1,500 calls/month, no card required.
+   * [Geolocated.io](https://geolocated.io) - IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
   * [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
   * [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
   * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
