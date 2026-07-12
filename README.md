@@ -276,7 +276,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FormatJSONOnline.com](https://formatjsononline.com) - A free, browser-based tool to format, validate,compare and minify JSON data instantly.
   * [FraudLabs Pro](https://www.fraudlabspro.com) - Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
   * [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
-  * [Geolocated.io](https://geolocated.io) - IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
+* [Funding Signals](https://funding-signals-api.onrender.com) - Scored, enriched API of companies that just raised funding, sourced from public SEC Form D filings. Filters out noise (amendments, investment funds) and scores each lead 0-100. Free tier includes up to 1,500 calls/month, no card required.
+   * [Geolocated.io](https://geolocated.io) - IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
   * [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
   * [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
   * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
