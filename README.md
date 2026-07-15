@@ -277,6 +277,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FraudLabs Pro](https://www.fraudlabspro.com) - Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
   * [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
   * [Geolocated.io](https://geolocated.io) - IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
+  * [Halal Terminal](https://api.halalterminal.com/docs) - Shariah (halal) compliance screening API for stocks and ETFs across 5 methodologies (AAOIFI, DJIM, FTSE, MSCI, S&P), with zakat and purification calculators, an MCP server and an interactive playground. The free tier includes a monthly token allowance with all endpoints accessible, no card required.
   * [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
   * [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
   * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
