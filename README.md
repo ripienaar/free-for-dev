@@ -69,7 +69,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Visitor Session Recording](#visitor-session-recording)
   * [Web Hosting](#web-hosting)
   * [Commenting Platforms](#commenting-platforms)
-  * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
   * [Remote Desktop Tools](#remote-desktop-tools)
   * [Other Free Resources](#other-free-resources)
 
