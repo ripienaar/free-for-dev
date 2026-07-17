@@ -1651,7 +1651,8 @@ Update Time, five active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Other Free Resources
-
+  
+  * [BackupDrill](https://backupdrill.com) - Backs up Supabase projects to your own S3/R2/B2 bucket, then runs scheduled restore drills to prove backups restore. Provides a free plan with weekly backups for one project and one restore drill on your first backup.
   * [get.localhost.direct](https://get.localhost.direct) - A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
   * [GitHub Education](https://education.github.com/pack) - Collection of free services for students. Registration required.
   * [Glob tester](https://globster.xyz/) - A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
