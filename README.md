@@ -1187,6 +1187,7 @@ Update Time, five active automations, webhooks.
   * [8base.com](https://www.8base.com/) - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service. It allows you to start building web applications quickly using a UI app builder and scale quickly, The Free tier includes rows: 2,500, Storage: 500, Serverless computing: 1Gb/h, and client app users: 5.
   * [airtable.com](https://airtable.com/) - Looks like a spreadsheet, but it's a relational database unlimited bases, 1,200 rows/base, and 1,000 API requests/month
   * [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Valkey (Redis compatible) plans on its open-source data platform. Single node, 1 CPU, 1GB RAM, and for PostgreSQL and MySQL, 1GB storage. Easy migration to more extensive plans or across clouds.
+  * [BackupDrill](https://backupdrill.com) - Backs up Supabase projects to your own S3/R2/B2 bucket, then runs scheduled restore drills to prove backups restore. Provides a free plan with weekly backups for one project and one restore drill on your first backup.
   * [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) - Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://www.cockroachlabs.com/docs/cockroachcloud/metrics-request-units.html))
   * [codehooks.io](https://codehooks.io/) - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.
   * [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster with 1 node and 8GB storage, built for developers to create the next generation of applications across IoT to AI
@@ -1653,7 +1654,7 @@ Update Time, five active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Other Free Resources
-
+  
   * [get.localhost.direct](https://get.localhost.direct) - A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
   * [GitHub Education](https://education.github.com/pack) - Collection of free services for students. Registration required.
   * [Glob tester](https://globster.xyz/) - A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
