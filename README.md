@@ -1311,6 +1311,7 @@ Update Time, five active automations, webhooks.
   * [borgbase.com](https://www.borgbase.com/) - Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and two repositories.
   * [cloudinary.com](https://cloudinary.com/) - Image upload, powerful manipulations, storage, and delivery for sites and apps, with Ruby, Python, Java, PHP, Objective-C, and more libraries. The free tier includes 25 monthly credits. One credit equals 1,000 image transformations, 1 GB of storage, or 1 GB of CDN usage.
   * [degoo.com](https://degoo.com/) - AI based cloud storage with free up to 20 GB, three devices, 5 GB referral bonus (90 days account inactivity).
+  * [dlvr.sh](https://dlvr.sh/) - Temporary file delivery for agents and automation. Free tier includes 10 deliveries every 24 hours with API, MCP, and CLI access.
   * [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
   * [embed.ly](https://embed.ly/) - Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
   * [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
