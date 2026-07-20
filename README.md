@@ -89,7 +89,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     * [Kaggle](https://www.kaggle.com/) - Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification, 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with a usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with a usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.
     * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Free remote desktop app with practically no limit on the number of devices, owned by Google, so needs a Google account.
-    * [Google Gemini API](https://ai.google.dev/) - Get free access to Gemini 1.5 Pro and Gemini 1.5 Flash models. The free tier offers 15 requests per minute, 1,500 requests per day, and 1 million tokens per minute.
+    * [Google AI Studio](https://aistudio.google.com/) - Get free access to Gemini 3.5 Flash, Gemini 3 Flash and Gemma 4 models. The free tier for Flash offers 5 requests per minute, 20 requests per day, and 250k input tokens per minute. Meanwhile the free tier for Gemma 4 offers 30 requests per minute, 14.4k requests per day, but (only) 16k input tokens per minute.
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
