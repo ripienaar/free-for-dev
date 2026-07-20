@@ -999,6 +999,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Generative AI
 
+  * [Agents Launchpad](https://launchpad.smartbizcalc.com) - Curated directory of indie AI agents, MCP servers, Claude Code skills, and CLI tools. Free to submit and browse — no account required to explore 245+ listings.
   * [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product inlcudes 25k spans and ingestion volume of 1gb per month.
   * [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) - AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
   * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
