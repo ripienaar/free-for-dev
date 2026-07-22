@@ -869,6 +869,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [anon.li Alias](https://anon.li/alias) - Open source, anonymous email alias/forwarding solution with PGP encryption, reply capability, 10 random & 1 custom alias on the free plan with developer API & CLI.
   * [Antideo](https://www.antideo.com) - 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
+  * [Anypost](https://anypost.com) - transactional and broadcast email API. 3,000 emails/month free, then as low as 8¢ per 1k
   * [Brevo](https://www.brevo.com/) - 9,000 emails/month, 300 emails/day free
   * [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
   * [Burnermail](https://burnermail.io/) - Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
