@@ -902,6 +902,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [mailinator.com](https://www.mailinator.com/) - Free, public email system where you can use any inbox you want
   * [Mailjet](https://www.mailjet.com/) - 6,000 emails/month free (200 emails daily sending limit)
   * [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
+  * [MailSink](https://mailsink.dev/) - Disposable email inboxes for QA testing and AI agents. REST API with OTP and verification-link extraction, plus an MCP server for Claude and Cursor. Free tier: 50 inboxes/month.
   * [Mailtrap.io](https://mailtrap.io/) - Email API, SMTP, 3,500 emails/month free for transactional and marketing emails. Email Sandbox - fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
   * [Mutant Mail](https://www.mutantmail.com/) - Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
   * [OneSignal](https://onesignal.com/) - 10,000 emails/month,No Credit Cards are required.
