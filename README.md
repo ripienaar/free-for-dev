@@ -224,6 +224,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## APIs, Data, and ML
 
   * [Abstract API](https://www.abstractapi.com) - API suite for various use cases, including IP geolocation, phone number validation, or email validation.
+  * - [1Lookup](https://www.1lookup.io) - Data verification platform offering free tools and APIs for phone number lookup, HLR lookup, email verification, IP lookup, carrier lookup, and other identity intelligence solutions.
   * [AlphaAI](https://alphai.io/developers) - Financial news API and MCP server. Every article gets per-ticker impact analysis, a category, and a 1-10 relevance score, and SEC Form 4 insider filings are turned into scored events. The free tier includes 20 requests per minute and 100 requests per day on both REST and MCP, no card required.
   * [Apify](https://www.apify.com/) - Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
   * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
