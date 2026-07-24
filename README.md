@@ -1540,6 +1540,7 @@ Update Time, five active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Payment and Billing Integration
+  * [InvoiceGen](https://invoice-generator.appsnap.co.uk) - Free online invoice generator — create professional PDF invoices in seconds, no signup required. Free tier with unlimited invoices and PDF download.
 
   * [Adapty.io](https://adapty.io/) - One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
   * [AllRatesToday](https://allratestoday.com) - Real-time mid-market exchange rates for 150+ currencies with official JavaScript, Python, and PHP SDKs. Free tier includes 300 requests/month over HTTPS.
