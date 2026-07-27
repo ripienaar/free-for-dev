@@ -99,11 +99,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users, 5k repositories/account, 50GB storage/month and 10K requests/month
     * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline/month
     * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
-    * [EC2](https://aws.amazon.com/ec2/) - Use credits to access(6mo)
-    * [EBS](https://aws.amazon.com/ebs/) - Use credits to access(6mo)
-    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - Use credits to access(6mo)
-    * [RDS](https://aws.amazon.com/rds/) - Use credits to access(12 mo)
-    * [S3](https://aws.amazon.com/s3/) - Use credits to access(6mo)
     * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests/month
     * [SNS](https://aws.amazon.com/sns/) - 1 million publishes/month
     * [SES](https://aws.amazon.com/ses/) - 3.000 messages/month (6mo)
