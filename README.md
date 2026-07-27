@@ -93,21 +93,22 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
-    * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month, 10M HTTP requests, and 2M Function invocations per month
-    * [CloudWatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and ten alarms
-    * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
-    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage, and 10000 requests per month
-    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
+    * Get up to $200 in credits for new accounts: you get $100 in credits immediately. As you explore key services, you can earn up to $100 more. That's up to $200 over 6 months to build, break things, and experiment with no charges and no surprise bills on the Free plan. The account closes on its own 6 months after you open it or when your credits run out, whichever comes first. You won’t be charged unless you convert to a Paid plan.
+
+    * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress/month, 10M HTTP requests, and 2M Function invocations/month
+    * [CloudWatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and alarms, 1M API requests, 5GB of log data ingestion and 5GB of log data archive
+    * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time/month
+    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users, 5k repositories/account, 50GB storage/month and 10K requests/month
+    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline/month
     * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
-    * [SimpleDB](https://aws.amazon.com/simpledb/) - 25 machine hours and 1GB per month
-    * [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month
-    * [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
-    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
-    * [RDS](https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo)
-    * [S3](https://aws.amazon.com/s3/) - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo)
-    * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
-    * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
-    * [SES](https://aws.amazon.com/ses/) - 3.000 messages per month (12mo)
+    * [EC2](https://aws.amazon.com/ec2/) - Use credits to access(6mo)
+    * [EBS](https://aws.amazon.com/ebs/) - Use credits to access(6mo)
+    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - Use credits to access(6mo)
+    * [RDS](https://aws.amazon.com/rds/) - Use credits to access(12 mo)
+    * [S3](https://aws.amazon.com/s3/) - Use credits to access(6mo)
+    * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests/month
+    * [SNS](https://aws.amazon.com/sns/) - 1 million publishes/month
+    * [SES](https://aws.amazon.com/ses/) - 3.000 messages/month (6mo)
     * [SQS](https://aws.amazon.com/sqs/) - 1 million messaging queue requests
     * Full, detailed list - https://aws.amazon.com/free/
 
