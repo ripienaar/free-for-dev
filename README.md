@@ -1397,7 +1397,10 @@ Update Time, five active automations, webhooks.
   * [WrapPixel](https://www.wrappixel.com/) - Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS! HTML Themes and UI Kits to create your applications faster!
   * [Themeselection](https://themeselection.com/) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
   * [AdminMart](https://adminmart.com/) - High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
+  * [Shadcn Dashboard](https://shadcndashboard.dev/) - A production-ready shadcn dashboard kit with reusable UI blocks, components, and built-in AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase.
+  * [Shadcn Space](https://shadcnspace.com/) - A collection of beautifully designed, accessible, and composable free and Pro Shadcn UI blocks, components, and templates for your React/Next.js apps.
 
+    
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Data Visualization on Maps
