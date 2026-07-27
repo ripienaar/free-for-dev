@@ -93,8 +93,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
-    * Get up to $200 in credits for new accounts: you get $100 in credits immediately. As you explore key services, you can earn up to $100 more. That's up to $200 over 6 months to build, break things, and experiment with no charges and no surprise bills on the Free plan. The account closes on its own 6 months after you open it or when your credits run out, whichever comes first. You won’t be charged unless you convert to a Paid plan.
-
     * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress/month, 10M HTTP requests, and 2M Function invocations/month
     * [CloudWatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and alarms, 1M API requests, 5GB of log data ingestion and 5GB of log data archive
     * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time/month
