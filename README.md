@@ -1542,6 +1542,7 @@ Update Time, five active automations, webhooks.
 
   * [Adapty.io](https://adapty.io/) - One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
   * [AllRatesToday](https://allratestoday.com) - Real-time mid-market exchange rates for 150+ currencies with official JavaScript, Python, and PHP SDKs. Free tier includes 300 requests/month over HTTPS.
+  * [Codex](https://www.codex.io) - Real-time crypto and prediction market data API for pricing, charts, transactions, wallet balances, and trending data. The free tier offers 10,000 requests for free per month, with credit card or crypto authentication required.
   * [Churnkey](https://churnkey.co) - Cancel flows (open-sourced), churn metrics, and revenue analytics for subscription businesses. Free forever.
   * [CoinMarketCap](https://coinmarketcap.com/api/) - Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
   * [Currencyapi](https://currencyapi.com) - Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
