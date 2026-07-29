@@ -1177,6 +1177,7 @@ Update Time, five active automations, webhooks.
   * [DigitalPlat](https://domain.digitalplat.org) - Free subdomains.
   * [DNSHE](https://www.dnshe.com/) - Free subdomain registration across multiple domain suffixes, with custom nameserver support.
   * [isroot.in](https://isroot.in) - Free isroot.in subdomains.
+  * [PNTR](https://pntr.dev) - Free `yourname.pntr.dev` subdomains with A/AAAA/CNAME/TXT/MX records, managed from a web dashboard, REST API, CLI, or MCP client. 3 subdomains per account.
   * [pp.ua](https://nic.ua/) - Free pp.ua subdomains.
 
 **[⬆️ Back to Top](#table-of-contents)**
