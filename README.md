@@ -1175,6 +1175,7 @@ Update Time, five active automations, webhooks.
 ## Domain
 
   * [DigitalPlat](https://domain.digitalplat.org) - Free subdomains.
+  * [FluxCast Domains](https://sub.fluxcast.dev) - Free GitOps-driven subdomain registry (`*.fluxcast.dev`) for developers with automated GitHub Actions validation.
   * [DNSHE](https://www.dnshe.com/) - Free subdomain registration across multiple domain suffixes, with custom nameserver support.
   * [isroot.in](https://isroot.in) - Free isroot.in subdomains.
   * [pp.ua](https://nic.ua/) - Free pp.ua subdomains.
