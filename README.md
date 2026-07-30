@@ -753,6 +753,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [checklyhq.com](https://checklyhq.com) - Open source E2E / Synthetic monitoring and deep API monitoring for developers. Free plan with one user and 10k API & network / 1.5k browser check runs.
   * [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - Find Core Web Vitals history for a url or a website.
   * [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.
+  * [Clearstatus](https://clearstatus.zapto.org) - Free hosted status page for indie devs — 1 page and 5 components free forever, $9/mo flat if you need more.
   * [datadoghq.com](https://www.datadoghq.com/) - Free for up to 5 nodes
   * [deadmanssnitch.com](https://deadmanssnitch.com/) - Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up
   * [downtimemonkey.com](https://downtimemonkey.com/) - 60 uptime monitors, 5-minute interval. Email, Slack alerts.
