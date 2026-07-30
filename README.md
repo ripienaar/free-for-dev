@@ -227,7 +227,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [BigDataCloud](https://www.bigdatacloud.com/) - Provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
   * [Brave Search API](https://brave.com/search/api/) - Independent web, news, image, video search and AI/LLM context API, suitable for RAG pipelines and AI agents. Free tier includes $5 in monthly credits (credit card required for verification).
   * [Browse AI](https://www.browse.ai) - Extracting and monitoring data on the web. 1k credits per month for free, equals 1k concurrent requests.
-  * [BrowserCat](https://www.browsercat.com) - Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. Free plan with 1k requests per month.
   * [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. The free plan includes 500 calls per month.
   * [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.
   * [CarAPI.dev](https://carapi.dev) - Comprehensive automotive data API with VIN decoding, stolen vehicle checks, vehicle valuation, inspection data, and more. Free tier includes 100 requests/month across all 9 endpoints.
@@ -331,8 +330,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Scraper's Proxy](https://scrapersproxy.com) - Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).
   * [ScrapingAnt](https://scrapingant.com/) - Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free 10,000 API credits.
   * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
-  * [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into a RESTful API. Free plan available, including 1,000 free rows per sheet.
-  * [SikkerAPI](https://sikkerapi.com) - Free IP Reputation & Threat Intelligence, powered by a globally distributed high interaction honeypot network and community reported abuse incidents. 1,000 free IP lookups, TAXII indicators & reports per day, pull 5,000 fresh IPs from our blacklists daily and monitor your own CIDR ranges (/16) free free.
   * [Simplescraper](https://simplescraper.io) - Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.
   * [Geekflare API](https://geekflare.com/api/) - Geekflare API lets you scrape websites into Markdown, take screenshots, perform TLS scans and DNS lookups, test load times, and more. The free plan offers 500 API credits per month (e.g., 500 DNS lookups, 250 web scrapes, or 100 screenshots). See [credit mapping](https://docs.geekflare.com/api/api-credit-mapping).
   * [SmartParse](https://smartparse.io) - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes 300 Processing Units per month, Browser uploads, Data quarantining, Circuit breakers, and Job Alerts.
@@ -1008,7 +1005,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource](https://github.com/future-agi/future-agi)
   * [Keywords AI](https://keywordsai.co) - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!
   * [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse)
-  * [Langtrace](https://langtrace.ai) - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.
   * [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource](https://github.com/langwatch/langwatch)
   * [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource](https://github.com/latitude-dev/latitude-llm)
   * [Lumenfall.ai](https://lumenfall.ai/) - AI media gateway providing unified access to leading image generation models via an OpenAI-compatible API. The platform itself is free to use with zero markup and no subscription fee. Inference costs for most models are billed at provider price, but FLUX.1 [schnell] FP8 is offered free forever with unlimited usage for registered users. Built-in failover and provider resilience included.
@@ -1090,7 +1086,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [onesignal.com](https://onesignal.com/) - Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.
   * [paraio.com](https://paraio.com) - Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
   * [pubnub.com](https://www.pubnub.com/) - Free push notifications for up to 1 million messages/month and 100 active daily devices
-  * [pushbots.com](https://pushbots.com/) - Push notification service. Free for up to 1.5 million pushes/month
   * [pusher.com](https://pusher.com/beams) - Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
   * [simperium.com](https://simperium.com/) - Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
   * [snill.ai](https://snill.ai) - AI no-code platform that turns a plain-language description into a complete business system with a relational database, dashboards, workflows, REST API and webhooks. Free plan for solo operators includes 2 apps, 1,000 records and 10 AI requests/day.
@@ -1221,7 +1216,6 @@ Update Time, five active automations, webhooks.
 
 ## Tunneling, WebRTC, Web Socket Servers and Other Routers
 
-  * [btunnel](https://www.btunnel.in/) - Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.
   * [cname.dev](https://cname.dev/) - Free and secure dynamic reverse proxy service.
   * [conveyor.cloud](https://conveyor.cloud/) - Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
   * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
@@ -1456,7 +1450,6 @@ Update Time, five active automations, webhooks.
   * [Lazarus](https://www.lazarus-ide.org/) - Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.
   * [MarsCode](https://www.marscode.com/) - A free AI-powered cloud-based IDE.
   * [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
-  * [mockable.io](https://www.mockable.io/) - Mockable is a simple configurable service to mock out RESTful API or SOAP web services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.
   * [mockaroo](https://mockaroo.com/) - Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
   * [Mocklets](https://mocklets.com) - an HTTP-based mock API simulator that helps simulate APIs for faster parallel development and more comprehensive testing, with a lifetime free tier.
   * [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
