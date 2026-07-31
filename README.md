@@ -1511,6 +1511,7 @@ Update Time, five active automations, webhooks.
 
 ## Visitor Session Recording
 
+  * [Apstal](https://apstal.com) - Cookieless web analytics with session replay, heatmaps, funnels, and AI-powered insights. Free tier: 100,000 events/month with session replays and heatmaps, no credit card required.
   * [FullStory.com](https://www.fullstory.com) - 1,000 sessions/month with one month data retention and three user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
   * [howuku.com](https://howuku.com) - Track user interaction, engagement, and event. Free for up to 5,000 visits/month
   * [inspectlet.com](https://www.inspectlet.com/) - 2,500 sessions/month free for one website
