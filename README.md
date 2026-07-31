@@ -1017,6 +1017,10 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [telemetry.dev](https://telemetry.dev) - Observability for AI/LLM apps built on OpenTelemetry. Traces model calls and tool steps with tokens, cost, latency and errors; send OTLP over HTTP from any language or use the TypeScript SDKs. Free plan includes 10,000 spans/month, 7-day retention, 1 project and 2 seats, no credit card.
   * [Transcript LOL](https://transcript.lol/) - Converts audio or video to text using AI. Generates summaries and other insights using LLMs. The free tier includes 2 transcriptions per day. You can upload files, record voice notes, or use links from YouTube, Instagram etc. The free version also supports WhatsApp, Telegram and importing files directly from cloud storages - Google Drive, Dropbox, Box and OneDrive. No API key needed. Sign up and ready to use. Also has apps for mobiles, desktops and chromebooks.
   * [Zenable](https://zenable.io) - Instantly auto-fix outputs from tools like Cursor, Windsurf, and Copilot to meet your company's quality and compliance standards using guardrails built with Policy as Code. The free tier includes 100 tools calls per day to the MCP server and 25 free automated pull request reviews per day via the GitHub App.
+  * [AI Logo Generator](https://aielogo.com) - Free AI-powered logo generator that creates SVG logos from text prompts. Multiple styles and color palettes, instant SVG download with no watermark or signup required. All generation runs client-side.
+  * [Grammar AI Check](https://grammaraicheck.com) - Free AI grammar checker and writing assistant that runs entirely in the browser. Checks grammar, spelling, punctuation, and style with no signup, no data collection, and no usage limits.
+  * [AI Logo Generator](https://aielogo.com) - Free AI-powered logo generator that creates SVG logos from text prompts. Multiple styles and color palettes, instant SVG download with no watermark or signup required. All generation runs client-side.
+  * [Grammar AI Check](https://grammaraicheck.com) - Free AI grammar checker and writing assistant that runs entirely in the browser. Checks grammar, spelling, punctuation, and style with no signup, no data collection, and no usage limits.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1618,6 +1622,9 @@ Update Time, five active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Miscellaneous
+
+  * [Binary Translator](https://bintranslate.com) - Free online binary-to-text translator with hex, decimal, octal, and ASCII support. Runs entirely in the browser with no server processing. Includes a built-in ASCII reference table.
+  * [Bitwise Calculator](https://bitwisecalc.com) - Free bitwise operations calculator supporting AND, OR, XOR, NOT, left shift, and right shift. Displays results in binary, decimal, and hexadecimal simultaneously with real-time calculation.
 
   * [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
   * [Blynk](https://blynk.io) - A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
