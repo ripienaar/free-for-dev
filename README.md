@@ -1400,7 +1400,8 @@ Update Time, five active automations, webhooks.
   * [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
   * [Geokeo api](https://geokeo.com) - Geocoding API with language correction and more. Worldwide coverage. 2,500 free daily queries
   * [graphhopper.com](https://www.graphhopper.com/) - A free developer package is offered for Routing, Route Optimization, Distance Matrix, Geocoding, and Map Matching.
-  * [here](https://developer.here.com/) - APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
+  * [here](https://developer.here.com/)
+  * [InstaMaps](https://get-instamaps.com/tools/geocoder) - Geocoding via paste or CSV, first 100 addresses free instantly with no key or signup. Also a free multi-stop route planner (up to 100 stops in one Google Maps link) and live maps from Google Sheets data. - APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
   * [IP Geolocation](https://ipgeolocation.io/) - Free DEVELOPER plan available with 30K requests/month.
   * [ipstack](https://ipstack.com/) - Locate and identify Website Visitors by IP Address
   * [LatLng](https://www.latlng.work) - Geocoding, reverse geocoding, places, static maps, and vector map tiles APIs. Free tier includes 3,000 geocoding requests/day, 300 reverse geocoding requests/day, and 100 static map images/day.
