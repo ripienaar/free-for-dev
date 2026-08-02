@@ -925,6 +925,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [verimail.io](https://verimail.io/) - Bulk and API email verification service. 100 free verifications/month
   * [Waitlio](https://waitlio.com/) - Waitlist management software for product launches. Create branded waitlist pages, collect and verify email subscribers, manage signups with tags and analytics. Free plan includes 100 subscribers/month, 1 waitlist, and API access.
   * [Wraps](https://wraps.dev) - email automation workflows, 5k tracked events and unlimited contacts free.
+  * [ZeroSMTP](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
