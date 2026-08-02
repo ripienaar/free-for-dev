@@ -493,6 +493,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [codecov.io](https://codecov.io/) - Code coverage tool (SaaS), free for Open Source and one free private repo
   * [CodeFactor](https://www.codefactor.io) - Automated Code Review for Git. The free version includes unlimited users, public repositories, and one private repo.
   * [coderabbit.ai](https://coderabbit.ai) - AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.
+  * [CompareText](https://comparetext.org) - Compare source code, scripts, and text side by side in your browser. Supports JSON, XML, YAML, SQL, CSV, and Markdown.
   * [CodSpeed](https://codspeed.io) - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.
   * [coveralls.io](https://coveralls.io/) - Display test coverage reports, free for Open Source
   * [deepscan.io](https://deepscan.io) - Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source
