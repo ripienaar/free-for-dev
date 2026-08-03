@@ -1359,6 +1359,7 @@ Update Time, five active automations, webhooks.
 
 ## Design and UI
 
+  * [Beste](https://beste.co) - A composition-first website builder based on shadcn/ui blocks. The free plan lets you connect your own custom domain, and includes unlimited pages, multi-language support, blog, forms, and hosting.
   * [BoxySVG](https://boxy-svg.com) - A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
   * [Calendar Icons Generator](https://calendariconsgenerator.app/) - Generate an entire year's worth of unique icons in a single click, absolutely FREE
   * [Canva](https://canva.com) - Free online design tool to create visual content.
