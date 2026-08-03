@@ -1389,6 +1389,8 @@ Update Time, five active automations, webhooks.
   * [WrapPixel](https://www.wrappixel.com/) - Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS! HTML Themes and UI Kits to create your applications faster!
   * [Themeselection](https://themeselection.com/) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
   * [AdminMart](https://adminmart.com/) - High-Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJS, and NuxtJS!
+  * [NormalMapGenerator](https://normalmapgenerator.net/) - Free browser-based normal map and PBR texture toolkit for game developers and 3D artists. Supports local image processing, tangent-space normal map generation, OpenGL and DirectX Y conventions, batch workflows, 3D inspection, seamless textures, and lossless PNG export.
+  * [Protractor Online](https://protractoronline.org/) - Free browser-based angle measurement tool for images, screenshots, PDFs, diagrams, and blueprints. Supports three-point and line-intersection measurements, transparent protractor overlays, grids, saved measurements, and PNG, PDF, CSV, JSON, SVG, and Excel exports.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
