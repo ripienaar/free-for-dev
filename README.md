@@ -71,6 +71,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Commenting Platforms](#commenting-platforms)
   * [Remote Desktop Tools](#remote-desktop-tools)
   * [Other Free Resources](#other-free-resources)
+  * [JSONViewer.live](https://jsonviewer.live)
 
 ## Major Cloud Providers
 
