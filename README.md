@@ -834,6 +834,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Education and Career Development
 
+  * [CheatGrid Roadmaps](https://www.cheatgrid.com/roadmaps) - Free, ordered learning paths for tech careers and skills. Each step links to a cheat sheet and flashcards, with progress and memory tracking. Free to view and track.
   * [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
   * [CloudCertPrep](https://cloudcertprep.io) - Free, open-source AWS certification practice exams with 1,050+ questions for CLF-C02. Features timed mock exams, domain practice, spaced repetition, and progress tracking.
   * [CodeTrain](https://codetrain.ai) - AI coding tutor that teaches you on your own codebase and never writes the code for you. Free tier: 10 in-browser lessons/month, Python/JS run client-side, no card required.
