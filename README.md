@@ -574,6 +574,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Requestly](https://requestly.com/) - Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests.
     Featuring [Debugger](https://requestly.com/products/web-debugger/), [Mock Server](https://requestly.com/products/mock-server/), [API Client](https://requestly.com/products/api-client/) and [Session Recording](https://requestly.com/products/session-book/).  Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests, Generate Mock API Endpoints, Record session with Network & Console Logs. Create upto 10 rules in Free Tier. Free for open-source.
   * [seotest.me](https://seotest.me/) - Free on-page SEO website tester. 10 free website crawls per day. Useful SEO learning resources and recommendations on how to improve the on-page SEO results for any website regardless of technology.
+  * [Sherlo](https://sherlo.io) - Visual regression testing for React Native apps. Free plan: 1,000 snapshots/month, iOS & Android simulators.
   * [snippets.uilicious.com](https://snippets.uilicious.com) - It's like CodePen but for cross-browser testing. UI-licious lets you write tests like user stories and offers a free platform - UI-licious Snippets - that allows you to run unlimited tests on Chrome with no sign-up required for up to 3 minutes per test run. Found a bug? You can copy the unique URL to your test to show your devs exactly how to reproduce the bug.
   * [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
   * [testingbot.com](https://testingbot.com/) - Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
@@ -1379,7 +1380,6 @@ Update Time, five active automations, webhooks.
   * [Quant Ux](https://quant-ux.com/) - Quant Ux is a prototyping and design tool. - It's completely free and also open source.
   * [Shadcn Studio](https://shadcnstudio.com/theme-editor) - Preview your theme changes across different components and layouts.
   * [smartmockups.com](https://smartmockups.com/) - Create product mockups, 200 free mockups.
-  * [SVGicons.com](https://svgicons.com/) - Free search engine for 312K+ open-source SVG icons with ready-to-use SVG, React, Vue, HTML, and CSS code.
   * [TeleportHQ](https://teleporthq.io/) - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to instantly create and publish headless static websites. Three free projects, unlimited collaborators, and free code export.
   * [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. One website for free.
   * [Updrafts.app](https://updrafts.app) - WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.
