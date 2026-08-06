@@ -1651,7 +1651,7 @@ Update Time, five active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Remote Desktop Tools
-
+  * [Parsec](https://parsec.app/) - Free for installation on unlimited number of devices(for personal use) and allows up to 20 connections to a single device at once. (great for gaming/low latency work)
   * [AnyDesk](https://anydesk.com) -  Free for 3 devices, no limits on the number and duration of sessions
   * [Getscreen.me](https://getscreen.me) -  Free for 2 devices, no limits on the number and duration of sessions
   * [RemSupp](https://remsupp.com) - On-demand support and permanent access to devices (2 sessions/day for free)
