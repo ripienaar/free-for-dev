@@ -777,7 +777,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) - Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
   * [pagecrawl.io](https://pagecrawl.io/) -  Monitor website changes, free for up to 6 monitors with daily checks.
   * [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
-  * [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projets and unlimited status pages.
+  * [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projects and unlimited status pages.
   * [pingbreak.com](https://pingbreak.com/) - Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack, or email.
   * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
   * [pingpong.one](https://pingpong.one/) - Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
@@ -917,7 +917,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Suped](https://www.suped.com/) - A user-friendly DMARC monitoring platform. The free plan covers one domain with up to 1,000 emails per month.
   * [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 100 emails/day free.
   * [temp-mail.io](https://temp-mail.io) - Free disposable temporary email service with multiple emails at once and forwarding
-  * [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
+  * [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes every time the page is reloaded. It is entirely free and does not include any pricing for their services.
   * [TempMailDetector.com](https://tempmaildetector.com/) - Verify up to 200 emails a month for free and see if an email is temporary or not.
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
   * [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota), so you can self-host.
@@ -998,7 +998,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Generative AI
 
-  * [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product inlcudes 25k spans and ingestion volume of 1gb per month.
+  * [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product includes 25k spans and ingestion volume of 1gb per month.
   * [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) - AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
   * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
   * [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
