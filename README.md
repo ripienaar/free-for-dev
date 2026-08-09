@@ -909,6 +909,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Plunk](https://useplunk.com) - 3K emails/month for free
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
+  * [Reloop](https://reloop.sh) - Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
   * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
   * [SendBridge Mail Tester](https://sendbridge.com/mail-tester) — Free email deliverability test with no signup. Generates a unique inbox address, then analyzes SPF, DKIM, DMARC, Rspamd spam score, 23+ RBL blacklists, reverse DNS, and content quality. Unlimited tests, results in seconds, shareable report pages.
   * [Sender](https://www.sender.net) - Up to 15,000 emails/month, up to 2,500 subscribers
