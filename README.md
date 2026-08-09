@@ -1335,6 +1335,7 @@ Update Time, five active automations, webhooks.
   * [internxt.com](https://internxt.com) - Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
   * [kraken.io](https://kraken.io/) - Image optimization for website performance as a service, free plan up to 1 MB file size
   * [LibreQR](https://libreqr.com) - Free QR code generator focused on privacy and no tracking. Free to use with no data collection.
+  * [LinkPeek](https://147.15.103.217.sslip.io:5000) - Free link preview + QR code API. Extract Open Graph/Twitter card metadata for any URL, render preview cards as PNG, and generate custom-color QR codes. 80 endpoints. Free tier requires no signup.
   * [MConverter](https://mconverter.eu/) - Convert files in bulk. Supports many formats, including [AVIF](https://mconverter.eu/convert/to/avif/) and JXL. Extract image frames from videos. Compress PDFs. Free for 15 files per 24h, up to 100 MB each, processed in batches of eight.
   * [nitropack.io](https://nitropack.io/) - Accelerate your site's speed on autopilot with complete front-end optimization (caching, images and code optimization, CDN). Free for up to 5,000 pageviews/month
   * [npoint.io](https://www.npoint.io/) - JSON store with collaborative schema editing
