@@ -1260,6 +1260,7 @@ Update Time, five active automations, webhooks.
   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool is used to help teams collaborate and share knowledge efficiently. Free plan for up to 10 users.
   * [Crosswork](https://crosswork.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
   * [diagrams.net](https://app.diagrams.net/) - Online diagrams stored locally in Google Drive, OneDrive, or Dropbox. Free for all features and storage levels
+  * [flow-chart.io](https://flow-chart.io) - AI diagram generator that produces fully editable diagrams (C4, BPMN, network, cloud architecture, UML) from plain English. Every node and connector is a live object. Free plan includes 8 AI credits/month with no credit card required.
   * [easyretro.io](https://www.easyretro.io/) - Simple and intuitive sprint retrospective tool. The free plan has three public boards and one survey per board per month.
   * [freedcamp.com](https://freedcamp.com/) - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users, and file storage.
   * [GForge](https://gforge.com) - Project Management and issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers the first five users free & free for Open Source Projects.
