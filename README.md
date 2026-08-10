@@ -504,6 +504,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [goreportcard.com](https://goreportcard.com/) - Code Quality for Go projects, free for Open Source
   * [gtmetrix.com](https://gtmetrix.com/) - Reports and thorough recommendations to optimize websites
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
+  * [heygrc.com](https://heygrc.com) - GitHub App that reviews pull requests for compliance-control impact (ISO 27001, SOC 2, GDPR, EU AI Act, and more) and cites the control clause. Free forever for public repositories; Free plan also includes 25 private-repo reviews/month. By ISMS Copilot.
   * [houndci.com](https://houndci.com/) - Comments on GitHub commits about code quality, free for Open Source
   * [reviewable.io](https://reviewable.io/) - Code review for GitHub repositories, free for public or personal repos.
   * [scan.coverity.com](https://scan.coverity.com/) - Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
