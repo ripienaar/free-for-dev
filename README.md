@@ -377,7 +377,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Tools for Teams and Collaboration
-
+* [GoPickStack](https://www.gopickstack.com/) - Independent SaaS review and software comparison engine with 2,000+ word      
+  testing guides, pricing history, and verified promo deals.
   * [3Cols](https://3cols.com/) - A free cloud-based code snippet manager for personal and collaborative code.
   * [BookmarkOS.com](https://bookmarkos.com) - Free all-on-one bookmark manager, tab manager, and task manager in a customizable online desktop with folder collaboration.
   * [Braid](https://www.braidchat.com/) - Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also, it provides a self-hostable open-source version.
