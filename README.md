@@ -1372,6 +1372,7 @@ Update Time, five active automations, webhooks.
 
 ## Design and UI
 
+  * [App Asset Generator](https://www.appassetgenerator.com) - Free browser-based tool that generates every iOS AppIcon.appiconset size and Android mipmap density from one image, resizes App Store/Play Store screenshots, and generates favicons. No account, nothing stored after processing.
   * [Beste](https://beste.co) - A composition-first website builder based on shadcn/ui blocks. The free plan lets you connect your own custom domain, and includes unlimited pages, multi-language support, blog, forms, and hosting.
   * [BoxySVG](https://boxy-svg.com) - A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
   * [BrandIcons](https://brandicons.dev) - Favicon API. AI-based discovery for domains without icons or even without web servers. Free tier includes 500,000 requests per month with attribution.
