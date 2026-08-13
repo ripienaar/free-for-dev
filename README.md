@@ -1186,6 +1186,7 @@ Update Time, five active automations, webhooks.
   * [DNSHE](https://www.dnshe.com/) - Free subdomain registration across multiple domain suffixes, with custom nameserver support.
   * [isroot.in](https://isroot.in) - Free isroot.in subdomains.
   * [pp.ua](https://nic.ua/) - Free pp.ua subdomains.
+  * [openalias.xyz](https://openalias.xyz) - Free hi-dev.pro and dev-at.net subdomains
 
 **[⬆️ Back to Top](#table-of-contents)**
 
