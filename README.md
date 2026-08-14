@@ -1148,6 +1148,7 @@ Update Time, five active automations, webhooks.
   * [tilda.cc](https://tilda.cc/) - One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon, and no custom domain
   * [Vercel](https://vercel.com/) - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
   * [Versoly](https://versoly.com/) - SaaS-focused website builder - unlimited websites, 70+ blocks, five templates, custom CSS, favicon, SEO and forms. No custom domain.
+  * [Stormkit](https://www.stormkit.io) - Integrate building, deploying, and hosting seamlessly with the git flow of your JAMstack or Node.js app. Free plan includes 50 GB bandwidth, 10 million requests/month, and free SSL.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
