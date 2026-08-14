@@ -355,6 +355,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Weights & Biases](https://wandb.ai) - The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
   * [What Is My IP](https://whatismyip.help) - A free service to check your public IPv4 and IPv6 address and related request data through an API with different output formats for automation, scripts, and network troubleshooting.
   * [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).
+  * [XFlux](https://www.xfluxapi.com) - X/Twitter read REST API (profiles, search, timelines) plus account monitors. Free tier: 1,000 API calls/month, 1 monitor, instant API key. HTTP webhooks on paid plans from $19/mo.
   * [wolfram.com](https://wolfram.com/language/) - Built-in knowledge-based algorithms in the cloud.
   * [wrapapi.com](https://wrapapi.com/) - Turn any website into a parameterized API. 30k API calls per month.
   * [Zenscrape](https://zenscrape.com/web-scraping-api) - Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
