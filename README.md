@@ -1097,6 +1097,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [pubnub.com](https://www.pubnub.com/) - Free push notifications for up to 1 million messages/month and 100 active daily devices
   * [pusher.com](https://pusher.com/beams) - Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
   * [simperium.com](https://simperium.com/) - Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
+  * [Simceptor](https://simceptor.com/) - No-code mock API server for developers to create and test REST, SOAP, and WSDL APIs with conditional rules, dynamic data, latency simulation, and webhooks. Free forever with 3 projects, 10 mocks per project, and 10 rules per mock.
   * [snill.ai](https://snill.ai) - AI no-code platform that turns a plain-language description into a complete business system with a relational database, dashboards, workflows, REST API and webhooks. Free plan for solo operators includes 2 apps, 1,000 records and 10 AI requests/day.
   * [Supabase](https://supabase.com) - The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
   * [tyk.io](https://tyk.io/) - API management with authentication, quotas, monitoring and analytics. Free cloud offering
