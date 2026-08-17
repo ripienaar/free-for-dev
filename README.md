@@ -1653,6 +1653,7 @@ Update Time, five active automations, webhooks.
   * [Hosting Checker](https://hostingchecker.co) - Check hosting information such as ASN, ISP, location and more for any domain, website or IP address. Also includes multiple hosting and DNS-related tools.
   * [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord, and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
   * [PDFMonkey](https://www.pdfmonkey.io/) - Manage PDF templates in a dashboard, call the API with dynamic data, and download your PDF. Offers 300 free documents per month.
+  * [PickerSpin](https://pickerspin.co/) — Free, ad-free random decision spinner and picker tools with provably fair cryptographic RNG testing.
   * [Pika Code Screenshots](https://pika.style/templates/code-image) - Create beautiful, customizable screenshots from code snippets and VSCode using the extension.
   * [QuickType.io](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
   * [readme.com](https://readme.com/) - Beautiful documentation made easy, free for Open Source.
