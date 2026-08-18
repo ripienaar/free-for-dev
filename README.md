@@ -558,6 +558,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Testing
 
+  * [A11yKit](https://a11ykit.site) - 15 free, client-side web accessibility and WCAG 2.2 audit tools. Includes contrast checker (WCAG + APCA), color blindness simulator, ARIA generator, and heading analyzer with zero code uploads. Free forever, no registration.
   * [Appetize](https://appetize.io) - Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.
   * [Argos](https://argos-ci.com) - Open Source visual testing for developers. Unlimitedprojects, with 5,000 screenshots per month. Free for open-source projects.
   * [Bencher](https://bencher.dev/) - A continuous benchmarking tool suite to catch CI performance regressions. Free for all public projects.
