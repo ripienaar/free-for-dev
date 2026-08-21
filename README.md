@@ -1384,6 +1384,7 @@ Update Time, five active automations, webhooks.
   * [BrandIcons](https://brandicons.dev) - Favicon API. AI-based discovery for domains without icons or even without web servers. Free tier includes 500,000 requests per month with attribution.
   * [Calendar Icons Generator](https://calendariconsgenerator.app/) - Generate an entire year's worth of unique icons in a single click, absolutely FREE
   * [Canva](https://canva.com) - Free online design tool to create visual content.
+  * [CADGuide](https://cadguide.tools) - Zero-upload client-side AutoCAD DWG binary header inspector, sheet metal K-factor calculator, and interactive CAD software comparison directory. 100% free with unlimited local checks.
   * [CodedThemes](https://codedthemes.com/) - Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.
   * [Excalidraw](https://excalidraw.com/) - A free online drawing document web page with free save to local and export support.
   * [figma.com](https://www.figma.com) - Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.
