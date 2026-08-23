@@ -839,6 +839,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Search
 
   * [algolia.com](https://www.algolia.com/) - Hosted search solution with typo-tolerance, relevance, and UI libraries to easily create search experiences. The free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.
+  * [annolux.com](https://annolux.com/) - Curated English and Chinese search API and MCP server for AI agents with explicit snapshot timestamps. Free tier includes 1,000 permanent credits with no credit card required.
   * [bonsai.io](https://bonsai.io/) - Free 1 GB memory and 1 GB storage
   * [CommandBar](https://www.commandbar.com/) - Unified Search Bar as-a-service, web-based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up to 1,000 Monthly Active Users, unlimited commands.
   * [searchly.com](https://www.searchly.com/) - Free 2 indices and 20 MB storage
