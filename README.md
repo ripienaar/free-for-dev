@@ -448,6 +448,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Tencent RTC](https://trtc.io/) - Tencent Real-Time Communication (TRTC) offers solutions for group audio/video calls.10,000 free minutes/month for the first year.
   * [TimeCamp](https://www.timecamp.com/) - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.
   * [tldraw.com](https://tldraw.com) -  Free open-source white-boarding and diagramming tool with intelligent arrows, snapping, sticky notes, and SVG export features. Multiplayer mode for collaborative editing. Free official VS Code extension available as well.
+  * [ToolSnippet](https://www.toolsnippet.com/) - Free, 100% client-side developer and text utilities (data converters, formatters, crypto tools, cheat sheets, and image compression) with zero server tracking.
   * [transfernow](https://www.transfernow.net/) - simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a mandatory subscription.
   * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
   * [twist.com](https://twist.com) - An asynchronous-friendly team communication app where conversations stay organized and on-topic. Free and Unlimited plans are available. Discounts are provided for eligible teams.
