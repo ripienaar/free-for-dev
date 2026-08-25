@@ -1050,7 +1050,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Gcore](https://gcorelabs.com/) - Global content delivery network, 1 TB and 1 million requests per month free and
     free DNS hosting
   * [jsdelivr.com](https://www.jsdelivr.com/) - A free, fast, and reliable open-source CDN. Supports npm, GitHub, WordPress, Deno, and more.
-  * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) - The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
+  * [Microsoft Ajax](https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview) - The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) - Free DDoS protection
   * [ovh.ie](https://www.ovh.ie/ssl-gateway/) - Free DDoS protection and SSL certificate
   * [PromoProxy](https://promoproxy.net/) - Free cloud Secure Web Gateway. Free plan includes up to 5 users and 1 GB per day.
