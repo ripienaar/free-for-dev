@@ -72,6 +72,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Commenting Platforms](#commenting-platforms)
   * [Remote Desktop Tools](#remote-desktop-tools)
   * [Other Free Resources](#other-free-resources)
+  * [ZenResume](https://www.zenresume.online/) — 100% free, local-first ATS resume builder with 63 role templates, vector PDF export, and zero watermark or paywalls.
 
 ## Major Cloud Providers
 
