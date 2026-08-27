@@ -4,7 +4,7 @@ Developers and open-source authors now have many services offering free tiers, b
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
 
-The scope of this particular list is limited to things that infrastructure developers (System Administrators, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
+The scope of this particular list is limited to things that infr### APIsastructure developers (System Administrators, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
 This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
 
@@ -1482,6 +1482,7 @@ Update Time, five active automations, webhooks.
   * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Some REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.
   * [Lazarus](https://www.lazarus-ide.org/) - Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.
   * [MarsCode](https://www.marscode.com/) - A free AI-powered cloud-based IDE.
+  * [Micro-APIs](https://micro-apis.microapis-edge.workers.dev/docs) - Sub-35ms edge intelligence API suite for tech stack detection, security header audits, OpenGraph metadata parsing, and disposable email validation. Free tier includes unauthenticated access and 100 requests/day.
   * [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
   * [mockaroo](https://mockaroo.com/) - Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
   * [Mocklets](https://mocklets.com) - an HTTP-based mock API simulator that helps simulate APIs for faster parallel development and more comprehensive testing, with a lifetime free tier.
