@@ -1189,6 +1189,7 @@ Update Time, five active automations, webhooks.
   * [nextdns.io](https://nextdns.io) - DNS-based firewall, 300K free queries monthly
   * [noip.at](https://noip.at/) - Free DDNS service without registration, tracking, logging or advertising. No limit to domains.
   * [noip](https://www.noip.com/) - a dynamic DNS service that allows up to 3 hostnames free with confirmation every 30 days
+  * [rjuip.com](https://www.rjuip.com) — Dynamic DNS service offering 2 free primary subdomains with IPv4/IPv6 support and real-time updates for IoT (ESP8266/ESP32), CCTV, and homelabs.
   * [sslip.io](https://sslip.io/) - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
   * [zilore.com](https://zilore.com/en/dns) - Free DNS hosting for 5 domains.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) - Free DNS hosting with Dynamic DNS Support.
