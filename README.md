@@ -1094,6 +1094,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Val Town](https://www.val.town) - Collaborative TypeScript/JavaScript serverless platform for scripts, HTTP endpoints, and cron jobs. Free plan includes unlimited public vals, 15-minute cron intervals, 1-minute wall-clock time per run, and 3-day log retention. No custom domains on free.
   * [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to  quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
+  * [Abasthan](https://abasthan.com/) - Git-based PaaS to deploy Node.js, Python, PHP and static sites. Free tier for hobby apps with a free *.abasthan.app subdomain and automatic HTTPS.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
