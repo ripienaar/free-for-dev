@@ -945,6 +945,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [TempMailDetector.com](https://tempmaildetector.com/) - Verify up to 200 emails a month for free and see if an email is temporary or not.
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
   * [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota), so you can self-host.
+  *  [UES](https://www.ues.edu.pl/) - Instant free temporary educational (.edu.pl) email inboxes for verification testing.
   * [Verifalia](https://verifalia.com/email-verification-api) - Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
   * [verimail.io](https://verimail.io/) - Bulk and API email verification service. 100 free verifications/month
   * [Waitlio](https://waitlio.com/) - Waitlist management software for product launches. Create branded waitlist pages, collect and verify email subscribers, manage signups with tags and analytics. Free plan includes 100 subscribers/month, 1 waitlist, and API access.
@@ -1708,5 +1709,5 @@ Update Time, five active automations, webhooks.
   * [SimpleBackups.com](https://simplebackups.com/) - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
-* [UES](https://www.ues.edu.pl/) — Instant free temporary educational (.edu.pl) email inboxes for verification testing.
+
 **[⬆️ Back to Top](#table-of-contents)**
