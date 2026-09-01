@@ -876,7 +876,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Email
-
   * [Unitpost](https://www.unitpost.com/) - AI-First Transactional & Marketing Email Service. Free tier: 5,000 emails/mo, 200 emails/day, 10,000 contacts, 5 domains. No credit card required. SDKs, MCP and REST API available.
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
@@ -929,6 +928,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Plunk](https://useplunk.com) - 3K emails/month for free
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
+  * [RiskBeacon](https://rapidapi.com/nss0529/api/riskbeacon-signup-email-domain-intelligence-api) - Disposable email and domain risk intelligence API with free monthly requests.
   * [Reloop](https://reloop.sh) - Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
   * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
   * [SendBridge Mail Tester](https://sendbridge.com/mail-tester) — Free email deliverability test with no signup. Generates a unique inbox address, then analyzes SPF, DKIM, DMARC, Rspamd spam score, 23+ RBL blacklists, reverse DNS, and content quality. Unlimited tests, results in seconds, shareable report pages.
