@@ -1400,6 +1400,7 @@ Update Time, five active automations, webhooks.
   * [Canva](https://canva.com) - Free online design tool to create visual content.
   * [CodedThemes](https://codedthemes.com/) - Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.
   * [Excalidraw](https://excalidraw.com/) - A free online drawing document web page with free save to local and export support.
+  * [Favicon.one](https://favicon.one/) - Free favicon generator that creates a complete icon set from text, emoji, SVG, or any image, plus a favicon checker and downloader; runs entirely in the browser.
   * [figma.com](https://www.figma.com) - Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.
   * [Flows](https://flows.sh/) - A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
   * [JoyDemo](https://joydemo.com) - Create interactive and clickable demos of your website or app. Free with unlimited demos and unlimited views.
