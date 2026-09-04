@@ -1187,6 +1187,7 @@ Update Time, five active automations, webhooks.
   * [Dynv6.com](https://dynv6.com/) - Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).
   * [freedns.afraid.org](https://freedns.afraid.org/) - Free DNS hosting. Also, provide free subdomains based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from the "Subdomains" menu after signing up.
   * [Glauca](https://docs.glauca.digital/hexdns/) - Free DNS hosting for up to 3 domains and DNSSEC support
+  * [Go-Live.me](https://go-live.me) - Free, edge-distributed Anycast subdomains (`*.go-live.me`) with automatic SSL and 1-click routing for Vercel, GitHub Pages, Render, and Custom DNS.
   * [Hetzner](https://www.hetzner.com/dns-console) - Free DNS hosting from Hetzner with API support.
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) - Free DNS hosting by Huawei
   * [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
