@@ -594,6 +594,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [tesults.com](https://www.tesults.com) - Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
   * [UseWebhook.com](https://usewebhook.com) - Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.
   * [Vaadin](https://vaadin.com) - Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
+  * [VibeView](https://vibeview.io) - Browser-based iOS, Android, Apple TV and Android TV simulators with AI-powered test automation from a recorded flow or plain-language instructions. Free tier includes two concurrent sessions and 30 minutes of streaming per month. Bringing your own API key bypasses the included AI usage credit.
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
   * [websitepulse.com](https://www.websitepulse.com/tools/) - Various free network and server tools.
   * [kogiQA](https://kogiqa.com) - A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
