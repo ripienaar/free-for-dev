@@ -816,6 +816,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [syagent.com](https://syagent.com/) - Noncommercial free server monitoring service, alerts and metrics.
   * [UptimeObserver.com](https://uptimeobserver.com) - Get 20 uptime monitors with 5-minute intervals and a customizable status page-even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
   * [uptimetoolbox.com](https://uptimetoolbox.com/) - Free monitoring for five websites, 3-minute intervals, public statuspage.
+  * [Vacato](https://vacato.io) - RDAP domain availability watchlist. Free tier: 10 domains, 5-minute checks, Telegram/email/Slack alerts when a taken name looks available. Not a registrar or drop-catcher — alerts only.
   * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
   * [Watchgoose](https://watchgoose.com) - Cron job and heartbeat monitoring and status pages for scheduled tasks, backups and background jobs, MCP server available. Free tier: 10 checks, 200 ping log entries, email/chat/webhook alerts, no credit card. Open Source support program for qualifying OS projects.
   * [Xitoring.com](https://xitoring.com/) - Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
