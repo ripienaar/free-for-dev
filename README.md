@@ -1293,6 +1293,7 @@ Update Time, five active automations, webhooks.
   * [freedcamp.com](https://freedcamp.com/) - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users, and file storage.
   * [GForge](https://gforge.com) - Project Management and issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers the first five users free & free for Open Source Projects.
   * [gleek.io](https://www.gleek.io) - Free description-to-diagrams tool for developers. Create informal UML class, object, or entity-relationship diagrams using your keyword.
+  * [Goalz](https://goalz.work) - HRMS Project management and timesheet app that lets you track work hours across projects. Free trails across its paid tiers. 
   * [GraphQL Inspector](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector outputs a list of changes between two GraphQL schemas. Every difference is precisely explained and marked as breaking, non-breaking, or dangerous.
   * [Helploom](https://helploom.com) - Customer support software that offers a live chat on the free forever plan. Simple, lightweight and beautiful. Setup is a simple copy-paste script. Built by a developer.
   * [HeyRetro](https://heyretro.io/) - Real-time sprint retrospective platform with voting, timers, surveys, guest collaboration, and ice-breaker games. The forever-free plan includes one board per month, anonymous surveys, and guest link sharing.
