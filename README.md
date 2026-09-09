@@ -1689,6 +1689,7 @@ Update Time, five active automations, webhooks.
   * [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
   * [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
   * [Versionfeeds](https://versionfeeds.com) - Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
+  * [Free Online CSV Viewer](https://online-csv-viewer-free.github.io/) - A fast, 100% client-side tool to view, edit, filter, and export CSV files directly in the browser without uploading to any server.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
