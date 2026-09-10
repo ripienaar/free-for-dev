@@ -27,6 +27,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CMS](#cms)
   * [Code Generation](#code-generation)
   * [Code Quality](#code-quality)
+  * [Check Page SEO](https://checkpageseo.com/) — Chrome extension for quick on-page SEO audits, metadata checks, and competitor page analysis.
   * [Code Search and Browsing](#code-search-and-browsing)
   * [Crash and Exception Handling](#crash-and-exception-handling)
   * [Data Visualization on Maps](#data-visualization-on-maps)
