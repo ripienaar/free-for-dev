@@ -498,7 +498,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Code Quality
 * [Check Page SEO](https://checkpageseo.com/) - Chrome extension for quick on-page SEO audits, metadata checks, and competitor page analysis
-  * [beanstalkapp.com](https://beanstalkapp.com/) - A complete workflow to write, review, and deploy code), a free account for one user, and one repository with 100 MB of storage
+  * [beanstalkapp.com](https://beanstalkapp.com/) - A complete workflow to write, review, and deploy code), a free account for one user, and one repository with 100 MB of storage 
   * [codacy.com](https://www.codacy.com/) - Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS, and CoffeeScript, free for unlimited public and private repositories
   * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev) - Automated Infrastructure as Code review tool for DevOps integrates with GitHub, Bitbucket, and GitLab (even self-hosted). In addition to standard languages, it also analyzes Ansible, Terraform, CloudFormation, Kubernetes, and more. (open-source free)
   * [codecov.io](https://codecov.io/) - Code coverage tool (SaaS), free for Open Source and one free private repo
