@@ -1295,6 +1295,7 @@ Update Time, five active automations, webhooks.
   * [Lucidchart](https://www.lucidchart.com/) - An online diagram tool with collaboration features. Free plan with three editable documents, 100 professional templates, and basic collaboration features.
   * [MeisterTask](https://www.meistertask.com/) - Online task management for teams. Free up to 3 projects and unlimited project members.
   * [MeuScrum](https://www.meuscrum.com/en) - Free online scrum tool with kanban board
+  * [myspec.dev](https://myspec.dev/) - Spec-Driven Development (SDD) architect tool that interviews developers and generates structured 4-file spec bundles with MCP server integration. Free tier covers 20 projects and 100 spec files.
   * [nTask](https://www.ntaskmanager.com/) - Project management software that enables your teams to collaborate, plan, analyze, and manage everyday tasks. The essential plan is free forever with 100 MB storage and five users/teams. Unlimited workspaces, meetings, assignments, timesheets, and issue tracking.
   * [Plane](https://plane.so/) - Plane is a simple, extensible, open-source project and product management tool. Free for unlimited members, up to 5MB file upload size, 1000 issues.
   * [planitpoker.com](https://www.planitpoker.com/) - Free online planning poker (estimation tool)
