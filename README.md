@@ -1191,6 +1191,7 @@ Update Time, five active automations, webhooks.
 ## Domain
 
   * [DigitalPlat](https://domain.digitalplat.org) - Free subdomains.
+  * [devs.li](https://devs.li/) - Free subdomains for developers with instant DNS management (A, AAAA, CNAME, TXT) and Let's Encrypt SSL support.
   * [DNSHE](https://www.dnshe.com/) - Free subdomain registration across multiple domain suffixes, with custom nameserver support.
   * [isroot.in](https://isroot.in) - Free isroot.in subdomains.
   * [pp.ua](https://nic.ua/) - Free pp.ua subdomains.
