@@ -500,6 +500,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [gtmetrix.com](https://gtmetrix.com/) - Reports and thorough recommendations to optimize websites
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
   * [houndci.com](https://houndci.com/) - Comments on GitHub commits about code quality, free for Open Source
+  * [prquorum.com](https://prquorum.com) - ai code review github app, free 50 reviews/month on 2 repos
   * [reviewable.io](https://reviewable.io/) - Code review for GitHub repositories, free for public or personal repos.
   * [scan.coverity.com](https://scan.coverity.com/) - Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) - Continuous inspection platform, free for Open Source
