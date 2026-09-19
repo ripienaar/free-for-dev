@@ -1489,6 +1489,7 @@ Update Time, five active automations, webhooks.
   * [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
   * [OnlineGDB](https://onlinegdb.com) - A free online ide thats supports 40+ languages and is pre installed with tons of libraries; and also has a debugging option, flags, tutorials, and a QNA page!
   * [pterocos](https://pterocos.eu.org) - a free opensource browser-based coding environment for front-end developers. write html, css and js with a vs code-grade editor (monaco), live preview, scss/typeScript/babel support, and an ai chat assistant for debugging and suggestions. all projects save to local storage. free forever – no account needed.
+  * [PyViz](https://pyrunner-kfoc.onrender.com/) - In-browser Python execution visualizer and step debugger. No backend server needed.
   * [Paiza](https://paiza.cloud/en/) - Develop Web apps in Browser without needing to set up anything. Free Plan offers one server with 24 24-hour lifetime and 4 hours of running time per day with 2 CPU cores, 2 GB RAM, and 1 GB storage.
   * [PHPSandbox](https://phpsandbox.io/) - Online development environment for PHP
   * [Replit](https://replit.com/) - A cloud coding environment for various program languages.
