@@ -1696,6 +1696,7 @@ Update Time, five active automations, webhooks.
   * [GitHub Education](https://education.github.com/pack) - Collection of free services for students. Registration required.
   * [Glob tester](https://globster.xyz/) - A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.
   * [Killer Coda](https://killercoda.com/) -  Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
+  * [Lots of Network](https://lotsofnetwork.com) - Free web-based developer and networking utilities including IPv4/IPv6 subnet calculators, reverse DNS, port testing, and SSL certificate expiration checkers.
   * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) - Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
   * [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
   * [RedHat for Developers](https://developers.redhat.com) - Free access to Red Hat products including RHEL, OpenShift, CodeReady, etc. exclusively for developers. Individual plan only. Free e-books are also offered for reference.
