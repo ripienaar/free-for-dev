@@ -43,6 +43,7 @@
  * [ ] The submission mentions what is free
  * [ ] The submission is not already present in the list
  * [ ] The service has contact details of those running it and a privacy policy
+ * [ ] This is not a generic browser based developer toolbox, I agree to be banned from this list if it is
 
 <!--
  Contributing here is very easy, but does require attention to details.
