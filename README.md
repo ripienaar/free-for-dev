@@ -294,6 +294,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IPLocate](https://www.iplocate.io) - IP Geolocation API, free up to 1,000 requests/day. Includes proxy/VPN/hosting detection, ASN data, IP to Company, and more. IPLocate also offers free downloadable IP to Country and IP to ASN databases in CSV or GeoIP-compatible MMDB formats.
   * [IPTrace](https://iptrace.io) - An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.
   * [JSON IP](https://getjsonip.com) - Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
+  * [JSONGlow](https://jsonglow.com) - In-browser developer data utilities suite for formatting, validating, repairing, diffing, and converting JSON, XML, TypeScript, Zod, and CSV. 100% free with zero telemetry.
   * [JSON to Table](https://jsontotable.org) - Convert JSON into an interactive table for quick viewing, editing, and sharing online.
   * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
   * [JSONing](https://jsoning.com/api/) - Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
