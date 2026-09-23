@@ -761,7 +761,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [cronalive.com](https://cronalive.com) - Heartbeat monitoring for cron jobs, plus HTTP uptime and TLS expiry checks, and a Laravel package that creates checks from your scheduler. Free tier with 10 checks, HTTP interval from 5 min, 30 days of history, 50k pings/mo.
   * [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.
   * [watchcron.com](https://watchcron.com) - Cron job monitoring with heartbeat pings and alerts. Free tier with up to 5 monitors and email notifications.
-
   * [datadoghq.com](https://www.datadoghq.com/) - Free for up to 5 nodes
   * [DeadBro](https://www.deadbro.com) - Rails APM with request-based pricing: live traces, slow SQL, N+1 detection, and error tracking. Free forever for 50k requests/month, 7-day retention, 1 app, 1 uptime check, and email alerts. No credit card required.
   * [deadmanssnitch.com](https://deadmanssnitch.com/) - Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up
