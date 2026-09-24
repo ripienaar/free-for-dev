@@ -374,6 +374,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [3Cols](https://3cols.com/) - A free cloud-based code snippet manager for personal and collaborative code.
   * [BookmarkOS.com](https://bookmarkos.com) - Free all-on-one bookmark manager, tab manager, and task manager in a customizable online desktop with folder collaboration.
+  * [BoringTools](https://www.boringtoolsai.com/) - 100+ free browser-based micro-utilities (converters, generators, analyzers, formatters). Free forever with 0 server uploads, no signups, and client-side WebAssembly processing.
   * [Braid](https://www.braidchat.com/) - Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also, it provides a self-hostable open-source version.
   * [Calendly](https://calendly.com) - Calendly is the tool for connecting and scheduling meetings. The free plan provides 1 Calendar connection per user and Unlimited sessions. Desktop and Mobile apps are also offered.
   * [cally.com](https://cally.com/) - Find the perfect time and date for a meeting. Simple to use, works great for small and large groups.
