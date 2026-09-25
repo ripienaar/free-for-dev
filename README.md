@@ -339,6 +339,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [The IP API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.
   * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
   * [Tomorrow.io Weather API](https://www.tomorrow.io/weather-api/) - Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.
+  * [TradeData](https://tradedata.io) - Standardized customs shipment and bill of lading data API across 200+ countries with HS code classification and company profile queries. Free sandbox tier with API token and open-source Python/Node.js SDKs, no credit card required.
   * [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
   * [Trophy](https://trophy.so) - Trophy is the gamification layer for consumer apps. Use pre-built APIs and open-source UI components to ship achievements, streaks, points, leaderboards and more. Free for up to 1,000 monthly active users.
   * [UniRateAPI](https://unirateapi.com) - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
