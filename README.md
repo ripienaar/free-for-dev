@@ -433,6 +433,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Teamcamp](https://www.teamcamp.app) - All-in-one project management application for software development companies.
   * [Teamhood](https://teamhood.com/) - Free Project, Task, and Issue-tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for five users and three project portfolios.
   * [Teamplify](https://teamplify.com) - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small groups of up to 5 users.
+  * [TeamSort](https://teamsort.world) - Free tool to vote on a shared list and rank items together. Create a ranked-choice poll in seconds - no signup.
   * [Telegram](https://telegram.org/) - Telegram is for everyone who wants fast, reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps, and powerful file-sharing options.
   * [Tencent RTC](https://trtc.io/) - Tencent Real-Time Communication (TRTC) offers solutions for group audio/video calls.10,000 free minutes/month for the first year.
   * [TimeCamp](https://www.timecamp.com/) - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.
