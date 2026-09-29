@@ -971,6 +971,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Befonts](https://befonts.com/) - Provides several unique fonts for personal or commercial use.
   * [Bunny](https://fonts.bunny.net) - Privacy oriented Google Fonts
   * [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property and are either freeware, shareware, demo versions, or public domain.
+  * [DevOmniTools](https://www.devomnitools.com/en/tools/svg-to-font/) - Free online in-browser SVG to TTF/WOFF2 font generator and developer utilities with 100% client-side privacy.
   * [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
   * [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
   * [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
