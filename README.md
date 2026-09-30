@@ -834,6 +834,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [rollbar.com](https://rollbar.com/) - Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [Semaphr](https://semaphr.com) - Free all-in-one kill switch for your mobile apps.
   * [sentry.io](https://sentry.io/) - Sentry tracks app exceptions in real-time and has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
+  * [Vinktar](https://vinktar.com/) - Error tracking and product analytics in one tool, set up and queried by your coding agent over MCP. Free for 1M events and 50k errors per month, no card required.
   * [Whitespace](https://whitespace.dev) - One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
 
 **[⬆️ Back to Top](#table-of-contents)**
