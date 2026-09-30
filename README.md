@@ -423,6 +423,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ruttl.com](https://ruttl.com/) - The best all-in-one feedback tool to collect digital feedback and review websites, PDFs, and images.
   * [Screen Sharing via Browser](https://screensharing.net) - Free screen sharing tool, share your screen with collabrators right from your browser, no download or registration needed. For free.
   * [seafile.com](https://www.seafile.com/) - Private or cloud storage, file sharing, sync, discussions. The cloud version has just 1 GB
+  * [Sharry](https://sharry.live/) - Screen sharing via the browser, no downloads, no installs. Useful for pair programming, presentations or remote support. Free tier: no account, 5-minute sessions, 1 viewer.
   * [SiteDots](https://sitedots.com/) - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.
   * [Slab](https://slab.com/) - A modern knowledge management service for teams. Free for up to 10 users.
   * [slack.com](https://slack.com/) - Free for unlimited users with some feature limitations
