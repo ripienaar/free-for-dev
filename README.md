@@ -386,6 +386,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Dubble](https://dubble.so/) - Free Step-by-Step Guide creator. Take screenshots, document processes and collaborate with your team. Also supports async screen recording.
   * [Duckly](https://duckly.com/) - Talk and collaborate in real time with your team. Pair programming with IDE, terminal sharing, voice, video, and screen sharing. Free for small teams.
   * [element.io](https://element.io/) - A decentralized and open-source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
+  * [Eodly](https://eodly.io/) - It's a daily report tool for founders and team leads that checks what the team says against what they actually shipped. It's free for a team of 5 with all channels (Slack, Telegram, Discord) and GitHub and Linear included.
   * [evernote.com](https://evernote.com/) - Tool for organizing information. Share your notes and work together with others
   * [Fibery](https://fibery.io/) - Connected workspace platform. Free for single users, up to 2 GB disk space.
   * [Fibo](https://fibo.dev) - A free online realtime scrum poker tool for agile teams that lets unlimited members estimate story points for faster planning.
