@@ -1426,6 +1426,7 @@ Update Time, five active automations, webhooks.
   * [smartmockups.com](https://smartmockups.com/) - Create product mockups, 200 free mockups.
   * [SVGicons.com](https://svgicons.com/) - Free search engine for 312K+ open-source SVG icons with ready-to-use SVG, React, Vue, HTML, and CSS code.
   * [TeleportHQ](https://teleporthq.io/) - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to instantly create and publish headless static websites. Three free projects, unlimited collaborators, and free code export.
+  * [ToolLab](https://toollab.org) - A suite of 18 lightweight, privacy-first web utilities (bulk image resizer, neural background remover, JSON/regex tools, QR generator) that execute 100% in-browser with zero server storage.
   * [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. One website for free.
   * [Updrafts.app](https://updrafts.app) - WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.
   * [Webflow](https://webflow.com) - WYSIWYG website builder with animations and website hosting. Free for two projects.
