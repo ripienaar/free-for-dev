@@ -314,6 +314,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [News API](https://newsapi.org) - Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.
   * [OCR.Space](https://ocr.space/) - An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.
   * [OpenAPI3 Designer](https://openapidesigner.com/) - Visually create Open API 3 definitions for free.
+  * [Orshot](https://orshot.com) - Automate Videos, PDFs and Images from templates via API, n8n, Zapier and AI Agents. Design templates in a visual editor (or import from Canva or Figma), then automate bulk generation from your data source. The free plan includes 100 render credits every month.
   * [Parseur](https://parseur.com) - 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
