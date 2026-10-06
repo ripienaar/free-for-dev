@@ -1277,6 +1277,7 @@ Update Time, five active automations, webhooks.
   * [Pinggy](https://pinggy.io) - Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
   * [serveo](https://serveo.net/) - Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.
+  * [SnapHook](https://snaphook.site) — Instant, zero-signup webhook inspector for testing incoming HTTP requests with real-time SSE inspection and 2-hour auto-expiring sessions.
   * [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) - Twilio STUN
   * [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302) - Google STUN
   * [Tailscale](https://tailscale.com/) - Zero config VPN, using the open-source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and three users.
