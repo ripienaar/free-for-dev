@@ -864,6 +864,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
   * [Exercism](https://exercism.org) - Free, open-source programming education in over 75 programming languages, with human mentoring. A nonprofit organisation.
   * [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
+  * [FreeAICV](https://www.freeaicv.me) - AI-powered resume and career document builder with 30 ATS-tested templates, cover letter generator, and vector PDF exports. 100% free with no paywall or subscription.
   * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
   * [Full Stack Open](https://fullstackopen.com/en/) - Free university-level course on modern web development with React, Node.js, GraphQL, TypeScript, and more. Fully online and self-paced.
   * [Interactive CV](https://interactive-cv.com) - AI-powered resume builder with real-time editing and ATS optimization. Free tier includes automatic CV conversion to premium templates (Harvard, Europass), PDF export, job tracker with unlimited job posting insights and CV sharing with chat/voice features.
