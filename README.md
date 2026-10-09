@@ -896,6 +896,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Conduit](https://conduit.email/) - Turn incoming emails into webhooks to trigger your API from emails. The service is completely free.
   * [Contact.do](https://contact.do/) - Contact form in a link (bitly for contact forms)
   * [debugmail.io](https://debugmail.io/) - Easy to use testing mail server for developers
+  * [disban.io](https://disban.io/) - Protect user signups from disposable emails, or just validate an email against disposable service. Free 2000 check credits per month, No Credit Card required.
   * [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
   * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
   * [DomainCanary](https://domaincanary.com) - DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.
