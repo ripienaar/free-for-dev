@@ -311,6 +311,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mocko.dev](https://mocko.dev/) - Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
   * [Multi-Exit IP Address Checker](https://ip.alstra.ca/) -  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
   * [NASdisks Drive Data API](https://www.nasdisks.com/data/) - Free, no-key, CORS-enabled API for NAS HDD/SSD specifications, per-model CMR/SMR classification, and annualized failure rates derived from Backblaze Drive Stats. Returns JSON or CSV, CC BY 4.0, no signup.
+  * [Network Data Labs](https://www.networkdatalabs.com) - An IP geolocation API with accuracy radius and confidence level, ASN, and Tor, known VPN, privacy relay and hosting signals. The free plan includes 1,000 requests per day.
   * [News API](https://newsapi.org) - Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.
   * [OCR.Space](https://ocr.space/) - An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.
   * [OpenAPI3 Designer](https://openapidesigner.com/) - Visually create Open API 3 definitions for free.
@@ -896,6 +897,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Conduit](https://conduit.email/) - Turn incoming emails into webhooks to trigger your API from emails. The service is completely free.
   * [Contact.do](https://contact.do/) - Contact form in a link (bitly for contact forms)
   * [debugmail.io](https://debugmail.io/) - Easy to use testing mail server for developers
+  * [disban.io](https://disban.io/) - Protect user signups from disposable emails, or just validate an email against disposable service. Free 2000 check credits per month, No Credit Card required.
   * [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
   * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
   * [DomainCanary](https://domaincanary.com) - DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.
@@ -1249,7 +1251,7 @@ Update Time, five active automations, webhooks.
   * [Neo4j Aura](https://neo4j.com/cloud/aura/) - Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (200k nodes, 400k relationships).
   * [Neon](https://neon.com) - Managed Postgres, 0.5 GB of storage per project, 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU, scales to zero after 5 minutes. Includes S3-compatible Object Storage with 5 GB per project that branches with the database. 5 GB of network transfer per project, shared across all products.
   * [Nile](https://www.thenile.dev/) - A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total), 50 million query tokens, autoscaling, unlimited vector embeddings
-  * [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 500MB total storage, 5 databases, integrated with Prisma ORM.
+  * [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres (PostgreSQL 17) built on unikernels and running on bare metal, with zero cold starts. Free plan includes 1.01 GB storage, 200k operations per month and 50 databases, no credit card required. Works with any Postgres client or ORM.
   * [Qdrant](https://qdrant.tech/) - Vector Database for embedding data, single node cluster with 0.5 vCPU, 1GB RAM, and 4GB disk.
   * [restdb.io](https://restdb.io/) - a fast and straightforward NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries), and an efficient multi-user admin UI for working with data. The free plan allows 3 users, 2500 records, and 1 API request per second.
   * [ReviveDB](https://revivedb.dev/) - A way back for your Supabase app. ReviveDB keeps recovery points of your database and Auth, Storage files, Edge Functions and supported project configuration, and only calls a backup ready once your database has been restored from it and compared. The free plan covers one project with weekly backups and three recovery points.
