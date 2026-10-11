@@ -1292,6 +1292,7 @@ Update Time, five active automations, webhooks.
 ## Issue Tracking and Project Management
 
   * [acunote.com](https://www.acunote.com/) - Free project management and SCRUM software for up to 5 team members
+  * [AgileHero](https://agilehero.io/) - All-in-one project management tool. Free plan includes kanban board, backlog, epics, estimation poker, MCP server, REST API and webhooks for 2 users.
   * [asana.com](https://asana.com/) - Free for private project with collaborators
   * [Backlog](https://backlog.com) - Everything your team needs to release great projects in one platform. The free plan offers 1 Project with ten users & 100MB of storage.
   * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
