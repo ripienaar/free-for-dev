@@ -1661,6 +1661,7 @@ Update Time, five active automations, webhooks.
   * [Shotpipe](https://shotpipe.io) - Screenshot and Open Graph image API built for static sites. Free tier includes 100 renders/month, no card required. cached renders are free.
   * [SnapAPI](https://snapapi.pics) - Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
   * [thumbnail.ws](https://thumbnail.ws) - API for generating thumbnails of websites. Free 1,000 requests/month.
+  * [localscreenshot](https://localscreenshot.com) - Screenshot API that turns any public page into an image or a PDF, from 227 countries, with cookie banners, ads and chat widgets hidden. Also runs as an MCP server, so AI agents take screenshots on their own. Free plan includes 50 screenshots every month, no card required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
