@@ -635,6 +635,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Smart Grow Vault](https://vault.smart-grow.app/) - Secure Enterprise-grade platform for managing environment variables and secrets. Free tier includes up to 3 applications and 150 secrets per project.
   * [Socket](https://socket.dev) - Free supply chain security for individual developers, small teams, and open source projects. Includes a free app and firewall CLI tool to protect your code from vulnerable and malicious dependencies. Detects 70+ indicators of supply chain risk.
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - Intense analysis of the configuration of any SSL web server
+  * [SubdomainWatch](https://subdomainwatch.com/) - Automated attack surface monitoring and shift-left Terraform CI/CD sentinel preventing subdomain takeovers, dangling DNS records, and email hygiene flaws. Free standalone scanner and GitHub Action.
   * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
   * [TestTLS.com](https://testtls.com) - Test an SSL/TLS service for secure server configuration, certificates, chains, etc. Not limited to HTTPS.
   * [Virgil Security](https://virgilsecurity.com/) - Tools and services for implementing end-to-end encryption, database protection, IoT security, and more in your digital solution. Free for applications with up to 250 users.
