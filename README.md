@@ -507,6 +507,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [gerrithub.io](https://review.gerrithub.io/) - Gerrit code review for GitHub repositories for free
   * [goreportcard.com](https://goreportcard.com/) - Code Quality for Go projects, free for Open Source
   * [gtmetrix.com](https://gtmetrix.com/) - Reports and thorough recommendations to optimize websites
+  * [HeyDeer](https://heydeer.ai/) - AI code review for GitHub pull requests. Free plan includes 1,000 credits in the first month and 300 credits monthly after that, including private repositories. Public repository reviews are free within fair-use limits. No credit card required.
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
   * [houndci.com](https://houndci.com/) - Comments on GitHub commits about code quality, free for Open Source
   * [prquorum.com](https://prquorum.com) - ai code review github app, free 50 reviews/month on 2 repos
