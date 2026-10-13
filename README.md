@@ -1225,6 +1225,7 @@ Update Time, five active automations, webhooks.
   * [DNSHE](https://www.dnshe.com/) - Free subdomain registration across multiple domain suffixes, with custom nameserver support.
   * [isroot.in](https://isroot.in) - Free isroot.in subdomains.
   * [pp.ua](https://nic.ua/) - Free pp.ua subdomains.
+  * [PublicFreeSuffix](https://publicfreesuffix.org) - Free subdomains on is-a.si, no.kg, so.kg, pfsdns.org, nastu.net and tun.re. No annual fees, ever. Managed through a web console, with REST API and MCP support for AI agents.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
