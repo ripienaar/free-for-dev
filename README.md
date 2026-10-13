@@ -298,6 +298,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [JSON to Table](https://jsontotable.org) - Convert JSON into an interactive table for quick viewing, editing, and sharing online.
   * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
   * [JSONing](https://jsoning.com/api/) - Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
+  * [Jsonpage](https://jsonpage.com) - Company data API for France and 13 other countries (SIREN, SIRET, VAT check). Free plan: 1,000 requests per day, no credit card.
   * [Labelixa](https://labelixa.com) - Zebra ZPL label rendering and validation API and browser viewer. Free tier includes an anonymous rendering quota and barcode generation with no watermark, no card required.
   * [LayerCall](https://www.layercall.com) - Fraud and trust scoring for an IP, email, phone, domain or device in one call, plus authorization and Web Bot Auth verification for AI agents. 1,000 lookups/month free, no card required.
   * [LoginLlama](https://loginllama.app) - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.
