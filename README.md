@@ -1606,6 +1606,7 @@ Update Time, five active automations, webhooks.
   * [CurrencyApi](https://currencyapi.net/) - Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
   * [CurrencyFreaks](https://currencyfreaks.com/) - Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
   * [currencylayer](https://currencylayer.com/) - Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.
+  *  [DoXMitra](https://doxmitra.online) - Free online document generator for invoices, estimates, receipts, and purchase orders with no account or registration required.
   * [exchangerate-api.com](https://www.exchangerate-api.com) - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.
   * [Exchange Rate API](https://exchange-rateapi.com) - Real-time currency rates for 160+ currencies with 60-second updates and official SDKs. Free tier includes 300 requests/month.
   * [FraudLabsPRO](https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
