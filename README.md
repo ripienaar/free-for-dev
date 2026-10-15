@@ -1405,6 +1405,7 @@ Update Time, five active automations, webhooks.
   * [podio.com](https://podio.com/) - You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
   * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
   * [QRtracer](https://qrtracer.io) - Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.
+  * [QRUNIVERSE](https://rapidapi.com/apexcorelabs-apexcorelabs-default/api/qruniverse-vector-qr-code-generator2) - Pure vector SVG QR code generation engine with privacy-by-design architecture. Free tier includes 1,000 requests/month.
   * [QuickChart](https://quickchart.io) - Generate embeddable image charts, graphs, and QR codes
   * [redbooth.com](https://redbooth.com) - P2P file syncing, free for up to 2 users
   * [resmush.it](https://resmush.it) - reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as WordPress, Drupal, or Magento. reSmush.it is the most used image optimization API with more than seven billion images already treated, and it is still Free of charge.
