@@ -661,6 +661,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Cloud-IAM](https://www.cloud-iam.com/) - Keycloak Identity and Access Management as a Service. Free up to 100 users and one realm.
   * [Descope](https://www.descope.com/) - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
   * [duo.com](https://duo.com/) - Two-factor authentication (2FA) for website or app. Free for ten users, all authentication methods, unlimited, integrations, hardware tokens.
+  * [Frontegg](https://frontegg.com) - Customer identity for B2B SaaS: authentication, SSO/SCIM, MFA, RBAC and multi-tenant user management. The free plan includes 7,500 MAUs
   * [Kinde](https://kinde.com/) - Simple, robust authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
   * [logintc.com](https://www.logintc.com/) - Two-factor authentication (2FA) by push notifications, free for ten users, VPN, Websites, and SSH
   * [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
