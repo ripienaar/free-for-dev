@@ -51,6 +51,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Management Systems](#management-system)
   * [Messaging and Streaming](#messaging-and-streaming)
   * [Miscellaneous](#miscellaneous)
+  * [MiniToolDesk](https://minitooldesk.com) — 100% client-side, ad-free developer toolbox with 35+ utilities, local Web Crypto, and AI prompt privacy redaction.
   * [Monitoring](#monitoring)
   * [PaaS](#paas)
   * [Package Build System](#package-build-system)
