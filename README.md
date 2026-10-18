@@ -1706,6 +1706,7 @@ Update Time, five active automations, webhooks.
   * [PDFMonkey](https://www.pdfmonkey.io/) - Manage PDF templates in a dashboard, call the API with dynamic data, and download your PDF. Offers 300 free documents per month.
   * [Pika Code Screenshots](https://pika.style/templates/code-image) - Create beautiful, customizable screenshots from code snippets and VSCode using the extension.
   * [QuickType.io](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
+  * [RateCraft](https://ratecraft.app) — Free client-side freelance hourly rate and day rate calculator factoring in unbillable time, taxes, and business overhead.
   * [readme.com](https://readme.com/) - Beautiful documentation made easy, free for Open Source.
   * [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
   * [redirection.io](https://redirection.io/) - SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
