@@ -1485,6 +1485,7 @@ Update Time, five active automations, webhooks.
   * [maptiler.com](https://www.maptiler.com/cloud/) - Vector maps, map services and SDKs for map visualization. Free vector tiles with weekly updates and four map styles.
   * [nominatim.org](https://nominatim.org/) - OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.
   * [opencagedata.com](https://opencagedata.com) - Geocoding API aggregating OpenStreetMap and other open geo sources. Two thousand five hundred free queries/day.
+  * [opengeocoding.com](https://opengeocoding.com) - Source-available geocoder in Rust: address search, autocomplete and reverse geocoding on open data. Self-host it or use the hosted API. Fifty thousand free queries/month.
   * [osmnames](https://osmnames.org/) - Geocoding, search results ranked by the popularity of related Wikipedia page.
   * [positionstack](https://positionstack.com/) - Free geocoding for global places and coordinates. 25,000 Requests per month for personal use.
   * [stadiamaps.com](https://stadiamaps.com/) - Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.
