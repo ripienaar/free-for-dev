@@ -515,6 +515,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [HeyDeer](https://heydeer.ai/) - AI code review for GitHub pull requests. Free plan includes 1,000 credits in the first month and 300 credits monthly after that, including private repositories. Public repository reviews are free within fair-use limits. No credit card required.
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
   * [houndci.com](https://houndci.com/) - Comments on GitHub commits about code quality, free for Open Source
+  * [n8n Workflow Audit — TriggerWorkflow](https://tools.triggerworkflow.com/free-audit) - Free browser-only audit of exported n8n workflow JSON: five deterministic silent-failure checks (localhost traps, open webhooks, embedded secrets, broken node references, missing retries). No account, no upload, runs 100% client-side.
   * [prquorum.com](https://prquorum.com) - ai code review github app, free 50 reviews/month on 2 repos
   * [reviewable.io](https://reviewable.io/) - Code review for GitHub repositories, free for public or personal repos.
   * [scan.coverity.com](https://scan.coverity.com/) - Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
