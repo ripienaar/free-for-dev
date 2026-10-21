@@ -640,6 +640,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [SikkerKey](https://sikkerkey.com) - Machine authenticated secrets manager, includes 2 projects, 2 bootstrapped machines, 20 secrets and 7 days audit log retention for free.
   * [Smart Grow Vault](https://vault.smart-grow.app/) - Secure Enterprise-grade platform for managing environment variables and secrets. Free tier includes up to 3 applications and 150 secrets per project.
   * [Socket](https://socket.dev) - Free supply chain security for individual developers, small teams, and open source projects. Includes a free app and firewall CLI tool to protect your code from vulnerable and malicious dependencies. Detects 70+ indicators of supply chain risk.
+  * [SpoofLens](https://spooflens.com/en/browser) - Checks the consistency of a browser fingerprint to detect signs of spoofing or automation, no registration required.
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - Intense analysis of the configuration of any SSL web server
   * [SubdomainWatch](https://www.subdomainwatch.com/) - Attack surface monitoring and CI/CD takeover guard. Free standalone DNS scanner, GitHub Action with SARIF export, and continuous asset monitoring tier.
   * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
