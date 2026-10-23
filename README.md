@@ -1189,6 +1189,7 @@ Update Time, five active automations, webhooks.
   * [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
   * [Harvis.dev](https://harvis.dev) - Static site hosting via CLI (`npx harvis`) with no config files or build step. Includes free subdomain, free form submissions collections, GitHub Actions integration, CloudFlare CDN, free SSL.
   * [Koyeb](https://www.koyeb.com/) - Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.
+  * [LaunchPad](https://launchpad.hostmargin.com) - Static site hosting from GitHub/GitLab (including private repos) or a ZIP upload, with Docker-isolated builds, zero-downtime deploys and one-click rollback. Free plan: 3 projects, 50 deploys/month, 5 GB bandwidth/month, 100 build minutes/month, 1 custom domain with free SSL, and password-protected previews.
   * [MDB GO](https://mdbgo.com/) - Free hosting for one project with two weeks Container TTL, 500 MB RAM per project, SFTP - 1G disk space.
   * [Mirin](https://mirin.com) - Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.
   * [Neocities](https://neocities.org) - Static, 1 GB free storage with 200 GB Bandwidth.
