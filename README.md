@@ -1193,6 +1193,7 @@ Update Time, five active automations, webhooks.
   * [Mirin](https://mirin.com) - Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.
   * [Neocities](https://neocities.org) - Static, 1 GB free storage with 200 GB Bandwidth.
   * [Netlify](https://www.netlify.com/) - Builds, deploys and hosts static site/app free for 300 credits/month (equals 30 GB bandwidth).
+  * [Pagehaus](https://pagehaus.app) - Hosting for plain HTML sites, uploaded over SFTP or in the browser. Free plan: 1 site, 250 MB storage, 20 GB transfer/month, HTTPS on a pagehaus.site subdomain, contact forms, Server Side Includes and cookie-free analytics. No expiry, no card.
   * [PandaStack](https://www.pandastack.io/) - An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
   * [pantheon.io](https://pantheon.io/) - Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies. No custom domain.
   * [Qoddi](https://qoddi.com) - PaaS service similar to Heroku with a developer-centric approach and all-inclusive features. Free tier for static assets, staging, and developer apps.
