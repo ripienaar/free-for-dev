@@ -725,6 +725,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Pingram.io](https://www.pingram.io/) - Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more.
   * [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
   * [pubnub.com](https://www.pubnub.com/) - Swift, Kotlin, and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
+  * [PushNotif](https://pushnotif.biz.id) - Multi-channel notification API and MCP server (Web Push VAPID, Android FCM, iOS APNs, In-App banners, Social Proof toasts, and Email OTP). Free tier includes 1,000 notification credits and unlimited Social Proof toast impressions.
   * [pusher.com](https://pusher.com/) - Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
   * [scaledrone.com](https://www.scaledrone.com/) - Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
   * [SMSGate](https://sms-gate.app) - SMS Gateway for Android™ enables sending and receiving SMS messages through your devices using cloud routing. Completely free cloud service (with recommended notification for usage above 10,000 messages/day to maintain quality for all users).
