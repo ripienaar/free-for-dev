@@ -1762,3 +1762,4 @@ Update Time, five active automations, webhooks.
   * [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
 
 **[⬆️ Back to Top](#table-of-contents)**
+  * [Castov](https://www.castov.com) - Privacy-first developer execution layer with 61 in-browser utilities, terminal CLI, and local MCP server for AI coding editors. 100% free with zero payload logging.
