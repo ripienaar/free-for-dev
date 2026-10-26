@@ -1448,6 +1448,7 @@ Update Time, five active automations, webhooks.
   * [landen.co](https://www.landen.co) - Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
   * [Logo.dev](https://www.logo.dev) - Company logo API with 44M+ brands that's as easy as calling a URL. First 10,000 API calls are free.
+  * [logoapi.sh](https://logoapi.sh/docs) - Clearbit logo api alternative, a company's svg logo by its domain, no api key needed, free up to 300 requests/min
   * [marvelapp.com](https://marvelapp.com/) - Design, prototyping, and collaboration, free plan limited to one user and project.
   * [Mindmup.com](https://www.mindmup.com/) - Unlimited mind maps for free and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
   * [Mockplus iDoc](https://www.mockplus.com/idoc) - Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes three users and five projects with all features available.
