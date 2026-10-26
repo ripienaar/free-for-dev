@@ -901,6 +901,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Unitpost](https://www.unitpost.com/) - AI-First Transactional & Marketing Email Service. Free tier: 5,000 emails/mo, 200 emails/day, 10,000 contacts, 5 domains. No credit card required. SDKs, MCP and REST API available.
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
+  * [AliasMail](https://aliasmail.space/) - Privacy-preserving email forwarding and alias service with HMAC-SHA256 signed webhooks and custom alias handles. Free tier includes permanent email forwarding, custom aliases, and webhook integrations with no credit card required.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [anon.li Alias](https://anon.li/alias) - Open source, anonymous email alias/forwarding solution with PGP encryption, reply capability, 10 random & 1 custom alias on the free plan with developer API & CLI.
   * [Antideo](https://www.antideo.com) - 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
