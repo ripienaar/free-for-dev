@@ -694,6 +694,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [InstallOnAir](https://www.installonair.com) - Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.
   * [Loadly](https://loadly.io) - iOS & Android beta apps distribution service offers completely free services with unlimited downloads, high-speed downloads, and unlimited uploads.
   * [DistApp](https://distapp.app) - Manage and distribute Android, iOS and Desktop apps. Useful for tester or self distribution. Try it for free with 2 apps, 1 org, 100 MB storage with unlimited downloads, or self-hosted your self.
+  * [WishKit](https://www.wishkit.io) - In-app feature request and feedback board for iOS and web apps where users submit and vote on features. Free forever plan with no card: 1 project, iOS and web SDKs, unlimited users, shows the first 5 feature requests.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
