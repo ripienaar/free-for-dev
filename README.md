@@ -770,6 +770,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Monitoring
 
+  * [Uptime Monitor](https://uptime-monitor.kwart.es/) - Free plan offers unlimited monitors with 15-minute check intervals and instant email/Telegram alerts. Machine scripts allow hardware monitoring as well.
   * [Pingzo](https://www.pingzoapp.com) - Free tier offers 1 uptime/API monitor with 15-minute check intervals and instant email alerts.
   * [Accesserty Pulse](https://accesserty.com/en/pulse) - Accesserty Pulse monitors interaction signals and detectable accessibility risks on live websites. Free plans for everyone and 14-day Pro trial.
   * [AlertKick](https://www.alertkick.com) - server security (eBPF agent for Linux), uptime monitoring, on-call alerting/status pages in one product. Free tier includes 10 uptime monitors and heartbeats, 5-minute check intervals, 7-day retention.
