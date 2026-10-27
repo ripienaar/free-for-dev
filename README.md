@@ -1741,3 +1741,4 @@ Update Time, five active automations, webhooks.
   * [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
 
 **[⬆️ Back to Top](#table-of-contents)**
+- [SubDomainWatch](https://subdomainwatch.com?utm_source=awesome-free-for-dev&utm_medium=directory&utm_campaign=launch) - Continuous subdomain discovery, SSL expiration tracking, and DNS takeover prevention for teams. (Freemium)
