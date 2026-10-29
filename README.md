@@ -1602,6 +1602,7 @@ Update Time, five active automations, webhooks.
   * [TrackWith Dicloud](https://dicloud.net/trackwith-privacy-focused-analytics/) - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.
   * [Umami](https://umami.is/) - Simple, fast, privacy-focused, open-source alternative to Google Analytics.
   * [usabilityhub.com](https://usabilityhub.com/) - Test designs and mockups on real people and track visitors. Free for one user, unlimited tests
+  * [Vaneform](https://vaneform.com/) — Free website traffic estimates: monthly visits, trends, countries and sources for any domain. Free lookups with no account; free registered plan includes 999 lookups/day.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
