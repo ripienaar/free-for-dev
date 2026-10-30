@@ -991,6 +991,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [Abby](https://www.tryabby.com) - Open-Source feature flags & A/B testing. Configuration as Code & Fully Typed Typescript SDKs. Strong integration with Frameworks such as Next.js & React. Generous free tier and cheap scaling options.
   * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, excellent support, and a reasonable price tag. Free plan up to 10 flags, two environments, 1 product, and 5 Million requests per month.
+  * [Featureflip](https://featureflip.io/) - Featureflip is a full featured feature flag platform that removes its own dead flags by submitting its own pull requests. Free plan includes 10 flags, 2 environments, 1 project, 3 users, and no usage caps.
   * [Flagpool](https://www.flagpool.io/en/) - Feature flag management platform with a focus on simplicity and ease of use. Free plan includes creating up to 10 new flags per month, unlimited requests and targeting rules.
   * [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server-side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.
   * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
