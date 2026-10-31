@@ -611,6 +611,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Security and PKI
 
   * [aikido.dev](https://www.aikido.dev) - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.
+  * [CertAvert](https://certavert.com/monitoring) - Monitor SSL/TLS certificates on any port, checks expiry, chain problems, revocation, host mismatch. Monitor 15 domains free, get expiry notifications, email, Slack or Discord. No credit card required for signup. 
   * [CertKit](https://www.certkit.io/certificate-management) - Manage SSL Certificate issuance, renewal, and monitoring. Search the Certificate Transparency Logs. Free for 3 certificates and 1 user after the beta.
   * [CertObserver CT Search](https://certobserver.com/ct-search) - Find public SSL/TLS certificates recorded in Certificate Transparency logs. CT search is free but CT monitoring is not.
   * [CertPost](https://www.certpost.ai) - Live SSL/TLS certificate monitoring on port 443 or custom ports (SMTP/IMAP). Reads the served certificate on the wire, full chain verification, and alerts via email or webhook before expiration. Free tier includes 3 certificates monitored forever.
