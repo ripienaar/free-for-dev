@@ -1746,7 +1746,8 @@ Update Time, five active automations, webhooks.
   * [superfeedr.com](https://superfeedr.com/) - Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
   * [SurveyMonkey.com](https://www.surveymonkey.com) - Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
   * [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
-  * [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
+  * [Teapot Router Cost Calculator](https://teapotrouter.com/en/claude-code-cost-calculator) - Estimate monthly Claude Code spend from your usage shape (turns, re-sent context, cache hits) and find the subscription break-even point. Free, no login, live rates.
+* [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
   * [Versionfeeds](https://versionfeeds.com) - Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [Keeper.sh](https://www.keeper.sh) - A calendar syncing tool that keeps your work, personal, business or student calendars in sync. Free for up to 2 calendars, 3 connections, and give your agent or scripts access to read and modify your calendars with up to 25 calls per day.
 
