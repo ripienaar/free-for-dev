@@ -1435,6 +1435,7 @@ Update Time, five active automations, webhooks.
   * [plot.ly](https://plot.ly/) - Graph and share your data. The free tier includes unlimited public files and ten private files
   * [podio.com](https://podio.com/) - You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
   * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
+  * [QRelix](https://www.qrelix.com) - QRelix is a dynamic QR code platform that allows users to generate QR codes with sophisticated routing mechanisms and client-side analytics unique to the space. QR codes can be generated statically or dynamically for free. Our dynamic codes come with 20 free scans a month.
   * [QRtracer](https://qrtracer.io) - Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.
   * [QuickChart](https://quickchart.io) - Generate embeddable image charts, graphs, and QR codes
   * [redbooth.com](https://redbooth.com) - P2P file syncing, free for up to 2 users
