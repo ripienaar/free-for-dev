@@ -1259,7 +1259,7 @@ Update Time, five active automations, webhooks.
 
   * [DigitalPlat](https://domain.digitalplat.org) - Free subdomains.
   * [DNSHE](https://www.dnshe.com/) - Free subdomain registration across multiple domain suffixes, with custom nameserver support.
-  * [does.software](https://does.software) - Free does.software subdomains with HTTPS, which can redirect to any URL. Static site hosting is available on paid plans.
+  * [does.software](https://does.software) - Free does.software subdomains with HTTPS, URL redirects and 1 email forward. Free subdomains must be renewed every 45 days. Static site hosting is available on paid plans.
   * [isroot.in](https://isroot.in) - Free isroot.in subdomains.
   * [pp.ua](https://nic.ua/) - Free pp.ua subdomains.
 
