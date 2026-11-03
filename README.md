@@ -324,6 +324,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Parseur](https://parseur.com) - 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
+  * [PendingDelete.net](https://pendingdelete.net) - Domain pending delete lists, RDAP whois, downloadable lists, all free. 
   * [Pexafy](https://docs.pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [PolyDoc](https://polydoc.tech) - REST API for HTML to PDF and screenshot generation. Including templates, PDF/A and PDF/UA output, privacy-focused, and more features. The free plan includes 150 conversions/month.
