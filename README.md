@@ -1783,3 +1783,5 @@ Update Time, five active automations, webhooks.
   * [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+  * [Invoicycle](https://invoicycle.com) - AI-powered recurring invoicing, payment links, and client billing portals. Free forever plan includes 50 invoices per month, multi-currency support, and payment tracking.
