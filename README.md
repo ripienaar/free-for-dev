@@ -796,6 +796,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Gairė](https://gaire.lt/en) - Web Change monitoring for research, price changes, out-of/in stock monitoring. Free plan up to 10 pages checked every hour, alerts by sms, email, Webhook, Slack/Discord/Telegram integrations. No card needed.
   * [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform that integrates metrics and logs with Grafana. Free: 3 users, ten dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
   * [healthchecks.io](https://healthchecks.io) - Monitor your cron jobs and background tasks. Free for up to 20 checks.
+  * [hypermonitors.com](https://hypermonitors.com) - Monitors your infrastructure from three different locations (ZH - NYC - SG) with every outage checked from a 2nd location before alerts go out. Free forever for 5 monitors and 5 minute checks.
   * [incidenthub.cloud](https://incidenthub.cloud/) - Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord) are free forever.
   * [inspector.dev](https://www.inspector.dev) - A complete Real-Time monitoring dashboard in less than one minute with a free forever tier.
   * [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
