@@ -331,7 +331,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Postman](https://postman.com) - Simplify workflows and create better APIs - faster - with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
   * [PrefectCloud](https://www.prefect.io/cloud/) - A complete platform for dataflow automation. Free plan includes 5 deployed workflows and 500 minutes of serverless compute credits per month.
   * [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
-  * [ProxySentry](https://proxysentry.io/) - IP API that detects residential proxies and VPNs. ProxySentry.io offers a free tier with 10k requests per month on rapidapi.com.
   * [Publora](https://publora.com) - Publishing API: post or schedule to 10 social networks with one HTTPS call, or from an AI agent over MCP. Free forever: 15 posts/month, 3 connected accounts, all networks except X.
   * [Reducto](https://reducto.ai) - Turn any unstructured documents (PDF, XLSX, JPG, PPTX, etc.) into structured JSON data. Parse, extract data, and edit PDF forms. Free tier with 15k free credits and pay-as-you-go.
   * [Rendi](https://rendi.dev) - FFmpeg API - A REST API for FFmpeg, run FFmpeg online without handling the infrastructure. Free tier with monthly processing quota and 4 vCPUs available.
@@ -867,7 +866,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Semaphr](https://semaphr.com) - Free all-in-one kill switch for your mobile apps.
   * [sentry.io](https://sentry.io/) - Sentry tracks app exceptions in real-time and has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
   * [Vinktar](https://vinktar.com/) - Error tracking and product analytics in one tool, set up and queried by your coding agent over MCP. Free for 1M events and 50k errors per month, no card required.
-  * [Whitespace](https://whitespace.dev) - One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1077,7 +1075,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Generative AI
 
   * [Arize AX](https://arize.com/) - AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.
-  * [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) - AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
   * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
   * [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
   * [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/)
@@ -1381,7 +1378,6 @@ Update Time, five active automations, webhooks.
   * [Shortcut](https://shortcut.com/) - Project management platform. Free for up to 10 users forever.
   * [taiga.io](https://taiga.io/) - Project management platform for startups and agile developers, free for Open Source
   * [taskade.com](https://www.taskade.com/) - Real-time collaborative task lists and team outlines. The free plan has one workspace with unlimited tasks and projects; 1GB file storage; 1-week project history; and five attendees per video meeting.
-  * [Teaminal](https://www.teaminal.com) - Standup, retro, and sprint planning tool for remote teams. Free for up to 15 users.
   * [teamwork.com](https://teamwork.com/) - Project management & Team Chat. Free for five users and two projects. Premium plans are available.
   * [teleretro.com](https://www.teleretro.com/) - Simple and fun retrospective tool with icebreakers, gifs and emojis. The free plan includes three retros and unlimited members.
   * [Tenzu](https://tenzu.net/) - Lightweight project management tool for agile teams. The SaaS relies on free contributions; users can always choose to give 0 and there is no features paywall {[more details](https://tenzu.net/pricing/)}
@@ -1741,7 +1737,6 @@ Update Time, five active automations, webhooks.
   * [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
   * [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
   * [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
-  * [Hosting Checker](https://hostingchecker.co) - Check hosting information such as ASN, ISP, location and more for any domain, website or IP address. Also includes multiple hosting and DNS-related tools.
   * [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord, and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
   * [PDFMonkey](https://www.pdfmonkey.io/) - Manage PDF templates in a dashboard, call the API with dynamic data, and download your PDF. Offers 300 free documents per month.
   * [Pika Code Screenshots](https://pika.style/templates/code-image) - Create beautiful, customizable screenshots from code snippets and VSCode using the extension.
@@ -1758,7 +1753,6 @@ Update Time, five active automations, webhooks.
   * [superfeedr.com](https://superfeedr.com/) - Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
   * [SurveyMonkey.com](https://www.surveymonkey.com) - Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
   * [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
-  * [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
   * [Versionfeeds](https://versionfeeds.com) - Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [Keeper.sh](https://www.keeper.sh) - A calendar syncing tool that keeps your work, personal, business or student calendars in sync. Free for up to 2 calendars, 3 connections, and give your agent or scripts access to read and modify your calendars with up to 25 calls per day.
 
