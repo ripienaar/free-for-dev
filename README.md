@@ -1165,7 +1165,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [backendless.com](https://backendless.com/) - Mobile and Web Baas, with 1 GB file storage free, push notifications of 50,000/month, and 1000 data objects in the table.
   * [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
   * [convex.dev](https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and WebSockets to stream updates to various clients. Free for small projects - up to 1M records, 5M monthly function calls.
-  * [ETLR](https://etlr.io) - Define, version, and deploy automation scripts using YAML. A developer-first alternative to drag-and-drop tools. Can be used for scheduled tasks, AI agents, and infrastructure monitoring. Free tier includes 100 credits/month.
   * [Flutter Flow](https://flutterflow.io) - Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. The free plan includes full access to UI Builder and Free templates.
   * [getstream.io](https://getstream.io/) - Build scalable In-App Chat, Messaging, Video and audio, and Feeds in a few hours instead of weeks
   * [IFTTT](https://ifttt.com) - Automate your favorite apps and devices. Free 2 Applets
