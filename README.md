@@ -1457,7 +1457,8 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Design and UI
+## Design and   * [ToolkitPro Studio](https://dalingdao.github.io/toolkitpro/) - Free online developer tools: JSON formatter, Markdown editor, QR code generator, CSS gradient & shadow generators, Lorem Ipsum, hash tools. No signup, data stays in browser.
+UI
 
   * [Beste](https://beste.co) - A composition-first website builder based on shadcn/ui blocks. The free plan lets you connect your own custom domain, and includes unlimited pages, multi-language support, blog, forms, and hosting.
   * [BoxySVG](https://boxy-svg.com) - A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
