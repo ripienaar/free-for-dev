@@ -988,6 +988,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Waitlio](https://waitlio.com/) - Waitlist management software for product launches. Create branded waitlist pages, collect and verify email subscribers, manage signups with tags and analytics. Free plan includes 100 subscribers/month, 1 waitlist, and API access.
   * [Wraps](https://wraps.dev) - Email infrastructure deployed to your own AWS account (SES), with a dashboard. Pay AWS directly for sending. Free plan covers 1 AWS account, unlimited domains and contacts.
   * [ZeroSMTP](https://github.com/msgwing/ZeroSMTP) - Free SMTP relay on the msgwing.com domain, up to 200 emails/day, no paid tier. Sends from a shared @msgwing.com address only (no custom domain). Ready-to-run code examples in 15 languages plus Windows Server/Linux/network printer setup guides.
+  * [ZeroBounce](https://www.zerobounce.net) - Email verification API and web app. 100 free email verifications per month when you sign up with a business or premium domain.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
