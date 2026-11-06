@@ -249,6 +249,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CurrencyScoop](https://currencyscoop.com) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
   * [CustomJS](https://www.customjs.io) - HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.
   * [Data Fetcher](https://datafetcher.com) - Connect Airtable to any application or API with no code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.
+  * [Datacircle](https://api.datacircle.dev/v1) - Find the best GTM APIs. List every API, see who is best for each and search every plan. Free and open, with no key, 60 calls a minute.
   * [Dataimporter.io](https://www.dataimporter.io) - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.
   * [Datalore](https://datalore.jetbrains.com) - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.
   * [DB Designer](https://www.dbdesigner.net/) - Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and ten tables per model.
