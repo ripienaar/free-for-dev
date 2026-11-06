@@ -1032,6 +1032,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Form.taxi](https://form.taxi/) - Endpoint for HTML forms submissions. With notifications, spam blockers, and GDPR-compliant data processing. Free plan for basic usage.
   * [Formboost.app](https://formboost.app) - Developer-first form backend with simple HTTP endpoints, 500 free submissions/month, spam protection, email notifications, and built-in Slack, Discord & Telegram integrations. No backend required.
   * [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint, Free plan allows 100 monthly submissions.
+  * [FormDrop](https://formdrop.wouldairecommend.workers.dev/) — Form backend for static sites. Free plan: 250 submissions per month, unlimited forms, spam filtering, email + Slack/Discord/Telegram/webhook delivery.
   * [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website-no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
   * [Formgong](https://formgong.com/) - Multilingual form backend for generated websites that need contact or other forms. Free tier: 300 submissions/month, email and Telegram notifications.
   * [Forminit](https://forminit.com/) - Headless form backend for developers. The free plan allows 100 form submissions per month including file uploads, server-side field validation, email notifications, spam protection and Zapier.
