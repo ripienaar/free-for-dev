@@ -1707,6 +1707,7 @@ Update Time, five active automations, webhooks.
   * [thumbnail.ws](https://thumbnail.ws) - API for generating thumbnails of websites. Free 1,000 requests/month.
   * [localscreenshot](https://localscreenshot.com) - Screenshot API that turns any public page into an image or a PDF, from 227 countries, with cookie banners, ads and chat widgets hidden. Also runs as an MCP server, so AI agents take screenshots on their own. Free plan includes 50 screenshots every month, no card required.
   * [Shotlane](https://shotlane.dev) - Screenshots, clean Markdown and PDFs of any web page, rendered in current Chrome. Hide cookie banners, ads and other popups and many more options. A free account gives you 100 credits per month, no card required.
+  * [WebCapture](https://webcapture.io) - URL to PDF, screenshot and clean Markdown API with anti-bot handling, pagination waits and an MCP server so AI agents can render pages themselves. Free plan includes 50 documents per month, no card required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
