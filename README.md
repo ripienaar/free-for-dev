@@ -859,6 +859,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [GlitchTip](https://glitchtip.com/) - Simple, open-source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits
   * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month).
   * [Jam](https://jam.dev) - Developer friendly bug reports in one click. Free plan with unlimited jams.
+  * [measure.sh](https://measure.sh/) - Mobile app monitoring with errors, performance tracking and session replays. 5 GB data per month free. No limits if self-hosted.
   * [memfault.com](https://memfault.com) - Cloud device observability and debugging platform. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
   * [RealUptime Errors](https://realuptime.io/errors) - Error tracking that works with Sentry SDKs. Free for 10,000 events a month with 14-day retention; past the cap, events are refused and counted, never billed.
   * [rollbar.com](https://rollbar.com/) - Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
