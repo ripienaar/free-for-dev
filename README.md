@@ -275,7 +275,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
   * [Geolocated.io](https://geolocated.io) - IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
   * [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
-  * [HEY Research Lab](https://heyresearch.xyz/developers) - HEY Research Lab to track who's actually shipping on Robinhood Chain, with a free API and MCP server so anyone can use the data in their own tools and AI agents with 120 request/minutes.No key or no account neeeded.
+  * [HEY Research Lab](https://heyresearch.xyz/developers) - HEY Research Lab to track who's actually shipping on Robinhood Chain, with a free API and MCP server so anyone can use the data in their own tools and AI agents with 120 request per minutes. No key or no account needed.
   * [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
   * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
   * [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
