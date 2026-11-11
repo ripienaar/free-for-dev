@@ -1608,6 +1608,7 @@ Update Time, five active automations, webhooks.
   * [Pug](https://pug.sh) - Open-source product analytics with autocapture, trends, funnels, retention, user flows and unified user profiles. Free plan includes 100,000 events per month and 1 year of data retention.
   * [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
   * [Row Zero](https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. Three free (forever) workbooks.
+  * [RudderStack](https://rudderstack.com/) - Event streaming to 200+ destinations and data warehouse, plus reverse ETL. Comes with MCP server and CLI for AI agents. Free forever for 250k events/month.
   * [Rybbit](https://rybbit.io) - Open-source and cookieless alternative to Google Analytics that is 10x more intuitive. Free plans has 3,000 monthly events.
   * [Seline](https://seline.so) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
   * [StatCounter](https://statcounter.com/) - Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.
