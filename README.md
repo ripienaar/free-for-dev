@@ -1,4 +1,3 @@
-<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/86c449e9-15fc-480f-ba0d-1000edd2c185" /># free-for.dev
 
 Developers and open-source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
