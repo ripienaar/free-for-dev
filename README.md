@@ -1677,6 +1677,8 @@ Update Time, five active automations, webhooks.
   * [quay.io](https://quay.io/) - Build and store container images with unlimited free public repositories
   * [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral Docker image registry
 
+  * [DevEditor Pro](https://vercel.app) - Browser-based HTML/CSS/JS playground with live responsive preview and 10 free local-first developer tools.
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Dev Blogging Sites
@@ -1686,7 +1688,7 @@ Update Time, five active automations, webhooks.
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [Hashnode](https://hashnode.com/) - Hassle-free Blogging Software for Developers!.
   * [Medium](https://medium.com/) - Get more thoughtful about what matters to you.
-  * [JustBlogged](https://justblogged.com) - Free blogging platform with custom domain support, and fast global performance.
+ * [JustBlogged](https://justblogged.com) - Free blogging platform with custom domain support, and fast global performance.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
