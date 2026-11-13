@@ -1051,6 +1051,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Formspree.io](https://formspree.io/) - Send email using an HTTP POST request. The free tier limits to 50 submissions per form per month.
   * [Formsubmit.co](https://formsubmit.co/) - Easy form endpoints for your HTML forms. Free Forever. No registration is required.
   * [Formware.io](https://formware.io/) - Create fully-responsive and captivating forms in seconds, without knowing how to code, and collect unlimited responses for free!
+  * [FreelyForm](https://freelyform.com/) - Hosted form backend for HTML forms, static sites and custom apps. The free tier covers 80 submissions a month with unlimited forms and unlimited history, no card required.
   * [HeroTofu.com](https://herotofu.com/) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own front end. No server code is required. The free plan gives unlimited forms and 100 submissions per month.
   * [HeyForm.net](https://heyform.net/) - Drag and drop online form builder. The free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.
   * [Jotform.com](https://jotform.com/) - Create online forms for free, collect submissions, accept payments, automate workflows, and get documents signed with built-in e-signatures. Free plan includes 5 forms, 100 monthly submissions, 10 e-sign documents, 10 payment submissions, and more.
