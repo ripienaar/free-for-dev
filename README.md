@@ -1307,6 +1307,7 @@ Update Time, five active automations, webhooks.
   * [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and lets you publish SQL queries as managed HTTP APIs. There is no time limit on free-tier, 10GB storage + 1000 API requests per day.
   * [Turso by ChiselStrike](https://turso.tech/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
   * [Upstash](https://upstash.com/) - Serverless Redis with free tier up to 500K monthly commands, 256MB max database size, and 20 concurrent connections
+  * [TextScope](https://textscopes.com/) - Free, 100% client-side browser suite for word counting, Flesch readability, AI Markdown & zero-width Unicode cleaning (`U+200B`), LLM token counting, and 600px SEO title checking.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
