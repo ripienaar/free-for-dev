@@ -560,7 +560,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Shipfox](https://www.shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
   * [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month
   * [Terramate](https://terramate.io/) - Terramate is an orchestration and management platform for Infrastructure as Code (IaC) tools such as Terraform, OpenTofu, and Terragrunt. Free up to 2 users including all features.
-  * [Terrateam](https://terrateam.io) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
+  * [Stategraph](https://stategraph.com) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
   * [Trigger.dev](https://trigger.dev) - Open-source background jobs and AI agent platform with durable tasks, no timeouts, and realtime. Free plan includes $5 monthly compute credits, 20 concurrent runs, unlimited tasks, 5 team members, 10 schedules, and 1-day log retention.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -1254,7 +1254,7 @@ Update Time, five active automations, webhooks.
   * [nextdns.io](https://nextdns.io) - DNS-based firewall, 300K free queries monthly
   * [noip.at](https://noip.at/) - Free DDNS service without registration, tracking, logging or advertising. No limit to domains.
   * [noip](https://www.noip.com/) - a dynamic DNS service that allows up to 3 hostnames free with confirmation every 30 days
-  * [sslip.io](https://sslip.io/) - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
+  * [nip.io](https://nip.io/) - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
   * [zilore.com](https://zilore.com/en/dns) - Free DNS hosting for 5 domains.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) - Free DNS hosting with Dynamic DNS Support.
   * [Zonomi](https://zonomi.com/) - Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name) with up to 10 DNS records.
