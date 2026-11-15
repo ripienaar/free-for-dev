@@ -619,8 +619,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [crypteron.com](https://www.crypteron.com/) - Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [CyberChef](https://gchq.github.io/CyberChef/) - A simple, intuitive web app for analyzing and decoding/encoding data without dealing with complex tools or programming languages. Like a Swiss army knife of cryptography & encryption. All features are free to use, with no limit. Open source if you wish to self-host.
   * [CyberShield Studio](https://cybershieldstudio.com/) - Security monitoring for e-commerce store operators and developers. Weekly scans for JavaScript changes or injection, tracking before consent, security header settings, and vulnerable client-side libraries and WordPress plugins. Free plan monitors 1 store (home page + checkout path) with 30 days of history. No credit card required.
-  * [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, JavaScript, Python, PHP, Elixir,
-    Rust, Java (Maven and Gradle), .NET, Go, Elm, Docker, Terraform, Git Submodules, and GitHub Actions.
   * [DJ Checkup](https://djcheckup.com) - Scan your Django site for security flaws with this free, automated checkup tool. Forked from the Pony Checkup site.
   * [Doppler](https://doppler.com/) - Universal Secrets Manager for application secrets and config, with support for syncing to various cloud providers. Free for five users with basic access controls.
   * [Dotenv](https://dotenv.org/) - Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.
