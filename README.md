@@ -910,7 +910,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
   * [AliasMail](https://aliasmail.space/) - Privacy-preserving email forwarding and alias service with HMAC-SHA256 signed webhooks and custom alias handles. Free tier includes permanent email forwarding, custom aliases, and webhook integrations with no credit card required.
-  * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
+  * [addy.io](https://addy.io) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [anon.li Alias](https://anon.li/alias) - Open source, anonymous email alias/forwarding solution with PGP encryption, reply capability, 10 random & 1 custom alias on the free plan with developer API & CLI.
   * [Antideo](https://www.antideo.com) - 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
   * [Anypost](https://anypost.com) - transactional and broadcast email API. 3,000 emails/month free, then as low as 8¢ per 1k
@@ -1109,7 +1109,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [jsdelivr.com](https://www.jsdelivr.com/) - A free, fast, and reliable open-source CDN. Supports npm, GitHub, WordPress, Deno, and more.
   * [Microsoft Ajax](https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview) - The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) - Free DDoS protection
-  * [ovh](https://www.ovhcloud.com/ssl-gateway/) - Free DDoS protection and SSL certificate
+  * [ovh](https://www.ovhcloud.com/en-ie/security/ssl-gateway/) - Free DDoS protection and SSL certificate
   * [PromoProxy](https://promoproxy.net/) - Free cloud Secure Web Gateway. Free plan includes up to 5 users and 1 GB per day.
   * [raw.githack.com](https://raw.githack.com/) - A modern replacement of **rawgit.com** which simply hosts file using Cloudflare
   * [Skypack](https://www.skypack.dev/) - The 100% Native ES Module JavaScript CDN. Free for 1 million requests per domain per month.
