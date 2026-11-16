@@ -1243,7 +1243,6 @@ Update Time, five active automations, webhooks.
   * [Glauca](https://docs.glauca.digital/hexdns/) - Free DNS hosting for up to 3 domains and DNSSEC support
   * [Hetzner](https://www.hetzner.com/dns-console) - Free DNS hosting from Hetzner with API support.
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) - Free DNS hosting by Huawei
-  * [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
   * [luadns.com](https://www.luadns.com/) - Free DNS hosting, three domains, all features with reasonable limits
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) - Free DNS. No limit on the number of domains
   * [nextdns.io](https://nextdns.io) - DNS-based firewall, 300K free queries monthly
