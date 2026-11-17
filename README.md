@@ -518,6 +518,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [HeyDeer](https://heydeer.ai/) - AI code review for GitHub pull requests. Free plan includes 1,000 credits in the first month and 300 credits monthly after that, including private repositories. Public repository reviews are free within fair-use limits. No credit card required.
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
   * [houndci.com](https://houndci.com/) - Comments on GitHub commits about code quality, free for Open Source
+  * [proofline.sh](https://proofline.sh/) - AI code review for GitHub pull requests, with infrastructure-aware checks when connected to a deployment environment. Free forever for open repos, and no subscription required if you BYOK on any private repo.
   * [prquorum.com](https://prquorum.com) - ai code review github app, free 50 reviews/month on 2 repos
   * [reviewable.io](https://reviewable.io/) - Code review for GitHub repositories, free for public or personal repos.
   * [scan.coverity.com](https://scan.coverity.com/) - Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
