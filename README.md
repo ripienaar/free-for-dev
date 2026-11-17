@@ -1439,7 +1439,7 @@ Update Time, five active automations, webhooks.
   * [plot.ly](https://plot.ly/) - Graph and share your data. The free tier includes unlimited public files and ten private files
   * [podio.com](https://podio.com/) - You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
   * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
-  * [QRdx](https://qrdx.dev) - Free Open-source QR code generator that checks a design will scan before you download it, plus an image API that needs no key (SVG, PNG, WebP or EPS). Free: unlimited static QR codes with no account, the image API up to 300 requests a minute, and 10 dynamic QR codes with scan analytics on a free account. Create QR Codes like never before.
+  * [QRdx](https://qrdx.dev) - Free Open-source QR code generator, plus an image API that needs no key (SVG, PNG, WebP or EPS). Free: unlimited static QR codes with no account, the image API up to 300 requests a minute, and 10 dynamic QR codes with scan analytics on a free account.
   * [QRtracer](https://qrtracer.io) - Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.
   * [QuickChart](https://quickchart.io) - Generate embeddable image charts, graphs, and QR codes
   * [redbooth.com](https://redbooth.com) - P2P file syncing, free for up to 2 users
