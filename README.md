@@ -360,7 +360,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [WeatherXu](https://weatherxu.com/) - Global weather data including current conditions, hourly and daily forecasts, and weather alerts via our API. Integrating AI models and ML systems to analyze and combine multiple weather models to deliver improved forecast accuracy. Free tier includes 10,000 API calls/month.
   * [Webhooker](https://webhooker.eu/) - Webhook gateway hosted in Germany. Signature verification, retries, dead letter queue and replay. Free plan: 10,000 events per month.
   * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
-  * [Weights & Biases](https://wandb.ai) - The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
+  * [Weights & Biases (CoreWeave Forge)](https://forge.coreweave.com/wandb) - The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
   * [What Is My IP](https://whatismyip.help) - A free service to check your public IPv4 and IPv6 address and related request data through an API with different output formats for automation, scripts, and network troubleshooting.
   * [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).
   * [XFlux](https://www.xfluxapi.com) - X/Twitter read REST API (profiles, search, timelines) plus account monitors. Free tier: 1,000 API calls/month, 1 monitor, instant API key. HTTP webhooks on paid plans from $19/mo.
@@ -494,7 +494,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [DhiWise](https://www.dhiwise.com/) - Converts Figma designs into dynamic Flutter and React applications. Its code generation technology is designed to optimize workflows for building production-ready mobile and web experiences.
 * [Metalama](https://www.postsharp.net/metalama) - A C#-specific tool that generates boilerplate code on the fly during compilation to keep source code clean. It is free for open-source projects; its commercial-friendly free tier includes up to three aspects.
 * [Supermaven](https://www.supermaven.com/) - A high-speed AI code completion plugin for VS Code, JetBrains, and Neovim. The free tier provides unlimited inline completions with a focus on ultra-low latency.
-* [v0.dev](https://v0.dev/) - Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. It uses a credit system, providing 1,200 starting credits and 200 free credits monthly.
+* [v0](https://v0.app/) - Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. The free plan includes 7 messages per day, Design Mode and GitHub sync.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -525,7 +525,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) - Continuous inspection platform, free for Open Source
   * [semanticdiff.com](https://app.semanticdiff.com/) - Programming language aware diff for GitHub pull requests and commits, free for public repositories
   * [shields.io](https://shields.io) - Quality metadata badges for open source projects
-  * [SonarQube Cloud](https://sonarsouce.com) - Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
+  * [SonarQube Cloud](https://sonarsource.com/products/sonarqube/cloud/) - Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
 * [tomosu.ai](https://tomosu.ai/) - Scores a repository or pull request with a 0-100 Production Reliability Index, plus fix suggestions and a merge verdict. Free for one repository (public or private) through the VS Code/Cursor plugin, web scan, and GitHub App PR comments.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -633,13 +633,13 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [IntoDNS.ai](https://intodns.ai) - DNS and email security analyzer that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered explanations and fix suggestions. 100% free, no signup required.
   * [letsencrypt.org](https://letsencrypt.org/) - Free SSL Certificate Authority with certs trusted by all major browsers
   * [meterian.io](https://www.meterian.io/) - Monitor Java, Javascript, .NET, Scala, Ruby, and NodeJS projects for security vulnerabilities in dependencies. Free for one private project, unlimited projects for open source.
-  * [Mozilla Observatory](https://observatory.mozilla.org/) - Find and fix security vulnerabilities in your site.
+  * [Mozilla Observatory](https://developer.mozilla.org/en-US/observatory) - Find and fix security vulnerabilities in your site.
   * [Otterwatch](https://otterwatch.dev/) - Daily SSL/TLS certificate monitoring: expiry alerts (30/7/1 day), chain and OCSP revocation checks, and certificate transparency issuance history. Free forever for 5 domains, no credit card.
   * [pkgscan.dev](https://pkgscan.dev) - Multi-engine supply chain scanner for npm, PyPI, VS Code extensions, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills. Checks for malware and known vulnerabilities, including hash lookups that need no upload. Free tier: 5 scans per month with full findings.
-  * [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
+  * [Protectumus](https://www.protectimus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
   * [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks). Full list is available via API
-  * [pyup.io](https://pyup.io) - Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
   * [qualys.com](https://www.qualys.com/community-edition) - Find web app vulnerabilities, audit for OWASP Risks
+  * [Safety](https://www.getsafety.com/) - Software supply chain security for Python, JavaScript and Docker dependencies. The free plan covers one codebase and 100 scans per month for a single user, for non-commercial use.
   * [SikkerKey](https://sikkerkey.com) - Machine authenticated secrets manager, includes 2 projects, 2 bootstrapped machines, 20 secrets and 7 days audit log retention for free.
   * [Smart Grow Vault](https://vault.smart-grow.app/) - Secure Enterprise-grade platform for managing environment variables and secrets. Free tier includes up to 3 applications and 150 secrets per project.
   * [Socket](https://socket.dev) - Free supply chain security for individual developers, small teams, and open source projects. Includes a free app and firewall CLI tool to protect your code from vulnerable and malicious dependencies. Detects 70+ indicators of supply chain risk.
@@ -743,10 +743,10 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Log Management
 
+  * [Better Stack Logs](https://betterstack.com/log-management) - ClickHouse-based SQL-compatible log management. The free plan includes 3 GB of logs retained for three days.
   * [bugfender.com](https://bugfender.com/) - Free up to 100k log lines/day with 24 hours retention
   * [log.dog](https://log.dog/) - LogDog is a remote debugging/logging SDK (iOS and Android) with a web ui. Captures all logs, requests and events in real-time and allows to intercept them. Free for up to 100MB of logs every month
   * [logflare.app](https://logflare.app/) - Free for up to 12,960,000 entries per app per month, 3 days retention
-  * [logtail.com](https://logtail.com/) - ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.
   * [logzab.com](https://logzab.com/) - Audit trail management system. Free 1,000 user activity logs per month, 1-month retention, for up to 5 projects.
   * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) - Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
   * [openobserve.ai](https://openobserve.ai/) - 200 GB Ingestion/month free, 15 Days Retention
@@ -1075,13 +1075,12 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Generative AI
 
   * [Arize AX](https://arize.com/) - AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.
-  * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
+  * [Braintrust](https://www.braintrust.dev/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
   * [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
   * [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/)
   * [evalship](https://evalship.com) - find the flaws in your LLM evals. Reviews your evals suite for improvement opportunities, monitors your PRs for any eval regressions or unintended side effects and optimizes your prompts and models based on experiments in your product. Free for 1 private repo for 1 user, 100 PR analyses a month, 30 days of eval history. Free for public repos.
   * [Future AGI](https://futureagi.com) - Open-source platform to evaluate, observe, and improve LLM and AI agent apps, with tracing, evals, simulations, and guardrails. Free tier includes 50GB storage, 2K eval credits, 100K AI-gateway requests/month, 1M tokens of text agent simulation and 60 min of voice simulation, plus unlimited projects/seats and BYOK LLM-as-judge at $0 platform cost. [#opensource](https://github.com/future-agi/future-agi)
   * [Gonka Broker](https://gonkabroker.com/) - OpenAI-compatible API for open-source models served over the decentralized Gonka.ai GPU network. 1M+ free tokens monthly. Easy integration with many AI tools.
-  * [Keywords AI](https://keywordsai.co) - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!
   * [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse)
   * [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource](https://github.com/langwatch/langwatch)
   * [Latitude](https://latitude.so) - Open-source (MIT) LLM observability and evaluation platform to trace, monitor, and evaluate AI agents in production. Free Starter plan includes 20K credits/month, 30-day data retention, and unlimited seats. [#opensource](https://github.com/latitude-dev/latitude-llm)
@@ -1093,6 +1092,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)
   * [Portkey](https://portkey.ai/) - Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.
   * [ReportGPT](https://ReportGPT.app) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
+  * [Respan](https://www.respan.ai/) - LLM observability and gateway with one format for 200+ models. The free plan includes 100,000 logs, 1,000 scores, five datasets, two evaluators and ten prompts per month, with no credit card required.
   * [telemetry.dev](https://telemetry.dev) - Observability for AI/LLM apps built on OpenTelemetry. Traces model calls and tool steps with tokens, cost, latency and errors; send OTLP over HTTP from any language or use the TypeScript SDKs. Free plan includes 10,000 spans/month, 7-day retention, 1 project and 2 seats, no credit card.
   * [Transcript LOL](https://transcript.lol/) - Converts audio or video to text using AI. Generates summaries and other insights using LLMs. The free tier includes 2 transcriptions per day. You can upload files, record voice notes, or use links from YouTube, Instagram etc. The free version also supports WhatsApp, Telegram and importing files directly from cloud storages - Google Drive, Dropbox, Box and OneDrive. No API key needed. Sign up and ready to use. Also has apps for mobiles, desktops and chromebooks.
   * [Zenable](https://zenable.io) - Instantly auto-fix outputs from tools like Cursor, Windsurf, and Copilot to meet your company's quality and compliance standards using guardrails built with Policy as Code. The free tier includes 100 tools calls per day to the MCP server and 25 free automated pull request reviews per day via the GitHub App.
@@ -1137,12 +1137,12 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [encore.dev](https://encore.dev/) - Backend framework using static analysis to provide automatic infrastructure, boilerplate-free code, and more. Includes free cloud hosting for hobby projects.
   * [EthioDeploy](https://ethiodeploy.com/) - Hosting and agentic coding platform containing Built-in Analytics, Database, GitHub CI/CD, free sub-domain, CLI, AI coding agent. Free tier allows one project 256 MB RAM / 0.5 CPU, sleeps after 30 min idle, 512 MB database and 100,000 tokens on the default model one time.
   * [faable.com](https://faable.com/) - Deploy apps with framework auto-detection for Python and Node.js. The free tier includes one 0.5 CPU / 1 GB RAM instance per project, 10 GB bandwidth, 10 successful deploys per day, automatic SSL and a built-in WAF, plus OAuth 2.0 / OIDC authentication. Apps sleep after 2 hours without traffic. European servers.
-  * [flightcontrol.dev](https://flightcontrol.dev/) - Deploy web services, databases, and more on your own AWS account with a Git push style workflow. Free tier for users with 1 developer on personal GitHub repos. AWS costs are billed through AWS, but you can use credits and the AWS free tier.
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provides one free instance that never sleeps and a free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups for Elixir/Phoenix apps.
   * [Northflank](https://northflank.com) - Build and deploy microservices, jobs, and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. The free tier includes two services, two cron jobs and 1 database.
   * [Ownkube](https://ownkube.io) - A cloud for personal software. Deploy apps, workers, jobs and managed databases with your coding agent, on prepaid credit from $5 that never expires. Free tier: the Starter plan runs everything on one instance in your own AWS account, no credit card needed (you pay AWS for the instance).
-  * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
+  * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://pipedream.com/docs/pricing). No server or cloud resources to manage.
   * [pythonanywhere.com](https://www.pythonanywhere.com/) - Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
+  * [Ravion](https://www.ravion.com/) - Deploy web services, databases, and more on your own AWS account with a Git push style workflow. The Individuals plan is free for one user with up to 50 modules, 2,000 pipeline minutes and $20 of AI tokens per month. AWS costs are billed through AWS, but you can use credits and the AWS free tier.
   * [Runsite](https://runsite.app/) - European PaaS with automated deployments from GitHub for web services or static sites (1 web 0.1 vCPU/256 MB free), managed PostgreSQL and Valkey(Redis) (30 days for free), Transactional Email (3,000 emails/month free), S3 compatible storage (5 GB/free), all what you need for start your web site. Servers located in Germany.
   * [SnapDeploy](https://snapdeploy.dev/) - Docker containers or GitHub repos, hosted on AWS. Free tier: up to 4 containers, 100 running hours a month, 10 deploys a day. Sleeps after 15 minutes idle and wakes on the next request. No credit card.
   * [Staxa](https://staxa.dev/) - Multi-tenant app hosting: each tenant gets its own app, database, subdomain and TLS in an isolated Kubernetes namespace through either a web app or API integration. Free tier includes 2 tenants with up to 2 services each (0.5 vCPU, 512 MB), free apps sleep after 24 hours of being idle.
@@ -1466,7 +1466,6 @@ Update Time, five active automations, webhooks.
   * [figma.com](https://www.figma.com) - Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.
   * [Flows](https://flows.sh/) - A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
   * [JoyDemo](https://joydemo.com) - Create interactive and clickable demos of your website or app. Free with unlimited demos and unlimited views.
-  * [landen.co](https://www.landen.co) - Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
   * [Logo.dev](https://www.logo.dev) - Company logo API with 44M+ brands that's as easy as calling a URL. First 10,000 API calls are free.
   * [logoapi.sh](https://logoapi.sh/) - Company logo API with no key or signup, the ideal Clearbit logo API alternative with SVG logos for any domain. 2M free requests a month per site.
@@ -1481,6 +1480,7 @@ Update Time, five active automations, webhooks.
   * [Canva](https://www.canva.com/mockups/) - Create product mockups, 200 free mockups.
   * [SVGicons.com](https://svgicons.com/) - Free search engine for 312K+ open-source SVG icons with ready-to-use SVG, React, Vue, HTML, and CSS code.
   * [TeleportHQ](https://teleporthq.io/) - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to instantly create and publish headless static websites. Three free projects, unlimited collaborators, and free code export.
+  * [Umso](https://www.umso.com/) - Generate, edit, and publish beautiful websites and landing pages for your startup, all without code. The free plan covers one site with a homepage, blog and free subdomain, with Umso branding.
   * [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. One website for free.
   * [Updrafts.app](https://updrafts.app) - WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.
   * [Webflow](https://webflow.com) - WYSIWYG website builder with animations and website hosting. Free for two projects.
@@ -1585,7 +1585,6 @@ Update Time, five active automations, webhooks.
   * [Avo](https://avo.app/) - Simplified analytics release workflow. Single-source-of-truth tracking plan, type-safe analytics tracking library, in-app debuggers, and data observability to catch all data issues before you release. Free for two workspace members and 1 hour data observability lookback.
   * [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
   * [Cabin](https://withcabin.com) - Privacy-first, cookie-free web analytics with per-page carbon estimates and an MCP server for AI assistants. Free plan: 1 site, 10k pageviews/month.
-  * [FiveTran](https://www.getcensus.com/) - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
   * [Clicky](https://clicky.com) - Website Analytics Platform. Free Plan for one website with 3000 views analytics.
   * [counter.dev](https://counter.dev) - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.
   * [Datasense](https://usedatasense.com/) - Web analytics with JavaScript error tracking, goals, and revenue attribution. Free plan: 1 site, 5,000 events per month.
@@ -1593,6 +1592,7 @@ Update Time, five active automations, webhooks.
   * [DocBeacon](https://docbeacon.io) - Secure document sharing with document tracking and engagement Analytics. Free plan supports up to 20 PDF documents (10 MB max), 10 contacts, and 2 shares per document with basic analytics for views downloads, time and engagement.
   * [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
   * [Expensify](https://www.expensify.com/) - Expense reporting, free personal reporting approval workflow
+  * [Fivetran](https://www.fivetran.com/) - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
   * [getinsights.io](https://getinsights.io) - Privacy-focused, cookie-free analytics, free for up to 3k events/month.
   * [Gizmo Analytics](https://gizmoanalytics.io/) - Simple analytics for people managing lots of sites. Install manually or let Claude/Cursor do it for you. Free for up to 10k events/month.
   * [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open-source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy-to-use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. The free tier is for non-commercial use and includes unlimited sites, six months of data retention, and 100k pageviews/month.
@@ -1600,7 +1600,8 @@ Update Time, five active automations, webhooks.
   * [heap.io](https://heap.io) - Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.
   * [Hightouch](https://hightouch.com/) - Hightouch is a Reverse ETL platform that helps you sync customer data from your data warehouse to your CRM, marketing, and support tools. The free tier offers you one destination to sync data to.
   * [HitKeep](https://hitkeep.com/) - Privacy-focused, open-source web and product analytics platform with a free cloud plan for 3 websites, 3 team members, 60-day data retention, AI analytics, goals, funnels, events, and hits.
-  * [Hotjar](https://hotjar.com) - Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
+  * [Hotjar](https://contentsquare.com/hotjar/) - Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.
+  * [Lyssna](https://www.lyssna.com/) - Test designs and mockups on real people and track visitors. The free plan includes unlimited quick studies, three seats and 15 self-recruited test or survey responses.
   * [Mixpanel](https://mixpanel.com/) - 100,000 monthly tracked users, unlimited data history and seats, US or EU data residency
   * [Moesif](https://www.moesif.com) - API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
   * [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlimited in-App Surveys with 250/month responses.
@@ -1618,7 +1619,6 @@ Update Time, five active automations, webhooks.
   * [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
   * [TrackWith Dicloud](https://dicloud.net/trackwith-privacy-focused-analytics/) - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.
   * [Umami](https://umami.is/) - Simple, fast, privacy-focused, open-source alternative to Google Analytics.
-  * [usabilityhub.com](https://usabilityhub.com/) - Test designs and mockups on real people and track visitors. Free for one user, unlimited tests
 
 **[⬆️ Back to Top](#table-of-contents)**
 
