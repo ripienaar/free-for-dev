@@ -679,7 +679,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Phase Two](https://phasetwo.io) - Keycloak Open Source Identity and Access Management. Free realm up to 1000 users, up to 10 SSO connections, leveraging Phase Two's Keycloak enhanced container which includes the [Organization](https://phasetwo.io/product/organizations/) extension.
   * [PropelAuth](https://propelauth.com) - A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
   * [Scalekit](https://scalekit.com) - Enterprise SSO (SAML, OIDC), SCIM provisioning, and social logins for B2B SaaS. Free tier includes 1 million MAU, 100 organizations, 1 SSO connection, and 1 SCIM connection.
-  * [Hexclave](https://stack-auth.com) - Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
+  * [Hexclave](https://www.hexclave.com/) - Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
   * [Stytch](https://www.stytch.com/) - An all-in-one platform that provides APIs and SDKs for authentication and fraud prevention. The free plan includes 10,000 monthly active users, unlimited organizations, 5 SSO or SCIM connections, and 1,000 M2M tokens.
   * [SuperTokens](https://supertokens.com/) - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.
   * [Unkey](https://www.unkey.com/) - Open-source API key management and rate-limiting platform. Free for up to 100,000 requests per month and 100 active API keys, with full access to key creation, revocation, and rate-limiting capabilities.
@@ -967,7 +967,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
   * [Parsio.io](https://parsio.io) - Free email parser (Forward email, extract the data, send it to your server)
   * [Pharos](https://pharos.email) - Transactional email API and SMTP relay service for developers. 3,000 emails a month free.
-  * [Plunk](https://useplunk.com) - 3K emails/month for free
+  * [Plunk](https://useplunk.com) - 1,000 emails/month for free, unlimited contacts, no credit card required
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
   * [Reloop](https://reloop.sh) - Transactional email API and SMTP for developers. Free plan: 3,000 emails/month, 200 emails/day, one custom domain and one agent inbox.
@@ -1163,12 +1163,12 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [convex.dev](https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and WebSockets to stream updates to various clients. Free for small projects - up to 1M records, 5M monthly function calls.
   * [Flutter Flow](https://flutterflow.io) - Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. The free plan includes full access to UI Builder and Free templates.
   * [getstream.io](https://getstream.io/) - Build scalable In-App Chat, Messaging, Video and audio, and Feeds in a few hours instead of weeks
-  * [IFTTT](https://ifttt.com) - Automate your favorite apps and devices. Free 2 Applets
+  * [IFTTT](https://ifttt.ai) - Automate your favorite apps and devices. Free 2 Applets
   * [Integrately](https://integrately.com) - Automate tedious tasks with a single click. Free 100 Tasks, 15 Minute
   * [LeanCloud](https://leancloud.app/) - Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, and 10K pushes/day are free. (API is very similar to Parse Platform)
   * [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. The free plan includes PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
   * [onesignal.com](https://onesignal.com/) - Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.
-  * [paraio.com](https://paraio.com) - Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
+  * [paraio.com](https://paraio.org/cloud-hosting/) - Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
   * [pubnub.com](https://www.pubnub.com/) - Free push notifications for up to 1 million messages/month and 100 active daily devices
   * [pusher.com](https://pusher.com/beams) - Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
   * [simperium.com](https://simperium.com/) - Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
@@ -1212,10 +1212,10 @@ Update Time, five active automations, webhooks.
   * [Neocities](https://neocities.org) - Static, 1 GB free storage with 200 GB Bandwidth.
   * [Netlify](https://www.netlify.com/) - Builds, deploys and hosts static site/app free for 300 credits/month (equals 30 GB bandwidth).
   * [Pagehaus](https://pagehaus.app) - Hosting for plain HTML sites, uploaded over SFTP or in the browser. Free plan: 1 site, 250 MB storage, 20 GB transfer/month, HTTPS on a pagehaus.site subdomain, contact forms, Server Side Includes and cookie-free analytics. No expiry, no card.
-  * [PandaStack](https://www.pandastack.io/) - An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
+  * [PandaStack](https://www.pandastack.ai/) - An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
   * [pantheon.io](https://pantheon.io/) - Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies. No custom domain.
   * [Qoddi](https://qoddi.com) - PaaS service similar to Heroku with a developer-centric approach and all-inclusive features. Free tier for static assets, staging, and developer apps.
-  * [readthedocs.com](https://readthedocs.com/) - Free documentation hosting with versioning, PDF generation, and more
+  * [readthedocs.com](https://about.readthedocs.com/) - Free documentation hosting with versioning, PDF generation, and more
   * [Reliant](https://reliantlabs.io) - Host, monitor, and deploy your services with production best practices. Tracing, continuous profiling, metrics, and logs fully baked in and correlated with each release allow you to identify and auto rollback on demand. One free static site per organization, 1 GiB of storage, 10 GiB of traffic a month, CDN with HTTPS, custom domains, no card needed, deployed with the open-source forge CLI.
   * [render.com](https://render.com) - Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
   * [Revdoku](https://revdoku.com/) — Publish files, reports, custom microsites right from ChatGPT, Claude, Codex and other AI agents as public or password-protected websites. Free tier: 2GB storage, 2 live sites/apps, 1 database (25 MB), 3 AI connections, 1k files/bucket (100 MB/file), basic analytics.
@@ -1234,7 +1234,7 @@ Update Time, five active automations, webhooks.
   * [1.1.1.1](https://developers.cloudflare.com/1.1.1.1/) - Free public DNS Resolver, which is fast and secure (encrypt your DNS query), provided by Cloudflare. Useful to bypass your internet provider's DNS blocking, prevent DNS query spying, and [to block adult & malware content](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families). It can also be used [via API](https://developers.cloudflare.com/1.1.1.1/encrypted-dns/dns-over-https/make-api-requests). Note: Just a DNS resolver, not a DNS hoster.
   * [1984.is](https://www.1984.is/product/freedns/) - Free DNS service with API and lots of other free DNS features included.
   * [cloudns.net](https://www.cloudns.net/) - Free DNS hosting up to 1 domain with 50 records
-  * [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).
+  * [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.systemsecurity.com/).
   * [dns.he.net](https://dns.he.net/) - Free DNS hosting service with Dynamic DNS Support
   * [dnspod.com](https://www.dnspod.com/) - Free DNS hosting.
   * [DNSvivo](https://dnsvivo.com/) - Free managed DNS with automatic failover, weighted load balancing, and Dynamic DNS (DDNS). Includes 2 domains, 5 IP addresses monitored from 5 locations, and 3 DDNS records.
@@ -1285,7 +1285,7 @@ Update Time, five active automations, webhooks.
   * [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) - Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://www.cockroachlabs.com/docs/cockroachcloud/metrics-request-units.html))
   * [codehooks.io](https://codehooks.io/) - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.
   * [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster with 1 node and 8GB storage, built for developers to create the next generation of applications across IoT to AI
-  * [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
+  * [CrateDB](https://cratedb.com/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://cratedb.com/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
   * [filess.io](https://filess.io) - filess.io is a platform where you can create two databases with up to 10 MB per database of the following DBMS for free: MySQL, MariaDB, MongoDB, and PostgreSQL.
   * [InfluxDB](https://www.influxdata.com/) - Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
   * [Layerbase](https://layerbase.com/) - 2 free managed databases, pick from: Postgres, MariaDB, Redis, Valkey, DuckDB, SQLite, libSQL, and TypeDB. All with TLS. Branch 7 of 8 free engines, 1 branch per database - 10 GB/day, 50 GB/week, 150 GB/month throughput limits on free. 10 additional engines available on higher tiers with no meters.
@@ -1338,7 +1338,7 @@ Update Time, five active automations, webhooks.
   * [AgileHero](https://agilehero.io/) - All-in-one project management tool. Free plan includes kanban board, backlog, epics, estimation poker, MCP server, REST API and webhooks for 2 users.
   * [Archboard](https://getarchboard.app/) - Architecture diagrams your team and AI agents edit live. Free plan: 1 seat, 3 diagrams, all built-in node packs and live editing with your AI agents (MCP).
   * [asana.com](https://asana.com/) - Free for private project with collaborators
-  * [Backlog](https://backlog.com) - Everything your team needs to release great projects in one platform. The free plan offers 1 Project with ten users & 100MB of storage.
+  * [Backlog](https://nulab.com/backlog/) - Everything your team needs to release great projects in one platform. The free plan offers 1 Project with ten users & 100MB of storage.
   * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
   * [bitrix24.com](https://www.bitrix24.com/) - Intranet and project management tool. The free plan has 5GB for unlimited users.
   * [cacoo.com](https://cacoo.com/) - Online real-time diagrams: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
@@ -1408,7 +1408,7 @@ Update Time, five active automations, webhooks.
   * [dlvr.sh](https://dlvr.sh/) - Temporary file delivery for agents and automation. Free tier includes 10 deliveries every 24 hours with API, MCP, and CLI access.
   * [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
   * [embed.ly](https://embed.ly/) - Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
-  * [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
+  * [Ente](https://ente.com/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
   * [FileShot.io](https://fileshot.io) - Zero-knowledge encrypted file sharing. AES-256-GCM browser-side encryption ensures files are encrypted in-browser before upload. No account required for sender or recipient. Self-hostable (MIT open-source). Free tier includes unlimited uploads with no file size restrictions.
   * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
   * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video, and more.
@@ -1436,7 +1436,7 @@ Update Time, five active automations, webhooks.
   * [packagecloud.io](https://packagecloud.io/) - Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
   * [pcloud.com](https://www.pcloud.com/) - Cloud storage service. Up to 10 GB of free storage
   * [Pinata IPFS](https://pinata.cloud) - Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface and IPFS API make Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free, along with access to API.
-  * [plot.ly](https://plot.ly/) - Graph and share your data. The free tier includes unlimited public files and ten private files
+  * [plot.ly](https://plotly.com/) - Graph and share your data. The free tier includes unlimited public files and ten private files
   * [podio.com](https://podio.com/) - You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
   * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
   * [QRtracer](https://qrtracer.io) - Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.
@@ -1496,14 +1496,14 @@ Update Time, five active automations, webhooks.
 ## Data Visualization on Maps
 
   * [Clockwork Micro](https://clockworkmicro.com/) - Map tools that work like clockwork. Fifty thousand free monthly queries (map tiles, db2vector, elevation).
-  * [Foursquare](https://developer.foursquare.com/) - Location discovery, venue search, and context-aware content from Places API and Pilgrim SDK.
+  * [Foursquare](https://foursquare.com/developer/) - Location discovery, venue search, and context-aware content from Places API and Pilgrim SDK.
   * [geoapify.com](https://www.geoapify.com/) - Vector and raster map tiles, geocoding, places, routing, isolines APIs. Three thousand free requests/day.
   * [geocod.io](https://www.geocod.io/) - Geocoding via API or CSV Upload. Two thousand five hundred free queries/day.
   * [geocodify.com](https://geocodify.com/) - Geocoding and Geoparsing via API or CSV Upload. 10k free queries/month.
   * [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
   * [Geokeo api](https://geokeo.com) - Geocoding API with language correction and more. Worldwide coverage. 2,500 free daily queries
   * [graphhopper.com](https://www.graphhopper.com/) - A free developer package is offered for Routing, Route Optimization, Distance Matrix, Geocoding, and Map Matching.
-  * [here](https://developer.here.com/) - APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
+  * [here](https://www.here.com/developer) - APIs and SDKs for maps and location-aware apps. 250k transactions/month for free.
   * [IP Geolocation](https://ipgeolocation.io/) - Free DEVELOPER plan available with 30K requests/month.
   * [ipstack](https://ipstack.com/) - Locate and identify Website Visitors by IP Address
   * [LatLng](https://www.latlng.work) - Geocoding, reverse geocoding, places, static maps, and vector map tiles APIs. Free tier includes 3,000 geocoding requests/day, 300 reverse geocoding requests/day, and 100 static map images/day.
@@ -1526,7 +1526,7 @@ Update Time, five active automations, webhooks.
 
   * [build.opensuse.org](https://build.opensuse.org/) - Package build service for multiple distros (SUSE, EL, Fedora, Debian, etc.).
   * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) - Mock-based RPM build service for Fedora and EL.
-  * [help.launchpad.net](https://help.launchpad.net/Packaging) - Ubuntu and Debian build service.
+  * [help.launchpad.net](https://ubuntu.com/docs/launchpad/user/Packaging/) - Ubuntu and Debian build service.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1555,7 +1555,7 @@ Update Time, five active automations, webhooks.
   * [Lazarus](https://www.lazarus-ide.org/) - Lazarus is a Delphi-compatible cross-platform IDE for Rapid Application Development.
   * [LiveCodes](https://livecodes.io) - An open-source client-side code playground that supports 90+ languages/frameworks. Projects can be saved, exported, shared, synced, deployed (to GitHub Pages) and embedded in web pages. Mobile-friendly. Can be self-hosted. Free for unlimited usage. No account required.
   * [MarsCode](https://www.marscode.com/) - A free AI-powered cloud-based IDE.
-  * [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
+  * [micro-jaymock](https://micro-jaymock.vercel.app/) - Tiny API mocking microservice for generating fake JSON data.
   * [mockaroo](https://mockaroo.com/) - Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
   * [Mocklets](https://mocklets.com) - an HTTP-based mock API simulator that helps simulate APIs for faster parallel development and more comprehensive testing, with a lifetime free tier.
   * [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
@@ -1566,7 +1566,7 @@ Update Time, five active automations, webhooks.
   * [PHPSandbox](https://phpsandbox.io/) - Online development environment for PHP
   * [Replit](https://replit.com/) - A cloud coding environment for various program languages.
   * [RunMat](https://runmat.com/sandbox) - GPU-accelerated numerical computing IDE in the browser. Write and run MATLAB-syntax .m files with automatic GPU acceleration via WebAssembly and WebGPU. No install, no account, no license fees. Open source runtime with CLI, NPM package, and Jupyter kernel support.
-  * [SoloLearn](https://code.sololearn.com) - A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration is required for running code, but it is necessary when saving code on their platform. Also offers free courses for beginners and intermediate-level coders.
+  * [SoloLearn](https://www.sololearn.com/en/compiler-playground/) - A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration is required for running code, but it is necessary when saving code on their platform. Also offers free courses for beginners and intermediate-level coders.
   * [stackblitz.com](https://stackblitz.com/) - Online/Cloud Code IDE to create, edit, & deploy full-stack apps. Support any popular NodeJs-based frontend & backend frameworks. Shortlink to create a new project: [https://node.new](https://node.new).
   * [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.
   * [Visual Studio Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft.
@@ -1608,8 +1608,8 @@ Update Time, five active automations, webhooks.
   * [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
   * [Row Zero](https://rowzero.com) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. Three free (forever) workbooks.
   * [RudderStack](https://rudderstack.com/) - Event streaming to 200+ destinations and data warehouse, plus reverse ETL. Comes with MCP server and CLI for AI agents. Free forever for 250k events/month.
-  * [Rybbit](https://rybbit.io) - Open-source and cookieless alternative to Google Analytics that is 10x more intuitive. Free plans has 3,000 monthly events.
-  * [Seline](https://seline.so) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
+  * [Rybbit](https://rybbit.com) - Open-source and cookieless alternative to Google Analytics that is 10x more intuitive. Free plans has 3,000 monthly events.
+  * [Seline](https://seline.com) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
   * [Spreelytics](https://spreelytics.com) - Privacy first website and product analytics SaaS that can trace your revenue sources. Free plan: 1 million events per month, unlimited projects and team members with most of the needed features like dashboard, goal, funnel, ai crawler, revenue, and much more.
   * [StatCounter](https://statcounter.com/) - Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.
   * [Stats4U](https://www.stats4u.net/) - A visitor counter and web stats service operated from Poland, since 2006. Website owners choose a counter design copy the code and paste it into their site; no account is required. Free without paid plans. Privacy First: Stats4U does not set cookies and Counter data is processed on the operator's own server in the EU.
