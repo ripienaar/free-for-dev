@@ -494,7 +494,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [DhiWise](https://www.dhiwise.com/) - Converts Figma designs into dynamic Flutter and React applications. Its code generation technology is designed to optimize workflows for building production-ready mobile and web experiences.
 * [Metalama](https://www.postsharp.net/metalama) - A C#-specific tool that generates boilerplate code on the fly during compilation to keep source code clean. It is free for open-source projects; its commercial-friendly free tier includes up to three aspects.
 * [Supermaven](https://www.supermaven.com/) - A high-speed AI code completion plugin for VS Code, JetBrains, and Neovim. The free tier provides unlimited inline completions with a focus on ultra-low latency.
-* [v0.dev](https://v0.dev/) - Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. It uses a credit system, providing 1,200 starting credits and 200 free credits monthly.
+* [v0](https://v0.app/) - Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. The free plan includes 7 messages per day, Design Mode and GitHub sync.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -638,7 +638,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [pkgscan.dev](https://pkgscan.dev) - Multi-engine supply chain scanner for npm, PyPI, VS Code extensions, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills. Checks for malware and known vulnerabilities, including hash lookups that need no upload. Free tier: 5 scans per month with full findings.
   * [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
   * [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks). Full list is available via API
-  * [pyup.io](https://pyup.io) - Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
+  * [Safety](https://www.getsafety.com/) - Software supply chain security for Python, JavaScript and Docker dependencies. The free plan covers one codebase and 100 scans per month for a single user, for non-commercial use.
   * [qualys.com](https://www.qualys.com/community-edition) - Find web app vulnerabilities, audit for OWASP Risks
   * [SikkerKey](https://sikkerkey.com) - Machine authenticated secrets manager, includes 2 projects, 2 bootstrapped machines, 20 secrets and 7 days audit log retention for free.
   * [Smart Grow Vault](https://vault.smart-grow.app/) - Secure Enterprise-grade platform for managing environment variables and secrets. Free tier includes up to 3 applications and 150 secrets per project.
@@ -746,7 +746,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [bugfender.com](https://bugfender.com/) - Free up to 100k log lines/day with 24 hours retention
   * [log.dog](https://log.dog/) - LogDog is a remote debugging/logging SDK (iOS and Android) with a web ui. Captures all logs, requests and events in real-time and allows to intercept them. Free for up to 100MB of logs every month
   * [logflare.app](https://logflare.app/) - Free for up to 12,960,000 entries per app per month, 3 days retention
-  * [logtail.com](https://logtail.com/) - ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.
+  * [Better Stack Logs](https://betterstack.com/log-management) - ClickHouse-based SQL-compatible log management. The free plan includes 3 GB of logs retained for three days.
   * [logzab.com](https://logzab.com/) - Audit trail management system. Free 1,000 user activity logs per month, 1-month retention, for up to 5 projects.
   * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) - Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
   * [openobserve.ai](https://openobserve.ai/) - 200 GB Ingestion/month free, 15 Days Retention
