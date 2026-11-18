@@ -652,7 +652,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Virgil Security](https://virgilsecurity.com/) - Tools and services for implementing end-to-end encryption, database protection, IoT security, and more in your digital solution. Free for applications with up to 250 users.
   * [semgrep](https://semgrep.dev) - Scan code for security issues and vulnerable dependencies with SAST and SCA. Free tier includes up to 10 contributors and 10 private repos (unlimited public repos).
   * [SnapEnv](https://snapenv.io/) - Secure environment variable manager for dev teams. AES-256-GCM encryption at rest, CLI, Kubernetes operator, and audit log. Free plan includes 3 projects, 3 members, and 3 environments per project, forever.
-* [SSL Free Site](https://sslfree.site/) - Completely free Let's Encrypt ACME v2 SSL/TLS certificate generator (supports Wildcard `*.domain` via DNS-01/HTTP-01), online CSR/Private Key generator, X.509 decoder, and live SSL checker with no paid tiers.
+* [SSL Free Site](https://sslfree.site/) - Free Let's Encrypt ACME v2 SSL/TLS certificate issuance service supporting Wildcard (`*.domain`) via DNS-01 and HTTP-01 verification, with unlimited free certificates.
   
 **[⬆️ Back to Top](#table-of-contents)**
 
