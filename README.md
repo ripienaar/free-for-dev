@@ -1102,7 +1102,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## CDN and Protection
-
+  * [Photo2URL](https://photo2url.com) — Free tier includes 15 uploads/day up to 3 MB, 180-day retention, direct CDN URLs, and Markdown/HTML snippets with no signup required.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) - CDN for bootstrap, bootswatch and fontawesome.io
   * [CacheFly](https://portal.cachefly.com/signup/free2023) - Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.
   * [cdnjs.com](https://cdnjs.com/) - Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 11% of all websites, powered by Cloudflare.
