@@ -1459,6 +1459,7 @@ Update Time, five active automations, webhooks.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Design and UI
+* [PDFCraft Studio](https://pdf-craft-vert.vercel.app/) — 100% client-side PDF utility suite (exact target compression under 100KB/200KB, e-signing, universal conversion, ATS resume builder) with zero cloud uploads.
 
   * [Beste](https://beste.co) - A composition-first website builder based on shadcn/ui blocks. The free plan lets you connect your own custom domain, and includes unlimited pages, multi-language support, blog, forms, and hosting.
   * [BoxySVG](https://boxy-svg.com) - A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
