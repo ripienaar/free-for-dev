@@ -25,11 +25,11 @@
  ### Services we do not accept
 
    * cPanel like PHP + MySQL hosting services.
-   * Free dns services that are generic frontends to CloudFlare or similar
+   * Free dns services
    * Services that are verbatim copy pastes of others while adding no value
    * Fake / Temporary / Ephemeral email generators, we have enough of those
-   * Generic developer "toolbox" sites - format converters, calculators etc,
-     we have too many already and more will not add value
+   * Generic "toolbox" sites - format converters, calculators etc, email
+     setup testers, in-browser converters, anything like that.
 -->
 
 ## Requirements
@@ -43,7 +43,7 @@
  * [ ] The submission mentions what is free
  * [ ] The submission is not already present in the list
  * [ ] The service has contact details of those running it and a privacy policy
- * [ ] This is not a generic browser based developer toolbox, I agree to be banned from this list if it is
+ * [ ] This is not a free tool that runs in a browser or performs a single function
 
 <!--
  Contributing here is very easy, but does require attention to details.
