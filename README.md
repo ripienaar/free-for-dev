@@ -249,7 +249,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and three templates.
   * [Cube](https://cube.dev/) - Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free tier limited to 1,000 queries per day.
   * [CurlHub](https://curlhub.io) - Proxy service for inspecting and debugging API calls. The free plan includes 10,000 requests per month.
-  * [CurrencyBeacon](https://currencyscoop.com) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
+  * [CurrencyBeacon](https://currencybeacon.com/) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
   * [CustomJS](https://www.customjs.space) - HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.
   * [Data Fetcher](https://datafetcher.com) - Connect Airtable to any application or API with no code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.
   * [Dataimporter.io](https://www.dataimporter.io) - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.
@@ -510,7 +510,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CodSpeed](https://codspeed.io) - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.
   * [coveralls.io](https://coveralls.io/) - Display test coverage reports, free for Open Source
   * [deepscan.io](https://deepscan.io) - Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source
-  * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
+  * [DeepSource](https://deepsource.com/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
   * [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
   * [eversql.com](https://www.eversql.com/) - EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries automatically.
   * [gerrithub.io](https://review.gerrithub.io/) - Gerrit code review for GitHub repositories for free
@@ -1290,7 +1290,7 @@ Update Time, five active automations, webhooks.
   * [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) - Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://docs.cockroachlabs.com/docs/cockroachcloud/metrics-request-units))
   * [codehooks.io](https://codehooks.io/) - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.
   * [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster with 1 node and 8GB storage, built for developers to create the next generation of applications across IoT to AI
-  * [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
+  * [CrateDB](https://cratedb.com/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
   * [filess.io](https://filess.io) - filess.io is a platform where you can create two databases with up to 10 MB per database of the following DBMS for free: MySQL, MariaDB, MongoDB, and PostgreSQL.
   * [InfluxDB](https://www.influxdata.com/) - Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
   * [Layerbase](https://layerbase.com/) - 2 free managed databases, pick from: Postgres, MariaDB, Redis, Valkey, DuckDB, SQLite, libSQL, and TypeDB. All with TLS. Branch 7 of 8 free engines, 1 branch per database - 10 GB/day, 50 GB/week, 150 GB/month throughput limits on free. 10 additional engines available on higher tiers with no meters.
