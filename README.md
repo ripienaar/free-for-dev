@@ -402,7 +402,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [element.io](https://element.io/) - A decentralized and open-source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
   * [Enchant](https://www.enchant.com) - Omnichannel customer communication platform. Free tier includes chat widgets, email newsletters, link-in-bio hub & more.
   * [evernote.com](https://evernote.com/) - Tool for organizing information. Share your notes and work together with others
-  * [Fibery](https://fibery.io/) - Connected workspace platform. Free for single users, up to 2 GB disk space.
+  * [Fibery](https://fibery.com/) - Connected workspace platform. Free for single users, up to 2 GB disk space.
   * [Fibo](https://fibo.dev) - A free online realtime scrum poker tool for agile teams that lets unlimited members estimate story points for faster planning.
   * [Fizzy](https://www.fizzy.do/) - Kanban-based platform for project management and issue tracking. Create public boards, set up webhooks, use card stamping, and track unlimited users - free for up to 1000 items.
   * [flat.social](https://flat.social) - Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.
@@ -1057,7 +1057,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [HeroTofu.com](https://herotofu.com/) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own front end. No server code is required. The free plan gives unlimited forms and 100 submissions per month.
   * [HeyForm.net](https://heyform.net/) - Drag and drop online form builder. The free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.
   * [Jotform.com](https://jotform.com/) - Create online forms for free, collect submissions, accept payments, automate workflows, and get documents signed with built-in e-signatures. Free plan includes 5 forms, 100 monthly submissions, 10 e-sign documents, 10 payment submissions, and more.
-  * [Kwes.io](https://kwes.io/) - Feature rich form endpoint. Works great with static sites. The free plan includes up to 1 website with up to 50 monthly submissions.
+  * [Kwes.io](https://kwesforms.com/) - Feature rich form endpoint. Works great with static sites. The free plan includes up to 1 website with up to 50 monthly submissions.
   * [Lucid Forms](https://lucidforms.co/) - Form endpoint for websites. Add working contact forms to any HTML, JS framework, or no-code site without building a backend. Free plan includes 250 submissions/month, email notifications, smart spam filtering, and Google Sheets integration.
   * [Makeform](https://www.makeform.ai/) - Chat-based form builder. The free form builder with unlimited forms and submissions. 99% of the features are free, includes adding logos, conditional logic, file uploads, payments, integrations, and webhooks. Pro Plan ($19/month) enables remove the Makeform Branding, custom domains and team features. Business plan ($59/month) enables RBAC, email verification and single sign on (SSO).
   * [Nisuform](https://nisuform.com) - Simple, Easy and Secure form backend for any websites with beautiful form template and intuitive form builder. AI ready with MCP. Free plan includes 100 free submissions, spam protection and turnstile.
@@ -1168,7 +1168,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [convex.dev](https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and WebSockets to stream updates to various clients. Free for small projects - up to 1M records, 5M monthly function calls.
   * [Flutter Flow](https://flutterflow.io) - Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. The free plan includes full access to UI Builder and Free templates.
   * [getstream.io](https://getstream.io/) - Build scalable In-App Chat, Messaging, Video and audio, and Feeds in a few hours instead of weeks
-  * [IFTTT](https://ifttt.com) - Automate your favorite apps and devices. Free 2 Applets
+  * [IFTTT](https://ifttt.ai/) - Automate your favorite apps and devices. Free 2 Applets
   * [Integrately](https://integrately.com) - Automate tedious tasks with a single click. Free 100 Tasks, 15 Minute
   * [LeanCloud](https://leancloud.app/) - Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, and 10K pushes/day are free. (API is very similar to Parse Platform)
   * [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. The free plan includes PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
