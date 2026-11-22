@@ -76,17 +76,17 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Major Cloud Providers
 
   * [Google Cloud Platform](https://cloud.google.com)
-    * App Engine - 28 frontend instance hours per day, nine backend instance hours per day
-    * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
-    * Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
-    * Cloud Storage - 5GB, 1GB network egress
-    * Cloud Shell - Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week
-    * Cloud Pub/Sub - 10GB of messages per month
-    * Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
-    * Cloud Run - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
-    * Google Kubernetes Engine - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
-    * BigQuery - 1 TB of querying per month, 10 GB of storage each month
-    * Cloud Build - 120 build-minutes per day
+    * [App Engine](https://cloud.google.com/appengine) - 28 frontend instance hours per day, nine backend instance hours per day
+    * [Cloud Firestore](https://cloud.google.com/firestore) - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
+    * [Compute Engine](https://cloud.google.com/compute) - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
+    * [Cloud Storage](https://cloud.google.com/storage) - 5GB, 1GB network egress
+    * [Cloud Shell](https://cloud.google.com/shell) - Web-based Linux shell/primary IDE with 5GB of persistent storage. 60-hour limit per week
+    * [Cloud Pub/Sub](https://cloud.google.com/pubsub) - 10GB of messages per month
+    * [Cloud Functions](https://cloud.google.com/functions) - 2 million invocations per month (includes both background and HTTP invocations)
+    * [Cloud Run](https://cloud.google.com/run) - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
+    * [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
+    * [BigQuery](https://cloud.google.com/bigquery) - 1 TB of querying per month, 10 GB of storage each month
+    * [Cloud Build](https://cloud.google.com/build) - 120 build-minutes per day
     * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     * [Kaggle](https://www.kaggle.com/) - Jupyter Notebooks with 4 CPU cores and 30 GB RAM computational environment without any weekly usage limits. With Phone number verification, 1 Nvidia Tesla P100 GPU or 2x Nvidia Tesla T4 GPU can be added with a usage limit of 30 GPU hours/week for free. With Identity verification - 1 TPU v3-8 with 96 CPU cores and 330 GB RAM is available with a usage limit of 20 hours/week for free. Check [Technical Specifications](https://www.kaggle.com/docs/notebooks#technical-specifications) for more details.
     * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Free remote desktop app with practically no limit on the number of devices, owned by Google, so needs a Google account.
