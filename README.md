@@ -1011,7 +1011,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
   * [Rollgate](https://rollgate.io) - EU-hosted feature flag management with scheduled releases, instant rollback, and A/B testing. 12 SDKs included. Free plan up to 500K API requests/month, unlimited flags, 3 team members, no credit card required.
   * [Statsig](https://www.statsig.com) - A robust platform for feature management, A/B testing, analytics, and more. Its generous free plan offers unlimited seats, flags, experiments, and dynamic configurations, supporting up to 1 million events per month.
-  * [Toggled.dev](https://www.toggled.dev) - Enterprise-ready, scalable multi-regional feature toggles management platform. Free plan up to 10 flags, two environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications, and all other features are included in the endless free plan.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
