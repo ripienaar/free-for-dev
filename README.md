@@ -506,6 +506,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev) - Automated Infrastructure as Code review tool for DevOps integrates with GitHub, Bitbucket, and GitLab (even self-hosted). In addition to standard languages, it also analyzes Ansible, Terraform, CloudFormation, Kubernetes, and more. (open-source free)
   * [codecov.io](https://codecov.io/) - Code coverage tool (SaaS), free for Open Source and one free private repo
   * [CodeFactor](https://www.codefactor.io) - Automated Code Review for Git. The free version includes unlimited users, public repositories, and one private repo.
+  * [CodePeel](https://www.codepeel.com) - Automated code reviews for GitHub pull requests that catch bugs and open fix PRs. Free forever for unlimited public and private repositories (30 reviews/month).
   * [coderabbit.ai](https://coderabbit.ai) - AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.
   * [CodSpeed](https://codspeed.io) - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.
   * [coveralls.io](https://coveralls.io/) - Display test coverage reports, free for Open Source
