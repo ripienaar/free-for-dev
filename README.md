@@ -904,6 +904,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)
   * [Reactive Resume](https://rxresu.me) - Free, open-source resume builder with dozens of templates. Exports to PDF, DOCX and also provides a publicly shareable link to the resume (opt-in).
   * [Roadmap.sh](https://roadmap.sh) - Free learning roadmaps covering all aspects of development from Blockchain to UX Design.
+  * [SharpSkill](https://sharpskill.dev/) - Free tier of a technical interview preparation platform including cheatsheets, flashcards, tests and code review exercises in 20 technologies, plus public job market data by technology and country.
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
   * [W3Schools](https://www.w3schools.com/) - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.
   * [WebTerm Learn](https://learn.webterm.app) - Learn the Linux terminal, Git and Vim in a simulated terminal in the browser. All 129 lessons are free; the first lesson of each course needs no account.
