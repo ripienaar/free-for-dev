@@ -1422,6 +1422,7 @@ Update Time, five active automations, webhooks.
   * [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
   * [FileShot.io](https://fileshot.io) - Zero-knowledge encrypted file sharing. AES-256-GCM browser-side encryption ensures files are encrypted in-browser before upload. No account required for sender or recipient. Self-hostable (MIT open-source). Free tier includes unlimited uploads with no file size restrictions.
   * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
+  * [OmniBoxx](https://omniboxx.in) — 40+ free in-browser privacy-first utilities including Cam Scanner, GST Calculator, SIP Forecaster, and PDF tools.
   * [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video, and more.
   * [getpantry.cloud](https://getpantry.cloud/) - A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
