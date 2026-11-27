@@ -28,8 +28,7 @@
    * Free dns services
    * Services that are verbatim copy pastes of others while adding no value
    * Fake / Temporary / Ephemeral email generators, we have enough of those
-   * Generic "toolbox" sites - format converters, calculators etc, email
-     setup testers, in-browser converters, anything like that.
+   * Sites that are purely client-side or purely in-brower
 -->
 
 ## Requirements
@@ -43,7 +42,7 @@
  * [ ] The submission mentions what is free
  * [ ] The submission is not already present in the list
  * [ ] The service has contact details of those running it and a privacy policy
- * [ ] This is not a free tool that runs in a browser or performs a single function
+ * [ ] This is not a browser only or client-side only product
 
 <!--
  Contributing here is very easy, but does require attention to details.
