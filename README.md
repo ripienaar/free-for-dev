@@ -1783,6 +1783,7 @@ Update Time, five active automations, webhooks.
   * [RemSupp](https://remsupp.com) - On-demand support and permanent access to devices (2 sessions/day for free)
   * [RustDesk](https://rustdesk.com/) - Open source virtual/remote desktop infrastructure for everyone!
   * [StarDesk](https://www.stardesk.net) - Free remote desktop for work and gaming with 4K HDR/144fps streaming across Windows, macOS, iOS, and Android.
+  * [DeviceView](https://deviceview.ai) - Unattended remote view and control for Android, iOS, Windows, macOS and Linux (including Wayland) devices over peer-to-peer WebRTC, right from the browser, plus automations for self-healing fleets. Free for up to 5 devices.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
